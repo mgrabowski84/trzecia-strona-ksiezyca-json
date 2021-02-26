@@ -1,163 +1,158 @@
-{
-    "title": "Marzec 2008",
-    "filename": "marzec-2008",
-    "date": "2008-03",
-    "songs": [
-        {
-            "artist": "ronan quays",
-            "title": "into the light"
-        },
-        {
-            "artist": "arcana",
-            "title": "abrakt"
-        },
-        {
-            "artist": "chandeen",
-            "title": "welcome the still (pk)"
-        },
-        {
-            "artist": "chandeen",
-            "title": "from the inside"
-        },
-        {
-            "artist": "claire hamill",
-            "title": "the moon is a powerful lover"
-        },
-        {
-            "artist": "rhett brewer",
-            "title": "hymn to the forsaken"
-        },
-        {
-            "artist": "qntal",
-            "title": "translucida"
-        },
-        {
-            "artist": "the mary onettes",
-            "title": "the laughter"
-        },
-        {
-            "artist": "and also the trees",
-            "title": "under the stars"
-        },
-        {
-            "artist": "eden",
-            "title": "spectral pleasures"
-        },
-        {
-            "artist": "eden",
-            "title": "removed from darkness"
-        },
-        {
-            "artist": "chandeen",
-            "title": "welcome the still (pk)"
-        },
-        {
-            "artist": "arcana",
-            "title": "lost in time"
-        },
-        {
-            "artist": "arcana",
-            "title": "out of the gray ashes"
-        },
-        {
-            "artist": "arcana",
-            "title": "parisal"
-        },
-        {
-            "artist": "rain tree crow",
-            "title": "blackwater"
-        },
-        {
-            "artist": "brendan perry",
-            "title": "voyage of bran"
-        },
-        {
-            "artist": "arcana",
-            "title": "outside your world"
-        },
-        {
-            "artist": "arcana",
-            "title": "lovelorn"
-        },
-        {
-            "artist": "arcana",
-            "title": "innocent child"
-        },
-        {
-            "artist": "chandeen",
-            "title": "red blood, blue soul"
-        },
-        {
-            "artist": "dead can dance",
-            "title": "saffron"
-        },
-        {
-            "artist": "arcana",
-            "title": "amber"
-        },
-        {
-            "artist": "chandeen",
-            "title": "welcome the still (pk)"
-        },
-        {
-            "artist": "leandra",
-            "title": "naked eyes"
-        },
-        {
-            "artist": "god's bow",
-            "title": "follow"
-        },
-        {
-            "artist": "elijah's mantle",
-            "title": "misere de profundis"
-        },
-        {
-            "artist": "ronan quays",
-            "title": "as the spinster spins"
-        },
-        {
-            "artist": "arcanta",
-            "title": "via dolorosa"
-        },
-        {
-            "artist": "omar farouk",
-            "title": "love respect truth"
-        },
-        {
-            "artist": "elijah's mantle",
-            "title": "quem di dilicunt part ii"
-        },
-        {
-            "artist": "wayne hussey",
-            "title": "a night like this"
-        },
-        {
-            "artist": "wayne hussey",
-            "title": "with or without you"
-        },
-        {
-            "artist": "the mission",
-            "title": "can't help falling in love with you"
-        },
-        {
-            "artist": "all my faith lost",
-            "title": "notti bianche"
-        },
-        {
-            "artist": "all my faith lost",
-            "title": "an early fright"
-        },
-        {
-            "artist": "bleeding like mine",
-            "title": "never again will i dream again"
-        },
-        {
-            "artist": "bleeding like mine",
-            "title": "untitled #18"
-        },
-        {
-            "artist": "breathe",
-            "title": "dawn"
-        }
-    ]
-}
+[
+    {
+        "artist": "ronan quays",
+        "title": "into the light"
+    },
+    {
+        "artist": "arcana",
+        "title": "abrakt"
+    },
+    {
+        "artist": "chandeen",
+        "title": "welcome the still (pk)"
+    },
+    {
+        "artist": "chandeen",
+        "title": "from the inside"
+    },
+    {
+        "artist": "claire hamill",
+        "title": "the moon is a powerful lover"
+    },
+    {
+        "artist": "rhett brewer",
+        "title": "hymn to the forsaken"
+    },
+    {
+        "artist": "qntal",
+        "title": "translucida"
+    },
+    {
+        "artist": "the mary onettes",
+        "title": "the laughter"
+    },
+    {
+        "artist": "and also the trees",
+        "title": "under the stars"
+    },
+    {
+        "artist": "eden",
+        "title": "spectral pleasures"
+    },
+    {
+        "artist": "eden",
+        "title": "removed from darkness"
+    },
+    {
+        "artist": "chandeen",
+        "title": "welcome the still (pk)"
+    },
+    {
+        "artist": "arcana",
+        "title": "lost in time"
+    },
+    {
+        "artist": "arcana",
+        "title": "out of the gray ashes"
+    },
+    {
+        "artist": "arcana",
+        "title": "parisal"
+    },
+    {
+        "artist": "rain tree crow",
+        "title": "blackwater"
+    },
+    {
+        "artist": "brendan perry",
+        "title": "voyage of bran"
+    },
+    {
+        "artist": "arcana",
+        "title": "outside your world"
+    },
+    {
+        "artist": "arcana",
+        "title": "lovelorn"
+    },
+    {
+        "artist": "arcana",
+        "title": "innocent child"
+    },
+    {
+        "artist": "chandeen",
+        "title": "red blood, blue soul"
+    },
+    {
+        "artist": "dead can dance",
+        "title": "saffron"
+    },
+    {
+        "artist": "arcana",
+        "title": "amber"
+    },
+    {
+        "artist": "chandeen",
+        "title": "welcome the still (pk)"
+    },
+    {
+        "artist": "leandra",
+        "title": "naked eyes"
+    },
+    {
+        "artist": "god's bow",
+        "title": "follow"
+    },
+    {
+        "artist": "elijah's mantle",
+        "title": "misere de profundis"
+    },
+    {
+        "artist": "ronan quays",
+        "title": "as the spinster spins"
+    },
+    {
+        "artist": "arcanta",
+        "title": "via dolorosa"
+    },
+    {
+        "artist": "omar farouk",
+        "title": "love respect truth"
+    },
+    {
+        "artist": "elijah's mantle",
+        "title": "quem di dilicunt part ii"
+    },
+    {
+        "artist": "wayne hussey",
+        "title": "a night like this"
+    },
+    {
+        "artist": "wayne hussey",
+        "title": "with or without you"
+    },
+    {
+        "artist": "the mission",
+        "title": "can't help falling in love with you"
+    },
+    {
+        "artist": "all my faith lost",
+        "title": "notti bianche"
+    },
+    {
+        "artist": "all my faith lost",
+        "title": "an early fright"
+    },
+    {
+        "artist": "bleeding like mine",
+        "title": "never again will i dream again"
+    },
+    {
+        "artist": "bleeding like mine",
+        "title": "untitled #18"
+    },
+    {
+        "artist": "breathe",
+        "title": "dawn"
+    }
+]

@@ -1,175 +1,170 @@
-{
-    "title": "Marzec 2012",
-    "filename": "marzec-2012",
-    "date": "2012-03",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "dead can dance",
-            "title": "nierika"
-        },
-        {
-            "artist": "falling you",
-            "title": "adore"
-        },
-        {
-            "artist": "monica richards",
-            "title": "the strange familiar [pk]"
-        },
-        {
-            "artist": "monica richards",
-            "title": "endbegin"
-        },
-        {
-            "artist": "the eden house",
-            "title": "timeflows pt.1"
-        },
-        {
-            "artist": "the eden house",
-            "title": "neversea"
-        },
-        {
-            "artist": "the twilight sad",
-            "title": "nil"
-        },
-        {
-            "artist": "the twilight sad",
-            "title": "not sleeping"
-        },
-        {
-            "artist": "sophya",
-            "title": "desire"
-        },
-        {
-            "artist": "sophya",
-            "title": "fifty four"
-        },
-        {
-            "artist": "bel canto",
-            "title": "dewy fields"
-        },
-        {
-            "artist": "qntal",
-            "title": "levis"
-        },
-        {
-            "artist": "switchblade symphony",
-            "title": "dissolve"
-        },
-        {
-            "artist": "the breath of life",
-            "title": "impromptu"
-        },
-        {
-            "artist": "monica richards",
-            "title": "the strange familiar [pk]"
-        },
-        {
-            "artist": "wench",
-            "title": "maori"
-        },
-        {
-            "artist": "wench",
-            "title": "victory"
-        },
-        {
-            "artist": "delerium",
-            "title": "prophecy"
-        },
-        {
-            "artist": "hmb",
-            "title": "revelation"
-        },
-        {
-            "artist": "birthday massacre",
-            "title": "red stars (space lab mix)"
-        },
-        {
-            "artist": "lunascape",
-            "title": "raven star"
-        },
-        {
-            "artist": "claire voyant",
-            "title": "bittersweet"
-        },
-        {
-            "artist": "claire voyant",
-            "title": "blinking tears"
-        },
-        {
-            "artist": "elizabeth fraser, craig armstrong",
-            "title": "this love"
-        },
-        {
-            "artist": "bjork",
-            "title": "venus as a boy"
-        },
-        {
-            "artist": "monica richards",
-            "title": "the strange familiar [pk]"
-        },
-        {
-            "artist": "the breath of life",
-            "title": "naomina"
-        },
-        {
-            "artist": "tearwave",
-            "title": "melinda"
-        },
-        {
-            "artist": "cocteau twins",
-            "title": "lorelei"
-        },
-        {
-            "artist": "lunascape",
-            "title": "lothario"
-        },
-        {
-            "artist": "la vuibre",
-            "title": "tyriel"
-        },
-        {
-            "artist": "the dreamside",
-            "title": "eurylheia"
-        },
-        {
-            "artist": "the dreamside",
-            "title": "wonders"
-        },
-        {
-            "artist": "chandeen",
-            "title": "change"
-        },
-        {
-            "artist": "love spirals downwards",
-            "title": "loves labour lost"
-        },
-        {
-            "artist": "chandeen",
-            "title": "before sunrise"
-        },
-        {
-            "artist": "monica richards",
-            "title": "the strange familiar [pk]"
-        },
-        {
-            "artist": "mila mar",
-            "title": "maid of orleans"
-        },
-        {
-            "artist": "miriam",
-            "title": "nightporter"
-        },
-        {
-            "artist": "trance to the sun",
-            "title": "isolation"
-        },
-        {
-            "artist": "dune",
-            "title": "who wants to live forever"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "dead can dance",
+        "title": "nierika"
+    },
+    {
+        "artist": "falling you",
+        "title": "adore"
+    },
+    {
+        "artist": "monica richards",
+        "title": "the strange familiar [pk]"
+    },
+    {
+        "artist": "monica richards",
+        "title": "endbegin"
+    },
+    {
+        "artist": "the eden house",
+        "title": "timeflows pt.1"
+    },
+    {
+        "artist": "the eden house",
+        "title": "neversea"
+    },
+    {
+        "artist": "the twilight sad",
+        "title": "nil"
+    },
+    {
+        "artist": "the twilight sad",
+        "title": "not sleeping"
+    },
+    {
+        "artist": "sophya",
+        "title": "desire"
+    },
+    {
+        "artist": "sophya",
+        "title": "fifty four"
+    },
+    {
+        "artist": "bel canto",
+        "title": "dewy fields"
+    },
+    {
+        "artist": "qntal",
+        "title": "levis"
+    },
+    {
+        "artist": "switchblade symphony",
+        "title": "dissolve"
+    },
+    {
+        "artist": "the breath of life",
+        "title": "impromptu"
+    },
+    {
+        "artist": "monica richards",
+        "title": "the strange familiar [pk]"
+    },
+    {
+        "artist": "wench",
+        "title": "maori"
+    },
+    {
+        "artist": "wench",
+        "title": "victory"
+    },
+    {
+        "artist": "delerium",
+        "title": "prophecy"
+    },
+    {
+        "artist": "hmb",
+        "title": "revelation"
+    },
+    {
+        "artist": "birthday massacre",
+        "title": "red stars (space lab mix)"
+    },
+    {
+        "artist": "lunascape",
+        "title": "raven star"
+    },
+    {
+        "artist": "claire voyant",
+        "title": "bittersweet"
+    },
+    {
+        "artist": "claire voyant",
+        "title": "blinking tears"
+    },
+    {
+        "artist": "elizabeth fraser, craig armstrong",
+        "title": "this love"
+    },
+    {
+        "artist": "bjork",
+        "title": "venus as a boy"
+    },
+    {
+        "artist": "monica richards",
+        "title": "the strange familiar [pk]"
+    },
+    {
+        "artist": "the breath of life",
+        "title": "naomina"
+    },
+    {
+        "artist": "tearwave",
+        "title": "melinda"
+    },
+    {
+        "artist": "cocteau twins",
+        "title": "lorelei"
+    },
+    {
+        "artist": "lunascape",
+        "title": "lothario"
+    },
+    {
+        "artist": "la vuibre",
+        "title": "tyriel"
+    },
+    {
+        "artist": "the dreamside",
+        "title": "eurylheia"
+    },
+    {
+        "artist": "the dreamside",
+        "title": "wonders"
+    },
+    {
+        "artist": "chandeen",
+        "title": "change"
+    },
+    {
+        "artist": "love spirals downwards",
+        "title": "loves labour lost"
+    },
+    {
+        "artist": "chandeen",
+        "title": "before sunrise"
+    },
+    {
+        "artist": "monica richards",
+        "title": "the strange familiar [pk]"
+    },
+    {
+        "artist": "mila mar",
+        "title": "maid of orleans"
+    },
+    {
+        "artist": "miriam",
+        "title": "nightporter"
+    },
+    {
+        "artist": "trance to the sun",
+        "title": "isolation"
+    },
+    {
+        "artist": "dune",
+        "title": "who wants to live forever"
+    }
+]

@@ -1,183 +1,178 @@
-{
-    "title": "Styczeń 2010",
-    "filename": "styczen-2010",
-    "date": "2010-01",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "faith and the muse",
-            "title": "battle hymn"
-        },
-        {
-            "artist": "faith and the muse",
-            "title": "kodama (pk)"
-        },
-        {
-            "artist": "halou",
-            "title": "i will carry you"
-        },
-        {
-            "artist": "rome",
-            "title": "reversion"
-        },
-        {
-            "artist": "clan of xymox",
-            "title": "morning glow"
-        },
-        {
-            "artist": "claire voyant",
-            "title": "broadcast"
-        },
-        {
-            "artist": "the eden house",
-            "title": "all my love"
-        },
-        {
-            "artist": "the eden house",
-            "title": "venus in furs"
-        },
-        {
-            "artist": "lisa gerrard",
-            "title": "the messenger"
-        },
-        {
-            "artist": "lisa gerrard",
-            "title": "in search of lost innocence"
-        },
-        {
-            "artist": "piano magic",
-            "title": "you never loved this city"
-        },
-        {
-            "artist": "piano magic",
-            "title": "recovery position"
-        },
-        {
-            "artist": "piano magic",
-            "title": "la cobardia de los toreros"
-        },
-        {
-            "artist": "faith and the muse",
-            "title": "kodama (pk)"
-        },
-        {
-            "artist": "depeche mode",
-            "title": "ghost"
-        },
-        {
-            "artist": "depeche mode",
-            "title": "painkiller"
-        },
-        {
-            "artist": "nitzer ebb",
-            "title": "going away"
-        },
-        {
-            "artist": "nitzer ebb",
-            "title": "i am undone"
-        },
-        {
-            "artist": "sleep slid in",
-            "title": "inside my heaven"
-        },
-        {
-            "artist": "sleep slid in",
-            "title": "demon skin"
-        },
-        {
-            "artist": "eisblume",
-            "title": "i'm a flower"
-        },
-        {
-            "artist": "eisblume",
-            "title": "beyond my dawn"
-        },
-        {
-            "artist": "eisblume",
-            "title": "mine"
-        },
-        {
-            "artist": "eisblume",
-            "title": "a trip into the sun"
-        },
-        {
-            "artist": "vanessa",
-            "title": "zrcadla"
-        },
-        {
-            "artist": "vanessa",
-            "title": "den, kdy jsme ztratili"
-        },
-        {
-            "artist": "vanessa",
-            "title": "primitiv"
-        },
-        {
-            "artist": "desiderii marginis",
-            "title": "nimbus incunabula"
-        },
-        {
-            "artist": "xymox",
-            "title": "january"
-        },
-        {
-            "artist": "faith and the muse",
-            "title": "kodama (pk)"
-        },
-        {
-            "artist": "cabaret syndrome",
-            "title": "leather fire"
-        },
-        {
-            "artist": "cabaret syndrome",
-            "title": "space farewell"
-        },
-        {
-            "artist": "noblesse oblige",
-            "title": "caligula"
-        },
-        {
-            "artist": "noblesse oblige",
-            "title": "nervous"
-        },
-        {
-            "artist": "noblesse oblige",
-            "title": "night train to krakow"
-        },
-        {
-            "artist": "noblesse oblige",
-            "title": "night train to krakow (musiccargo remix)"
-        },
-        {
-            "artist": "dreamside",
-            "title": "hush"
-        },
-        {
-            "artist": "dreamside",
-            "title": "in longing"
-        },
-        {
-            "artist": "dreamside",
-            "title": "silently awake"
-        },
-        {
-            "artist": "depeche mode",
-            "title": "shake the disease"
-        },
-        {
-            "artist": "depeche mode",
-            "title": "walking in my shoes"
-        },
-        {
-            "artist": "depeche mode",
-            "title": "freestate"
-        },
-        {
-            "artist": "faith and the muse",
-            "title": "kodama (pk)"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "faith and the muse",
+        "title": "battle hymn"
+    },
+    {
+        "artist": "faith and the muse",
+        "title": "kodama (pk)"
+    },
+    {
+        "artist": "halou",
+        "title": "i will carry you"
+    },
+    {
+        "artist": "rome",
+        "title": "reversion"
+    },
+    {
+        "artist": "clan of xymox",
+        "title": "morning glow"
+    },
+    {
+        "artist": "claire voyant",
+        "title": "broadcast"
+    },
+    {
+        "artist": "the eden house",
+        "title": "all my love"
+    },
+    {
+        "artist": "the eden house",
+        "title": "venus in furs"
+    },
+    {
+        "artist": "lisa gerrard",
+        "title": "the messenger"
+    },
+    {
+        "artist": "lisa gerrard",
+        "title": "in search of lost innocence"
+    },
+    {
+        "artist": "piano magic",
+        "title": "you never loved this city"
+    },
+    {
+        "artist": "piano magic",
+        "title": "recovery position"
+    },
+    {
+        "artist": "piano magic",
+        "title": "la cobardia de los toreros"
+    },
+    {
+        "artist": "faith and the muse",
+        "title": "kodama (pk)"
+    },
+    {
+        "artist": "depeche mode",
+        "title": "ghost"
+    },
+    {
+        "artist": "depeche mode",
+        "title": "painkiller"
+    },
+    {
+        "artist": "nitzer ebb",
+        "title": "going away"
+    },
+    {
+        "artist": "nitzer ebb",
+        "title": "i am undone"
+    },
+    {
+        "artist": "sleep slid in",
+        "title": "inside my heaven"
+    },
+    {
+        "artist": "sleep slid in",
+        "title": "demon skin"
+    },
+    {
+        "artist": "eisblume",
+        "title": "i'm a flower"
+    },
+    {
+        "artist": "eisblume",
+        "title": "beyond my dawn"
+    },
+    {
+        "artist": "eisblume",
+        "title": "mine"
+    },
+    {
+        "artist": "eisblume",
+        "title": "a trip into the sun"
+    },
+    {
+        "artist": "vanessa",
+        "title": "zrcadla"
+    },
+    {
+        "artist": "vanessa",
+        "title": "den, kdy jsme ztratili"
+    },
+    {
+        "artist": "vanessa",
+        "title": "primitiv"
+    },
+    {
+        "artist": "desiderii marginis",
+        "title": "nimbus incunabula"
+    },
+    {
+        "artist": "xymox",
+        "title": "january"
+    },
+    {
+        "artist": "faith and the muse",
+        "title": "kodama (pk)"
+    },
+    {
+        "artist": "cabaret syndrome",
+        "title": "leather fire"
+    },
+    {
+        "artist": "cabaret syndrome",
+        "title": "space farewell"
+    },
+    {
+        "artist": "noblesse oblige",
+        "title": "caligula"
+    },
+    {
+        "artist": "noblesse oblige",
+        "title": "nervous"
+    },
+    {
+        "artist": "noblesse oblige",
+        "title": "night train to krakow"
+    },
+    {
+        "artist": "noblesse oblige",
+        "title": "night train to krakow (musiccargo remix)"
+    },
+    {
+        "artist": "dreamside",
+        "title": "hush"
+    },
+    {
+        "artist": "dreamside",
+        "title": "in longing"
+    },
+    {
+        "artist": "dreamside",
+        "title": "silently awake"
+    },
+    {
+        "artist": "depeche mode",
+        "title": "shake the disease"
+    },
+    {
+        "artist": "depeche mode",
+        "title": "walking in my shoes"
+    },
+    {
+        "artist": "depeche mode",
+        "title": "freestate"
+    },
+    {
+        "artist": "faith and the muse",
+        "title": "kodama (pk)"
+    }
+]

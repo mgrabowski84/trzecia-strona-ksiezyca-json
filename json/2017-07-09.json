@@ -1,187 +1,182 @@
-{
-    "title": "Lipiec 2017",
-    "filename": "lipiec-2017",
-    "date": "2017-07",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunnner 2001"
-        },
-        {
-            "artist": "clan of xymox",
-            "title": "back door"
-        },
-        {
-            "artist": "eden",
-            "title": "all the time in the world"
-        },
-        {
-            "artist": "cigarettes after sex",
-            "title": "apocalypse (pk)"
-        },
-        {
-            "artist": "cigarettes after sex",
-            "title": "sweet"
-        },
-        {
-            "artist": "tanks and tears",
-            "title": "breath"
-        },
-        {
-            "artist": "principe valiente",
-            "title": "strangers in the night"
-        },
-        {
-            "artist": "principe valiente",
-            "title": "running juveniles"
-        },
-        {
-            "artist": "the eden house feat. lee douglas",
-            "title": "it's just a death"
-        },
-        {
-            "artist": "the eden house feat. monica richards",
-            "title": "12th night"
-        },
-        {
-            "artist": "devoured by flowers feat. elisabeth wallace",
-            "title": "a seaside ballad"
-        },
-        {
-            "artist": "hante.",
-            "title": "live to die another day"
-        },
-        {
-            "artist": "hante.",
-            "title": "between hope & danger"
-        },
-        {
-            "artist": "hante.",
-            "title": "winter dreams"
-        },
-        {
-            "artist": "clan of xymox",
-            "title": "masquerade"
-        },
-        {
-            "artist": "m!r!m",
-            "title": "1955"
-        },
-        {
-            "artist": "m!r!m",
-            "title": "reel"
-        },
-        {
-            "artist": "m!r!m",
-            "title": "liebe machen"
-        },
-        {
-            "artist": "m!r!m",
-            "title": "meyouandnobodyelse"
-        },
-        {
-            "artist": "m!r!m",
-            "title": "song for the lonely dreamers"
-        },
-        {
-            "artist": "two moons",
-            "title": "numbers"
-        },
-        {
-            "artist": "stfu",
-            "title": "dead right"
-        },
-        {
-            "artist": "stfu",
-            "title": "deeper"
-        },
-        {
-            "artist": "desert mountain tribe",
-            "title": "hitzefrei"
-        },
-        {
-            "artist": "cigarettes after sex",
-            "title": "apocalypse (pk)"
-        },
-        {
-            "artist": "huron",
-            "title": "human tz05550x"
-        },
-        {
-            "artist": "huron",
-            "title": "forest lover"
-        },
-        {
-            "artist": "biosphere",
-            "title": "black mesa"
-        },
-        {
-            "artist": "clocolan",
-            "title": "canon rock,'72"
-        },
-        {
-            "artist": "chase dobson",
-            "title": "navigate"
-        },
-        {
-            "artist": "ash fallen brightly",
-            "title": "waiting for the rain (thunder & rain remix)"
-        },
-        {
-            "artist": "joy division",
-            "title": "decades"
-        },
-        {
-            "artist": "the killers",
-            "title": "shadowplay"
-        },
-        {
-            "artist": "kings of convenience",
-            "title": "the eternal"
-        },
-        {
-            "artist": "beata beatrix",
-            "title": "transmission"
-        },
-        {
-            "artist": "the shimmer",
-            "title": "i remember nothing"
-        },
-        {
-            "artist": "chromatics",
-            "title": "ceremony"
-        },
-        {
-            "artist": "girls against boys",
-            "title": "she's lost control"
-        },
-        {
-            "artist": "clan of xymox",
-            "title": "decades"
-        },
-        {
-            "artist": "nine inch nails",
-            "title": "dead souls"
-        },
-        {
-            "artist": "two moons",
-            "title": "heart and soul"
-        },
-        {
-            "artist": "christine plays viola",
-            "title": "atmosphere"
-        },
-        {
-            "artist": "nouvelle vague",
-            "title": "love will tear us apart"
-        },
-        {
-            "artist": "antic clay",
-            "title": "decades"
-        },
-        {
-            "artist": "cigarettes after sex",
-            "title": "apocalypse (pk)"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunnner 2001"
+    },
+    {
+        "artist": "clan of xymox",
+        "title": "back door"
+    },
+    {
+        "artist": "eden",
+        "title": "all the time in the world"
+    },
+    {
+        "artist": "cigarettes after sex",
+        "title": "apocalypse (pk)"
+    },
+    {
+        "artist": "cigarettes after sex",
+        "title": "sweet"
+    },
+    {
+        "artist": "tanks and tears",
+        "title": "breath"
+    },
+    {
+        "artist": "principe valiente",
+        "title": "strangers in the night"
+    },
+    {
+        "artist": "principe valiente",
+        "title": "running juveniles"
+    },
+    {
+        "artist": "the eden house feat. lee douglas",
+        "title": "it's just a death"
+    },
+    {
+        "artist": "the eden house feat. monica richards",
+        "title": "12th night"
+    },
+    {
+        "artist": "devoured by flowers feat. elisabeth wallace",
+        "title": "a seaside ballad"
+    },
+    {
+        "artist": "hante.",
+        "title": "live to die another day"
+    },
+    {
+        "artist": "hante.",
+        "title": "between hope & danger"
+    },
+    {
+        "artist": "hante.",
+        "title": "winter dreams"
+    },
+    {
+        "artist": "clan of xymox",
+        "title": "masquerade"
+    },
+    {
+        "artist": "m!r!m",
+        "title": "1955"
+    },
+    {
+        "artist": "m!r!m",
+        "title": "reel"
+    },
+    {
+        "artist": "m!r!m",
+        "title": "liebe machen"
+    },
+    {
+        "artist": "m!r!m",
+        "title": "meyouandnobodyelse"
+    },
+    {
+        "artist": "m!r!m",
+        "title": "song for the lonely dreamers"
+    },
+    {
+        "artist": "two moons",
+        "title": "numbers"
+    },
+    {
+        "artist": "stfu",
+        "title": "dead right"
+    },
+    {
+        "artist": "stfu",
+        "title": "deeper"
+    },
+    {
+        "artist": "desert mountain tribe",
+        "title": "hitzefrei"
+    },
+    {
+        "artist": "cigarettes after sex",
+        "title": "apocalypse (pk)"
+    },
+    {
+        "artist": "huron",
+        "title": "human tz05550x"
+    },
+    {
+        "artist": "huron",
+        "title": "forest lover"
+    },
+    {
+        "artist": "biosphere",
+        "title": "black mesa"
+    },
+    {
+        "artist": "clocolan",
+        "title": "canon rock,'72"
+    },
+    {
+        "artist": "chase dobson",
+        "title": "navigate"
+    },
+    {
+        "artist": "ash fallen brightly",
+        "title": "waiting for the rain (thunder & rain remix)"
+    },
+    {
+        "artist": "joy division",
+        "title": "decades"
+    },
+    {
+        "artist": "the killers",
+        "title": "shadowplay"
+    },
+    {
+        "artist": "kings of convenience",
+        "title": "the eternal"
+    },
+    {
+        "artist": "beata beatrix",
+        "title": "transmission"
+    },
+    {
+        "artist": "the shimmer",
+        "title": "i remember nothing"
+    },
+    {
+        "artist": "chromatics",
+        "title": "ceremony"
+    },
+    {
+        "artist": "girls against boys",
+        "title": "she's lost control"
+    },
+    {
+        "artist": "clan of xymox",
+        "title": "decades"
+    },
+    {
+        "artist": "nine inch nails",
+        "title": "dead souls"
+    },
+    {
+        "artist": "two moons",
+        "title": "heart and soul"
+    },
+    {
+        "artist": "christine plays viola",
+        "title": "atmosphere"
+    },
+    {
+        "artist": "nouvelle vague",
+        "title": "love will tear us apart"
+    },
+    {
+        "artist": "antic clay",
+        "title": "decades"
+    },
+    {
+        "artist": "cigarettes after sex",
+        "title": "apocalypse (pk)"
+    }
+]

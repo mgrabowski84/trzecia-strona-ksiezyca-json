@@ -1,155 +1,150 @@
-{
-    "title": "Październik 2009",
-    "filename": "padziernik-2009",
-    "date": "2009-10",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "soul in isolation",
-            "title": "avalon"
-        },
-        {
-            "artist": "claire voyant",
-            "title": "broadcast"
-        },
-        {
-            "artist": "rome",
-            "title": "reversion"
-        },
-        {
-            "artist": "clan of xymox",
-            "title": "morning glow (pk)"
-        },
-        {
-            "artist": "iamx",
-            "title": "i'm terrified"
-        },
-        {
-            "artist": "ikon",
-            "title": "memoirs of a butterfly"
-        },
-        {
-            "artist": "danish daycare",
-            "title": "a porpose to my sins"
-        },
-        {
-            "artist": "perfidious words",
-            "title": "stay"
-        },
-        {
-            "artist": "peter bjärgö",
-            "title": "a wave of bitterness"
-        },
-        {
-            "artist": "peter bjärgö",
-            "title": "withdrawal"
-        },
-        {
-            "artist": "claire voyant",
-            "title": "flicker"
-        },
-        {
-            "artist": "claire voyant",
-            "title": "majesty"
-        },
-        {
-            "artist": "claire voyant",
-            "title": "her"
-        },
-        {
-            "artist": "claire voyant",
-            "title": "someday"
-        },
-        {
-            "artist": "claire voyant",
-            "title": "painted gold"
-        },
-        {
-            "artist": "claire voyant",
-            "title": "another day (a subtle thief of youth)"
-        },
-        {
-            "artist": "claire voyant",
-            "title": "shine"
-        },
-        {
-            "artist": "claire voyant",
-            "title": "lustre"
-        },
-        {
-            "artist": "clan of xymox",
-            "title": "morning glow (pk)"
-        },
-        {
-            "artist": "claire voyant",
-            "title": "washaway"
-        },
-        {
-            "artist": "claire voyant",
-            "title": "blinking tears"
-        },
-        {
-            "artist": "claire voyant",
-            "title": "time and the maiden"
-        },
-        {
-            "artist": "hmb",
-            "title": "...revelation"
-        },
-        {
-            "artist": "claire voyant",
-            "title": "mercurial"
-        },
-        {
-            "artist": "claire voyant",
-            "title": "twenty four years"
-        },
-        {
-            "artist": "claire voyant",
-            "title": "love is blind"
-        },
-        {
-            "artist": "clan of xymox",
-            "title": "morning glow (pk)"
-        },
-        {
-            "artist": "the mission",
-            "title": "tomorrow never knows"
-        },
-        {
-            "artist": "siouxie and the banshees",
-            "title": "dear prudence"
-        },
-        {
-            "artist": "catherines cathedral",
-            "title": "lucy in the sky with diamonds"
-        },
-        {
-            "artist": "invisible limits",
-            "title": "imagine"
-        },
-        {
-            "artist": "the mission",
-            "title": "love"
-        },
-        {
-            "artist": "haven",
-            "title": "tell me about madness"
-        },
-        {
-            "artist": "autoclav 1.1",
-            "title": "tomorrow"
-        },
-        {
-            "artist": "autoclav 1.1",
-            "title": "if not something, anything"
-        },
-        {
-            "artist": "autoclav 1.1",
-            "title": "an idiosyncratic oath"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "soul in isolation",
+        "title": "avalon"
+    },
+    {
+        "artist": "claire voyant",
+        "title": "broadcast"
+    },
+    {
+        "artist": "rome",
+        "title": "reversion"
+    },
+    {
+        "artist": "clan of xymox",
+        "title": "morning glow (pk)"
+    },
+    {
+        "artist": "iamx",
+        "title": "i'm terrified"
+    },
+    {
+        "artist": "ikon",
+        "title": "memoirs of a butterfly"
+    },
+    {
+        "artist": "danish daycare",
+        "title": "a porpose to my sins"
+    },
+    {
+        "artist": "perfidious words",
+        "title": "stay"
+    },
+    {
+        "artist": "peter bjärgö",
+        "title": "a wave of bitterness"
+    },
+    {
+        "artist": "peter bjärgö",
+        "title": "withdrawal"
+    },
+    {
+        "artist": "claire voyant",
+        "title": "flicker"
+    },
+    {
+        "artist": "claire voyant",
+        "title": "majesty"
+    },
+    {
+        "artist": "claire voyant",
+        "title": "her"
+    },
+    {
+        "artist": "claire voyant",
+        "title": "someday"
+    },
+    {
+        "artist": "claire voyant",
+        "title": "painted gold"
+    },
+    {
+        "artist": "claire voyant",
+        "title": "another day (a subtle thief of youth)"
+    },
+    {
+        "artist": "claire voyant",
+        "title": "shine"
+    },
+    {
+        "artist": "claire voyant",
+        "title": "lustre"
+    },
+    {
+        "artist": "clan of xymox",
+        "title": "morning glow (pk)"
+    },
+    {
+        "artist": "claire voyant",
+        "title": "washaway"
+    },
+    {
+        "artist": "claire voyant",
+        "title": "blinking tears"
+    },
+    {
+        "artist": "claire voyant",
+        "title": "time and the maiden"
+    },
+    {
+        "artist": "hmb",
+        "title": "...revelation"
+    },
+    {
+        "artist": "claire voyant",
+        "title": "mercurial"
+    },
+    {
+        "artist": "claire voyant",
+        "title": "twenty four years"
+    },
+    {
+        "artist": "claire voyant",
+        "title": "love is blind"
+    },
+    {
+        "artist": "clan of xymox",
+        "title": "morning glow (pk)"
+    },
+    {
+        "artist": "the mission",
+        "title": "tomorrow never knows"
+    },
+    {
+        "artist": "siouxie and the banshees",
+        "title": "dear prudence"
+    },
+    {
+        "artist": "catherines cathedral",
+        "title": "lucy in the sky with diamonds"
+    },
+    {
+        "artist": "invisible limits",
+        "title": "imagine"
+    },
+    {
+        "artist": "the mission",
+        "title": "love"
+    },
+    {
+        "artist": "haven",
+        "title": "tell me about madness"
+    },
+    {
+        "artist": "autoclav 1.1",
+        "title": "tomorrow"
+    },
+    {
+        "artist": "autoclav 1.1",
+        "title": "if not something, anything"
+    },
+    {
+        "artist": "autoclav 1.1",
+        "title": "an idiosyncratic oath"
+    }
+]

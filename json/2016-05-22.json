@@ -1,167 +1,162 @@
-{
-    "title": "Maj 2016",
-    "filename": "maj-2016",
-    "date": "2016-05",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "the cure",
-            "title": "bloodflowers"
-        },
-        {
-            "artist": "atsushi sakurai",
-            "title": "sacrifice"
-        },
-        {
-            "artist": "pink turns blue",
-            "title": "tomorrow never comes [pk]"
-        },
-        {
-            "artist": "ordo rosarius equilibrio",
-            "title": "holy blood, holy union"
-        },
-        {
-            "artist": "ordo rosarius equilibrio",
-            "title": "the white rose of dysphemism"
-        },
-        {
-            "artist": "long night",
-            "title": "sorrow returns (toxicity mix)"
-        },
-        {
-            "artist": "long night",
-            "title": "ruins"
-        },
-        {
-            "artist": "pink turns blue",
-            "title": "dirt"
-        },
-        {
-            "artist": "pink turns blue",
-            "title": "aerdt"
-        },
-        {
-            "artist": "in the nursery",
-            "title": "sentient"
-        },
-        {
-            "artist": "les jumeaux",
-            "title": "cobalt"
-        },
-        {
-            "artist": "bauhaus",
-            "title": "she's in parties"
-        },
-        {
-            "artist": "winter severity index",
-            "title": "drums of affliction"
-        },
-        {
-            "artist": "anna von hausswolff",
-            "title": "mountains crave"
-        },
-        {
-            "artist": "anna von hausswolff",
-            "title": "sova"
-        },
-        {
-            "artist": "i like trains",
-            "title": "before the curtains fall part ii"
-        },
-        {
-            "artist": "lament",
-            "title": "last dance of summer"
-        },
-        {
-            "artist": "and also the trees",
-            "title": "your guess"
-        },
-        {
-            "artist": "pink turns blue",
-            "title": "your master is calling"
-        },
-        {
-            "artist": "lush",
-            "title": "desire lines"
-        },
-        {
-            "artist": "lush",
-            "title": "rosebud"
-        },
-        {
-            "artist": "pink turns blue",
-            "title": "tomorrow never comes [pk]"
-        },
-        {
-            "artist": "unheilig",
-            "title": "der berg (intro)"
-        },
-        {
-            "artist": "chrysta bell",
-            "title": "this train"
-        },
-        {
-            "artist": "red box",
-            "title": "train"
-        },
-        {
-            "artist": "whispers in the shadow",
-            "title": "train"
-        },
-        {
-            "artist": "minimal compact",
-            "title": "inner station"
-        },
-        {
-            "artist": "tempers",
-            "title": "trains"
-        },
-        {
-            "artist": "the frozen autumn",
-            "title": "the last train"
-        },
-        {
-            "artist": "legend",
-            "title": "runaway train"
-        },
-        {
-            "artist": "lush",
-            "title": "love at first sight"
-        },
-        {
-            "artist": "the sisters of mercy",
-            "title": "long train"
-        },
-        {
-            "artist": "the cure",
-            "title": "jumping someone else’s train"
-        },
-        {
-            "artist": "i like trains",
-            "title": "spencer perceval"
-        },
-        {
-            "artist": "unheilig",
-            "title": "der gipfel (outro)"
-        },
-        {
-            "artist": "john foxx",
-            "title": "no - one driving"
-        },
-        {
-            "artist": "the soft moon",
-            "title": "no - one driving"
-        },
-        {
-            "artist": "wrangler (feat. gazelle twin)",
-            "title": "he’s a liquid"
-        },
-        {
-            "artist": "pink turns blue",
-            "title": "tomorrow never comes [pk]"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "the cure",
+        "title": "bloodflowers"
+    },
+    {
+        "artist": "atsushi sakurai",
+        "title": "sacrifice"
+    },
+    {
+        "artist": "pink turns blue",
+        "title": "tomorrow never comes [pk]"
+    },
+    {
+        "artist": "ordo rosarius equilibrio",
+        "title": "holy blood, holy union"
+    },
+    {
+        "artist": "ordo rosarius equilibrio",
+        "title": "the white rose of dysphemism"
+    },
+    {
+        "artist": "long night",
+        "title": "sorrow returns (toxicity mix)"
+    },
+    {
+        "artist": "long night",
+        "title": "ruins"
+    },
+    {
+        "artist": "pink turns blue",
+        "title": "dirt"
+    },
+    {
+        "artist": "pink turns blue",
+        "title": "aerdt"
+    },
+    {
+        "artist": "in the nursery",
+        "title": "sentient"
+    },
+    {
+        "artist": "les jumeaux",
+        "title": "cobalt"
+    },
+    {
+        "artist": "bauhaus",
+        "title": "she's in parties"
+    },
+    {
+        "artist": "winter severity index",
+        "title": "drums of affliction"
+    },
+    {
+        "artist": "anna von hausswolff",
+        "title": "mountains crave"
+    },
+    {
+        "artist": "anna von hausswolff",
+        "title": "sova"
+    },
+    {
+        "artist": "i like trains",
+        "title": "before the curtains fall part ii"
+    },
+    {
+        "artist": "lament",
+        "title": "last dance of summer"
+    },
+    {
+        "artist": "and also the trees",
+        "title": "your guess"
+    },
+    {
+        "artist": "pink turns blue",
+        "title": "your master is calling"
+    },
+    {
+        "artist": "lush",
+        "title": "desire lines"
+    },
+    {
+        "artist": "lush",
+        "title": "rosebud"
+    },
+    {
+        "artist": "pink turns blue",
+        "title": "tomorrow never comes [pk]"
+    },
+    {
+        "artist": "unheilig",
+        "title": "der berg (intro)"
+    },
+    {
+        "artist": "chrysta bell",
+        "title": "this train"
+    },
+    {
+        "artist": "red box",
+        "title": "train"
+    },
+    {
+        "artist": "whispers in the shadow",
+        "title": "train"
+    },
+    {
+        "artist": "minimal compact",
+        "title": "inner station"
+    },
+    {
+        "artist": "tempers",
+        "title": "trains"
+    },
+    {
+        "artist": "the frozen autumn",
+        "title": "the last train"
+    },
+    {
+        "artist": "legend",
+        "title": "runaway train"
+    },
+    {
+        "artist": "lush",
+        "title": "love at first sight"
+    },
+    {
+        "artist": "the sisters of mercy",
+        "title": "long train"
+    },
+    {
+        "artist": "the cure",
+        "title": "jumping someone else’s train"
+    },
+    {
+        "artist": "i like trains",
+        "title": "spencer perceval"
+    },
+    {
+        "artist": "unheilig",
+        "title": "der gipfel (outro)"
+    },
+    {
+        "artist": "john foxx",
+        "title": "no - one driving"
+    },
+    {
+        "artist": "the soft moon",
+        "title": "no - one driving"
+    },
+    {
+        "artist": "wrangler (feat. gazelle twin)",
+        "title": "he’s a liquid"
+    },
+    {
+        "artist": "pink turns blue",
+        "title": "tomorrow never comes [pk]"
+    }
+]

@@ -1,159 +1,154 @@
-{
-    "title": "Styczeń 2013",
-    "filename": "styczen-2013",
-    "date": "2013-01",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "the eden house",
-            "title": "to believe in something"
-        },
-        {
-            "artist": "red sun revival",
-            "title": "last chance [pk]"
-        },
-        {
-            "artist": "red sun revival",
-            "title": "miracles"
-        },
-        {
-            "artist": "breathless",
-            "title": "please be happy"
-        },
-        {
-            "artist": "press gang metropol",
-            "title": "parade"
-        },
-        {
-            "artist": "press gang metropol",
-            "title": "a moment of resistance"
-        },
-        {
-            "artist": "lakeside x",
-            "title": "mystic highway"
-        },
-        {
-            "artist": "lisa gerrard",
-            "title": "space weaver"
-        },
-        {
-            "artist": "chandeen",
-            "title": "welcome the still"
-        },
-        {
-            "artist": "the eden house",
-            "title": "all my love"
-        },
-        {
-            "artist": "brendan perry",
-            "title": "wintersun"
-        },
-        {
-            "artist": "falling you",
-            "title": "adore"
-        },
-        {
-            "artist": "continues",
-            "title": "reckless heart"
-        },
-        {
-            "artist": "pieter nooten",
-            "title": "around us"
-        },
-        {
-            "artist": "she past away",
-            "title": "kasvetli kutlama"
-        },
-        {
-            "artist": "dead can dance",
-            "title": "opium"
-        },
-        {
-            "artist": "the new division",
-            "title": "opium"
-        },
-        {
-            "artist": "the new division",
-            "title": "memento"
-        },
-        {
-            "artist": "red sun revival",
-            "title": "last chance [pk]"
-        },
-        {
-            "artist": "mesh",
-            "title": "born to lie"
-        },
-        {
-            "artist": "mesh",
-            "title": "black dog"
-        },
-        {
-            "artist": "ulrich schnauss",
-            "title": "asc - 77"
-        },
-        {
-            "artist": "ulrich schnauss",
-            "title": "a long way to fall"
-        },
-        {
-            "artist": "in the nursery",
-            "title": "tenure1"
-        },
-        {
-            "artist": "in the nursery",
-            "title": "aspect dawn"
-        },
-        {
-            "artist": "in the nursery",
-            "title": "afterimage"
-        },
-        {
-            "artist": "in the nursery",
-            "title": "portal"
-        },
-        {
-            "artist": "in the nursery",
-            "title": "tenure3"
-        },
-        {
-            "artist": "god`s own medicine",
-            "title": "blue"
-        },
-        {
-            "artist": "deathcamp project",
-            "title": "tak się rodzi nienawiść"
-        },
-        {
-            "artist": "hatestory",
-            "title": "violette"
-        },
-        {
-            "artist": "red emprez",
-            "title": "violette (wersja angielska)"
-        },
-        {
-            "artist": "agressiva 69",
-            "title": "przeklinam cię za to teraz"
-        },
-        {
-            "artist": "agressiva 69",
-            "title": "pornografia"
-        },
-        {
-            "artist": "agressiva 69",
-            "title": "tak długo czekam (ciało)"
-        },
-        {
-            "artist": "red sun revival",
-            "title": "last chance [pk]"
-        },
-        {
-            "artist": "the legendary pink dots",
-            "title": "the opium den (parts 1-3)"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "the eden house",
+        "title": "to believe in something"
+    },
+    {
+        "artist": "red sun revival",
+        "title": "last chance [pk]"
+    },
+    {
+        "artist": "red sun revival",
+        "title": "miracles"
+    },
+    {
+        "artist": "breathless",
+        "title": "please be happy"
+    },
+    {
+        "artist": "press gang metropol",
+        "title": "parade"
+    },
+    {
+        "artist": "press gang metropol",
+        "title": "a moment of resistance"
+    },
+    {
+        "artist": "lakeside x",
+        "title": "mystic highway"
+    },
+    {
+        "artist": "lisa gerrard",
+        "title": "space weaver"
+    },
+    {
+        "artist": "chandeen",
+        "title": "welcome the still"
+    },
+    {
+        "artist": "the eden house",
+        "title": "all my love"
+    },
+    {
+        "artist": "brendan perry",
+        "title": "wintersun"
+    },
+    {
+        "artist": "falling you",
+        "title": "adore"
+    },
+    {
+        "artist": "continues",
+        "title": "reckless heart"
+    },
+    {
+        "artist": "pieter nooten",
+        "title": "around us"
+    },
+    {
+        "artist": "she past away",
+        "title": "kasvetli kutlama"
+    },
+    {
+        "artist": "dead can dance",
+        "title": "opium"
+    },
+    {
+        "artist": "the new division",
+        "title": "opium"
+    },
+    {
+        "artist": "the new division",
+        "title": "memento"
+    },
+    {
+        "artist": "red sun revival",
+        "title": "last chance [pk]"
+    },
+    {
+        "artist": "mesh",
+        "title": "born to lie"
+    },
+    {
+        "artist": "mesh",
+        "title": "black dog"
+    },
+    {
+        "artist": "ulrich schnauss",
+        "title": "asc - 77"
+    },
+    {
+        "artist": "ulrich schnauss",
+        "title": "a long way to fall"
+    },
+    {
+        "artist": "in the nursery",
+        "title": "tenure1"
+    },
+    {
+        "artist": "in the nursery",
+        "title": "aspect dawn"
+    },
+    {
+        "artist": "in the nursery",
+        "title": "afterimage"
+    },
+    {
+        "artist": "in the nursery",
+        "title": "portal"
+    },
+    {
+        "artist": "in the nursery",
+        "title": "tenure3"
+    },
+    {
+        "artist": "god`s own medicine",
+        "title": "blue"
+    },
+    {
+        "artist": "deathcamp project",
+        "title": "tak się rodzi nienawiść"
+    },
+    {
+        "artist": "hatestory",
+        "title": "violette"
+    },
+    {
+        "artist": "red emprez",
+        "title": "violette (wersja angielska)"
+    },
+    {
+        "artist": "agressiva 69",
+        "title": "przeklinam cię za to teraz"
+    },
+    {
+        "artist": "agressiva 69",
+        "title": "pornografia"
+    },
+    {
+        "artist": "agressiva 69",
+        "title": "tak długo czekam (ciało)"
+    },
+    {
+        "artist": "red sun revival",
+        "title": "last chance [pk]"
+    },
+    {
+        "artist": "the legendary pink dots",
+        "title": "the opium den (parts 1-3)"
+    }
+]

@@ -1,159 +1,154 @@
-{
-    "title": "Lipiec 2015",
-    "filename": "lipiec-2015",
-    "date": "2015-07",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "peter murphy",
-            "title": "the sound of water"
-        },
-        {
-            "artist": "ikon",
-            "title": "blood of love (extended version)"
-        },
-        {
-            "artist": "them are us too",
-            "title": "false moon"
-        },
-        {
-            "artist": "muricidae",
-            "title": "away [pk]"
-        },
-        {
-            "artist": "peter murphy",
-            "title": "i'm on your side (youth remix)"
-        },
-        {
-            "artist": "iamx",
-            "title": "happiness (gary numan remix)"
-        },
-        {
-            "artist": "the twilight sad",
-            "title": "it never was the same"
-        },
-        {
-            "artist": "robert smith",
-            "title": "there's a girl in the corner (tts cover)"
-        },
-        {
-            "artist": "black nail cabaret",
-            "title": "the critical cult of dora"
-        },
-        {
-            "artist": "black nail cabaret",
-            "title": "satisfaction"
-        },
-        {
-            "artist": "black nail cabaret",
-            "title": "the burial party"
-        },
-        {
-            "artist": "red sun revival",
-            "title": "my child"
-        },
-        {
-            "artist": "voices of masada",
-            "title": "fragments"
-        },
-        {
-            "artist": "adoration",
-            "title": "same as it ever was"
-        },
-        {
-            "artist": "adoration",
-            "title": "made of rain"
-        },
-        {
-            "artist": "red sun revival",
-            "title": "running from the dawn"
-        },
-        {
-            "artist": "red sun revival",
-            "title": "forgive us now"
-        },
-        {
-            "artist": "red sun revival",
-            "title": "last chance"
-        },
-        {
-            "artist": "red sun revival",
-            "title": "premonition"
-        },
-        {
-            "artist": "red sun revival",
-            "title": "fade in time"
-        },
-        {
-            "artist": "red sun revival",
-            "title": "echoes"
-        },
-        {
-            "artist": "red sun revival",
-            "title": "condemned part i"
-        },
-        {
-            "artist": "red sun revival",
-            "title": "condemned part ii"
-        },
-        {
-            "artist": "red sun revival",
-            "title": "the awakening"
-        },
-        {
-            "artist": "muricidae",
-            "title": "away [pk]"
-        },
-        {
-            "artist": "bouquiniste",
-            "title": "n.n.n"
-        },
-        {
-            "artist": "stasis device",
-            "title": "collective (to russia with love mix)"
-        },
-        {
-            "artist": "velvet acid christ",
-            "title": "eye h8 u (decoded feedback mix)"
-        },
-        {
-            "artist": "velvet acid christ",
-            "title": "sex disease (2014 mix)"
-        },
-        {
-            "artist": "atiq & enk",
-            "title": "dandelion"
-        },
-        {
-            "artist": "cocteau twins",
-            "title": "blue bell knoll"
-        },
-        {
-            "artist": "brian eno",
-            "title": "bell improvisation 2"
-        },
-        {
-            "artist": "chromatics",
-            "title": "bell"
-        },
-        {
-            "artist": "dead can dance",
-            "title": "as the bell rings the maypole spins"
-        },
-        {
-            "artist": "brian eno",
-            "title": "lithuanian bell study"
-        },
-        {
-            "artist": "love spirals downwards",
-            "title": "sunset bell"
-        },
-        {
-            "artist": "muricidae",
-            "title": "away [pk]"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "peter murphy",
+        "title": "the sound of water"
+    },
+    {
+        "artist": "ikon",
+        "title": "blood of love (extended version)"
+    },
+    {
+        "artist": "them are us too",
+        "title": "false moon"
+    },
+    {
+        "artist": "muricidae",
+        "title": "away [pk]"
+    },
+    {
+        "artist": "peter murphy",
+        "title": "i'm on your side (youth remix)"
+    },
+    {
+        "artist": "iamx",
+        "title": "happiness (gary numan remix)"
+    },
+    {
+        "artist": "the twilight sad",
+        "title": "it never was the same"
+    },
+    {
+        "artist": "robert smith",
+        "title": "there's a girl in the corner (tts cover)"
+    },
+    {
+        "artist": "black nail cabaret",
+        "title": "the critical cult of dora"
+    },
+    {
+        "artist": "black nail cabaret",
+        "title": "satisfaction"
+    },
+    {
+        "artist": "black nail cabaret",
+        "title": "the burial party"
+    },
+    {
+        "artist": "red sun revival",
+        "title": "my child"
+    },
+    {
+        "artist": "voices of masada",
+        "title": "fragments"
+    },
+    {
+        "artist": "adoration",
+        "title": "same as it ever was"
+    },
+    {
+        "artist": "adoration",
+        "title": "made of rain"
+    },
+    {
+        "artist": "red sun revival",
+        "title": "running from the dawn"
+    },
+    {
+        "artist": "red sun revival",
+        "title": "forgive us now"
+    },
+    {
+        "artist": "red sun revival",
+        "title": "last chance"
+    },
+    {
+        "artist": "red sun revival",
+        "title": "premonition"
+    },
+    {
+        "artist": "red sun revival",
+        "title": "fade in time"
+    },
+    {
+        "artist": "red sun revival",
+        "title": "echoes"
+    },
+    {
+        "artist": "red sun revival",
+        "title": "condemned part i"
+    },
+    {
+        "artist": "red sun revival",
+        "title": "condemned part ii"
+    },
+    {
+        "artist": "red sun revival",
+        "title": "the awakening"
+    },
+    {
+        "artist": "muricidae",
+        "title": "away [pk]"
+    },
+    {
+        "artist": "bouquiniste",
+        "title": "n.n.n"
+    },
+    {
+        "artist": "stasis device",
+        "title": "collective (to russia with love mix)"
+    },
+    {
+        "artist": "velvet acid christ",
+        "title": "eye h8 u (decoded feedback mix)"
+    },
+    {
+        "artist": "velvet acid christ",
+        "title": "sex disease (2014 mix)"
+    },
+    {
+        "artist": "atiq & enk",
+        "title": "dandelion"
+    },
+    {
+        "artist": "cocteau twins",
+        "title": "blue bell knoll"
+    },
+    {
+        "artist": "brian eno",
+        "title": "bell improvisation 2"
+    },
+    {
+        "artist": "chromatics",
+        "title": "bell"
+    },
+    {
+        "artist": "dead can dance",
+        "title": "as the bell rings the maypole spins"
+    },
+    {
+        "artist": "brian eno",
+        "title": "lithuanian bell study"
+    },
+    {
+        "artist": "love spirals downwards",
+        "title": "sunset bell"
+    },
+    {
+        "artist": "muricidae",
+        "title": "away [pk]"
+    }
+]

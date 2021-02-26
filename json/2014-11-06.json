@@ -1,143 +1,138 @@
-{
-    "title": "Listopad 2014",
-    "filename": "listopad-2014",
-    "date": "2014-11",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "craig armstrong",
-            "title": "désolé"
-        },
-        {
-            "artist": "vaniish",
-            "title": "succession"
-        },
-        {
-            "artist": "craig armstrong",
-            "title": "dust [pk]"
-        },
-        {
-            "artist": "chandeen",
-            "title": "in distant sunset light"
-        },
-        {
-            "artist": "chandeen",
-            "title": "the wild unknown"
-        },
-        {
-            "artist": "qntal",
-            "title": "flaming drake"
-        },
-        {
-            "artist": "qntal",
-            "title": "by the light of the moon"
-        },
-        {
-            "artist": "lisa gerrard",
-            "title": "space weaver"
-        },
-        {
-            "artist": "the birthday massacre",
-            "title": "nowhere"
-        },
-        {
-            "artist": "the birthday massacre",
-            "title": "red stars (space lab mix by dean garcia)"
-        },
-        {
-            "artist": "declasse",
-            "title": "blend into grey"
-        },
-        {
-            "artist": "the new division",
-            "title": "opium"
-        },
-        {
-            "artist": "torul",
-            "title": "the fall"
-        },
-        {
-            "artist": "pieter nooten",
-            "title": "lo down valley"
-        },
-        {
-            "artist": "pieter nooten",
-            "title": "london requiem"
-        },
-        {
-            "artist": "craig armstrong",
-            "title": "dust [pk]"
-        },
-        {
-            "artist": "pink turns blue",
-            "title": "your master is calling"
-        },
-        {
-            "artist": "the mary onettes",
-            "title": "lost"
-        },
-        {
-            "artist": "lakeside x",
-            "title": "mystic highway"
-        },
-        {
-            "artist": "lakeside x",
-            "title": "ultraviolet"
-        },
-        {
-            "artist": "the beauty of gemina",
-            "title": "obscure"
-        },
-        {
-            "artist": "the floating tree",
-            "title": "the floating tree"
-        },
-        {
-            "artist": "brendan perry",
-            "title": "wintersun"
-        },
-        {
-            "artist": "zentriert ins antlitz",
-            "title": "where their dreams live"
-        },
-        {
-            "artist": "leather strip",
-            "title": "walking on volcanos"
-        },
-        {
-            "artist": "stendeck",
-            "title": "catch the midnight girl"
-        },
-        {
-            "artist": "front line assembly",
-            "title": "airmech"
-        },
-        {
-            "artist": ":wumpscut:",
-            "title": "madman szpital"
-        },
-        {
-            "artist": ":wumpscut:",
-            "title": "rtl hariti"
-        },
-        {
-            "artist": "craig armstrong",
-            "title": "dust [pk]"
-        },
-        {
-            "artist": "adoration",
-            "title": "sleepwalking"
-        },
-        {
-            "artist": "red sun revival",
-            "title": "last chance"
-        },
-        {
-            "artist": "the eden house",
-            "title": "all my love"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "craig armstrong",
+        "title": "désolé"
+    },
+    {
+        "artist": "vaniish",
+        "title": "succession"
+    },
+    {
+        "artist": "craig armstrong",
+        "title": "dust [pk]"
+    },
+    {
+        "artist": "chandeen",
+        "title": "in distant sunset light"
+    },
+    {
+        "artist": "chandeen",
+        "title": "the wild unknown"
+    },
+    {
+        "artist": "qntal",
+        "title": "flaming drake"
+    },
+    {
+        "artist": "qntal",
+        "title": "by the light of the moon"
+    },
+    {
+        "artist": "lisa gerrard",
+        "title": "space weaver"
+    },
+    {
+        "artist": "the birthday massacre",
+        "title": "nowhere"
+    },
+    {
+        "artist": "the birthday massacre",
+        "title": "red stars (space lab mix by dean garcia)"
+    },
+    {
+        "artist": "declasse",
+        "title": "blend into grey"
+    },
+    {
+        "artist": "the new division",
+        "title": "opium"
+    },
+    {
+        "artist": "torul",
+        "title": "the fall"
+    },
+    {
+        "artist": "pieter nooten",
+        "title": "lo down valley"
+    },
+    {
+        "artist": "pieter nooten",
+        "title": "london requiem"
+    },
+    {
+        "artist": "craig armstrong",
+        "title": "dust [pk]"
+    },
+    {
+        "artist": "pink turns blue",
+        "title": "your master is calling"
+    },
+    {
+        "artist": "the mary onettes",
+        "title": "lost"
+    },
+    {
+        "artist": "lakeside x",
+        "title": "mystic highway"
+    },
+    {
+        "artist": "lakeside x",
+        "title": "ultraviolet"
+    },
+    {
+        "artist": "the beauty of gemina",
+        "title": "obscure"
+    },
+    {
+        "artist": "the floating tree",
+        "title": "the floating tree"
+    },
+    {
+        "artist": "brendan perry",
+        "title": "wintersun"
+    },
+    {
+        "artist": "zentriert ins antlitz",
+        "title": "where their dreams live"
+    },
+    {
+        "artist": "leather strip",
+        "title": "walking on volcanos"
+    },
+    {
+        "artist": "stendeck",
+        "title": "catch the midnight girl"
+    },
+    {
+        "artist": "front line assembly",
+        "title": "airmech"
+    },
+    {
+        "artist": ":wumpscut:",
+        "title": "madman szpital"
+    },
+    {
+        "artist": ":wumpscut:",
+        "title": "rtl hariti"
+    },
+    {
+        "artist": "craig armstrong",
+        "title": "dust [pk]"
+    },
+    {
+        "artist": "adoration",
+        "title": "sleepwalking"
+    },
+    {
+        "artist": "red sun revival",
+        "title": "last chance"
+    },
+    {
+        "artist": "the eden house",
+        "title": "all my love"
+    }
+]

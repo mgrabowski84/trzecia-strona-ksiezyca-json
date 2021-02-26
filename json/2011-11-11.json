@@ -1,179 +1,174 @@
-{
-    "title": "Listopad 2011",
-    "filename": "listopad-2011",
-    "date": "2011-11",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "camouflage",
-            "title": "winter"
-        },
-        {
-            "artist": "claire voyant",
-            "title": "24 years"
-        },
-        {
-            "artist": "in the nursery",
-            "title": "vantage"
-        },
-        {
-            "artist": "ulterioir",
-            "title": "catherine"
-        },
-        {
-            "artist": "descendants of cain",
-            "title": "this house (pk)"
-        },
-        {
-            "artist": "peter murphy",
-            "title": "gaslit"
-        },
-        {
-            "artist": "peter murphy",
-            "title": "seesaw sway"
-        },
-        {
-            "artist": "the new division",
-            "title": "munich"
-        },
-        {
-            "artist": "the new division",
-            "title": "true lies"
-        },
-        {
-            "artist": "m83",
-            "title": "another wave for you"
-        },
-        {
-            "artist": "m83",
-            "title": "wait"
-        },
-        {
-            "artist": "das moon",
-            "title": "smoke"
-        },
-        {
-            "artist": "das moon",
-            "title": "in dependence"
-        },
-        {
-            "artist": "deathcanp project",
-            "title": "predestination"
-        },
-        {
-            "artist": "deathcanp project",
-            "title": "kłamać"
-        },
-        {
-            "artist": "lisa cuthbert",
-            "title": "storm coming on"
-        },
-        {
-            "artist": "descendants of cain",
-            "title": "this house (pk)"
-        },
-        {
-            "artist": "arcana",
-            "title": "lost in time"
-        },
-        {
-            "artist": "silence",
-            "title": "the rain"
-        },
-        {
-            "artist": "cryo",
-            "title": "first light"
-        },
-        {
-            "artist": "skinny puppy",
-            "title": "wavy"
-        },
-        {
-            "artist": "skinny puppy",
-            "title": "vyrisus"
-        },
-        {
-            "artist": "7jk sieben vs job karma",
-            "title": "krau"
-        },
-        {
-            "artist": "astrid monroe",
-            "title": "sunglasses"
-        },
-        {
-            "artist": "juno reactor",
-            "title": "angels and men"
-        },
-        {
-            "artist": "ultravox",
-            "title": "hymn"
-        },
-        {
-            "artist": "kirlian camera",
-            "title": "hymn"
-        },
-        {
-            "artist": "mila mar",
-            "title": "maid of orleans"
-        },
-        {
-            "artist": "das moon",
-            "title": "das model"
-        },
-        {
-            "artist": "apoptygma berzerk",
-            "title": "love will tear us apart"
-        },
-        {
-            "artist": "hussey / regan",
-            "title": "enjoy the silence"
-        },
-        {
-            "artist": "depeche mode",
-            "title": "enjoy the silence"
-        },
-        {
-            "artist": "eva",
-            "title": "plastic passion"
-        },
-        {
-            "artist": "hatestory",
-            "title": "monumentalny"
-        },
-        {
-            "artist": "jesus rodriguez",
-            "title": "kosmiczna pustka"
-        },
-        {
-            "artist": "cabaret grey",
-            "title": "the reason"
-        },
-        {
-            "artist": "schisolation",
-            "title": "uroboros"
-        },
-        {
-            "artist": "digital angel",
-            "title": "not the first"
-        },
-        {
-            "artist": "digital angel",
-            "title": "again"
-        },
-        {
-            "artist": "negradonna",
-            "title": "kościół cierpienia"
-        },
-        {
-            "artist": "negradonna",
-            "title": "wskrzeszona rozgrzeszona"
-        },
-        {
-            "artist": "descendants of cain",
-            "title": "this house (pk)"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "camouflage",
+        "title": "winter"
+    },
+    {
+        "artist": "claire voyant",
+        "title": "24 years"
+    },
+    {
+        "artist": "in the nursery",
+        "title": "vantage"
+    },
+    {
+        "artist": "ulterioir",
+        "title": "catherine"
+    },
+    {
+        "artist": "descendants of cain",
+        "title": "this house (pk)"
+    },
+    {
+        "artist": "peter murphy",
+        "title": "gaslit"
+    },
+    {
+        "artist": "peter murphy",
+        "title": "seesaw sway"
+    },
+    {
+        "artist": "the new division",
+        "title": "munich"
+    },
+    {
+        "artist": "the new division",
+        "title": "true lies"
+    },
+    {
+        "artist": "m83",
+        "title": "another wave for you"
+    },
+    {
+        "artist": "m83",
+        "title": "wait"
+    },
+    {
+        "artist": "das moon",
+        "title": "smoke"
+    },
+    {
+        "artist": "das moon",
+        "title": "in dependence"
+    },
+    {
+        "artist": "deathcanp project",
+        "title": "predestination"
+    },
+    {
+        "artist": "deathcanp project",
+        "title": "kłamać"
+    },
+    {
+        "artist": "lisa cuthbert",
+        "title": "storm coming on"
+    },
+    {
+        "artist": "descendants of cain",
+        "title": "this house (pk)"
+    },
+    {
+        "artist": "arcana",
+        "title": "lost in time"
+    },
+    {
+        "artist": "silence",
+        "title": "the rain"
+    },
+    {
+        "artist": "cryo",
+        "title": "first light"
+    },
+    {
+        "artist": "skinny puppy",
+        "title": "wavy"
+    },
+    {
+        "artist": "skinny puppy",
+        "title": "vyrisus"
+    },
+    {
+        "artist": "7jk sieben vs job karma",
+        "title": "krau"
+    },
+    {
+        "artist": "astrid monroe",
+        "title": "sunglasses"
+    },
+    {
+        "artist": "juno reactor",
+        "title": "angels and men"
+    },
+    {
+        "artist": "ultravox",
+        "title": "hymn"
+    },
+    {
+        "artist": "kirlian camera",
+        "title": "hymn"
+    },
+    {
+        "artist": "mila mar",
+        "title": "maid of orleans"
+    },
+    {
+        "artist": "das moon",
+        "title": "das model"
+    },
+    {
+        "artist": "apoptygma berzerk",
+        "title": "love will tear us apart"
+    },
+    {
+        "artist": "hussey / regan",
+        "title": "enjoy the silence"
+    },
+    {
+        "artist": "depeche mode",
+        "title": "enjoy the silence"
+    },
+    {
+        "artist": "eva",
+        "title": "plastic passion"
+    },
+    {
+        "artist": "hatestory",
+        "title": "monumentalny"
+    },
+    {
+        "artist": "jesus rodriguez",
+        "title": "kosmiczna pustka"
+    },
+    {
+        "artist": "cabaret grey",
+        "title": "the reason"
+    },
+    {
+        "artist": "schisolation",
+        "title": "uroboros"
+    },
+    {
+        "artist": "digital angel",
+        "title": "not the first"
+    },
+    {
+        "artist": "digital angel",
+        "title": "again"
+    },
+    {
+        "artist": "negradonna",
+        "title": "kościół cierpienia"
+    },
+    {
+        "artist": "negradonna",
+        "title": "wskrzeszona rozgrzeszona"
+    },
+    {
+        "artist": "descendants of cain",
+        "title": "this house (pk)"
+    }
+]

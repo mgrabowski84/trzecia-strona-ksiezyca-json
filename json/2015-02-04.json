@@ -1,179 +1,174 @@
-{
-    "title": "Luty 2015",
-    "filename": "luty-2015",
-    "date": "2015-02",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "the sisters of mercy",
-            "title": "lucretia my reflection"
-        },
-        {
-            "artist": "new canyons",
-            "title": "everyone is dark"
-        },
-        {
-            "artist": "midge ure",
-            "title": "are we connected [pk]"
-        },
-        {
-            "artist": "agent side grinder",
-            "title": "look within"
-        },
-        {
-            "artist": "agent side grinder",
-            "title": "wolf hour"
-        },
-        {
-            "artist": "ritual howls",
-            "title": "take me up"
-        },
-        {
-            "artist": "ritual howls",
-            "title": "helm"
-        },
-        {
-            "artist": "nfd",
-            "title": "the silence of the angels"
-        },
-        {
-            "artist": "laibach",
-            "title": "warszawskie dzieci"
-        },
-        {
-            "artist": "laibach",
-            "title": "zog nit keyn mol"
-        },
-        {
-            "artist": "deine lakaien",
-            "title": "nevermore"
-        },
-        {
-            "artist": "deine lakaien",
-            "title": "why the stars"
-        },
-        {
-            "artist": "deine lakaien",
-            "title": "contact"
-        },
-        {
-            "artist": "god's bow",
-            "title": "aladiah"
-        },
-        {
-            "artist": "god's bow",
-            "title": "profounder"
-        },
-        {
-            "artist": "god's bow",
-            "title": "fueled by sound"
-        },
-        {
-            "artist": "das moon",
-            "title": "violent lullaby"
-        },
-        {
-            "artist": "das moon",
-            "title": "junkie"
-        },
-        {
-            "artist": "das moon",
-            "title": "not a happy song"
-        },
-        {
-            "artist": "hidden by ivy",
-            "title": "cold summer day"
-        },
-        {
-            "artist": "midge ure",
-            "title": "are we connected [pk]"
-        },
-        {
-            "artist": "dreissk",
-            "title": "way out"
-        },
-        {
-            "artist": "the empath",
-            "title": "trackology (special derivative)"
-        },
-        {
-            "artist": "multicolor",
-            "title": "a special moment (remix by lights out asia)"
-        },
-        {
-            "artist": "lights out asia",
-            "title": "they disappear into the palms"
-        },
-        {
-            "artist": "tonikom",
-            "title": "dark hand"
-        },
-        {
-            "artist": "tonikom",
-            "title": "motomeru"
-        },
-        {
-            "artist": "atiq & enk",
-            "title": "revival"
-        },
-        {
-            "artist": "midge ure",
-            "title": "are we connected [pk]"
-        },
-        {
-            "artist": "dead when i found her",
-            "title": "in the air tonight"
-        },
-        {
-            "artist": "twice a man",
-            "title": "decay"
-        },
-        {
-            "artist": "leaether strip",
-            "title": "decay"
-        },
-        {
-            "artist": "depeche mode",
-            "title": "satellite"
-        },
-        {
-            "artist": "marsheaux",
-            "title": "satellite"
-        },
-        {
-            "artist": "the dreamside",
-            "title": "walking in my shoes"
-        },
-        {
-            "artist": "bella morte",
-            "title": "never let me down again"
-        },
-        {
-            "artist": "unto ashes",
-            "title": "fly on the windscreen"
-        },
-        {
-            "artist": "unto ashes",
-            "title": "heartland"
-        },
-        {
-            "artist": "the sisters of mercy",
-            "title": "heartland"
-        },
-        {
-            "artist": "unto ashes",
-            "title": "the drowning man"
-        },
-        {
-            "artist": "the cure",
-            "title": "the drowning man"
-        },
-        {
-            "artist": "dead when i found her",
-            "title": "down in it"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "the sisters of mercy",
+        "title": "lucretia my reflection"
+    },
+    {
+        "artist": "new canyons",
+        "title": "everyone is dark"
+    },
+    {
+        "artist": "midge ure",
+        "title": "are we connected [pk]"
+    },
+    {
+        "artist": "agent side grinder",
+        "title": "look within"
+    },
+    {
+        "artist": "agent side grinder",
+        "title": "wolf hour"
+    },
+    {
+        "artist": "ritual howls",
+        "title": "take me up"
+    },
+    {
+        "artist": "ritual howls",
+        "title": "helm"
+    },
+    {
+        "artist": "nfd",
+        "title": "the silence of the angels"
+    },
+    {
+        "artist": "laibach",
+        "title": "warszawskie dzieci"
+    },
+    {
+        "artist": "laibach",
+        "title": "zog nit keyn mol"
+    },
+    {
+        "artist": "deine lakaien",
+        "title": "nevermore"
+    },
+    {
+        "artist": "deine lakaien",
+        "title": "why the stars"
+    },
+    {
+        "artist": "deine lakaien",
+        "title": "contact"
+    },
+    {
+        "artist": "god's bow",
+        "title": "aladiah"
+    },
+    {
+        "artist": "god's bow",
+        "title": "profounder"
+    },
+    {
+        "artist": "god's bow",
+        "title": "fueled by sound"
+    },
+    {
+        "artist": "das moon",
+        "title": "violent lullaby"
+    },
+    {
+        "artist": "das moon",
+        "title": "junkie"
+    },
+    {
+        "artist": "das moon",
+        "title": "not a happy song"
+    },
+    {
+        "artist": "hidden by ivy",
+        "title": "cold summer day"
+    },
+    {
+        "artist": "midge ure",
+        "title": "are we connected [pk]"
+    },
+    {
+        "artist": "dreissk",
+        "title": "way out"
+    },
+    {
+        "artist": "the empath",
+        "title": "trackology (special derivative)"
+    },
+    {
+        "artist": "multicolor",
+        "title": "a special moment (remix by lights out asia)"
+    },
+    {
+        "artist": "lights out asia",
+        "title": "they disappear into the palms"
+    },
+    {
+        "artist": "tonikom",
+        "title": "dark hand"
+    },
+    {
+        "artist": "tonikom",
+        "title": "motomeru"
+    },
+    {
+        "artist": "atiq & enk",
+        "title": "revival"
+    },
+    {
+        "artist": "midge ure",
+        "title": "are we connected [pk]"
+    },
+    {
+        "artist": "dead when i found her",
+        "title": "in the air tonight"
+    },
+    {
+        "artist": "twice a man",
+        "title": "decay"
+    },
+    {
+        "artist": "leaether strip",
+        "title": "decay"
+    },
+    {
+        "artist": "depeche mode",
+        "title": "satellite"
+    },
+    {
+        "artist": "marsheaux",
+        "title": "satellite"
+    },
+    {
+        "artist": "the dreamside",
+        "title": "walking in my shoes"
+    },
+    {
+        "artist": "bella morte",
+        "title": "never let me down again"
+    },
+    {
+        "artist": "unto ashes",
+        "title": "fly on the windscreen"
+    },
+    {
+        "artist": "unto ashes",
+        "title": "heartland"
+    },
+    {
+        "artist": "the sisters of mercy",
+        "title": "heartland"
+    },
+    {
+        "artist": "unto ashes",
+        "title": "the drowning man"
+    },
+    {
+        "artist": "the cure",
+        "title": "the drowning man"
+    },
+    {
+        "artist": "dead when i found her",
+        "title": "down in it"
+    }
+]

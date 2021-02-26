@@ -1,179 +1,174 @@
-{
-    "title": "Grudzień 2013",
-    "filename": "grudzien-2013",
-    "date": "2013-12",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "frozen autumn",
-            "title": "onyria"
-        },
-        {
-            "artist": "decades",
-            "title": "move me [pk]"
-        },
-        {
-            "artist": "decades",
-            "title": "old & aging"
-        },
-        {
-            "artist": "david lynch & lykke li",
-            "title": "i'm waiting here (pk listopada)"
-        },
-        {
-            "artist": "red sun revival",
-            "title": "last chance (pk stycznia)"
-        },
-        {
-            "artist": "red sun revival",
-            "title": "running from the dawn"
-        },
-        {
-            "artist": "ikon",
-            "title": "subversion (2013)"
-        },
-        {
-            "artist": "brotherhood",
-            "title": "a heartbeat away"
-        },
-        {
-            "artist": "brotherhood",
-            "title": "things i do at night"
-        },
-        {
-            "artist": "stupid bitch",
-            "title": "rejectbean niochain"
-        },
-        {
-            "artist": "little nemo",
-            "title": "discover"
-        },
-        {
-            "artist": "little nemo",
-            "title": "golden days"
-        },
-        {
-            "artist": "little nemo",
-            "title": "we love us"
-        },
-        {
-            "artist": "decades",
-            "title": "move me [pk]"
-        },
-        {
-            "artist": "breathless",
-            "title": "please be happy (pk lutego)"
-        },
-        {
-            "artist": "love is colder than death",
-            "title": "see the ways (pk marca)"
-        },
-        {
-            "artist": "the eden house",
-            "title": "butterflies (pk kwietnia)"
-        },
-        {
-            "artist": "leather strip",
-            "title": "serenade for the dead ii"
-        },
-        {
-            "artist": "atiq & enk",
-            "title": "moonlit tea party"
-        },
-        {
-            "artist": "wumpscut",
-            "title": "madman szpital"
-        },
-        {
-            "artist": "skinny puppy",
-            "title": "salvo"
-        },
-        {
-            "artist": "front line assembly",
-            "title": "blood"
-        },
-        {
-            "artist": "front line assembly",
-            "title": "exo"
-        },
-        {
-            "artist": "decades",
-            "title": "move me [pk]"
-        },
-        {
-            "artist": "mellonta tauta",
-            "title": "travel to the end (pk maja)"
-        },
-        {
-            "artist": "esben and the witch",
-            "title": "deathwaltz (pk czerwca)"
-        },
-        {
-            "artist": "weareoff",
-            "title": "as long as we remember (pk lipca)"
-        },
-        {
-            "artist": "vnv nation",
-            "title": "teleconnect pt. 1"
-        },
-        {
-            "artist": "laibach",
-            "title": "eurovision"
-        },
-        {
-            "artist": "laibach",
-            "title": "no history"
-        },
-        {
-            "artist": "die krupps",
-            "title": "robo sapien"
-        },
-        {
-            "artist": "alison moyet",
-            "title": "apple kisses (pk sierpnia)"
-        },
-        {
-            "artist": "alison moyet",
-            "title": "changeling"
-        },
-        {
-            "artist": "hearts of black science",
-            "title": "we saw the moon (pk września)"
-        },
-        {
-            "artist": "the mission",
-            "title": "swan song (pk października)"
-        },
-        {
-            "artist": "the mission",
-            "title": "litany for the faithful"
-        },
-        {
-            "artist": "the frozen autumn",
-            "title": "i'm coming from nowhere"
-        },
-        {
-            "artist": "plastique noir",
-            "title": "i'm coming from nowhere (tfa)"
-        },
-        {
-            "artist": "patenbrigade: wolff",
-            "title": "visionary landscapes (tfa)"
-        },
-        {
-            "artist": "go flamingo!",
-            "title": "when you are sad (tfa)"
-        },
-        {
-            "artist": "the frozen autumn",
-            "title": "when you are sad"
-        },
-        {
-            "artist": "white lies",
-            "title": "first time caller"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "frozen autumn",
+        "title": "onyria"
+    },
+    {
+        "artist": "decades",
+        "title": "move me [pk]"
+    },
+    {
+        "artist": "decades",
+        "title": "old & aging"
+    },
+    {
+        "artist": "david lynch & lykke li",
+        "title": "i'm waiting here (pk listopada)"
+    },
+    {
+        "artist": "red sun revival",
+        "title": "last chance (pk stycznia)"
+    },
+    {
+        "artist": "red sun revival",
+        "title": "running from the dawn"
+    },
+    {
+        "artist": "ikon",
+        "title": "subversion (2013)"
+    },
+    {
+        "artist": "brotherhood",
+        "title": "a heartbeat away"
+    },
+    {
+        "artist": "brotherhood",
+        "title": "things i do at night"
+    },
+    {
+        "artist": "stupid bitch",
+        "title": "rejectbean niochain"
+    },
+    {
+        "artist": "little nemo",
+        "title": "discover"
+    },
+    {
+        "artist": "little nemo",
+        "title": "golden days"
+    },
+    {
+        "artist": "little nemo",
+        "title": "we love us"
+    },
+    {
+        "artist": "decades",
+        "title": "move me [pk]"
+    },
+    {
+        "artist": "breathless",
+        "title": "please be happy (pk lutego)"
+    },
+    {
+        "artist": "love is colder than death",
+        "title": "see the ways (pk marca)"
+    },
+    {
+        "artist": "the eden house",
+        "title": "butterflies (pk kwietnia)"
+    },
+    {
+        "artist": "leather strip",
+        "title": "serenade for the dead ii"
+    },
+    {
+        "artist": "atiq & enk",
+        "title": "moonlit tea party"
+    },
+    {
+        "artist": "wumpscut",
+        "title": "madman szpital"
+    },
+    {
+        "artist": "skinny puppy",
+        "title": "salvo"
+    },
+    {
+        "artist": "front line assembly",
+        "title": "blood"
+    },
+    {
+        "artist": "front line assembly",
+        "title": "exo"
+    },
+    {
+        "artist": "decades",
+        "title": "move me [pk]"
+    },
+    {
+        "artist": "mellonta tauta",
+        "title": "travel to the end (pk maja)"
+    },
+    {
+        "artist": "esben and the witch",
+        "title": "deathwaltz (pk czerwca)"
+    },
+    {
+        "artist": "weareoff",
+        "title": "as long as we remember (pk lipca)"
+    },
+    {
+        "artist": "vnv nation",
+        "title": "teleconnect pt. 1"
+    },
+    {
+        "artist": "laibach",
+        "title": "eurovision"
+    },
+    {
+        "artist": "laibach",
+        "title": "no history"
+    },
+    {
+        "artist": "die krupps",
+        "title": "robo sapien"
+    },
+    {
+        "artist": "alison moyet",
+        "title": "apple kisses (pk sierpnia)"
+    },
+    {
+        "artist": "alison moyet",
+        "title": "changeling"
+    },
+    {
+        "artist": "hearts of black science",
+        "title": "we saw the moon (pk września)"
+    },
+    {
+        "artist": "the mission",
+        "title": "swan song (pk października)"
+    },
+    {
+        "artist": "the mission",
+        "title": "litany for the faithful"
+    },
+    {
+        "artist": "the frozen autumn",
+        "title": "i'm coming from nowhere"
+    },
+    {
+        "artist": "plastique noir",
+        "title": "i'm coming from nowhere (tfa)"
+    },
+    {
+        "artist": "patenbrigade: wolff",
+        "title": "visionary landscapes (tfa)"
+    },
+    {
+        "artist": "go flamingo!",
+        "title": "when you are sad (tfa)"
+    },
+    {
+        "artist": "the frozen autumn",
+        "title": "when you are sad"
+    },
+    {
+        "artist": "white lies",
+        "title": "first time caller"
+    }
+]

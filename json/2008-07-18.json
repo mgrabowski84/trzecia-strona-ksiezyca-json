@@ -1,135 +1,130 @@
-{
-    "title": "Lipiec 2008",
-    "filename": "lipiec-2008",
-    "date": "2008-07",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "the birthday massacre",
-            "title": "nowhere"
-        },
-        {
-            "artist": "the birthday massacre",
-            "title": "red stars (space lab mix)"
-        },
-        {
-            "artist": "peter murphy",
-            "title": "emergency unit"
-        },
-        {
-            "artist": "deine lakaien",
-            "title": "where you are (pk)"
-        },
-        {
-            "artist": "marc almond with michael cashmore",
-            "title": "the lunatic lover"
-        },
-        {
-            "artist": "marc almond with michael cashmore",
-            "title": "gabriel"
-        },
-        {
-            "artist": "m83",
-            "title": "couleurs"
-        },
-        {
-            "artist": "m83",
-            "title": "graveyard girls"
-        },
-        {
-            "artist": "declasse",
-            "title": "she's a raver"
-        },
-        {
-            "artist": "melody klyman",
-            "title": "sovereign"
-        },
-        {
-            "artist": "melody klyman",
-            "title": "never stay away"
-        },
-        {
-            "artist": "lunascape",
-            "title": "into the core"
-        },
-        {
-            "artist": "juno reactor",
-            "title": "the perfect crime (superman)"
-        },
-        {
-            "artist": "sitd",
-            "title": "reincarnation"
-        },
-        {
-            "artist": "in strict confidence",
-            "title": "promised land"
-        },
-        {
-            "artist": "fading colours feat. anne clarck",
-            "title": "eveline"
-        },
-        {
-            "artist": "anne clarck",
-            "title": "echoes remain forever"
-        },
-        {
-            "artist": "deine lakaien",
-            "title": "love me to the end"
-        },
-        {
-            "artist": "persephone",
-            "title": "merciless"
-        },
-        {
-            "artist": "ulrich schnauss",
-            "title": "in all the wrong places"
-        },
-        {
-            "artist": "juno reactor",
-            "title": "las vegas future past"
-        },
-        {
-            "artist": "juno reactor",
-            "title": "mind of the free"
-        },
-        {
-            "artist": "klaus schulze & lisa gerrard",
-            "title": "liquid coincidence 2"
-        },
-        {
-            "artist": "klaus schulze & lisa gerrard",
-            "title": "liquid coincidence 5"
-        },
-        {
-            "artist": "deine lakaien",
-            "title": "where you are (pk)"
-        },
-        {
-            "artist": "lunascape",
-            "title": "tears from the moon"
-        },
-        {
-            "artist": "conjure one feat. sinead o'connor",
-            "title": "tears from the moon"
-        },
-        {
-            "artist": "the edge feat. sinead o'connor",
-            "title": "heroine"
-        },
-        {
-            "artist": "the velvet underground",
-            "title": "all tomorrow's parties"
-        },
-        {
-            "artist": "icehouse",
-            "title": "all tomorrow's parties"
-        },
-        {
-            "artist": "marc almond feat. nico",
-            "title": "your kisses burn"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "the birthday massacre",
+        "title": "nowhere"
+    },
+    {
+        "artist": "the birthday massacre",
+        "title": "red stars (space lab mix)"
+    },
+    {
+        "artist": "peter murphy",
+        "title": "emergency unit"
+    },
+    {
+        "artist": "deine lakaien",
+        "title": "where you are (pk)"
+    },
+    {
+        "artist": "marc almond with michael cashmore",
+        "title": "the lunatic lover"
+    },
+    {
+        "artist": "marc almond with michael cashmore",
+        "title": "gabriel"
+    },
+    {
+        "artist": "m83",
+        "title": "couleurs"
+    },
+    {
+        "artist": "m83",
+        "title": "graveyard girls"
+    },
+    {
+        "artist": "declasse",
+        "title": "she's a raver"
+    },
+    {
+        "artist": "melody klyman",
+        "title": "sovereign"
+    },
+    {
+        "artist": "melody klyman",
+        "title": "never stay away"
+    },
+    {
+        "artist": "lunascape",
+        "title": "into the core"
+    },
+    {
+        "artist": "juno reactor",
+        "title": "the perfect crime (superman)"
+    },
+    {
+        "artist": "sitd",
+        "title": "reincarnation"
+    },
+    {
+        "artist": "in strict confidence",
+        "title": "promised land"
+    },
+    {
+        "artist": "fading colours feat. anne clarck",
+        "title": "eveline"
+    },
+    {
+        "artist": "anne clarck",
+        "title": "echoes remain forever"
+    },
+    {
+        "artist": "deine lakaien",
+        "title": "love me to the end"
+    },
+    {
+        "artist": "persephone",
+        "title": "merciless"
+    },
+    {
+        "artist": "ulrich schnauss",
+        "title": "in all the wrong places"
+    },
+    {
+        "artist": "juno reactor",
+        "title": "las vegas future past"
+    },
+    {
+        "artist": "juno reactor",
+        "title": "mind of the free"
+    },
+    {
+        "artist": "klaus schulze & lisa gerrard",
+        "title": "liquid coincidence 2"
+    },
+    {
+        "artist": "klaus schulze & lisa gerrard",
+        "title": "liquid coincidence 5"
+    },
+    {
+        "artist": "deine lakaien",
+        "title": "where you are (pk)"
+    },
+    {
+        "artist": "lunascape",
+        "title": "tears from the moon"
+    },
+    {
+        "artist": "conjure one feat. sinead o'connor",
+        "title": "tears from the moon"
+    },
+    {
+        "artist": "the edge feat. sinead o'connor",
+        "title": "heroine"
+    },
+    {
+        "artist": "the velvet underground",
+        "title": "all tomorrow's parties"
+    },
+    {
+        "artist": "icehouse",
+        "title": "all tomorrow's parties"
+    },
+    {
+        "artist": "marc almond feat. nico",
+        "title": "your kisses burn"
+    }
+]

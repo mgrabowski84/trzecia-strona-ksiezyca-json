@@ -1,167 +1,162 @@
-{
-    "title": "Lipiec 2007 II",
-    "filename": "lipiec-2007-ii",
-    "date": "2007-07",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "the stranglers",
-            "title": "midnight summer dream"
-        },
-        {
-            "artist": "lounge",
-            "title": "everyday (acoustic version)"
-        },
-        {
-            "artist": "delerium",
-            "title": "extollere (pk)"
-        },
-        {
-            "artist": "deine lakaien",
-            "title": "lonely"
-        },
-        {
-            "artist": "iamx",
-            "title": "mercy"
-        },
-        {
-            "artist": "iamx",
-            "title": "i like pretending"
-        },
-        {
-            "artist": "mortiis",
-            "title": "everyone leaves"
-        },
-        {
-            "artist": "pink turns blue",
-            "title": "last day on earth"
-        },
-        {
-            "artist": "pink turns blue",
-            "title": "walk away"
-        },
-        {
-            "artist": "delerium",
-            "title": "extollere (pk)"
-        },
-        {
-            "artist": "the sisters of mercy",
-            "title": "marian"
-        },
-        {
-            "artist": "clan of xymox",
-            "title": "louise"
-        },
-        {
-            "artist": "handfull of snowdrops",
-            "title": "gabriele"
-        },
-        {
-            "artist": "soul in isolation",
-            "title": "evelyn"
-        },
-        {
-            "artist": "deine lakaien",
-            "title": "generators"
-        },
-        {
-            "artist": "deine lakaien",
-            "title": "mindmachine"
-        },
-        {
-            "artist": "deine lakaien",
-            "title": "love me to the end"
-        },
-        {
-            "artist": "vnv nation",
-            "title": "endless skies"
-        },
-        {
-            "artist": "vnv nation",
-            "title": "holding on"
-        },
-        {
-            "artist": "delerium",
-            "title": "extollere (pk)"
-        },
-        {
-            "artist": "front line assembly",
-            "title": "existance"
-        },
-        {
-            "artist": "download",
-            "title": "uhm"
-        },
-        {
-            "artist": "download",
-            "title": "neuron proper"
-        },
-        {
-            "artist": "skinny puppy",
-            "title": "blood"
-        },
-        {
-            "artist": "front line assembly",
-            "title": "electrocution"
-        },
-        {
-            "artist": "cocteau twins",
-            "title": "the thinner the air"
-        },
-        {
-            "artist": "trance to the sun",
-            "title": "the thinner the air"
-        },
-        {
-            "artist": "faith and disease",
-            "title": "amelia"
-        },
-        {
-            "artist": "jennifer hope",
-            "title": "seekers who are lovers"
-        },
-        {
-            "artist": "delerium",
-            "title": "extollere (pk)"
-        },
-        {
-            "artist": "gods own medicine",
-            "title": "train of thoughts"
-        },
-        {
-            "artist": "daimonion",
-            "title": "wiatr"
-        },
-        {
-            "artist": "usta bilizowane",
-            "title": "on"
-        },
-        {
-            "artist": "usta bilizowane",
-            "title": "spin"
-        },
-        {
-            "artist": "iceberg",
-            "title": "frosty frog"
-        },
-        {
-            "artist": "bazooka joe",
-            "title": "soldier`s song (part 1 & 2)"
-        },
-        {
-            "artist": "and also the trees",
-            "title": "in my house"
-        },
-        {
-            "artist": "and also the trees",
-            "title": "paradiso"
-        },
-        {
-            "artist": "the danse society",
-            "title": "the theme (new version)"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "the stranglers",
+        "title": "midnight summer dream"
+    },
+    {
+        "artist": "lounge",
+        "title": "everyday (acoustic version)"
+    },
+    {
+        "artist": "delerium",
+        "title": "extollere (pk)"
+    },
+    {
+        "artist": "deine lakaien",
+        "title": "lonely"
+    },
+    {
+        "artist": "iamx",
+        "title": "mercy"
+    },
+    {
+        "artist": "iamx",
+        "title": "i like pretending"
+    },
+    {
+        "artist": "mortiis",
+        "title": "everyone leaves"
+    },
+    {
+        "artist": "pink turns blue",
+        "title": "last day on earth"
+    },
+    {
+        "artist": "pink turns blue",
+        "title": "walk away"
+    },
+    {
+        "artist": "delerium",
+        "title": "extollere (pk)"
+    },
+    {
+        "artist": "the sisters of mercy",
+        "title": "marian"
+    },
+    {
+        "artist": "clan of xymox",
+        "title": "louise"
+    },
+    {
+        "artist": "handfull of snowdrops",
+        "title": "gabriele"
+    },
+    {
+        "artist": "soul in isolation",
+        "title": "evelyn"
+    },
+    {
+        "artist": "deine lakaien",
+        "title": "generators"
+    },
+    {
+        "artist": "deine lakaien",
+        "title": "mindmachine"
+    },
+    {
+        "artist": "deine lakaien",
+        "title": "love me to the end"
+    },
+    {
+        "artist": "vnv nation",
+        "title": "endless skies"
+    },
+    {
+        "artist": "vnv nation",
+        "title": "holding on"
+    },
+    {
+        "artist": "delerium",
+        "title": "extollere (pk)"
+    },
+    {
+        "artist": "front line assembly",
+        "title": "existance"
+    },
+    {
+        "artist": "download",
+        "title": "uhm"
+    },
+    {
+        "artist": "download",
+        "title": "neuron proper"
+    },
+    {
+        "artist": "skinny puppy",
+        "title": "blood"
+    },
+    {
+        "artist": "front line assembly",
+        "title": "electrocution"
+    },
+    {
+        "artist": "cocteau twins",
+        "title": "the thinner the air"
+    },
+    {
+        "artist": "trance to the sun",
+        "title": "the thinner the air"
+    },
+    {
+        "artist": "faith and disease",
+        "title": "amelia"
+    },
+    {
+        "artist": "jennifer hope",
+        "title": "seekers who are lovers"
+    },
+    {
+        "artist": "delerium",
+        "title": "extollere (pk)"
+    },
+    {
+        "artist": "gods own medicine",
+        "title": "train of thoughts"
+    },
+    {
+        "artist": "daimonion",
+        "title": "wiatr"
+    },
+    {
+        "artist": "usta bilizowane",
+        "title": "on"
+    },
+    {
+        "artist": "usta bilizowane",
+        "title": "spin"
+    },
+    {
+        "artist": "iceberg",
+        "title": "frosty frog"
+    },
+    {
+        "artist": "bazooka joe",
+        "title": "soldier`s song (part 1 & 2)"
+    },
+    {
+        "artist": "and also the trees",
+        "title": "in my house"
+    },
+    {
+        "artist": "and also the trees",
+        "title": "paradiso"
+    },
+    {
+        "artist": "the danse society",
+        "title": "the theme (new version)"
+    }
+]

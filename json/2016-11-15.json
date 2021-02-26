@@ -1,179 +1,174 @@
-{
-    "title": "Listopad 2016",
-    "filename": "listopad-2016",
-    "date": "2016-11",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "camouflage",
-            "title": "winter"
-        },
-        {
-            "artist": "delerium",
-            "title": "blue fires"
-        },
-        {
-            "artist": "autumn's grey solace",
-            "title": "sláhhyll (pk)"
-        },
-        {
-            "artist": "the mission",
-            "title": "love me to death"
-        },
-        {
-            "artist": "the mission",
-            "title": "island in the stream"
-        },
-        {
-            "artist": "rome",
-            "title": "cities of asylum"
-        },
-        {
-            "artist": "rome",
-            "title": "fanfanfan"
-        },
-        {
-            "artist": "the beauty of gemina",
-            "title": "close to the fire"
-        },
-        {
-            "artist": "geometric vision",
-            "title": "black heaven"
-        },
-        {
-            "artist": "geometric vision",
-            "title": "the last breath before daylight"
-        },
-        {
-            "artist": "soft kill",
-            "title": "choke"
-        },
-        {
-            "artist": "soft kill",
-            "title": "whirl"
-        },
-        {
-            "artist": "double echo",
-            "title": "rural"
-        },
-        {
-            "artist": "covenant",
-            "title": "dies irae"
-        },
-        {
-            "artist": "covenant",
-            "title": "morning star"
-        },
-        {
-            "artist": "symbion project",
-            "title": "napoleon (feat. melissa r kaplan)"
-        },
-        {
-            "artist": "black nail cabaret",
-            "title": "descent"
-        },
-        {
-            "artist": "black needle noise",
-            "title": "the kind of road"
-        },
-        {
-            "artist": "metus",
-            "title": "a niebo jest atramentowe"
-        },
-        {
-            "artist": "metus",
-            "title": "i close my eyes"
-        },
-        {
-            "artist": "unheilig",
-            "title": "für alle zeit"
-        },
-        {
-            "artist": "autumn's grey solace",
-            "title": "sláhhyll (pk)"
-        },
-        {
-            "artist": "zoar",
-            "title": "the passing of a plague"
-        },
-        {
-            "artist": "disharmony",
-            "title": "spectres"
-        },
-        {
-            "artist": "disharmony",
-            "title": "fragments of time"
-        },
-        {
-            "artist": "disharmony",
-            "title": "moonstone"
-        },
-        {
-            "artist": "dead when i found her",
-            "title": "high anxiety"
-        },
-        {
-            "artist": "dead when i found her",
-            "title": "unsolved history"
-        },
-        {
-            "artist": "rlyeh1",
-            "title": "out there in the dark"
-        },
-        {
-            "artist": "killing joke",
-            "title": "four stations of the sun (hallucinogen remix)"
-        },
-        {
-            "artist": "killing joke",
-            "title": "turn to red"
-        },
-        {
-            "artist": "killing joke",
-            "title": "requiem"
-        },
-        {
-            "artist": "killing joke",
-            "title": "darkness before dawn"
-        },
-        {
-            "artist": "killing joke",
-            "title": "love like blood (gestalt mix)"
-        },
-        {
-            "artist": "killing joke",
-            "title": "europe"
-        },
-        {
-            "artist": "killing joke",
-            "title": "eighties"
-        },
-        {
-            "artist": "killing joke",
-            "title": "adorations"
-        },
-        {
-            "artist": "killing joke",
-            "title": "sanity"
-        },
-        {
-            "artist": "killing joke",
-            "title": "america"
-        },
-        {
-            "artist": "autumn's grey solace",
-            "title": "slahhyll (pk)"
-        },
-        {
-            "artist": "trentemoller",
-            "title": "november"
-        },
-        {
-            "artist": "craig armstrong",
-            "title": "november"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "camouflage",
+        "title": "winter"
+    },
+    {
+        "artist": "delerium",
+        "title": "blue fires"
+    },
+    {
+        "artist": "autumn's grey solace",
+        "title": "sláhhyll (pk)"
+    },
+    {
+        "artist": "the mission",
+        "title": "love me to death"
+    },
+    {
+        "artist": "the mission",
+        "title": "island in the stream"
+    },
+    {
+        "artist": "rome",
+        "title": "cities of asylum"
+    },
+    {
+        "artist": "rome",
+        "title": "fanfanfan"
+    },
+    {
+        "artist": "the beauty of gemina",
+        "title": "close to the fire"
+    },
+    {
+        "artist": "geometric vision",
+        "title": "black heaven"
+    },
+    {
+        "artist": "geometric vision",
+        "title": "the last breath before daylight"
+    },
+    {
+        "artist": "soft kill",
+        "title": "choke"
+    },
+    {
+        "artist": "soft kill",
+        "title": "whirl"
+    },
+    {
+        "artist": "double echo",
+        "title": "rural"
+    },
+    {
+        "artist": "covenant",
+        "title": "dies irae"
+    },
+    {
+        "artist": "covenant",
+        "title": "morning star"
+    },
+    {
+        "artist": "symbion project",
+        "title": "napoleon (feat. melissa r kaplan)"
+    },
+    {
+        "artist": "black nail cabaret",
+        "title": "descent"
+    },
+    {
+        "artist": "black needle noise",
+        "title": "the kind of road"
+    },
+    {
+        "artist": "metus",
+        "title": "a niebo jest atramentowe"
+    },
+    {
+        "artist": "metus",
+        "title": "i close my eyes"
+    },
+    {
+        "artist": "unheilig",
+        "title": "für alle zeit"
+    },
+    {
+        "artist": "autumn's grey solace",
+        "title": "sláhhyll (pk)"
+    },
+    {
+        "artist": "zoar",
+        "title": "the passing of a plague"
+    },
+    {
+        "artist": "disharmony",
+        "title": "spectres"
+    },
+    {
+        "artist": "disharmony",
+        "title": "fragments of time"
+    },
+    {
+        "artist": "disharmony",
+        "title": "moonstone"
+    },
+    {
+        "artist": "dead when i found her",
+        "title": "high anxiety"
+    },
+    {
+        "artist": "dead when i found her",
+        "title": "unsolved history"
+    },
+    {
+        "artist": "rlyeh1",
+        "title": "out there in the dark"
+    },
+    {
+        "artist": "killing joke",
+        "title": "four stations of the sun (hallucinogen remix)"
+    },
+    {
+        "artist": "killing joke",
+        "title": "turn to red"
+    },
+    {
+        "artist": "killing joke",
+        "title": "requiem"
+    },
+    {
+        "artist": "killing joke",
+        "title": "darkness before dawn"
+    },
+    {
+        "artist": "killing joke",
+        "title": "love like blood (gestalt mix)"
+    },
+    {
+        "artist": "killing joke",
+        "title": "europe"
+    },
+    {
+        "artist": "killing joke",
+        "title": "eighties"
+    },
+    {
+        "artist": "killing joke",
+        "title": "adorations"
+    },
+    {
+        "artist": "killing joke",
+        "title": "sanity"
+    },
+    {
+        "artist": "killing joke",
+        "title": "america"
+    },
+    {
+        "artist": "autumn's grey solace",
+        "title": "slahhyll (pk)"
+    },
+    {
+        "artist": "trentemoller",
+        "title": "november"
+    },
+    {
+        "artist": "craig armstrong",
+        "title": "november"
+    }
+]

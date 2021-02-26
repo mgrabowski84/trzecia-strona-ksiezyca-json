@@ -1,179 +1,174 @@
-{
-    "title": "Sierpień 2011",
-    "filename": "sierpien-2011",
-    "date": "2011-08",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "aya rl",
-            "title": "księżycowy krok"
-        },
-        {
-            "artist": "you shriek",
-            "title": "heaven & sorrow"
-        },
-        {
-            "artist": "agonised by love",
-            "title": "frozen in me (hungry lucy mix) pk"
-        },
-        {
-            "artist": "ice machine",
-            "title": "w mojej pamięci (room 21 version)"
-        },
-        {
-            "artist": "god's bow",
-            "title": "mosaic"
-        },
-        {
-            "artist": "god's bow",
-            "title": "this perfect time - remix by dark territory"
-        },
-        {
-            "artist": "mila mar",
-            "title": "in the name of - god's bow remix"
-        },
-        {
-            "artist": "common dream",
-            "title": "introvert"
-        },
-        {
-            "artist": "common dream",
-            "title": "save me"
-        },
-        {
-            "artist": "1984",
-            "title": "specjalny rodzaj kontrastu"
-        },
-        {
-            "artist": "variete",
-            "title": "i znów ktoś przestawił kamienie"
-        },
-        {
-            "artist": "klaus mitffoch",
-            "title": "strzeż się tych miejsc"
-        },
-        {
-            "artist": "republika",
-            "title": "obcy astronom"
-        },
-        {
-            "artist": "siekiera",
-            "title": "bez końca"
-        },
-        {
-            "artist": "siekiera",
-            "title": "ludzie wschodu"
-        },
-        {
-            "artist": "randez vous",
-            "title": "na skrzyżowaniu ulic"
-        },
-        {
-            "artist": "madame",
-            "title": "gdyby nie szerszenie"
-        },
-        {
-            "artist": "made in poland",
-            "title": "obraz we mgle"
-        },
-        {
-            "artist": "ziyo",
-            "title": "pod jednym niebem"
-        },
-        {
-            "artist": "ziyo",
-            "title": "nowe krajobrazy"
-        },
-        {
-            "artist": "agonised by love",
-            "title": "frozen in me (hungry lucy mix) pk"
-        },
-        {
-            "artist": "controlled collapse",
-            "title": "prisoner"
-        },
-        {
-            "artist": "undermathic",
-            "title": "it is me"
-        },
-        {
-            "artist": "haven",
-            "title": "no way to exit (modern city lament)"
-        },
-        {
-            "artist": "iceberg",
-            "title": "falling"
-        },
-        {
-            "artist": "haven",
-            "title": "wake up"
-        },
-        {
-            "artist": "iceberg",
-            "title": "7:25 pm"
-        },
-        {
-            "artist": "undermathic",
-            "title": "quantum theory"
-        },
-        {
-            "artist": "undermathic",
-            "title": "everything too late"
-        },
-        {
-            "artist": "black glass",
-            "title": "suffering part i"
-        },
-        {
-            "artist": "black glass",
-            "title": "private hell part i"
-        },
-        {
-            "artist": "black glass",
-            "title": "all the demons"
-        },
-        {
-            "artist": "black glass",
-            "title": "dry roses"
-        },
-        {
-            "artist": "agonised by love",
-            "title": "frozen in me (hungry lucy mix) pk"
-        },
-        {
-            "artist": "god's own medicine",
-            "title": "sacrilege"
-        },
-        {
-            "artist": "red emprez",
-            "title": "my possession"
-        },
-        {
-            "artist": "judy 4",
-            "title": "deconstruction"
-        },
-        {
-            "artist": "negradonna",
-            "title": "piekielna ewa"
-        },
-        {
-            "artist": "lily of the valley",
-            "title": "stagnant hours"
-        },
-        {
-            "artist": "split zone",
-            "title": "wspomnienia"
-        },
-        {
-            "artist": "split zone",
-            "title": "immortal"
-        },
-        {
-            "artist": "daimonion",
-            "title": "styks (długa podróż)"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "aya rl",
+        "title": "księżycowy krok"
+    },
+    {
+        "artist": "you shriek",
+        "title": "heaven & sorrow"
+    },
+    {
+        "artist": "agonised by love",
+        "title": "frozen in me (hungry lucy mix) pk"
+    },
+    {
+        "artist": "ice machine",
+        "title": "w mojej pamięci (room 21 version)"
+    },
+    {
+        "artist": "god's bow",
+        "title": "mosaic"
+    },
+    {
+        "artist": "god's bow",
+        "title": "this perfect time - remix by dark territory"
+    },
+    {
+        "artist": "mila mar",
+        "title": "in the name of - god's bow remix"
+    },
+    {
+        "artist": "common dream",
+        "title": "introvert"
+    },
+    {
+        "artist": "common dream",
+        "title": "save me"
+    },
+    {
+        "artist": "1984",
+        "title": "specjalny rodzaj kontrastu"
+    },
+    {
+        "artist": "variete",
+        "title": "i znów ktoś przestawił kamienie"
+    },
+    {
+        "artist": "klaus mitffoch",
+        "title": "strzeż się tych miejsc"
+    },
+    {
+        "artist": "republika",
+        "title": "obcy astronom"
+    },
+    {
+        "artist": "siekiera",
+        "title": "bez końca"
+    },
+    {
+        "artist": "siekiera",
+        "title": "ludzie wschodu"
+    },
+    {
+        "artist": "randez vous",
+        "title": "na skrzyżowaniu ulic"
+    },
+    {
+        "artist": "madame",
+        "title": "gdyby nie szerszenie"
+    },
+    {
+        "artist": "made in poland",
+        "title": "obraz we mgle"
+    },
+    {
+        "artist": "ziyo",
+        "title": "pod jednym niebem"
+    },
+    {
+        "artist": "ziyo",
+        "title": "nowe krajobrazy"
+    },
+    {
+        "artist": "agonised by love",
+        "title": "frozen in me (hungry lucy mix) pk"
+    },
+    {
+        "artist": "controlled collapse",
+        "title": "prisoner"
+    },
+    {
+        "artist": "undermathic",
+        "title": "it is me"
+    },
+    {
+        "artist": "haven",
+        "title": "no way to exit (modern city lament)"
+    },
+    {
+        "artist": "iceberg",
+        "title": "falling"
+    },
+    {
+        "artist": "haven",
+        "title": "wake up"
+    },
+    {
+        "artist": "iceberg",
+        "title": "7:25 pm"
+    },
+    {
+        "artist": "undermathic",
+        "title": "quantum theory"
+    },
+    {
+        "artist": "undermathic",
+        "title": "everything too late"
+    },
+    {
+        "artist": "black glass",
+        "title": "suffering part i"
+    },
+    {
+        "artist": "black glass",
+        "title": "private hell part i"
+    },
+    {
+        "artist": "black glass",
+        "title": "all the demons"
+    },
+    {
+        "artist": "black glass",
+        "title": "dry roses"
+    },
+    {
+        "artist": "agonised by love",
+        "title": "frozen in me (hungry lucy mix) pk"
+    },
+    {
+        "artist": "god's own medicine",
+        "title": "sacrilege"
+    },
+    {
+        "artist": "red emprez",
+        "title": "my possession"
+    },
+    {
+        "artist": "judy 4",
+        "title": "deconstruction"
+    },
+    {
+        "artist": "negradonna",
+        "title": "piekielna ewa"
+    },
+    {
+        "artist": "lily of the valley",
+        "title": "stagnant hours"
+    },
+    {
+        "artist": "split zone",
+        "title": "wspomnienia"
+    },
+    {
+        "artist": "split zone",
+        "title": "immortal"
+    },
+    {
+        "artist": "daimonion",
+        "title": "styks (długa podróż)"
+    }
+]

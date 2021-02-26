@@ -1,167 +1,162 @@
-{
-    "title": "Kwiecień 2008",
-    "filename": "kwiecien-2008",
-    "date": "2008-04",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "kirlian camera",
-            "title": "k-pax"
-        },
-        {
-            "artist": "chandeen",
-            "title": "welcome the still"
-        },
-        {
-            "artist": "the mary onettes",
-            "title": "slow (pk)"
-        },
-        {
-            "artist": "single gun theory",
-            "title": "motherland"
-        },
-        {
-            "artist": "chandeen",
-            "title": "looking forward, looking back"
-        },
-        {
-            "artist": "the mary onettes",
-            "title": "lost"
-        },
-        {
-            "artist": "pink turns blue",
-            "title": "can't be love"
-        },
-        {
-            "artist": "clan of xymox",
-            "title": "at your mercy"
-        },
-        {
-            "artist": "einsturzende neubauten",
-            "title": "youme & meyou"
-        },
-        {
-            "artist": "siderartica",
-            "title": "circle of the angels"
-        },
-        {
-            "artist": "spectra*paris",
-            "title": "size zero"
-        },
-        {
-            "artist": "siderartica",
-            "title": "seasons of the world"
-        },
-        {
-            "artist": "kirlian camera",
-            "title": "denied sky"
-        },
-        {
-            "artist": "spectra*paris",
-            "title": "spectra murder show"
-        },
-        {
-            "artist": "spectra*paris",
-            "title": "attaque au palais exotica"
-        },
-        {
-            "artist": "spectra*paris",
-            "title": "mad world"
-        },
-        {
-            "artist": "spectra*paris",
-            "title": "falsos suenos"
-        },
-        {
-            "artist": "spectra*paris",
-            "title": "frozen night"
-        },
-        {
-            "artist": "the mary onettes",
-            "title": "slow (pk)"
-        },
-        {
-            "artist": "hidden place",
-            "title": "picture hall"
-        },
-        {
-            "artist": "hidden place",
-            "title": "spazio zero (the frozen autumn rmx)"
-        },
-        {
-            "artist": "hotel de ville",
-            "title": "the richer, the poorer"
-        },
-        {
-            "artist": "hotel de ville",
-            "title": "in the moment"
-        },
-        {
-            "artist": "sentinel",
-            "title": "skylark"
-        },
-        {
-            "artist": "priscilla hernandez",
-            "title": "ahora que te has ido"
-        },
-        {
-            "artist": "priscilla hernandez",
-            "title": "i steal the leaves"
-        },
-        {
-            "artist": "priscilla hernandez",
-            "title": "but if you go"
-        },
-        {
-            "artist": "priscilla hernandez",
-            "title": "the realms of twilight"
-        },
-        {
-            "artist": "priscilla hernandez",
-            "title": "the voice of the night"
-        },
-        {
-            "artist": "priscilla hernandez",
-            "title": "the prince and the fairy"
-        },
-        {
-            "artist": "priscilla hernandez",
-            "title": "sueno muerto"
-        },
-        {
-            "artist": "the mary onettes",
-            "title": "slow (pk)"
-        },
-        {
-            "artist": "cold fusion and rukkanor",
-            "title": "yarkand"
-        },
-        {
-            "artist": "cold fusion and rukkanor",
-            "title": "gades"
-        },
-        {
-            "artist": "metus",
-            "title": "apeiron"
-        },
-        {
-            "artist": "metus",
-            "title": "adam's grief"
-        },
-        {
-            "artist": "[haven]",
-            "title": "byzantine melancholy"
-        },
-        {
-            "artist": "iceberg",
-            "title": "maladjusted loony"
-        },
-        {
-            "artist": "qntal",
-            "title": "sleeping"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "kirlian camera",
+        "title": "k-pax"
+    },
+    {
+        "artist": "chandeen",
+        "title": "welcome the still"
+    },
+    {
+        "artist": "the mary onettes",
+        "title": "slow (pk)"
+    },
+    {
+        "artist": "single gun theory",
+        "title": "motherland"
+    },
+    {
+        "artist": "chandeen",
+        "title": "looking forward, looking back"
+    },
+    {
+        "artist": "the mary onettes",
+        "title": "lost"
+    },
+    {
+        "artist": "pink turns blue",
+        "title": "can't be love"
+    },
+    {
+        "artist": "clan of xymox",
+        "title": "at your mercy"
+    },
+    {
+        "artist": "einsturzende neubauten",
+        "title": "youme & meyou"
+    },
+    {
+        "artist": "siderartica",
+        "title": "circle of the angels"
+    },
+    {
+        "artist": "spectra*paris",
+        "title": "size zero"
+    },
+    {
+        "artist": "siderartica",
+        "title": "seasons of the world"
+    },
+    {
+        "artist": "kirlian camera",
+        "title": "denied sky"
+    },
+    {
+        "artist": "spectra*paris",
+        "title": "spectra murder show"
+    },
+    {
+        "artist": "spectra*paris",
+        "title": "attaque au palais exotica"
+    },
+    {
+        "artist": "spectra*paris",
+        "title": "mad world"
+    },
+    {
+        "artist": "spectra*paris",
+        "title": "falsos suenos"
+    },
+    {
+        "artist": "spectra*paris",
+        "title": "frozen night"
+    },
+    {
+        "artist": "the mary onettes",
+        "title": "slow (pk)"
+    },
+    {
+        "artist": "hidden place",
+        "title": "picture hall"
+    },
+    {
+        "artist": "hidden place",
+        "title": "spazio zero (the frozen autumn rmx)"
+    },
+    {
+        "artist": "hotel de ville",
+        "title": "the richer, the poorer"
+    },
+    {
+        "artist": "hotel de ville",
+        "title": "in the moment"
+    },
+    {
+        "artist": "sentinel",
+        "title": "skylark"
+    },
+    {
+        "artist": "priscilla hernandez",
+        "title": "ahora que te has ido"
+    },
+    {
+        "artist": "priscilla hernandez",
+        "title": "i steal the leaves"
+    },
+    {
+        "artist": "priscilla hernandez",
+        "title": "but if you go"
+    },
+    {
+        "artist": "priscilla hernandez",
+        "title": "the realms of twilight"
+    },
+    {
+        "artist": "priscilla hernandez",
+        "title": "the voice of the night"
+    },
+    {
+        "artist": "priscilla hernandez",
+        "title": "the prince and the fairy"
+    },
+    {
+        "artist": "priscilla hernandez",
+        "title": "sueno muerto"
+    },
+    {
+        "artist": "the mary onettes",
+        "title": "slow (pk)"
+    },
+    {
+        "artist": "cold fusion and rukkanor",
+        "title": "yarkand"
+    },
+    {
+        "artist": "cold fusion and rukkanor",
+        "title": "gades"
+    },
+    {
+        "artist": "metus",
+        "title": "apeiron"
+    },
+    {
+        "artist": "metus",
+        "title": "adam's grief"
+    },
+    {
+        "artist": "[haven]",
+        "title": "byzantine melancholy"
+    },
+    {
+        "artist": "iceberg",
+        "title": "maladjusted loony"
+    },
+    {
+        "artist": "qntal",
+        "title": "sleeping"
+    }
+]

@@ -1,171 +1,166 @@
-{
-    "title": "Wrzesień 2007",
-    "filename": "wrzesien-2007",
-    "date": "2007-09",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "the cure",
-            "title": "the last day of summer"
-        },
-        {
-            "artist": "paul hartnoll feat robert smith",
-            "title": "please"
-        },
-        {
-            "artist": "vnv nation",
-            "title": "secluded spaces"
-        },
-        {
-            "artist": "silence",
-            "title": "the rain (pk)"
-        },
-        {
-            "artist": "stoa",
-            "title": "partus"
-        },
-        {
-            "artist": "cyrus",
-            "title": "song at the beginning of autumn"
-        },
-        {
-            "artist": "impressions of   winter",
-            "title": "golden autumn"
-        },
-        {
-            "artist": "eden",
-            "title": "rain washed"
-        },
-        {
-            "artist": "ego likeness",
-            "title": "wolves"
-        },
-        {
-            "artist": "concise",
-            "title": "done"
-        },
-        {
-            "artist": "the mission",
-            "title": "tadeusz 1912-1988"
-        },
-        {
-            "artist": "stoa",
-            "title": "stoa"
-        },
-        {
-            "artist": "stoa",
-            "title": "autumn"
-        },
-        {
-            "artist": "stoa",
-            "title": "spin"
-        },
-        {
-            "artist": "stoa",
-            "title": "(n)ever"
-        },
-        {
-            "artist": "stoa",
-            "title": "urthona"
-        },
-        {
-            "artist": "stoa",
-            "title": "scrupus"
-        },
-        {
-            "artist": "stoa",
-            "title": "conclusio"
-        },
-        {
-            "artist": "stoa",
-            "title": "ariel song"
-        },
-        {
-            "artist": "stoa",
-            "title": "chanson d`automne"
-        },
-        {
-            "artist": "stoa",
-            "title": "hanuz nist"
-        },
-        {
-            "artist": "agua de annique",
-            "title": "beautiful one"
-        },
-        {
-            "artist": "silence",
-            "title": "the rain (pk)"
-        },
-        {
-            "artist": "mano juodoji sesuo",
-            "title": "endless space"
-        },
-        {
-            "artist": "ayria",
-            "title": "st. edith"
-        },
-        {
-            "artist": "pseudo echo",
-            "title": "autumnal park"
-        },
-        {
-            "artist": "howard jones",
-            "title": "don`t always look at the rain"
-        },
-        {
-            "artist": "the stranglers",
-            "title": "north winds"
-        },
-        {
-            "artist": "alison moyet",
-            "title": "blow wind blow"
-        },
-        {
-            "artist": "cain principle",
-            "title": "butterfly hunter"
-        },
-        {
-            "artist": "craig armstrong",
-            "title": "ruthless gravity"
-        },
-        {
-            "artist": "recoil",
-            "title": "allelujah"
-        },
-        {
-            "artist": "alphaville",
-            "title": "the opium den"
-        },
-        {
-            "artist": "the frozen autumn",
-            "title": "the forgotten frontier"
-        },
-        {
-            "artist": "silence",
-            "title": "the rain (pk)"
-        },
-        {
-            "artist": "forthcoming fire",
-            "title": "and the autumn has come"
-        },
-        {
-            "artist": "endraum",
-            "title": "weisser herbst"
-        },
-        {
-            "artist": "autumn",
-            "title": "...of moondrop tears"
-        },
-        {
-            "artist": "twelfth of never",
-            "title": "as autumn falls"
-        },
-        {
-            "artist": "stay frightened",
-            "title": "windblown luminaries"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "the cure",
+        "title": "the last day of summer"
+    },
+    {
+        "artist": "paul hartnoll feat robert smith",
+        "title": "please"
+    },
+    {
+        "artist": "vnv nation",
+        "title": "secluded spaces"
+    },
+    {
+        "artist": "silence",
+        "title": "the rain (pk)"
+    },
+    {
+        "artist": "stoa",
+        "title": "partus"
+    },
+    {
+        "artist": "cyrus",
+        "title": "song at the beginning of autumn"
+    },
+    {
+        "artist": "impressions of   winter",
+        "title": "golden autumn"
+    },
+    {
+        "artist": "eden",
+        "title": "rain washed"
+    },
+    {
+        "artist": "ego likeness",
+        "title": "wolves"
+    },
+    {
+        "artist": "concise",
+        "title": "done"
+    },
+    {
+        "artist": "the mission",
+        "title": "tadeusz 1912-1988"
+    },
+    {
+        "artist": "stoa",
+        "title": "stoa"
+    },
+    {
+        "artist": "stoa",
+        "title": "autumn"
+    },
+    {
+        "artist": "stoa",
+        "title": "spin"
+    },
+    {
+        "artist": "stoa",
+        "title": "(n)ever"
+    },
+    {
+        "artist": "stoa",
+        "title": "urthona"
+    },
+    {
+        "artist": "stoa",
+        "title": "scrupus"
+    },
+    {
+        "artist": "stoa",
+        "title": "conclusio"
+    },
+    {
+        "artist": "stoa",
+        "title": "ariel song"
+    },
+    {
+        "artist": "stoa",
+        "title": "chanson d`automne"
+    },
+    {
+        "artist": "stoa",
+        "title": "hanuz nist"
+    },
+    {
+        "artist": "agua de annique",
+        "title": "beautiful one"
+    },
+    {
+        "artist": "silence",
+        "title": "the rain (pk)"
+    },
+    {
+        "artist": "mano juodoji sesuo",
+        "title": "endless space"
+    },
+    {
+        "artist": "ayria",
+        "title": "st. edith"
+    },
+    {
+        "artist": "pseudo echo",
+        "title": "autumnal park"
+    },
+    {
+        "artist": "howard jones",
+        "title": "don`t always look at the rain"
+    },
+    {
+        "artist": "the stranglers",
+        "title": "north winds"
+    },
+    {
+        "artist": "alison moyet",
+        "title": "blow wind blow"
+    },
+    {
+        "artist": "cain principle",
+        "title": "butterfly hunter"
+    },
+    {
+        "artist": "craig armstrong",
+        "title": "ruthless gravity"
+    },
+    {
+        "artist": "recoil",
+        "title": "allelujah"
+    },
+    {
+        "artist": "alphaville",
+        "title": "the opium den"
+    },
+    {
+        "artist": "the frozen autumn",
+        "title": "the forgotten frontier"
+    },
+    {
+        "artist": "silence",
+        "title": "the rain (pk)"
+    },
+    {
+        "artist": "forthcoming fire",
+        "title": "and the autumn has come"
+    },
+    {
+        "artist": "endraum",
+        "title": "weisser herbst"
+    },
+    {
+        "artist": "autumn",
+        "title": "...of moondrop tears"
+    },
+    {
+        "artist": "twelfth of never",
+        "title": "as autumn falls"
+    },
+    {
+        "artist": "stay frightened",
+        "title": "windblown luminaries"
+    }
+]

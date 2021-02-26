@@ -1,183 +1,178 @@
-{
-    "title": "Lipiec 2016",
-    "filename": "lipiec-2016",
-    "date": "2016-07",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "sans parade",
-            "title": "moscow 1980"
-        },
-        {
-            "artist": "in letter form",
-            "title": "reflecting the rain"
-        },
-        {
-            "artist": "in letter form",
-            "title": "audio drones: adagio for terror"
-        },
-        {
-            "artist": "in letter form",
-            "title": "terror (is a state of mind)"
-        },
-        {
-            "artist": "mercury’s antennae",
-            "title": "into lost and away (pk)"
-        },
-        {
-            "artist": "the mission",
-            "title": "severina"
-        },
-        {
-            "artist": "the mission",
-            "title": "met - amor - phosis (black star remix)"
-        },
-        {
-            "artist": "waves of the echo",
-            "title": "better than ever"
-        },
-        {
-            "artist": "waves of the echo",
-            "title": "forever"
-        },
-        {
-            "artist": "black tape for a blue girl",
-            "title": "given (1. the waterfall 2. the illuminating gas)"
-        },
-        {
-            "artist": "black tape for a blue girl",
-            "title": "limitless"
-        },
-        {
-            "artist": "elika",
-            "title": "closer"
-        },
-        {
-            "artist": "elika",
-            "title": "watch over me"
-        },
-        {
-            "artist": "the blessed isles",
-            "title": "winter moon"
-        },
-        {
-            "artist": "spotlight kid",
-            "title": "haunting me"
-        },
-        {
-            "artist": "sieben",
-            "title": "modron"
-        },
-        {
-            "artist": "mercury’s antennae",
-            "title": "into lost and away (pk)"
-        },
-        {
-            "artist": "jfc",
-            "title": "the cage"
-        },
-        {
-            "artist": "dismantled",
-            "title": "survivor"
-        },
-        {
-            "artist": "wumpscut",
-            "title": "wreath of barbs (dismantled remix)"
-        },
-        {
-            "artist": "disharmony",
-            "title": "kyriah"
-        },
-        {
-            "artist": "first aid 4 souls",
-            "title": "event horizon"
-        },
-        {
-            "artist": "jfc",
-            "title": "always a music"
-        },
-        {
-            "artist": "john foxx",
-            "title": "he’s a liquid (alternative version)"
-        },
-        {
-            "artist": "xeno & oaklander",
-            "title": "he’s a liquid"
-        },
-        {
-            "artist": "the soft moon",
-            "title": "no - one driving"
-        },
-        {
-            "artist": "hannah peel",
-            "title": "tidal wave"
-        },
-        {
-            "artist": "lonelady",
-            "title": "030"
-        },
-        {
-            "artist": "ian ring",
-            "title": "after the call"
-        },
-        {
-            "artist": "mercury’s antennae",
-            "title": "into lost and away (pk)"
-        },
-        {
-            "artist": "the sisters of mercy",
-            "title": "sandstorm"
-        },
-        {
-            "artist": "the eternal afflict",
-            "title": "circles in the sand"
-        },
-        {
-            "artist": "little nemo",
-            "title": "sandcastle"
-        },
-        {
-            "artist": "his name is alive",
-            "title": "the sand that holds the lakes in place"
-        },
-        {
-            "artist": "deleyaman",
-            "title": "castles in the sand"
-        },
-        {
-            "artist": "i like trains",
-            "title": "water/sand"
-        },
-        {
-            "artist": "little nemo",
-            "title": "a handful of sand"
-        },
-        {
-            "artist": "ash code",
-            "title": "sand"
-        },
-        {
-            "artist": "lebanon hanover",
-            "title": "sand"
-        },
-        {
-            "artist": "gossamer",
-            "title": "shell full of sand"
-        },
-        {
-            "artist": "the mission",
-            "title": "sea of love"
-        },
-        {
-            "artist": "the eden house",
-            "title": "remember (walking in the sand)"
-        },
-        {
-            "artist": "the caves",
-            "title": "question like this"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "sans parade",
+        "title": "moscow 1980"
+    },
+    {
+        "artist": "in letter form",
+        "title": "reflecting the rain"
+    },
+    {
+        "artist": "in letter form",
+        "title": "audio drones: adagio for terror"
+    },
+    {
+        "artist": "in letter form",
+        "title": "terror (is a state of mind)"
+    },
+    {
+        "artist": "mercury’s antennae",
+        "title": "into lost and away (pk)"
+    },
+    {
+        "artist": "the mission",
+        "title": "severina"
+    },
+    {
+        "artist": "the mission",
+        "title": "met - amor - phosis (black star remix)"
+    },
+    {
+        "artist": "waves of the echo",
+        "title": "better than ever"
+    },
+    {
+        "artist": "waves of the echo",
+        "title": "forever"
+    },
+    {
+        "artist": "black tape for a blue girl",
+        "title": "given (1. the waterfall 2. the illuminating gas)"
+    },
+    {
+        "artist": "black tape for a blue girl",
+        "title": "limitless"
+    },
+    {
+        "artist": "elika",
+        "title": "closer"
+    },
+    {
+        "artist": "elika",
+        "title": "watch over me"
+    },
+    {
+        "artist": "the blessed isles",
+        "title": "winter moon"
+    },
+    {
+        "artist": "spotlight kid",
+        "title": "haunting me"
+    },
+    {
+        "artist": "sieben",
+        "title": "modron"
+    },
+    {
+        "artist": "mercury’s antennae",
+        "title": "into lost and away (pk)"
+    },
+    {
+        "artist": "jfc",
+        "title": "the cage"
+    },
+    {
+        "artist": "dismantled",
+        "title": "survivor"
+    },
+    {
+        "artist": "wumpscut",
+        "title": "wreath of barbs (dismantled remix)"
+    },
+    {
+        "artist": "disharmony",
+        "title": "kyriah"
+    },
+    {
+        "artist": "first aid 4 souls",
+        "title": "event horizon"
+    },
+    {
+        "artist": "jfc",
+        "title": "always a music"
+    },
+    {
+        "artist": "john foxx",
+        "title": "he’s a liquid (alternative version)"
+    },
+    {
+        "artist": "xeno & oaklander",
+        "title": "he’s a liquid"
+    },
+    {
+        "artist": "the soft moon",
+        "title": "no - one driving"
+    },
+    {
+        "artist": "hannah peel",
+        "title": "tidal wave"
+    },
+    {
+        "artist": "lonelady",
+        "title": "030"
+    },
+    {
+        "artist": "ian ring",
+        "title": "after the call"
+    },
+    {
+        "artist": "mercury’s antennae",
+        "title": "into lost and away (pk)"
+    },
+    {
+        "artist": "the sisters of mercy",
+        "title": "sandstorm"
+    },
+    {
+        "artist": "the eternal afflict",
+        "title": "circles in the sand"
+    },
+    {
+        "artist": "little nemo",
+        "title": "sandcastle"
+    },
+    {
+        "artist": "his name is alive",
+        "title": "the sand that holds the lakes in place"
+    },
+    {
+        "artist": "deleyaman",
+        "title": "castles in the sand"
+    },
+    {
+        "artist": "i like trains",
+        "title": "water/sand"
+    },
+    {
+        "artist": "little nemo",
+        "title": "a handful of sand"
+    },
+    {
+        "artist": "ash code",
+        "title": "sand"
+    },
+    {
+        "artist": "lebanon hanover",
+        "title": "sand"
+    },
+    {
+        "artist": "gossamer",
+        "title": "shell full of sand"
+    },
+    {
+        "artist": "the mission",
+        "title": "sea of love"
+    },
+    {
+        "artist": "the eden house",
+        "title": "remember (walking in the sand)"
+    },
+    {
+        "artist": "the caves",
+        "title": "question like this"
+    }
+]

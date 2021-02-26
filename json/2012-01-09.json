@@ -1,163 +1,158 @@
-{
-    "title": "Styczeń 2012",
-    "filename": "styczen-2012",
-    "date": "2012-01",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "brendan perry",
-            "title": "wintersun [pk 2010r]"
-        },
-        {
-            "artist": "the new division",
-            "title": "opium [pk]"
-        },
-        {
-            "artist": "torul",
-            "title": "false attempts"
-        },
-        {
-            "artist": "torul",
-            "title": "waterproof theme (2011 version)"
-        },
-        {
-            "artist": "the frozen autumn",
-            "title": "before the storm"
-        },
-        {
-            "artist": "the frozen autumn",
-            "title": "breathtaking beauty"
-        },
-        {
-            "artist": "chandeen",
-            "title": "shadows fade"
-        },
-        {
-            "artist": "chandeen",
-            "title": "kiji"
-        },
-        {
-            "artist": "the beauty of gemina",
-            "title": "stairs"
-        },
-        {
-            "artist": "the beauty of gemina",
-            "title": "last night home"
-        },
-        {
-            "artist": "lisa gerrard",
-            "title": "space weaver [pk 2007r]"
-        },
-        {
-            "artist": "chandeen",
-            "title": "welcome the still [pk 2008r]"
-        },
-        {
-            "artist": "the eden house",
-            "title": "all my love [pk 2009r]"
-        },
-        {
-            "artist": "ulterior",
-            "title": "catherine [pk 2011r miejsce 11]"
-        },
-        {
-            "artist": "autumn's grey solace",
-            "title": "phobic sea [pk 2011r miejsce 7]"
-        },
-        {
-            "artist": "the frozen autumn",
-            "title": "the last train [pk 2011r miejsce 6]"
-        },
-        {
-            "artist": "torul",
-            "title": "if you so wish [pk 2011r miejsce 5]"
-        },
-        {
-            "artist": "the eden house",
-            "title": "city of goodbyes [pk 2011r miejsce 3]"
-        },
-        {
-            "artist": "this mortal coil",
-            "title": "we never danced [pk 2011r miejsce 2]"
-        },
-        {
-            "artist": "lakeside x",
-            "title": "mystic highway [pk 2011r miejsce 1]"
-        },
-        {
-            "artist": "the new division",
-            "title": "opium [pk]"
-        },
-        {
-            "artist": "the new division",
-            "title": "memento"
-        },
-        {
-            "artist": "buhle reto recoil",
-            "title": "black box"
-        },
-        {
-            "artist": "blackman nicole recoil",
-            "title": "want"
-        },
-        {
-            "artist": "front line assembly",
-            "title": "aftermath (we all shall perish mix)"
-        },
-        {
-            "artist": "front line assembly",
-            "title": "electrocution"
-        },
-        {
-            "artist": "wumpscut",
-            "title": "maiden (by laittog)"
-        },
-        {
-            "artist": "księga tańca",
-            "title": "kustosz wawrzyn"
-        },
-        {
-            "artist": "ultravox",
-            "title": "dancing with tears in my eyes"
-        },
-        {
-            "artist": "dance or die",
-            "title": "dance or die"
-        },
-        {
-            "artist": "eyes of the nightmare jungle",
-            "title": "shadow dance"
-        },
-        {
-            "artist": "the cure",
-            "title": "last dance"
-        },
-        {
-            "artist": "the last dance",
-            "title": "she's dancing"
-        },
-        {
-            "artist": "the mission",
-            "title": "and the dance goes on"
-        },
-        {
-            "artist": "soul in isolation",
-            "title": "dance"
-        },
-        {
-            "artist": "the dreamside",
-            "title": "dance goddesses dance"
-        },
-        {
-            "artist": "eden",
-            "title": "saint genevieve's dance"
-        },
-        {
-            "artist": "the new division",
-            "title": "opium [pk]"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "brendan perry",
+        "title": "wintersun [pk 2010r]"
+    },
+    {
+        "artist": "the new division",
+        "title": "opium [pk]"
+    },
+    {
+        "artist": "torul",
+        "title": "false attempts"
+    },
+    {
+        "artist": "torul",
+        "title": "waterproof theme (2011 version)"
+    },
+    {
+        "artist": "the frozen autumn",
+        "title": "before the storm"
+    },
+    {
+        "artist": "the frozen autumn",
+        "title": "breathtaking beauty"
+    },
+    {
+        "artist": "chandeen",
+        "title": "shadows fade"
+    },
+    {
+        "artist": "chandeen",
+        "title": "kiji"
+    },
+    {
+        "artist": "the beauty of gemina",
+        "title": "stairs"
+    },
+    {
+        "artist": "the beauty of gemina",
+        "title": "last night home"
+    },
+    {
+        "artist": "lisa gerrard",
+        "title": "space weaver [pk 2007r]"
+    },
+    {
+        "artist": "chandeen",
+        "title": "welcome the still [pk 2008r]"
+    },
+    {
+        "artist": "the eden house",
+        "title": "all my love [pk 2009r]"
+    },
+    {
+        "artist": "ulterior",
+        "title": "catherine [pk 2011r miejsce 11]"
+    },
+    {
+        "artist": "autumn's grey solace",
+        "title": "phobic sea [pk 2011r miejsce 7]"
+    },
+    {
+        "artist": "the frozen autumn",
+        "title": "the last train [pk 2011r miejsce 6]"
+    },
+    {
+        "artist": "torul",
+        "title": "if you so wish [pk 2011r miejsce 5]"
+    },
+    {
+        "artist": "the eden house",
+        "title": "city of goodbyes [pk 2011r miejsce 3]"
+    },
+    {
+        "artist": "this mortal coil",
+        "title": "we never danced [pk 2011r miejsce 2]"
+    },
+    {
+        "artist": "lakeside x",
+        "title": "mystic highway [pk 2011r miejsce 1]"
+    },
+    {
+        "artist": "the new division",
+        "title": "opium [pk]"
+    },
+    {
+        "artist": "the new division",
+        "title": "memento"
+    },
+    {
+        "artist": "buhle reto recoil",
+        "title": "black box"
+    },
+    {
+        "artist": "blackman nicole recoil",
+        "title": "want"
+    },
+    {
+        "artist": "front line assembly",
+        "title": "aftermath (we all shall perish mix)"
+    },
+    {
+        "artist": "front line assembly",
+        "title": "electrocution"
+    },
+    {
+        "artist": "wumpscut",
+        "title": "maiden (by laittog)"
+    },
+    {
+        "artist": "księga tańca",
+        "title": "kustosz wawrzyn"
+    },
+    {
+        "artist": "ultravox",
+        "title": "dancing with tears in my eyes"
+    },
+    {
+        "artist": "dance or die",
+        "title": "dance or die"
+    },
+    {
+        "artist": "eyes of the nightmare jungle",
+        "title": "shadow dance"
+    },
+    {
+        "artist": "the cure",
+        "title": "last dance"
+    },
+    {
+        "artist": "the last dance",
+        "title": "she's dancing"
+    },
+    {
+        "artist": "the mission",
+        "title": "and the dance goes on"
+    },
+    {
+        "artist": "soul in isolation",
+        "title": "dance"
+    },
+    {
+        "artist": "the dreamside",
+        "title": "dance goddesses dance"
+    },
+    {
+        "artist": "eden",
+        "title": "saint genevieve's dance"
+    },
+    {
+        "artist": "the new division",
+        "title": "opium [pk]"
+    }
+]

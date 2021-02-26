@@ -1,183 +1,178 @@
-{
-    "title": "Wrzesień II 2012",
-    "filename": "wrzesien-2-2012",
-    "date": "2012-09",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "colourbox",
-            "title": "sleepwalker"
-        },
-        {
-            "artist": "colourbox",
-            "title": "the moon is blue"
-        },
-        {
-            "artist": "dead can dance",
-            "title": "opium"
-        },
-        {
-            "artist": "vaselyne",
-            "title": "earthbound (pk)"
-        },
-        {
-            "artist": "autumn’s grey solace",
-            "title": "unravel"
-        },
-        {
-            "artist": "autumn’s grey solace",
-            "title": "zenith"
-        },
-        {
-            "artist": "the breath of life",
-            "title": "the dark side"
-        },
-        {
-            "artist": "soror dolorosa",
-            "title": "autumn wounds"
-        },
-        {
-            "artist": "soror dolorosa",
-            "title": "low end"
-        },
-        {
-            "artist": "brotherhood",
-            "title": "so many stars"
-        },
-        {
-            "artist": "linea aspera",
-            "title": "preservation bias"
-        },
-        {
-            "artist": "linea aspera",
-            "title": "malarone"
-        },
-        {
-            "artist": "dark orange",
-            "title": "seagulls of heaven"
-        },
-        {
-            "artist": "dark orange",
-            "title": "the witch"
-        },
-        {
-            "artist": "dark orange",
-            "title": "storms in the sailors eyes"
-        },
-        {
-            "artist": "dark orange",
-            "title": "the house of the heart"
-        },
-        {
-            "artist": "dark orange",
-            "title": "butterflies (robin guthrie mix)"
-        },
-        {
-            "artist": "dark orange",
-            "title": "heller schein (malory feat. xirius polar club mix)"
-        },
-        {
-            "artist": "dark orange",
-            "title": "unter dem schnee (harald löwy mix)"
-        },
-        {
-            "artist": "dark orange",
-            "title": "auf hoher see (axel ermes luv mix)"
-        },
-        {
-            "artist": "dark orange",
-            "title": "traumwandler (dead beat project ethereal mix)"
-        },
-        {
-            "artist": "vaselyne",
-            "title": "earthbound (pk)"
-        },
-        {
-            "artist": "first aid 4 souls",
-            "title": "fountain of joy"
-        },
-        {
-            "artist": "first aid 4 souls",
-            "title": "land of white waters"
-        },
-        {
-            "artist": "tonikom",
-            "title": "eternal internal"
-        },
-        {
-            "artist": "x marks the pedwalk",
-            "title": "nightfall"
-        },
-        {
-            "artist": "the golden filter",
-            "title": "shake"
-        },
-        {
-            "artist": "the golden filter",
-            "title": "mysteries of love"
-        },
-        {
-            "artist": "stripmall architecture",
-            "title": "rockin’ back inside my heart"
-        },
-        {
-            "artist": "recoil",
-            "title": "dum dum girl"
-        },
-        {
-            "artist": "lights (feat. darkstars)",
-            "title": "living in another world"
-        },
-        {
-            "artist": "white belt yellow tag",
-            "title": "today"
-        },
-        {
-            "artist": "ian curnow (feat. human)",
-            "title": "i don’t believe in you"
-        },
-        {
-            "artist": "vaselyne",
-            "title": "earthbound (pk)"
-        },
-        {
-            "artist": "depeche mode",
-            "title": "photographic"
-        },
-        {
-            "artist": "a flock of seagulls",
-            "title": "wishing (if i had a photograph of you)"
-        },
-        {
-            "artist": "shiny toy guns",
-            "title": "photograph"
-        },
-        {
-            "artist": "frozen silence",
-            "title": "photograph"
-        },
-        {
-            "artist": "gary numan",
-            "title": "photograph"
-        },
-        {
-            "artist": "lisa gerrard & marcello de francisci",
-            "title": "a haunting photo"
-        },
-        {
-            "artist": "harold budd",
-            "title": "the photo of santiago mckinn"
-        },
-        {
-            "artist": "air",
-            "title": "photograph"
-        },
-        {
-            "artist": "vaselyne",
-            "title": "earthbound (pk) instrumental version"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "colourbox",
+        "title": "sleepwalker"
+    },
+    {
+        "artist": "colourbox",
+        "title": "the moon is blue"
+    },
+    {
+        "artist": "dead can dance",
+        "title": "opium"
+    },
+    {
+        "artist": "vaselyne",
+        "title": "earthbound (pk)"
+    },
+    {
+        "artist": "autumn’s grey solace",
+        "title": "unravel"
+    },
+    {
+        "artist": "autumn’s grey solace",
+        "title": "zenith"
+    },
+    {
+        "artist": "the breath of life",
+        "title": "the dark side"
+    },
+    {
+        "artist": "soror dolorosa",
+        "title": "autumn wounds"
+    },
+    {
+        "artist": "soror dolorosa",
+        "title": "low end"
+    },
+    {
+        "artist": "brotherhood",
+        "title": "so many stars"
+    },
+    {
+        "artist": "linea aspera",
+        "title": "preservation bias"
+    },
+    {
+        "artist": "linea aspera",
+        "title": "malarone"
+    },
+    {
+        "artist": "dark orange",
+        "title": "seagulls of heaven"
+    },
+    {
+        "artist": "dark orange",
+        "title": "the witch"
+    },
+    {
+        "artist": "dark orange",
+        "title": "storms in the sailors eyes"
+    },
+    {
+        "artist": "dark orange",
+        "title": "the house of the heart"
+    },
+    {
+        "artist": "dark orange",
+        "title": "butterflies (robin guthrie mix)"
+    },
+    {
+        "artist": "dark orange",
+        "title": "heller schein (malory feat. xirius polar club mix)"
+    },
+    {
+        "artist": "dark orange",
+        "title": "unter dem schnee (harald löwy mix)"
+    },
+    {
+        "artist": "dark orange",
+        "title": "auf hoher see (axel ermes luv mix)"
+    },
+    {
+        "artist": "dark orange",
+        "title": "traumwandler (dead beat project ethereal mix)"
+    },
+    {
+        "artist": "vaselyne",
+        "title": "earthbound (pk)"
+    },
+    {
+        "artist": "first aid 4 souls",
+        "title": "fountain of joy"
+    },
+    {
+        "artist": "first aid 4 souls",
+        "title": "land of white waters"
+    },
+    {
+        "artist": "tonikom",
+        "title": "eternal internal"
+    },
+    {
+        "artist": "x marks the pedwalk",
+        "title": "nightfall"
+    },
+    {
+        "artist": "the golden filter",
+        "title": "shake"
+    },
+    {
+        "artist": "the golden filter",
+        "title": "mysteries of love"
+    },
+    {
+        "artist": "stripmall architecture",
+        "title": "rockin’ back inside my heart"
+    },
+    {
+        "artist": "recoil",
+        "title": "dum dum girl"
+    },
+    {
+        "artist": "lights (feat. darkstars)",
+        "title": "living in another world"
+    },
+    {
+        "artist": "white belt yellow tag",
+        "title": "today"
+    },
+    {
+        "artist": "ian curnow (feat. human)",
+        "title": "i don’t believe in you"
+    },
+    {
+        "artist": "vaselyne",
+        "title": "earthbound (pk)"
+    },
+    {
+        "artist": "depeche mode",
+        "title": "photographic"
+    },
+    {
+        "artist": "a flock of seagulls",
+        "title": "wishing (if i had a photograph of you)"
+    },
+    {
+        "artist": "shiny toy guns",
+        "title": "photograph"
+    },
+    {
+        "artist": "frozen silence",
+        "title": "photograph"
+    },
+    {
+        "artist": "gary numan",
+        "title": "photograph"
+    },
+    {
+        "artist": "lisa gerrard & marcello de francisci",
+        "title": "a haunting photo"
+    },
+    {
+        "artist": "harold budd",
+        "title": "the photo of santiago mckinn"
+    },
+    {
+        "artist": "air",
+        "title": "photograph"
+    },
+    {
+        "artist": "vaselyne",
+        "title": "earthbound (pk) instrumental version"
+    }
+]

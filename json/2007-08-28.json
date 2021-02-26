@@ -1,175 +1,170 @@
-{
-    "title": "Sierpień 2007",
-    "filename": "sierpien-2007",
-    "date": "2007-08",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "republika",
-            "title": "obcy astronom"
-        },
-        {
-            "artist": "delerium",
-            "title": "extollere"
-        },
-        {
-            "artist": "vnv nation",
-            "title": "secluded spaces (pk)"
-        },
-        {
-            "artist": "the dreamside",
-            "title": "eurylheia"
-        },
-        {
-            "artist": "the dreamside",
-            "title": "somewhere before"
-        },
-        {
-            "artist": "the dreamside (feat rougue)",
-            "title": "open your eyes"
-        },
-        {
-            "artist": "the cruxshadows",
-            "title": "birthday"
-        },
-        {
-            "artist": "ljungblut",
-            "title": "red ribbons"
-        },
-        {
-            "artist": "ljungblut",
-            "title": "i still can`t say i love you"
-        },
-        {
-            "artist": "siouxsie & the banshees",
-            "title": "the ghost in you"
-        },
-        {
-            "artist": "vnv nation",
-            "title": "secluded spaces (pk)"
-        },
-        {
-            "artist": "vnv nation",
-            "title": "electronaut"
-        },
-        {
-            "artist": "vnv nation",
-            "title": "beloved"
-        },
-        {
-            "artist": "vnv nation",
-            "title": "descent"
-        },
-        {
-            "artist": "vnv nation",
-            "title": "as it fades"
-        },
-        {
-            "artist": "vnv nation",
-            "title": "endless skies"
-        },
-        {
-            "artist": "vnv nation",
-            "title": "homeward"
-        },
-        {
-            "artist": "vnv nation",
-            "title": "arclight"
-        },
-        {
-            "artist": "fields of the nephilim",
-            "title": "laura"
-        },
-        {
-            "artist": "the sisters of mercy",
-            "title": "alice"
-        },
-        {
-            "artist": "broon",
-            "title": "jolene"
-        },
-        {
-            "artist": "the horatii",
-            "title": "annaline"
-        },
-        {
-            "artist": "deine lakaien",
-            "title": "slowly comes my night"
-        },
-        {
-            "artist": "deine lakaien",
-            "title": "follow me"
-        },
-        {
-            "artist": "deine lakaien",
-            "title": "where you are?"
-        },
-        {
-            "artist": "estampie",
-            "title": "ahi, amaros"
-        },
-        {
-            "artist": "qntal",
-            "title": "von den elben"
-        },
-        {
-            "artist": "qntal",
-            "title": "the whyle"
-        },
-        {
-            "artist": "bel canto",
-            "title": "blank sheets"
-        },
-        {
-            "artist": "bel canto",
-            "title": "dewy fields"
-        },
-        {
-            "artist": "vnv nation",
-            "title": "secluded spaces (pk)"
-        },
-        {
-            "artist": "nicola blackmans & john van eaton",
-            "title": "west end girls"
-        },
-        {
-            "artist": "icon of coil",
-            "title": "new york city boy"
-        },
-        {
-            "artist": "athan maroulis & zeitmahl",
-            "title": "heart"
-        },
-        {
-            "artist": "behind the scenes",
-            "title": "rent"
-        },
-        {
-            "artist": "pet shop boys",
-            "title": "psychological"
-        },
-        {
-            "artist": "elane",
-            "title": "the night i left"
-        },
-        {
-            "artist": "elane",
-            "title": "half past you"
-        },
-        {
-            "artist": "fading colours feat anne clark",
-            "title": "eveline"
-        },
-        {
-            "artist": "the ophelia`s garden",
-            "title": "the moment (you would never expect)"
-        },
-        {
-            "artist": "the ophelia`s garden",
-            "title": "a single word"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "republika",
+        "title": "obcy astronom"
+    },
+    {
+        "artist": "delerium",
+        "title": "extollere"
+    },
+    {
+        "artist": "vnv nation",
+        "title": "secluded spaces (pk)"
+    },
+    {
+        "artist": "the dreamside",
+        "title": "eurylheia"
+    },
+    {
+        "artist": "the dreamside",
+        "title": "somewhere before"
+    },
+    {
+        "artist": "the dreamside (feat rougue)",
+        "title": "open your eyes"
+    },
+    {
+        "artist": "the cruxshadows",
+        "title": "birthday"
+    },
+    {
+        "artist": "ljungblut",
+        "title": "red ribbons"
+    },
+    {
+        "artist": "ljungblut",
+        "title": "i still can`t say i love you"
+    },
+    {
+        "artist": "siouxsie & the banshees",
+        "title": "the ghost in you"
+    },
+    {
+        "artist": "vnv nation",
+        "title": "secluded spaces (pk)"
+    },
+    {
+        "artist": "vnv nation",
+        "title": "electronaut"
+    },
+    {
+        "artist": "vnv nation",
+        "title": "beloved"
+    },
+    {
+        "artist": "vnv nation",
+        "title": "descent"
+    },
+    {
+        "artist": "vnv nation",
+        "title": "as it fades"
+    },
+    {
+        "artist": "vnv nation",
+        "title": "endless skies"
+    },
+    {
+        "artist": "vnv nation",
+        "title": "homeward"
+    },
+    {
+        "artist": "vnv nation",
+        "title": "arclight"
+    },
+    {
+        "artist": "fields of the nephilim",
+        "title": "laura"
+    },
+    {
+        "artist": "the sisters of mercy",
+        "title": "alice"
+    },
+    {
+        "artist": "broon",
+        "title": "jolene"
+    },
+    {
+        "artist": "the horatii",
+        "title": "annaline"
+    },
+    {
+        "artist": "deine lakaien",
+        "title": "slowly comes my night"
+    },
+    {
+        "artist": "deine lakaien",
+        "title": "follow me"
+    },
+    {
+        "artist": "deine lakaien",
+        "title": "where you are?"
+    },
+    {
+        "artist": "estampie",
+        "title": "ahi, amaros"
+    },
+    {
+        "artist": "qntal",
+        "title": "von den elben"
+    },
+    {
+        "artist": "qntal",
+        "title": "the whyle"
+    },
+    {
+        "artist": "bel canto",
+        "title": "blank sheets"
+    },
+    {
+        "artist": "bel canto",
+        "title": "dewy fields"
+    },
+    {
+        "artist": "vnv nation",
+        "title": "secluded spaces (pk)"
+    },
+    {
+        "artist": "nicola blackmans & john van eaton",
+        "title": "west end girls"
+    },
+    {
+        "artist": "icon of coil",
+        "title": "new york city boy"
+    },
+    {
+        "artist": "athan maroulis & zeitmahl",
+        "title": "heart"
+    },
+    {
+        "artist": "behind the scenes",
+        "title": "rent"
+    },
+    {
+        "artist": "pet shop boys",
+        "title": "psychological"
+    },
+    {
+        "artist": "elane",
+        "title": "the night i left"
+    },
+    {
+        "artist": "elane",
+        "title": "half past you"
+    },
+    {
+        "artist": "fading colours feat anne clark",
+        "title": "eveline"
+    },
+    {
+        "artist": "the ophelia`s garden",
+        "title": "the moment (you would never expect)"
+    },
+    {
+        "artist": "the ophelia`s garden",
+        "title": "a single word"
+    }
+]

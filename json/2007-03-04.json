@@ -1,147 +1,142 @@
-{
-    "title": "Marzec 2007",
-    "filename": "marzec-2007",
-    "date": "2007-03",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "the cure",
-            "title": "plain song"
-        },
-        {
-            "artist": "zoar",
-            "title": "winter wind"
-        },
-        {
-            "artist": "declasse",
-            "title": "blend into grey (pk)"
-        },
-        {
-            "artist": "lisa gerrard",
-            "title": "sanvean"
-        },
-        {
-            "artist": "lisa gerrard",
-            "title": "now we are free"
-        },
-        {
-            "artist": "diorama",
-            "title": "truth and movement"
-        },
-        {
-            "artist": "diorama",
-            "title": "synthesize me (piano version)"
-        },
-        {
-            "artist": "sixth comm",
-            "title": "let the moon speak"
-        },
-        {
-            "artist": "declasse",
-            "title": "blend into grey (pk)"
-        },
-        {
-            "artist": "in the nursery",
-            "title": "kryptyka"
-        },
-        {
-            "artist": "in the nursery",
-            "title": "tempered wings"
-        },
-        {
-            "artist": "les jumeaux",
-            "title": "miracle road"
-        },
-        {
-            "artist": "camouflage",
-            "title": "the pleasure remains (remix)"
-        },
-        {
-            "artist": "the beauty of gemina",
-            "title": "forgiveness"
-        },
-        {
-            "artist": "the beauty of gemina",
-            "title": "la reve de l`infidele"
-        },
-        {
-            "artist": "declasse",
-            "title": "blend into grey (pk)"
-        },
-        {
-            "artist": "seigmen",
-            "title": "frost-bite"
-        },
-        {
-            "artist": "liquid divine",
-            "title": "overwritten"
-        },
-        {
-            "artist": "skinny puppy",
-            "title": "ambiantz"
-        },
-        {
-            "artist": "liquid divine",
-            "title": "satellites"
-        },
-        {
-            "artist": "alpha wave movement",
-            "title": "the far side of i.q."
-        },
-        {
-            "artist": "u2",
-            "title": "new year`s day"
-        },
-        {
-            "artist": "front line assembly with tiffany",
-            "title": "new year`s day"
-        },
-        {
-            "artist": "the mission",
-            "title": "all i want is you"
-        },
-        {
-            "artist": "tre lux",
-            "title": "numb"
-        },
-        {
-            "artist": "declasse",
-            "title": "blend into grey (pk)"
-        },
-        {
-            "artist": "the cure",
-            "title": "prayers for rain"
-        },
-        {
-            "artist": "dimbodius",
-            "title": "compulsion"
-        },
-        {
-            "artist": "this empty flow",
-            "title": "useless"
-        },
-        {
-            "artist": "the caves",
-            "title": "the way it is"
-        },
-        {
-            "artist": "dimbodius",
-            "title": "december"
-        },
-        {
-            "artist": "the essence",
-            "title": "everything (remix)"
-        },
-        {
-            "artist": "the cure",
-            "title": "bloodflowers"
-        },
-        {
-            "artist": "the cure",
-            "title": "the same deep water as you"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "the cure",
+        "title": "plain song"
+    },
+    {
+        "artist": "zoar",
+        "title": "winter wind"
+    },
+    {
+        "artist": "declasse",
+        "title": "blend into grey (pk)"
+    },
+    {
+        "artist": "lisa gerrard",
+        "title": "sanvean"
+    },
+    {
+        "artist": "lisa gerrard",
+        "title": "now we are free"
+    },
+    {
+        "artist": "diorama",
+        "title": "truth and movement"
+    },
+    {
+        "artist": "diorama",
+        "title": "synthesize me (piano version)"
+    },
+    {
+        "artist": "sixth comm",
+        "title": "let the moon speak"
+    },
+    {
+        "artist": "declasse",
+        "title": "blend into grey (pk)"
+    },
+    {
+        "artist": "in the nursery",
+        "title": "kryptyka"
+    },
+    {
+        "artist": "in the nursery",
+        "title": "tempered wings"
+    },
+    {
+        "artist": "les jumeaux",
+        "title": "miracle road"
+    },
+    {
+        "artist": "camouflage",
+        "title": "the pleasure remains (remix)"
+    },
+    {
+        "artist": "the beauty of gemina",
+        "title": "forgiveness"
+    },
+    {
+        "artist": "the beauty of gemina",
+        "title": "la reve de l`infidele"
+    },
+    {
+        "artist": "declasse",
+        "title": "blend into grey (pk)"
+    },
+    {
+        "artist": "seigmen",
+        "title": "frost-bite"
+    },
+    {
+        "artist": "liquid divine",
+        "title": "overwritten"
+    },
+    {
+        "artist": "skinny puppy",
+        "title": "ambiantz"
+    },
+    {
+        "artist": "liquid divine",
+        "title": "satellites"
+    },
+    {
+        "artist": "alpha wave movement",
+        "title": "the far side of i.q."
+    },
+    {
+        "artist": "u2",
+        "title": "new year`s day"
+    },
+    {
+        "artist": "front line assembly with tiffany",
+        "title": "new year`s day"
+    },
+    {
+        "artist": "the mission",
+        "title": "all i want is you"
+    },
+    {
+        "artist": "tre lux",
+        "title": "numb"
+    },
+    {
+        "artist": "declasse",
+        "title": "blend into grey (pk)"
+    },
+    {
+        "artist": "the cure",
+        "title": "prayers for rain"
+    },
+    {
+        "artist": "dimbodius",
+        "title": "compulsion"
+    },
+    {
+        "artist": "this empty flow",
+        "title": "useless"
+    },
+    {
+        "artist": "the caves",
+        "title": "the way it is"
+    },
+    {
+        "artist": "dimbodius",
+        "title": "december"
+    },
+    {
+        "artist": "the essence",
+        "title": "everything (remix)"
+    },
+    {
+        "artist": "the cure",
+        "title": "bloodflowers"
+    },
+    {
+        "artist": "the cure",
+        "title": "the same deep water as you"
+    }
+]

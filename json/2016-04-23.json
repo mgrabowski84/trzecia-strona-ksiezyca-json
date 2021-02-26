@@ -1,179 +1,174 @@
-{
-    "title": "Kwiecień 2016",
-    "filename": "kwiecien-2016",
-    "date": "2016-04",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "justin sullivan",
-            "title": "green"
-        },
-        {
-            "artist": "the jezabels",
-            "title": "come alive"
-        },
-        {
-            "artist": "atsushi sakurai",
-            "title": "sacrifice [pk]"
-        },
-        {
-            "artist": "pink turns blue",
-            "title": "give me your beauty"
-        },
-        {
-            "artist": "pink turns blue",
-            "title": "nyc breakdown"
-        },
-        {
-            "artist": "b - movie",
-            "title": "corridors"
-        },
-        {
-            "artist": "ari mason",
-            "title": "dim the lights"
-        },
-        {
-            "artist": "ari mason",
-            "title": "heaven's gate"
-        },
-        {
-            "artist": "ari mason",
-            "title": "ritual"
-        },
-        {
-            "artist": "ordo rosarius equilibrio",
-            "title": "the misanthropic polygamist (how gods dream)"
-        },
-        {
-            "artist": "rome",
-            "title": "broken"
-        },
-        {
-            "artist": "long night",
-            "title": "sorrow returns"
-        },
-        {
-            "artist": "the cure",
-            "title": "purple haze"
-        },
-        {
-            "artist": "the vitamin string quartet",
-            "title": "lullaby"
-        },
-        {
-            "artist": "editors",
-            "title": "lullaby"
-        },
-        {
-            "artist": "bat for lashes",
-            "title": "a forest"
-        },
-        {
-            "artist": "grand duchy",
-            "title": "a strange day"
-        },
-        {
-            "artist": "sophya",
-            "title": "the figurehead"
-        },
-        {
-            "artist": "david ari leon",
-            "title": "boys don't cry"
-        },
-        {
-            "artist": "convent",
-            "title": "m"
-        },
-        {
-            "artist": "final selection",
-            "title": "one hundred years"
-        },
-        {
-            "artist": "the poems",
-            "title": "10.15 saturday night"
-        },
-        {
-            "artist": "the vitamin string quartet",
-            "title": "lovesong"
-        },
-        {
-            "artist": "the cure",
-            "title": "hello i love you"
-        },
-        {
-            "artist": "sonic boom vs psyche",
-            "title": "charlotte sometimes"
-        },
-        {
-            "artist": "the shroud",
-            "title": "sinking"
-        },
-        {
-            "artist": "the vitamin string quartet",
-            "title": "pictures of you"
-        },
-        {
-            "artist": "atsushi sakurai",
-            "title": "sacrifice [pk]"
-        },
-        {
-            "artist": "cubic nomad",
-            "title": "2057 outlaw"
-        },
-        {
-            "artist": "architect / sonic area / hologram",
-            "title": "steaming the lab"
-        },
-        {
-            "artist": "wumpscut",
-            "title": "das bose rumburak"
-        },
-        {
-            "artist": "youth code",
-            "title": "the dust of fallen rome"
-        },
-        {
-            "artist": "youth code",
-            "title": "doghead"
-        },
-        {
-            "artist": "atiq",
-            "title": "the euclidean perspective"
-        },
-        {
-            "artist": "arsine",
-            "title": "tibe everywhere ii"
-        },
-        {
-            "artist": "vnv nation",
-            "title": "nova (largo)"
-        },
-        {
-            "artist": "this cold",
-            "title": "civil war"
-        },
-        {
-            "artist": "this cold",
-            "title": "universe"
-        },
-        {
-            "artist": "this cold",
-            "title": "hollow"
-        },
-        {
-            "artist": "this cold",
-            "title": "do you know?"
-        },
-        {
-            "artist": "this cold",
-            "title": "torn apart"
-        },
-        {
-            "artist": "the cure",
-            "title": "closedown"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "justin sullivan",
+        "title": "green"
+    },
+    {
+        "artist": "the jezabels",
+        "title": "come alive"
+    },
+    {
+        "artist": "atsushi sakurai",
+        "title": "sacrifice [pk]"
+    },
+    {
+        "artist": "pink turns blue",
+        "title": "give me your beauty"
+    },
+    {
+        "artist": "pink turns blue",
+        "title": "nyc breakdown"
+    },
+    {
+        "artist": "b - movie",
+        "title": "corridors"
+    },
+    {
+        "artist": "ari mason",
+        "title": "dim the lights"
+    },
+    {
+        "artist": "ari mason",
+        "title": "heaven's gate"
+    },
+    {
+        "artist": "ari mason",
+        "title": "ritual"
+    },
+    {
+        "artist": "ordo rosarius equilibrio",
+        "title": "the misanthropic polygamist (how gods dream)"
+    },
+    {
+        "artist": "rome",
+        "title": "broken"
+    },
+    {
+        "artist": "long night",
+        "title": "sorrow returns"
+    },
+    {
+        "artist": "the cure",
+        "title": "purple haze"
+    },
+    {
+        "artist": "the vitamin string quartet",
+        "title": "lullaby"
+    },
+    {
+        "artist": "editors",
+        "title": "lullaby"
+    },
+    {
+        "artist": "bat for lashes",
+        "title": "a forest"
+    },
+    {
+        "artist": "grand duchy",
+        "title": "a strange day"
+    },
+    {
+        "artist": "sophya",
+        "title": "the figurehead"
+    },
+    {
+        "artist": "david ari leon",
+        "title": "boys don't cry"
+    },
+    {
+        "artist": "convent",
+        "title": "m"
+    },
+    {
+        "artist": "final selection",
+        "title": "one hundred years"
+    },
+    {
+        "artist": "the poems",
+        "title": "10.15 saturday night"
+    },
+    {
+        "artist": "the vitamin string quartet",
+        "title": "lovesong"
+    },
+    {
+        "artist": "the cure",
+        "title": "hello i love you"
+    },
+    {
+        "artist": "sonic boom vs psyche",
+        "title": "charlotte sometimes"
+    },
+    {
+        "artist": "the shroud",
+        "title": "sinking"
+    },
+    {
+        "artist": "the vitamin string quartet",
+        "title": "pictures of you"
+    },
+    {
+        "artist": "atsushi sakurai",
+        "title": "sacrifice [pk]"
+    },
+    {
+        "artist": "cubic nomad",
+        "title": "2057 outlaw"
+    },
+    {
+        "artist": "architect / sonic area / hologram",
+        "title": "steaming the lab"
+    },
+    {
+        "artist": "wumpscut",
+        "title": "das bose rumburak"
+    },
+    {
+        "artist": "youth code",
+        "title": "the dust of fallen rome"
+    },
+    {
+        "artist": "youth code",
+        "title": "doghead"
+    },
+    {
+        "artist": "atiq",
+        "title": "the euclidean perspective"
+    },
+    {
+        "artist": "arsine",
+        "title": "tibe everywhere ii"
+    },
+    {
+        "artist": "vnv nation",
+        "title": "nova (largo)"
+    },
+    {
+        "artist": "this cold",
+        "title": "civil war"
+    },
+    {
+        "artist": "this cold",
+        "title": "universe"
+    },
+    {
+        "artist": "this cold",
+        "title": "hollow"
+    },
+    {
+        "artist": "this cold",
+        "title": "do you know?"
+    },
+    {
+        "artist": "this cold",
+        "title": "torn apart"
+    },
+    {
+        "artist": "the cure",
+        "title": "closedown"
+    }
+]

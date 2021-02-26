@@ -1,175 +1,170 @@
-{
-    "title": "Lipiec 2014",
-    "filename": "lipiec-2014",
-    "date": "2014-07",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "london after midnight",
-            "title": "sacrifice"
-        },
-        {
-            "artist": "all hallows eve",
-            "title": "all hallows eve"
-        },
-        {
-            "artist": "lakobeil",
-            "title": "dreaming [pk]"
-        },
-        {
-            "artist": "peter murphy",
-            "title": "i'm on your side"
-        },
-        {
-            "artist": "peter murphy",
-            "title": "holy clown"
-        },
-        {
-            "artist": "ikon",
-            "title": "blood of love"
-        },
-        {
-            "artist": "ikon",
-            "title": "misfortune"
-        },
-        {
-            "artist": "whispers in the shadow",
-            "title": "end of future"
-        },
-        {
-            "artist": "deine lakaien",
-            "title": "farewell"
-        },
-        {
-            "artist": "deine lakaien",
-            "title": "where the winds don't blow"
-        },
-        {
-            "artist": "borghesia",
-            "title": "c'est la guerre"
-        },
-        {
-            "artist": "azam ali & loga ramin torkian",
-            "title": "ocean"
-        },
-        {
-            "artist": "theodor bastard",
-            "title": "anubis"
-        },
-        {
-            "artist": "she past away",
-            "title": "kasvetli kutlama"
-        },
-        {
-            "artist": "she past away",
-            "title": "rituel"
-        },
-        {
-            "artist": "lakobeil",
-            "title": "dreaming [pk]"
-        },
-        {
-            "artist": "click click",
-            "title": "passenger"
-        },
-        {
-            "artist": "autoclav 1.1",
-            "title": "16a"
-        },
-        {
-            "artist": "autoclav 1.1",
-            "title": "waiting room"
-        },
-        {
-            "artist": "jerome chassagnard",
-            "title": "somewhere"
-        },
-        {
-            "artist": "click click",
-            "title": "lock them up"
-        },
-        {
-            "artist": "click click",
-            "title": "what do you want?"
-        },
-        {
-            "artist": "eyescream",
-            "title": "void her majesty"
-        },
-        {
-            "artist": "eyescream",
-            "title": "everone"
-        },
-        {
-            "artist": "and one",
-            "title": "the sun always shines on tv (a-ha)"
-        },
-        {
-            "artist": "and one",
-            "title": "big in japan (alphaville)"
-        },
-        {
-            "artist": "and one",
-            "title": "the great commandment (camouflage)"
-        },
-        {
-            "artist": "and one",
-            "title": "the walk (the cure)"
-        },
-        {
-            "artist": "moonspell",
-            "title": "love will tear us apart (joy division)"
-        },
-        {
-            "artist": "london after midnight",
-            "title": "blessing"
-        },
-        {
-            "artist": "london after midnight",
-            "title": "this paradise"
-        },
-        {
-            "artist": "london after midnight",
-            "title": "spider and the fly"
-        },
-        {
-            "artist": "london after midnight",
-            "title": "your best nightmare"
-        },
-        {
-            "artist": "london after midnight",
-            "title": "psycho magnet"
-        },
-        {
-            "artist": "london after midnight",
-            "title": "kiss"
-        },
-        {
-            "artist": "london after midnight",
-            "title": "the beginning of the end"
-        },
-        {
-            "artist": "london after midnight",
-            "title": "pure"
-        },
-        {
-            "artist": "london after midnight",
-            "title": "love you to death"
-        },
-        {
-            "artist": "london after midnight",
-            "title": "shatter (all my dead friends)"
-        },
-        {
-            "artist": "deine lakaien",
-            "title": "dark star"
-        },
-        {
-            "artist": "lakobeil",
-            "title": "dreaming [pk]"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "london after midnight",
+        "title": "sacrifice"
+    },
+    {
+        "artist": "all hallows eve",
+        "title": "all hallows eve"
+    },
+    {
+        "artist": "lakobeil",
+        "title": "dreaming [pk]"
+    },
+    {
+        "artist": "peter murphy",
+        "title": "i'm on your side"
+    },
+    {
+        "artist": "peter murphy",
+        "title": "holy clown"
+    },
+    {
+        "artist": "ikon",
+        "title": "blood of love"
+    },
+    {
+        "artist": "ikon",
+        "title": "misfortune"
+    },
+    {
+        "artist": "whispers in the shadow",
+        "title": "end of future"
+    },
+    {
+        "artist": "deine lakaien",
+        "title": "farewell"
+    },
+    {
+        "artist": "deine lakaien",
+        "title": "where the winds don't blow"
+    },
+    {
+        "artist": "borghesia",
+        "title": "c'est la guerre"
+    },
+    {
+        "artist": "azam ali & loga ramin torkian",
+        "title": "ocean"
+    },
+    {
+        "artist": "theodor bastard",
+        "title": "anubis"
+    },
+    {
+        "artist": "she past away",
+        "title": "kasvetli kutlama"
+    },
+    {
+        "artist": "she past away",
+        "title": "rituel"
+    },
+    {
+        "artist": "lakobeil",
+        "title": "dreaming [pk]"
+    },
+    {
+        "artist": "click click",
+        "title": "passenger"
+    },
+    {
+        "artist": "autoclav 1.1",
+        "title": "16a"
+    },
+    {
+        "artist": "autoclav 1.1",
+        "title": "waiting room"
+    },
+    {
+        "artist": "jerome chassagnard",
+        "title": "somewhere"
+    },
+    {
+        "artist": "click click",
+        "title": "lock them up"
+    },
+    {
+        "artist": "click click",
+        "title": "what do you want?"
+    },
+    {
+        "artist": "eyescream",
+        "title": "void her majesty"
+    },
+    {
+        "artist": "eyescream",
+        "title": "everone"
+    },
+    {
+        "artist": "and one",
+        "title": "the sun always shines on tv (a-ha)"
+    },
+    {
+        "artist": "and one",
+        "title": "big in japan (alphaville)"
+    },
+    {
+        "artist": "and one",
+        "title": "the great commandment (camouflage)"
+    },
+    {
+        "artist": "and one",
+        "title": "the walk (the cure)"
+    },
+    {
+        "artist": "moonspell",
+        "title": "love will tear us apart (joy division)"
+    },
+    {
+        "artist": "london after midnight",
+        "title": "blessing"
+    },
+    {
+        "artist": "london after midnight",
+        "title": "this paradise"
+    },
+    {
+        "artist": "london after midnight",
+        "title": "spider and the fly"
+    },
+    {
+        "artist": "london after midnight",
+        "title": "your best nightmare"
+    },
+    {
+        "artist": "london after midnight",
+        "title": "psycho magnet"
+    },
+    {
+        "artist": "london after midnight",
+        "title": "kiss"
+    },
+    {
+        "artist": "london after midnight",
+        "title": "the beginning of the end"
+    },
+    {
+        "artist": "london after midnight",
+        "title": "pure"
+    },
+    {
+        "artist": "london after midnight",
+        "title": "love you to death"
+    },
+    {
+        "artist": "london after midnight",
+        "title": "shatter (all my dead friends)"
+    },
+    {
+        "artist": "deine lakaien",
+        "title": "dark star"
+    },
+    {
+        "artist": "lakobeil",
+        "title": "dreaming [pk]"
+    }
+]

@@ -1,155 +1,150 @@
-{
-    "title": "Listopad 2006",
-    "filename": "listopad-2006",
-    "date": "2006-11",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "camouflage",
-            "title": "winter"
-        },
-        {
-            "artist": "claire voyant",
-            "title": "twenty four years (pk)"
-        },
-        {
-            "artist": "zoar (feat. brendan perry)",
-            "title": "winter wind"
-        },
-        {
-            "artist": "dead can dance",
-            "title": "crescant"
-        },
-        {
-            "artist": "mila mar",
-            "title": "like a cannibal"
-        },
-        {
-            "artist": "mila mar",
-            "title": "maid of orleans (cover)"
-        },
-        {
-            "artist": "qntal",
-            "title": "amis raynant"
-        },
-        {
-            "artist": "qntal",
-            "title": "silver swan"
-        },
-        {
-            "artist": "claire voyant",
-            "title": "twenty four years (pk)"
-        },
-        {
-            "artist": "camouflage",
-            "title": "passing by"
-        },
-        {
-            "artist": "camouflage",
-            "title": "how do you fell?"
-        },
-        {
-            "artist": "minerve",
-            "title": "clear (sentimental mix)"
-        },
-        {
-            "artist": "behind the scenes",
-            "title": "fate"
-        },
-        {
-            "artist": "kirlian camera",
-            "title": "drefting"
-        },
-        {
-            "artist": "la floa maldita",
-            "title": "querox"
-        },
-        {
-            "artist": "delerium",
-            "title": "tectonic shift"
-        },
-        {
-            "artist": "duran duran",
-            "title": "save (space mix)"
-        },
-        {
-            "artist": "zosma",
-            "title": "helden platz"
-        },
-        {
-            "artist": "claire voyant",
-            "title": "twenty four years (pk)"
-        },
-        {
-            "artist": "dead can dance",
-            "title": "in power we entrust the love advocated"
-        },
-        {
-            "artist": "chandeen",
-            "title": "in power we entrust the love advocated"
-        },
-        {
-            "artist": "ikon",
-            "title": "in power we entrust the love advocated"
-        },
-        {
-            "artist": "silence",
-            "title": "the rain"
-        },
-        {
-            "artist": "silence",
-            "title": "la troia"
-        },
-        {
-            "artist": "silence",
-            "title": "the fifth elephant"
-        },
-        {
-            "artist": "silence",
-            "title": "baby"
-        },
-        {
-            "artist": "silence",
-            "title": "murder"
-        },
-        {
-            "artist": "silence",
-            "title": "lagrimae"
-        },
-        {
-            "artist": "claire voyant",
-            "title": "twenty four years (pk)"
-        },
-        {
-            "artist": "chandeen-impresions",
-            "title": "la friute de la luna"
-        },
-        {
-            "artist": "clan of xymox",
-            "title": "pandora`s box"
-        },
-        {
-            "artist": "dreamside",
-            "title": "eurylheia"
-        },
-        {
-            "artist": "unheilig",
-            "title": "astronaut"
-        },
-        {
-            "artist": "ontario blue",
-            "title": "don`t weep for me"
-        },
-        {
-            "artist": "love is colder than death",
-            "title": "saidi"
-        },
-        {
-            "artist": "ordo equitum solis",
-            "title": "the last hopes in me"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "camouflage",
+        "title": "winter"
+    },
+    {
+        "artist": "claire voyant",
+        "title": "twenty four years (pk)"
+    },
+    {
+        "artist": "zoar (feat. brendan perry)",
+        "title": "winter wind"
+    },
+    {
+        "artist": "dead can dance",
+        "title": "crescant"
+    },
+    {
+        "artist": "mila mar",
+        "title": "like a cannibal"
+    },
+    {
+        "artist": "mila mar",
+        "title": "maid of orleans (cover)"
+    },
+    {
+        "artist": "qntal",
+        "title": "amis raynant"
+    },
+    {
+        "artist": "qntal",
+        "title": "silver swan"
+    },
+    {
+        "artist": "claire voyant",
+        "title": "twenty four years (pk)"
+    },
+    {
+        "artist": "camouflage",
+        "title": "passing by"
+    },
+    {
+        "artist": "camouflage",
+        "title": "how do you fell?"
+    },
+    {
+        "artist": "minerve",
+        "title": "clear (sentimental mix)"
+    },
+    {
+        "artist": "behind the scenes",
+        "title": "fate"
+    },
+    {
+        "artist": "kirlian camera",
+        "title": "drefting"
+    },
+    {
+        "artist": "la floa maldita",
+        "title": "querox"
+    },
+    {
+        "artist": "delerium",
+        "title": "tectonic shift"
+    },
+    {
+        "artist": "duran duran",
+        "title": "save (space mix)"
+    },
+    {
+        "artist": "zosma",
+        "title": "helden platz"
+    },
+    {
+        "artist": "claire voyant",
+        "title": "twenty four years (pk)"
+    },
+    {
+        "artist": "dead can dance",
+        "title": "in power we entrust the love advocated"
+    },
+    {
+        "artist": "chandeen",
+        "title": "in power we entrust the love advocated"
+    },
+    {
+        "artist": "ikon",
+        "title": "in power we entrust the love advocated"
+    },
+    {
+        "artist": "silence",
+        "title": "the rain"
+    },
+    {
+        "artist": "silence",
+        "title": "la troia"
+    },
+    {
+        "artist": "silence",
+        "title": "the fifth elephant"
+    },
+    {
+        "artist": "silence",
+        "title": "baby"
+    },
+    {
+        "artist": "silence",
+        "title": "murder"
+    },
+    {
+        "artist": "silence",
+        "title": "lagrimae"
+    },
+    {
+        "artist": "claire voyant",
+        "title": "twenty four years (pk)"
+    },
+    {
+        "artist": "chandeen-impresions",
+        "title": "la friute de la luna"
+    },
+    {
+        "artist": "clan of xymox",
+        "title": "pandora`s box"
+    },
+    {
+        "artist": "dreamside",
+        "title": "eurylheia"
+    },
+    {
+        "artist": "unheilig",
+        "title": "astronaut"
+    },
+    {
+        "artist": "ontario blue",
+        "title": "don`t weep for me"
+    },
+    {
+        "artist": "love is colder than death",
+        "title": "saidi"
+    },
+    {
+        "artist": "ordo equitum solis",
+        "title": "the last hopes in me"
+    }
+]

@@ -1,199 +1,194 @@
-{
-    "title": "Październik 2010",
-    "filename": "pazdziernik-2010",
-    "date": "2010-10",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner"
-        },
-        {
-            "artist": "dirk geiger",
-            "title": "gewitterregen"
-        },
-        {
-            "artist": "icehouse",
-            "title": "man of colours"
-        },
-        {
-            "artist": "hurts",
-            "title": "unspoken"
-        },
-        {
-            "artist": "deine lakaien",
-            "title": "one night (pk)"
-        },
-        {
-            "artist": "wench",
-            "title": "victory"
-        },
-        {
-            "artist": "wench",
-            "title": "power"
-        },
-        {
-            "artist": "wench",
-            "title": "heavenly creature"
-        },
-        {
-            "artist": "apoptygma berzerk",
-            "title": "love never dies ii"
-        },
-        {
-            "artist": "marc almond",
-            "title": "lavender"
-        },
-        {
-            "artist": "marc almond",
-            "title": "swan song"
-        },
-        {
-            "artist": "pieter nooten",
-            "title": "everywhere you ara"
-        },
-        {
-            "artist": "pieter nooten",
-            "title": "darkened haven"
-        },
-        {
-            "artist": "pieter nooten",
-            "title": "gone gone"
-        },
-        {
-            "artist": "ulrich schnauss",
-            "title": "a letter from home"
-        },
-        {
-            "artist": "lisa gerrard",
-            "title": "the secret language of angels"
-        },
-        {
-            "artist": "deine lakaien",
-            "title": "one night (pk)"
-        },
-        {
-            "artist": "deine lakaien",
-            "title": "go away bad dreams"
-        },
-        {
-            "artist": "leaether strip",
-            "title": "what have i done"
-        },
-        {
-            "artist": "the birthday massacre",
-            "title": "always"
-        },
-        {
-            "artist": "the birthday massacre",
-            "title": "midnight"
-        },
-        {
-            "artist": "pink turns blue",
-            "title": "fairy said"
-        },
-        {
-            "artist": "pink turns blue",
-            "title": "stars collide"
-        },
-        {
-            "artist": "o'children",
-            "title": "malo"
-        },
-        {
-            "artist": "o'children",
-            "title": "dead disco dancer"
-        },
-        {
-            "artist": "killing joke",
-            "title": "the raven king"
-        },
-        {
-            "artist": "swandive",
-            "title": "losing my religion"
-        },
-        {
-            "artist": "angelzoom",
-            "title": "fragile"
-        },
-        {
-            "artist": "angelzoom",
-            "title": "the things you said"
-        },
-        {
-            "artist": "sleepthief",
-            "title": "the chauffeur"
-        },
-        {
-            "artist": "apoptygma berzerk",
-            "title": "shine on gun records"
-        },
-        {
-            "artist": "apoptygma berzerk",
-            "title": "the approach of death"
-        },
-        {
-            "artist": "apoptygma berzerk",
-            "title": "spiritual reality"
-        },
-        {
-            "artist": "apoptygma berzerk",
-            "title": "ashes to ashes"
-        },
-        {
-            "artist": "apoptygma berzerk",
-            "title": "stitch"
-        },
-        {
-            "artist": "apoptygma berzerk",
-            "title": "love never dies i"
-        },
-        {
-            "artist": "apoptygma berzerk",
-            "title": "lost in translation"
-        },
-        {
-            "artist": "apoptygma berzerk",
-            "title": "you keep me from breaking apart"
-        },
-        {
-            "artist": "apoptygma berzerk",
-            "title": "weight ofthe world"
-        },
-        {
-            "artist": "apoptygma berzerk",
-            "title": "apollo (live on your tv)"
-        },
-        {
-            "artist": "deine lakaien",
-            "title": "one night (pk)"
-        },
-        {
-            "artist": "undermathic",
-            "title": "big city nights"
-        },
-        {
-            "artist": "lucidstatic",
-            "title": "burning embers"
-        },
-        {
-            "artist": "lucidstatic",
-            "title": "moments at a cliff"
-        },
-        {
-            "artist": "zeller",
-            "title": "sub galaxies riot"
-        },
-        {
-            "artist": "jacques c.",
-            "title": "doctor noir"
-        },
-        {
-            "artist": "acces to araska",
-            "title": "overwrite_ctr"
-        },
-        {
-            "artist": "placebo",
-            "title": "in the cold light of morning"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner"
+    },
+    {
+        "artist": "dirk geiger",
+        "title": "gewitterregen"
+    },
+    {
+        "artist": "icehouse",
+        "title": "man of colours"
+    },
+    {
+        "artist": "hurts",
+        "title": "unspoken"
+    },
+    {
+        "artist": "deine lakaien",
+        "title": "one night (pk)"
+    },
+    {
+        "artist": "wench",
+        "title": "victory"
+    },
+    {
+        "artist": "wench",
+        "title": "power"
+    },
+    {
+        "artist": "wench",
+        "title": "heavenly creature"
+    },
+    {
+        "artist": "apoptygma berzerk",
+        "title": "love never dies ii"
+    },
+    {
+        "artist": "marc almond",
+        "title": "lavender"
+    },
+    {
+        "artist": "marc almond",
+        "title": "swan song"
+    },
+    {
+        "artist": "pieter nooten",
+        "title": "everywhere you ara"
+    },
+    {
+        "artist": "pieter nooten",
+        "title": "darkened haven"
+    },
+    {
+        "artist": "pieter nooten",
+        "title": "gone gone"
+    },
+    {
+        "artist": "ulrich schnauss",
+        "title": "a letter from home"
+    },
+    {
+        "artist": "lisa gerrard",
+        "title": "the secret language of angels"
+    },
+    {
+        "artist": "deine lakaien",
+        "title": "one night (pk)"
+    },
+    {
+        "artist": "deine lakaien",
+        "title": "go away bad dreams"
+    },
+    {
+        "artist": "leaether strip",
+        "title": "what have i done"
+    },
+    {
+        "artist": "the birthday massacre",
+        "title": "always"
+    },
+    {
+        "artist": "the birthday massacre",
+        "title": "midnight"
+    },
+    {
+        "artist": "pink turns blue",
+        "title": "fairy said"
+    },
+    {
+        "artist": "pink turns blue",
+        "title": "stars collide"
+    },
+    {
+        "artist": "o'children",
+        "title": "malo"
+    },
+    {
+        "artist": "o'children",
+        "title": "dead disco dancer"
+    },
+    {
+        "artist": "killing joke",
+        "title": "the raven king"
+    },
+    {
+        "artist": "swandive",
+        "title": "losing my religion"
+    },
+    {
+        "artist": "angelzoom",
+        "title": "fragile"
+    },
+    {
+        "artist": "angelzoom",
+        "title": "the things you said"
+    },
+    {
+        "artist": "sleepthief",
+        "title": "the chauffeur"
+    },
+    {
+        "artist": "apoptygma berzerk",
+        "title": "shine on gun records"
+    },
+    {
+        "artist": "apoptygma berzerk",
+        "title": "the approach of death"
+    },
+    {
+        "artist": "apoptygma berzerk",
+        "title": "spiritual reality"
+    },
+    {
+        "artist": "apoptygma berzerk",
+        "title": "ashes to ashes"
+    },
+    {
+        "artist": "apoptygma berzerk",
+        "title": "stitch"
+    },
+    {
+        "artist": "apoptygma berzerk",
+        "title": "love never dies i"
+    },
+    {
+        "artist": "apoptygma berzerk",
+        "title": "lost in translation"
+    },
+    {
+        "artist": "apoptygma berzerk",
+        "title": "you keep me from breaking apart"
+    },
+    {
+        "artist": "apoptygma berzerk",
+        "title": "weight ofthe world"
+    },
+    {
+        "artist": "apoptygma berzerk",
+        "title": "apollo (live on your tv)"
+    },
+    {
+        "artist": "deine lakaien",
+        "title": "one night (pk)"
+    },
+    {
+        "artist": "undermathic",
+        "title": "big city nights"
+    },
+    {
+        "artist": "lucidstatic",
+        "title": "burning embers"
+    },
+    {
+        "artist": "lucidstatic",
+        "title": "moments at a cliff"
+    },
+    {
+        "artist": "zeller",
+        "title": "sub galaxies riot"
+    },
+    {
+        "artist": "jacques c.",
+        "title": "doctor noir"
+    },
+    {
+        "artist": "acces to araska",
+        "title": "overwrite_ctr"
+    },
+    {
+        "artist": "placebo",
+        "title": "in the cold light of morning"
+    }
+]

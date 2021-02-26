@@ -1,183 +1,178 @@
-{
-    "title": "Czerwiec 2013",
-    "filename": "czerwiec-2013",
-    "date": "2013-06",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2000"
-        },
-        {
-            "artist": "the house of usher",
-            "title": "reincarnation"
-        },
-        {
-            "artist": "mellonta tauta",
-            "title": "travel to the end"
-        },
-        {
-            "artist": "esben and the witch",
-            "title": "deathwaltz [pk]"
-        },
-        {
-            "artist": "esben and the witch",
-            "title": "smashed to pieces in the still of the night"
-        },
-        {
-            "artist": "place4tears",
-            "title": "tears of avalon (rain of tears mix by sean bowley)"
-        },
-        {
-            "artist": "weareoff",
-            "title": "as long as we remember"
-        },
-        {
-            "artist": "weareoff",
-            "title": "where there's no light"
-        },
-        {
-            "artist": "alison moyet",
-            "title": "a place to stay"
-        },
-        {
-            "artist": "alison moyet",
-            "title": "apple kisses"
-        },
-        {
-            "artist": "visage",
-            "title": "shameless fashion"
-        },
-        {
-            "artist": "visage",
-            "title": "she's electric (coming around)"
-        },
-        {
-            "artist": "subterfuge",
-            "title": "only the righteous"
-        },
-        {
-            "artist": "sisygambis",
-            "title": "envers"
-        },
-        {
-            "artist": "soror dolorosa",
-            "title": "silversquare"
-        },
-        {
-            "artist": "soror dolorosa",
-            "title": "hologram"
-        },
-        {
-            "artist": "the breath of life",
-            "title": "forgotten sins"
-        },
-        {
-            "artist": "esben and the witch",
-            "title": "deathwaltz [pk]"
-        },
-        {
-            "artist": "kirlian camera",
-            "title": "austria"
-        },
-        {
-            "artist": "born for bliss",
-            "title": "arabia"
-        },
-        {
-            "artist": "the sisterhood",
-            "title": "finland red, egypt white"
-        },
-        {
-            "artist": "the sisters of mercy",
-            "title": "dominion / mother russia"
-        },
-        {
-            "artist": "u2",
-            "title": "cedars of lebanon"
-        },
-        {
-            "artist": "download",
-            "title": "duppy"
-        },
-        {
-            "artist": "download",
-            "title": "saw crust"
-        },
-        {
-            "artist": "skinny puppy",
-            "title": "illisit"
-        },
-        {
-            "artist": "skinny puppy",
-            "title": "salvo"
-        },
-        {
-            "artist": "skinny puppy",
-            "title": "terminal"
-        },
-        {
-            "artist": "antiq & enk",
-            "title": "what was that"
-        },
-        {
-            "artist": "antiq & enk",
-            "title": "sim one"
-        },
-        {
-            "artist": "esben and the witch",
-            "title": "deathwaltz [pk]"
-        },
-        {
-            "artist": "depeche mode",
-            "title": "the things you said"
-        },
-        {
-            "artist": "skeleton hands",
-            "title": "things you said (dm)"
-        },
-        {
-            "artist": "skeleton hands",
-            "title": "same old madness (ministry)"
-        },
-        {
-            "artist": "skeleton hands",
-            "title": "hurt (nine inch nails)"
-        },
-        {
-            "artist": "vic anselmo",
-            "title": "marble - enchanted (closterkeller)"
-        },
-        {
-            "artist": "controlled collapse",
-            "title": "numb"
-        },
-        {
-            "artist": "controlled collapse",
-            "title": "change the world"
-        },
-        {
-            "artist": "controlled collapse",
-            "title": "fragment of time (remix by deathcamp project)"
-        },
-        {
-            "artist": "vnv nation",
-            "title": "electronaut"
-        },
-        {
-            "artist": "vnv nation",
-            "title": "endless skies"
-        },
-        {
-            "artist": "lacrimosa",
-            "title": "if the world stood still a day"
-        },
-        {
-            "artist": "lacrimosa",
-            "title": "verloren"
-        },
-        {
-            "artist": "the beauty of gemina",
-            "title": "in silence"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2000"
+    },
+    {
+        "artist": "the house of usher",
+        "title": "reincarnation"
+    },
+    {
+        "artist": "mellonta tauta",
+        "title": "travel to the end"
+    },
+    {
+        "artist": "esben and the witch",
+        "title": "deathwaltz [pk]"
+    },
+    {
+        "artist": "esben and the witch",
+        "title": "smashed to pieces in the still of the night"
+    },
+    {
+        "artist": "place4tears",
+        "title": "tears of avalon (rain of tears mix by sean bowley)"
+    },
+    {
+        "artist": "weareoff",
+        "title": "as long as we remember"
+    },
+    {
+        "artist": "weareoff",
+        "title": "where there's no light"
+    },
+    {
+        "artist": "alison moyet",
+        "title": "a place to stay"
+    },
+    {
+        "artist": "alison moyet",
+        "title": "apple kisses"
+    },
+    {
+        "artist": "visage",
+        "title": "shameless fashion"
+    },
+    {
+        "artist": "visage",
+        "title": "she's electric (coming around)"
+    },
+    {
+        "artist": "subterfuge",
+        "title": "only the righteous"
+    },
+    {
+        "artist": "sisygambis",
+        "title": "envers"
+    },
+    {
+        "artist": "soror dolorosa",
+        "title": "silversquare"
+    },
+    {
+        "artist": "soror dolorosa",
+        "title": "hologram"
+    },
+    {
+        "artist": "the breath of life",
+        "title": "forgotten sins"
+    },
+    {
+        "artist": "esben and the witch",
+        "title": "deathwaltz [pk]"
+    },
+    {
+        "artist": "kirlian camera",
+        "title": "austria"
+    },
+    {
+        "artist": "born for bliss",
+        "title": "arabia"
+    },
+    {
+        "artist": "the sisterhood",
+        "title": "finland red, egypt white"
+    },
+    {
+        "artist": "the sisters of mercy",
+        "title": "dominion / mother russia"
+    },
+    {
+        "artist": "u2",
+        "title": "cedars of lebanon"
+    },
+    {
+        "artist": "download",
+        "title": "duppy"
+    },
+    {
+        "artist": "download",
+        "title": "saw crust"
+    },
+    {
+        "artist": "skinny puppy",
+        "title": "illisit"
+    },
+    {
+        "artist": "skinny puppy",
+        "title": "salvo"
+    },
+    {
+        "artist": "skinny puppy",
+        "title": "terminal"
+    },
+    {
+        "artist": "antiq & enk",
+        "title": "what was that"
+    },
+    {
+        "artist": "antiq & enk",
+        "title": "sim one"
+    },
+    {
+        "artist": "esben and the witch",
+        "title": "deathwaltz [pk]"
+    },
+    {
+        "artist": "depeche mode",
+        "title": "the things you said"
+    },
+    {
+        "artist": "skeleton hands",
+        "title": "things you said (dm)"
+    },
+    {
+        "artist": "skeleton hands",
+        "title": "same old madness (ministry)"
+    },
+    {
+        "artist": "skeleton hands",
+        "title": "hurt (nine inch nails)"
+    },
+    {
+        "artist": "vic anselmo",
+        "title": "marble - enchanted (closterkeller)"
+    },
+    {
+        "artist": "controlled collapse",
+        "title": "numb"
+    },
+    {
+        "artist": "controlled collapse",
+        "title": "change the world"
+    },
+    {
+        "artist": "controlled collapse",
+        "title": "fragment of time (remix by deathcamp project)"
+    },
+    {
+        "artist": "vnv nation",
+        "title": "electronaut"
+    },
+    {
+        "artist": "vnv nation",
+        "title": "endless skies"
+    },
+    {
+        "artist": "lacrimosa",
+        "title": "if the world stood still a day"
+    },
+    {
+        "artist": "lacrimosa",
+        "title": "verloren"
+    },
+    {
+        "artist": "the beauty of gemina",
+        "title": "in silence"
+    }
+]

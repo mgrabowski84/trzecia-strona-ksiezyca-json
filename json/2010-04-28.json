@@ -1,183 +1,178 @@
-{
-    "title": "Kwiecień 2010",
-    "filename": "kwiecie-2010",
-    "date": "2010-04",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "god’s own medicine",
-            "title": "dissolution"
-        },
-        {
-            "artist": "god’s own medicine",
-            "title": "secrets"
-        },
-        {
-            "artist": "pati yang",
-            "title": "all that it thirst"
-        },
-        {
-            "artist": "centuria",
-            "title": "tristia"
-        },
-        {
-            "artist": "god’s own medicine",
-            "title": "whispers (pk)"
-        },
-        {
-            "artist": "ice machine",
-            "title": "born again"
-        },
-        {
-            "artist": "ice machine",
-            "title": "in the wings of the night"
-        },
-        {
-            "artist": "fading colours",
-            "title": "thorn"
-        },
-        {
-            "artist": "god’s bow",
-            "title": "cold"
-        },
-        {
-            "artist": "red emprez",
-            "title": "caress me"
-        },
-        {
-            "artist": "agonised by love",
-            "title": "the hottest summer in the history"
-        },
-        {
-            "artist": "god’s own medicine",
-            "title": "whispers (pk)"
-        },
-        {
-            "artist": "aya rl",
-            "title": "księżycowy krok"
-        },
-        {
-            "artist": "aya rl",
-            "title": "ulice miasta"
-        },
-        {
-            "artist": "ziyo",
-            "title": "graffiti"
-        },
-        {
-            "artist": "ziyo",
-            "title": "bliżej gwiazd"
-        },
-        {
-            "artist": "ziyo",
-            "title": "gloria"
-        },
-        {
-            "artist": "siekiera",
-            "title": "nowa aleksandria"
-        },
-        {
-            "artist": "siekiera",
-            "title": "na zewnątrz"
-        },
-        {
-            "artist": "obywatel g.c.",
-            "title": "tobie wybaczam"
-        },
-        {
-            "artist": "republika",
-            "title": "obcy astronom"
-        },
-        {
-            "artist": "klincz",
-            "title": "latarnik"
-        },
-        {
-            "artist": "god’s own medicine",
-            "title": "whispers (pk)"
-        },
-        {
-            "artist": "el division",
-            "title": "wind of sorrow"
-        },
-        {
-            "artist": "el division",
-            "title": "bonfire"
-        },
-        {
-            "artist": "el division",
-            "title": "fox and the innocent"
-        },
-        {
-            "artist": "electronic division",
-            "title": "zrób wszystko bym…"
-        },
-        {
-            "artist": "bisclavert",
-            "title": "insane in god (endraum vision)"
-        },
-        {
-            "artist": "bisclavert",
-            "title": "i'm insane in... (god's bow remix)"
-        },
-        {
-            "artist": "aurasvera",
-            "title": "ukryte tajemnice"
-        },
-        {
-            "artist": "iceberg",
-            "title": "agata (fiction became true)"
-        },
-        {
-            "artist": "god’s own medicine",
-            "title": "whispers (pk)"
-        },
-        {
-            "artist": "agressiva 69",
-            "title": "relax"
-        },
-        {
-            "artist": "moonlight",
-            "title": "enjoy the silence"
-        },
-        {
-            "artist": "eva",
-            "title": "israel"
-        },
-        {
-            "artist": "eva",
-            "title": "plastic passion"
-        },
-        {
-            "artist": "common dream",
-            "title": "bloodflowers"
-        },
-        {
-            "artist": "fading colours",
-            "title": "strzeż się tych miejsc"
-        },
-        {
-            "artist": "rukkanor",
-            "title": "beauty and beauty"
-        },
-        {
-            "artist": "rukkanor",
-            "title": "a poison tree"
-        },
-        {
-            "artist": "rukkanor",
-            "title": "jerusalem"
-        },
-        {
-            "artist": "rukkanor",
-            "title": "deliverance"
-        },
-        {
-            "artist": "rukkanor",
-            "title": "across the desert"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "god’s own medicine",
+        "title": "dissolution"
+    },
+    {
+        "artist": "god’s own medicine",
+        "title": "secrets"
+    },
+    {
+        "artist": "pati yang",
+        "title": "all that it thirst"
+    },
+    {
+        "artist": "centuria",
+        "title": "tristia"
+    },
+    {
+        "artist": "god’s own medicine",
+        "title": "whispers (pk)"
+    },
+    {
+        "artist": "ice machine",
+        "title": "born again"
+    },
+    {
+        "artist": "ice machine",
+        "title": "in the wings of the night"
+    },
+    {
+        "artist": "fading colours",
+        "title": "thorn"
+    },
+    {
+        "artist": "god’s bow",
+        "title": "cold"
+    },
+    {
+        "artist": "red emprez",
+        "title": "caress me"
+    },
+    {
+        "artist": "agonised by love",
+        "title": "the hottest summer in the history"
+    },
+    {
+        "artist": "god’s own medicine",
+        "title": "whispers (pk)"
+    },
+    {
+        "artist": "aya rl",
+        "title": "księżycowy krok"
+    },
+    {
+        "artist": "aya rl",
+        "title": "ulice miasta"
+    },
+    {
+        "artist": "ziyo",
+        "title": "graffiti"
+    },
+    {
+        "artist": "ziyo",
+        "title": "bliżej gwiazd"
+    },
+    {
+        "artist": "ziyo",
+        "title": "gloria"
+    },
+    {
+        "artist": "siekiera",
+        "title": "nowa aleksandria"
+    },
+    {
+        "artist": "siekiera",
+        "title": "na zewnątrz"
+    },
+    {
+        "artist": "obywatel g.c.",
+        "title": "tobie wybaczam"
+    },
+    {
+        "artist": "republika",
+        "title": "obcy astronom"
+    },
+    {
+        "artist": "klincz",
+        "title": "latarnik"
+    },
+    {
+        "artist": "god’s own medicine",
+        "title": "whispers (pk)"
+    },
+    {
+        "artist": "el division",
+        "title": "wind of sorrow"
+    },
+    {
+        "artist": "el division",
+        "title": "bonfire"
+    },
+    {
+        "artist": "el division",
+        "title": "fox and the innocent"
+    },
+    {
+        "artist": "electronic division",
+        "title": "zrób wszystko bym…"
+    },
+    {
+        "artist": "bisclavert",
+        "title": "insane in god (endraum vision)"
+    },
+    {
+        "artist": "bisclavert",
+        "title": "i'm insane in... (god's bow remix)"
+    },
+    {
+        "artist": "aurasvera",
+        "title": "ukryte tajemnice"
+    },
+    {
+        "artist": "iceberg",
+        "title": "agata (fiction became true)"
+    },
+    {
+        "artist": "god’s own medicine",
+        "title": "whispers (pk)"
+    },
+    {
+        "artist": "agressiva 69",
+        "title": "relax"
+    },
+    {
+        "artist": "moonlight",
+        "title": "enjoy the silence"
+    },
+    {
+        "artist": "eva",
+        "title": "israel"
+    },
+    {
+        "artist": "eva",
+        "title": "plastic passion"
+    },
+    {
+        "artist": "common dream",
+        "title": "bloodflowers"
+    },
+    {
+        "artist": "fading colours",
+        "title": "strzeż się tych miejsc"
+    },
+    {
+        "artist": "rukkanor",
+        "title": "beauty and beauty"
+    },
+    {
+        "artist": "rukkanor",
+        "title": "a poison tree"
+    },
+    {
+        "artist": "rukkanor",
+        "title": "jerusalem"
+    },
+    {
+        "artist": "rukkanor",
+        "title": "deliverance"
+    },
+    {
+        "artist": "rukkanor",
+        "title": "across the desert"
+    }
+]

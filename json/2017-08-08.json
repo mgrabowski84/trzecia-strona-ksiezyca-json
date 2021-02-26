@@ -1,174 +1,169 @@
-{
-    "title": "Sierpień 2017",
-    "filename": "sierpien-2017",
-    "date": "2017-08",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "song": "bladerunner 2001"
-        },
-        {
-            "artist": "depeche mode",
-            "song": "walking in my shoes"
-        },
-        {
-            "artist": "cigarettes after sex",
-            "song": "apocalypse"
-        },
-        {
-            "artist": "cigarettes after sex",
-            "song": "nothing's gonna hurt you baby"
-        },
-        {
-            "artist": "slowdive",
-            "song": "no longer making time (pk)"
-        },
-        {
-            "artist": "a thousand hours",
-            "song": "down"
-        },
-        {
-            "artist": "a thousand hours",
-            "song": "shipwreck"
-        },
-        {
-            "artist": "a thousand hours",
-            "song": "sleep of angels"
-        },
-        {
-            "artist": "lea porcelain",
-            "song": "the love"
-        },
-        {
-            "artist": "lea porcelain",
-            "song": "warsaw street"
-        },
-        {
-            "artist": "lea porcelain",
-            "song": "similar familiar"
-        },
-        {
-            "artist": "schonwald",
-            "song": "austral"
-        },
-        {
-            "artist": "schonwald",
-            "song": "surprising violence"
-        },
-        {
-            "artist": "autumn’s grey solace",
-            "song": "solace andromedae"
-        },
-        {
-            "artist": "autumn’s grey solace",
-            "song": "canis"
-        },
-        {
-            "artist": "heaven",
-            "song": "it's not enough"
-        },
-        {
-            "artist": "heaven",
-            "song": "lock & key"
-        },
-        {
-            "artist": "new today",
-            "song": "commendation"
-        },
-        {
-            "artist": "new today",
-            "song": "the years"
-        },
-        {
-            "artist": "traitrs",
-            "song": "speak in tonques"
-        },
-        {
-            "artist": "the birthday massacre",
-            "song": "one"
-        },
-        {
-            "artist": "viva la fete",
-            "song": "mea culpa"
-        },
-        {
-            "artist": "la scaltra – neverland"
-        },
-        {
-            "artist": "slowdive",
-            "song": "no longer making time (pk)"
-        },
-        {
-            "artist": "front line assembly",
-            "song": "laughing pain"
-        },
-        {
-            "artist": "the opposer divine",
-            "song": "atropine"
-        },
-        {
-            "artist": "the opposer divine",
-            "song": "distress signalal"
-        },
-        {
-            "artist": "first aid 4 souls",
-            "song": "massaraksh"
-        },
-        {
-            "artist": "die selektion",
-            "song": "der augenblick"
-        },
-        {
-            "artist": "the tear garden",
-            "song": "strange land"
-        },
-        {
-            "artist": "the tear garden",
-            "song": "on with the show"
-        },
-        {
-            "artist": "the tear garden",
-            "song": "kiss don't tell"
-        },
-        {
-            "artist": "love like blood",
-            "song": "the everlasting dream"
-        },
-        {
-            "artist": "arts and decay",
-            "song": "burn"
-        },
-        {
-            "artist": "arts and decay",
-            "song": "born"
-        },
-        {
-            "artist": "arts and decay",
-            "song": "mescal"
-        },
-        {
-            "artist": "arts and decay",
-            "song": "hit squad"
-        },
-        {
-            "artist": "arts and decay",
-            "song": "the land"
-        },
-        {
-            "artist": "arts and decay",
-            "song": "living on a mountain"
-        },
-        {
-            "artist": "arts and decay",
-            "song": "the wind is gone"
-        },
-        {
-            "artist": "arts and decay",
-            "song": "brothers and sisters"
-        },
-        {
-            "artist": "slowdive",
-            "song": "no longer making time (pk)"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "depeche mode",
+        "title": "walking in my shoes"
+    },
+    {
+        "artist": "cigarettes after sex",
+        "title": "apocalypse"
+    },
+    {
+        "artist": "cigarettes after sex",
+        "title": "nothing's gonna hurt you baby"
+    },
+    {
+        "artist": "slowdive",
+        "title": "no longer making time (pk)"
+    },
+    {
+        "artist": "a thousand hours",
+        "title": "down"
+    },
+    {
+        "artist": "a thousand hours",
+        "title": "shipwreck"
+    },
+    {
+        "artist": "a thousand hours",
+        "title": "sleep of angels"
+    },
+    {
+        "artist": "lea porcelain",
+        "title": "the love"
+    },
+    {
+        "artist": "lea porcelain",
+        "title": "warsaw street"
+    },
+    {
+        "artist": "lea porcelain",
+        "title": "similar familiar"
+    },
+    {
+        "artist": "schonwald",
+        "title": "austral"
+    },
+    {
+        "artist": "schonwald",
+        "title": "surprising violence"
+    },
+    {
+        "artist": "autumn’s grey solace",
+        "title": "solace andromedae"
+    },
+    {
+        "artist": "autumn’s grey solace",
+        "title": "canis"
+    },
+    {
+        "artist": "heaven",
+        "title": "it's not enough"
+    },
+    {
+        "artist": "heaven",
+        "title": "lock & key"
+    },
+    {
+        "artist": "new today",
+        "title": "commendation"
+    },
+    {
+        "artist": "new today",
+        "title": "the years"
+    },
+    {
+        "artist": "traitrs",
+        "title": "speak in tonques"
+    },
+    {
+        "artist": "the birthday massacre",
+        "title": "one"
+    },
+    {
+        "artist": "viva la fete",
+        "title": "mea culpa"
+    },
+    {
+        "artist": "la scaltra – neverland"
+    },
+    {
+        "artist": "slowdive",
+        "title": "no longer making time (pk)"
+    },
+    {
+        "artist": "front line assembly",
+        "title": "laughing pain"
+    },
+    {
+        "artist": "the opposer divine",
+        "title": "atropine"
+    },
+    {
+        "artist": "the opposer divine",
+        "title": "distress signalal"
+    },
+    {
+        "artist": "first aid 4 souls",
+        "title": "massaraksh"
+    },
+    {
+        "artist": "die selektion",
+        "title": "der augenblick"
+    },
+    {
+        "artist": "the tear garden",
+        "title": "strange land"
+    },
+    {
+        "artist": "the tear garden",
+        "title": "on with the show"
+    },
+    {
+        "artist": "the tear garden",
+        "title": "kiss don't tell"
+    },
+    {
+        "artist": "love like blood",
+        "title": "the everlasting dream"
+    },
+    {
+        "artist": "arts and decay",
+        "title": "burn"
+    },
+    {
+        "artist": "arts and decay",
+        "title": "born"
+    },
+    {
+        "artist": "arts and decay",
+        "title": "mescal"
+    },
+    {
+        "artist": "arts and decay",
+        "title": "hit squad"
+    },
+    {
+        "artist": "arts and decay",
+        "title": "the land"
+    },
+    {
+        "artist": "arts and decay",
+        "title": "living on a mountain"
+    },
+    {
+        "artist": "arts and decay",
+        "title": "the wind is gone"
+    },
+    {
+        "artist": "arts and decay",
+        "title": "brothers and sisters"
+    },
+    {
+        "artist": "slowdive",
+        "title": "no longer making time (pk)"
+    }
+]

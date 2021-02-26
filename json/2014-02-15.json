@@ -1,159 +1,154 @@
-{
-    "title": "Luty 2014",
-    "filename": "luty-2014",
-    "date": "2014-02",
-    "songs": [
-        {
-            "artist": "diary of dreams",
-            "title": "bladerunner 2001"
-        },
-        {
-            "artist": "the cure",
-            "title": "love song"
-        },
-        {
-            "artist": "white lies",
-            "title": "heaven wait"
-        },
-        {
-            "artist": "b-movie",
-            "title": "echoes [pk]"
-        },
-        {
-            "artist": "b-movie",
-            "title": "the dreamers"
-        },
-        {
-            "artist": "the beauty of gemina",
-            "title": "one million stars"
-        },
-        {
-            "artist": "the beauty of gemina",
-            "title": "hundred lies"
-        },
-        {
-            "artist": "still patient?",
-            "title": "all is well"
-        },
-        {
-            "artist": "still patient?",
-            "title": "impact"
-        },
-        {
-            "artist": "clan of xymox",
-            "title": "love's on diet"
-        },
-        {
-            "artist": "clan of xymox",
-            "title": "i'll let you go"
-        },
-        {
-            "artist": "the mission",
-            "title": "valentine"
-        },
-        {
-            "artist": "craig armstrong ft. elizabeth fraser",
-            "title": "this love"
-        },
-        {
-            "artist": "the mission",
-            "title": "love me to death"
-        },
-        {
-            "artist": "dragons",
-            "title": "where is the love"
-        },
-        {
-            "artist": "claire voyant",
-            "title": "love is blind"
-        },
-        {
-            "artist": "lush",
-            "title": "love at first sight"
-        },
-        {
-            "artist": "clan of xymox",
-            "title": "a new dimension"
-        },
-        {
-            "artist": "the cure",
-            "title": "the same deep water as you"
-        },
-        {
-            "artist": "breathless",
-            "title": "you can call it yours"
-        },
-        {
-            "artist": "u2",
-            "title": "love is blindness"
-        },
-        {
-            "artist": "the mission",
-            "title": "butterfly on a wheel"
-        },
-        {
-            "artist": "lakeside x",
-            "title": "ultraviolet"
-        },
-        {
-            "artist": "the cure",
-            "title": "bloodflowers"
-        },
-        {
-            "artist": "b-movie",
-            "title": "echoes [pk]"
-        },
-        {
-            "artist": "jordan reyne",
-            "title": "bite (the hand that feeds)"
-        },
-        {
-            "artist": "fyrs",
-            "title": "away from home"
-        },
-        {
-            "artist": "hopeful machines",
-            "title": "all light comes in at the eye"
-        },
-        {
-            "artist": "leather strip",
-            "title": "we fail we forget"
-        },
-        {
-            "artist": "millipede",
-            "title": "wonder"
-        },
-        {
-            "artist": "dead can dance",
-            "title": "the arcane"
-        },
-        {
-            "artist": "arcana",
-            "title": "the arcane (dead can dance)"
-        },
-        {
-            "artist": "arcana",
-            "title": "enigma of the absolute (dead can dance)"
-        },
-        {
-            "artist": "arcana",
-            "title": "this big hush (shriekback)"
-        },
-        {
-            "artist": "b-movie",
-            "title": "echoes [pk]"
-        },
-        {
-            "artist": "azure blue",
-            "title": "fingers"
-        },
-        {
-            "artist": "azure blue",
-            "title": "sunset"
-        },
-        {
-            "artist": "my life story",
-            "title": "i love you like gala"
-        }
-    ]
-}
+[
+    {
+        "artist": "diary of dreams",
+        "title": "bladerunner 2001"
+    },
+    {
+        "artist": "the cure",
+        "title": "love song"
+    },
+    {
+        "artist": "white lies",
+        "title": "heaven wait"
+    },
+    {
+        "artist": "b-movie",
+        "title": "echoes [pk]"
+    },
+    {
+        "artist": "b-movie",
+        "title": "the dreamers"
+    },
+    {
+        "artist": "the beauty of gemina",
+        "title": "one million stars"
+    },
+    {
+        "artist": "the beauty of gemina",
+        "title": "hundred lies"
+    },
+    {
+        "artist": "still patient?",
+        "title": "all is well"
+    },
+    {
+        "artist": "still patient?",
+        "title": "impact"
+    },
+    {
+        "artist": "clan of xymox",
+        "title": "love's on diet"
+    },
+    {
+        "artist": "clan of xymox",
+        "title": "i'll let you go"
+    },
+    {
+        "artist": "the mission",
+        "title": "valentine"
+    },
+    {
+        "artist": "craig armstrong ft. elizabeth fraser",
+        "title": "this love"
+    },
+    {
+        "artist": "the mission",
+        "title": "love me to death"
+    },
+    {
+        "artist": "dragons",
+        "title": "where is the love"
+    },
+    {
+        "artist": "claire voyant",
+        "title": "love is blind"
+    },
+    {
+        "artist": "lush",
+        "title": "love at first sight"
+    },
+    {
+        "artist": "clan of xymox",
+        "title": "a new dimension"
+    },
+    {
+        "artist": "the cure",
+        "title": "the same deep water as you"
+    },
+    {
+        "artist": "breathless",
+        "title": "you can call it yours"
+    },
+    {
+        "artist": "u2",
+        "title": "love is blindness"
+    },
+    {
+        "artist": "the mission",
+        "title": "butterfly on a wheel"
+    },
+    {
+        "artist": "lakeside x",
+        "title": "ultraviolet"
+    },
+    {
+        "artist": "the cure",
+        "title": "bloodflowers"
+    },
+    {
+        "artist": "b-movie",
+        "title": "echoes [pk]"
+    },
+    {
+        "artist": "jordan reyne",
+        "title": "bite (the hand that feeds)"
+    },
+    {
+        "artist": "fyrs",
+        "title": "away from home"
+    },
+    {
+        "artist": "hopeful machines",
+        "title": "all light comes in at the eye"
+    },
+    {
+        "artist": "leather strip",
+        "title": "we fail we forget"
+    },
+    {
+        "artist": "millipede",
+        "title": "wonder"
+    },
+    {
+        "artist": "dead can dance",
+        "title": "the arcane"
+    },
+    {
+        "artist": "arcana",
+        "title": "the arcane (dead can dance)"
+    },
+    {
+        "artist": "arcana",
+        "title": "enigma of the absolute (dead can dance)"
+    },
+    {
+        "artist": "arcana",
+        "title": "this big hush (shriekback)"
+    },
+    {
+        "artist": "b-movie",
+        "title": "echoes [pk]"
+    },
+    {
+        "artist": "azure blue",
+        "title": "fingers"
+    },
+    {
+        "artist": "azure blue",
+        "title": "sunset"
+    },
+    {
+        "artist": "my life story",
+        "title": "i love you like gala"
+    }
+]
