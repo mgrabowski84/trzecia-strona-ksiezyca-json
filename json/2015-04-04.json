@@ -1,147 +1,147 @@
 {
-	"title": "Kwiecień 2015",
-	"filename": "kwiecien-2015",
-	"date": "2015-04",
-	"songs": [
-		{
-			"artist": "zoar",
-			"title": "cassandra ii"
-		},
-		{
-			"artist": "first aid 4 souls",
-			"title": "the golden our lords prayer"
-		},
-		{
-			"artist": "the soft moon",
-			"title": "wasting [pk]"
-		},
-		{
-			"artist": "handful of snowdrops",
-			"title": "wreckage"
-		},
-		{
-			"artist": "torul",
-			"title": "lost for you"
-		},
-		{
-			"artist": "torul",
-			"title": "discrepancy"
-		},
-		{
-			"artist": "camouflage",
-			"title": "still"
-		},
-		{
-			"artist": "marc almond",
-			"title": "the pain of never"
-		},
-		{
-			"artist": "sólstafir",
-			"title": "ótta (elevator mix)"
-		},
-		{
-			"artist": "friends of alice ivy",
-			"title": "the aeriel mariners"
-		},
-		{
-			"artist": "friends of alice ivy",
-			"title": "miranda"
-		},
-		{
-			"artist": "ostia",
-			"title": "rope"
-		},
-		{
-			"artist": "ostia",
-			"title": "anathema"
-		},
-		{
-			"artist": "ostia",
-			"title": "aethersong"
-		},
-		{
-			"artist": "friends of alice ivy",
-			"title": "the ghosts of dunwich"
-		},
-		{
-			"artist": "friends of alice ivy",
-			"title": "we are as ghosts"
-		},
-		{
-			"artist": "eden",
-			"title": "the darkness in me"
-		},
-		{
-			"artist": "friends of alice ivy",
-			"title": "oars under glass"
-		},
-		{
-			"artist": "friends of alice ivy",
-			"title": "song of the willows"
-		},
-		{
-			"artist": "the soft moon",
-			"title": "wasting [pk]"
-		},
-		{
-			"artist": "lights out asia",
-			"title": "the eye of all storms"
-		},
-		{
-			"artist": "zoar",
-			"title": "death by denial"
-		},
-		{
-			"artist": "zoar",
-			"title": "if only you knew"
-		},
-		{
-			"artist": "lights out asia",
-			"title": "she played with time"
-		},
-		{
-			"artist": "love is colder than death",
-			"title": "fiorina"
-		},
-		{
-			"artist": "love is colder than death",
-			"title": "nostromo"
-		},
-		{
-			"artist": "love is colder than death",
-			"title": "eclogue the third"
-		},
-		{
-			"artist": "love is colder than death",
-			"title": "veronensis"
-		},
-		{
-			"artist": "love is colder than death",
-			"title": "helvellyn"
-		},
-		{
-			"artist": "love is colder than death",
-			"title": "taliesin and melanghel"
-		},
-		{
-			"artist": "love is colder than death",
-			"title": "an invite to eternity"
-		},
-		{
-			"artist": "love is colder than death",
-			"title": "the cenobites"
-		},
-		{
-			"artist": "love is colder than death",
-			"title": "a chain"
-		},
-		{
-			"artist": "love is colder than death",
-			"title": "down and out"
-		},
-		{
-			"artist": "the soft moon",
-			"title": "wasting [pk]"
-		}
-	]
+    "title": "Kwiecień 2015",
+    "filename": "kwiecien-2015",
+    "date": "2015-04",
+    "songs": [
+        {
+            "artist": "zoar",
+            "title": "cassandra ii"
+        },
+        {
+            "artist": "first aid 4 souls",
+            "title": "the golden our lords prayer"
+        },
+        {
+            "artist": "the soft moon",
+            "title": "wasting [pk]"
+        },
+        {
+            "artist": "handful of snowdrops",
+            "title": "wreckage"
+        },
+        {
+            "artist": "torul",
+            "title": "lost for you"
+        },
+        {
+            "artist": "torul",
+            "title": "discrepancy"
+        },
+        {
+            "artist": "camouflage",
+            "title": "still"
+        },
+        {
+            "artist": "marc almond",
+            "title": "the pain of never"
+        },
+        {
+            "artist": "sólstafir",
+            "title": "ótta (elevator mix)"
+        },
+        {
+            "artist": "friends of alice ivy",
+            "title": "the aeriel mariners"
+        },
+        {
+            "artist": "friends of alice ivy",
+            "title": "miranda"
+        },
+        {
+            "artist": "ostia",
+            "title": "rope"
+        },
+        {
+            "artist": "ostia",
+            "title": "anathema"
+        },
+        {
+            "artist": "ostia",
+            "title": "aethersong"
+        },
+        {
+            "artist": "friends of alice ivy",
+            "title": "the ghosts of dunwich"
+        },
+        {
+            "artist": "friends of alice ivy",
+            "title": "we are as ghosts"
+        },
+        {
+            "artist": "eden",
+            "title": "the darkness in me"
+        },
+        {
+            "artist": "friends of alice ivy",
+            "title": "oars under glass"
+        },
+        {
+            "artist": "friends of alice ivy",
+            "title": "song of the willows"
+        },
+        {
+            "artist": "the soft moon",
+            "title": "wasting [pk]"
+        },
+        {
+            "artist": "lights out asia",
+            "title": "the eye of all storms"
+        },
+        {
+            "artist": "zoar",
+            "title": "death by denial"
+        },
+        {
+            "artist": "zoar",
+            "title": "if only you knew"
+        },
+        {
+            "artist": "lights out asia",
+            "title": "she played with time"
+        },
+        {
+            "artist": "love is colder than death",
+            "title": "fiorina"
+        },
+        {
+            "artist": "love is colder than death",
+            "title": "nostromo"
+        },
+        {
+            "artist": "love is colder than death",
+            "title": "eclogue the third"
+        },
+        {
+            "artist": "love is colder than death",
+            "title": "veronensis"
+        },
+        {
+            "artist": "love is colder than death",
+            "title": "helvellyn"
+        },
+        {
+            "artist": "love is colder than death",
+            "title": "taliesin and melanghel"
+        },
+        {
+            "artist": "love is colder than death",
+            "title": "an invite to eternity"
+        },
+        {
+            "artist": "love is colder than death",
+            "title": "the cenobites"
+        },
+        {
+            "artist": "love is colder than death",
+            "title": "a chain"
+        },
+        {
+            "artist": "love is colder than death",
+            "title": "down and out"
+        },
+        {
+            "artist": "the soft moon",
+            "title": "wasting [pk]"
+        }
+    ]
 }

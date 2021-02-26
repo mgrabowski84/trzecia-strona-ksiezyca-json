@@ -1,167 +1,167 @@
 {
-	"title": "Maj 2011",
-	"filename": "maj-2011",
-	"date": "2011-05",
-	"songs": [
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2001"
-		},
-		{
-			"artist": "forthcoming fire",
-			"title": "i will walk you home"
-		},
-		{
-			"artist": "autumn’s grey solace",
-			"title": "phobic sea"
-		},
-		{
-			"artist": "the frozen autumn",
-			"title": "the last train (pk)"
-		},
-		{
-			"artist": "vendemmian",
-			"title": "one in a million"
-		},
-		{
-			"artist": "vendemmian",
-			"title": "shine on"
-		},
-		{
-			"artist": "diary of dreams",
-			"title": "echo in me"
-		},
-		{
-			"artist": "in the nursery",
-			"title": "trial by error"
-		},
-		{
-			"artist": "in the nursery",
-			"title": "resonate"
-		},
-		{
-			"artist": "cocteau twins",
-			"title": "spangle maker"
-		},
-		{
-			"artist": "cocteau twins, harold budd",
-			"title": "sea, swallow me"
-		},
-		{
-			"artist": "robin guthrie, harold budd",
-			"title": "turn on the moon"
-		},
-		{
-			"artist": "robin guthrie",
-			"title": "wishing"
-		},
-		{
-			"artist": "robin guthrie",
-			"title": "the blue book"
-		},
-		{
-			"artist": "robin guthrie",
-			"title": "wormed by the winter sun"
-		},
-		{
-			"artist": "violet indiana",
-			"title": "sundance"
-		},
-		{
-			"artist": "violet indiana",
-			"title": "powder river"
-		},
-		{
-			"artist": "this mortal coil",
-			"title": "song to the siren"
-		},
-		{
-			"artist": "this mortal coil",
-			"title": "the last ray"
-		},
-		{
-			"artist": "this mortal coil",
-			"title": "not me"
-		},
-		{
-			"artist": "cocteau twins",
-			"title": "musette and drums"
-		},
-		{
-			"artist": "the frozen autumn",
-			"title": "the last train (pk)"
-		},
-		{
-			"artist": "wumpscut",
-			"title": "patient a"
-		},
-		{
-			"artist": "first aid 4 souls",
-			"title": "wrong call to god"
-		},
-		{
-			"artist": "first aid 4 souls",
-			"title": "soulscape"
-		},
-		{
-			"artist": "stendeck",
-			"title": "six-door bedroom"
-		},
-		{
-			"artist": "yello",
-			"title": "bostich (duck mobile)"
-		},
-		{
-			"artist": "yello",
-			"title": "scorpio rising"
-		},
-		{
-			"artist": "chromagain",
-			"title": "killing dome"
-		},
-		{
-			"artist": "chromagain",
-			"title": "after the clouds"
-		},
-		{
-			"artist": "chromagain",
-			"title": "sometimes (demo)"
-		},
-		{
-			"artist": "chromagain",
-			"title": "season of steel"
-		},
-		{
-			"artist": "the frozen autumn",
-			"title": "the last train (pk)"
-		},
-		{
-			"artist": "clock dva",
-			"title": "the unseen"
-		},
-		{
-			"artist": "love like blood",
-			"title": "the everlasting dream"
-		},
-		{
-			"artist": "love like blood",
-			"title": "doomsday"
-		},
-		{
-			"artist": "love like blood",
-			"title": "johannesburg"
-		},
-		{
-			"artist": "love like blood",
-			"title": "look out"
-		},
-		{
-			"artist": "love like blood",
-			"title": "feedback"
-		},
-		{
-			"artist": "deine lakaien",
-			"title": "love me to the end"
-		}
-	]
+    "title": "Maj 2011",
+    "filename": "maj-2011",
+    "date": "2011-05",
+    "songs": [
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2001"
+        },
+        {
+            "artist": "forthcoming fire",
+            "title": "i will walk you home"
+        },
+        {
+            "artist": "autumn’s grey solace",
+            "title": "phobic sea"
+        },
+        {
+            "artist": "the frozen autumn",
+            "title": "the last train (pk)"
+        },
+        {
+            "artist": "vendemmian",
+            "title": "one in a million"
+        },
+        {
+            "artist": "vendemmian",
+            "title": "shine on"
+        },
+        {
+            "artist": "diary of dreams",
+            "title": "echo in me"
+        },
+        {
+            "artist": "in the nursery",
+            "title": "trial by error"
+        },
+        {
+            "artist": "in the nursery",
+            "title": "resonate"
+        },
+        {
+            "artist": "cocteau twins",
+            "title": "spangle maker"
+        },
+        {
+            "artist": "cocteau twins, harold budd",
+            "title": "sea, swallow me"
+        },
+        {
+            "artist": "robin guthrie, harold budd",
+            "title": "turn on the moon"
+        },
+        {
+            "artist": "robin guthrie",
+            "title": "wishing"
+        },
+        {
+            "artist": "robin guthrie",
+            "title": "the blue book"
+        },
+        {
+            "artist": "robin guthrie",
+            "title": "wormed by the winter sun"
+        },
+        {
+            "artist": "violet indiana",
+            "title": "sundance"
+        },
+        {
+            "artist": "violet indiana",
+            "title": "powder river"
+        },
+        {
+            "artist": "this mortal coil",
+            "title": "song to the siren"
+        },
+        {
+            "artist": "this mortal coil",
+            "title": "the last ray"
+        },
+        {
+            "artist": "this mortal coil",
+            "title": "not me"
+        },
+        {
+            "artist": "cocteau twins",
+            "title": "musette and drums"
+        },
+        {
+            "artist": "the frozen autumn",
+            "title": "the last train (pk)"
+        },
+        {
+            "artist": "wumpscut",
+            "title": "patient a"
+        },
+        {
+            "artist": "first aid 4 souls",
+            "title": "wrong call to god"
+        },
+        {
+            "artist": "first aid 4 souls",
+            "title": "soulscape"
+        },
+        {
+            "artist": "stendeck",
+            "title": "six-door bedroom"
+        },
+        {
+            "artist": "yello",
+            "title": "bostich (duck mobile)"
+        },
+        {
+            "artist": "yello",
+            "title": "scorpio rising"
+        },
+        {
+            "artist": "chromagain",
+            "title": "killing dome"
+        },
+        {
+            "artist": "chromagain",
+            "title": "after the clouds"
+        },
+        {
+            "artist": "chromagain",
+            "title": "sometimes (demo)"
+        },
+        {
+            "artist": "chromagain",
+            "title": "season of steel"
+        },
+        {
+            "artist": "the frozen autumn",
+            "title": "the last train (pk)"
+        },
+        {
+            "artist": "clock dva",
+            "title": "the unseen"
+        },
+        {
+            "artist": "love like blood",
+            "title": "the everlasting dream"
+        },
+        {
+            "artist": "love like blood",
+            "title": "doomsday"
+        },
+        {
+            "artist": "love like blood",
+            "title": "johannesburg"
+        },
+        {
+            "artist": "love like blood",
+            "title": "look out"
+        },
+        {
+            "artist": "love like blood",
+            "title": "feedback"
+        },
+        {
+            "artist": "deine lakaien",
+            "title": "love me to the end"
+        }
+    ]
 }

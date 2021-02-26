@@ -1,139 +1,139 @@
 {
-	"title": "Sierpień 2014",
-	"filename": "sierpien-2014",
-	"date": "2014-08",
-	"songs": [
-		{
-			"artist": "diary of dreams",
-			"title": "bladrunner 2001"
-		},
-		{
-			"artist": "brendan perry",
-			"title": "the carnival is over"
-		},
-		{
-			"artist": "lakobeil",
-			"title": "dreaming"
-		},
-		{
-			"artist": "chelsea wolfe & king dude",
-			"title": "be free [pk]"
-		},
-		{
-			"artist": "god`s bow",
-			"title": "fallen"
-		},
-		{
-			"artist": "traces to nowhere",
-			"title": "back to the beginning"
-		},
-		{
-			"artist": "god's own medicine",
-			"title": "slept"
-		},
-		{
-			"artist": "borghesia",
-			"title": "we don't believe you"
-		},
-		{
-			"artist": "new canyons",
-			"title": "end colors"
-		},
-		{
-			"artist": "seasurfer",
-			"title": "the big panthers war"
-		},
-		{
-			"artist": "seasurfer",
-			"title": "dragon song"
-		},
-		{
-			"artist": "the soft moon",
-			"title": "feel"
-		},
-		{
-			"artist": "vaniish",
-			"title": "kaleidoscoped"
-		},
-		{
-			"artist": "vaniish",
-			"title": "fragment/fatigue"
-		},
-		{
-			"artist": "vaniish",
-			"title": "succession"
-		},
-		{
-			"artist": "ikon",
-			"title": "the last song"
-		},
-		{
-			"artist": "peter murphy",
-			"title": "loctaine"
-		},
-		{
-			"artist": "chelsea wolfe & king dude",
-			"title": "be free [pk]"
-		},
-		{
-			"artist": "pieter nooten/ michael brook",
-			"title": "clouds"
-		},
-		{
-			"artist": "chandeen",
-			"title": "mysterious clouds"
-		},
-		{
-			"artist": "goldfrapp",
-			"title": "big black cloud, little white lie"
-		},
-		{
-			"artist": "dark orange",
-			"title": "clouds 4 winds"
-		},
-		{
-			"artist": "in my rosary",
-			"title": "a naked cloud"
-		},
-		{
-			"artist": "onetwo",
-			"title": "cloud nine"
-		},
-		{
-			"artist": "morrissey",
-			"title": "black cloud"
-		},
-		{
-			"artist": "marillion",
-			"title": "ocean cloud"
-		},
-		{
-			"artist": "chelsea wolfe & king dude",
-			"title": "be free [pk]"
-		},
-		{
-			"artist": "r.roo",
-			"title": "behind the door"
-		},
-		{
-			"artist": "click click",
-			"title": "limb from limb"
-		},
-		{
-			"artist": "click click",
-			"title": "burn"
-		},
-		{
-			"artist": "click click",
-			"title": "drone"
-		},
-		{
-			"artist": "r.roo",
-			"title": "travel by moonlight"
-		},
-		{
-			"artist": "r.roo",
-			"title": "one question (hidden track)"
-		}
-	]
+    "title": "Sierpień 2014",
+    "filename": "sierpien-2014",
+    "date": "2014-08",
+    "songs": [
+        {
+            "artist": "diary of dreams",
+            "title": "bladrunner 2001"
+        },
+        {
+            "artist": "brendan perry",
+            "title": "the carnival is over"
+        },
+        {
+            "artist": "lakobeil",
+            "title": "dreaming"
+        },
+        {
+            "artist": "chelsea wolfe & king dude",
+            "title": "be free [pk]"
+        },
+        {
+            "artist": "god`s bow",
+            "title": "fallen"
+        },
+        {
+            "artist": "traces to nowhere",
+            "title": "back to the beginning"
+        },
+        {
+            "artist": "god's own medicine",
+            "title": "slept"
+        },
+        {
+            "artist": "borghesia",
+            "title": "we don't believe you"
+        },
+        {
+            "artist": "new canyons",
+            "title": "end colors"
+        },
+        {
+            "artist": "seasurfer",
+            "title": "the big panthers war"
+        },
+        {
+            "artist": "seasurfer",
+            "title": "dragon song"
+        },
+        {
+            "artist": "the soft moon",
+            "title": "feel"
+        },
+        {
+            "artist": "vaniish",
+            "title": "kaleidoscoped"
+        },
+        {
+            "artist": "vaniish",
+            "title": "fragment/fatigue"
+        },
+        {
+            "artist": "vaniish",
+            "title": "succession"
+        },
+        {
+            "artist": "ikon",
+            "title": "the last song"
+        },
+        {
+            "artist": "peter murphy",
+            "title": "loctaine"
+        },
+        {
+            "artist": "chelsea wolfe & king dude",
+            "title": "be free [pk]"
+        },
+        {
+            "artist": "pieter nooten/ michael brook",
+            "title": "clouds"
+        },
+        {
+            "artist": "chandeen",
+            "title": "mysterious clouds"
+        },
+        {
+            "artist": "goldfrapp",
+            "title": "big black cloud, little white lie"
+        },
+        {
+            "artist": "dark orange",
+            "title": "clouds 4 winds"
+        },
+        {
+            "artist": "in my rosary",
+            "title": "a naked cloud"
+        },
+        {
+            "artist": "onetwo",
+            "title": "cloud nine"
+        },
+        {
+            "artist": "morrissey",
+            "title": "black cloud"
+        },
+        {
+            "artist": "marillion",
+            "title": "ocean cloud"
+        },
+        {
+            "artist": "chelsea wolfe & king dude",
+            "title": "be free [pk]"
+        },
+        {
+            "artist": "r.roo",
+            "title": "behind the door"
+        },
+        {
+            "artist": "click click",
+            "title": "limb from limb"
+        },
+        {
+            "artist": "click click",
+            "title": "burn"
+        },
+        {
+            "artist": "click click",
+            "title": "drone"
+        },
+        {
+            "artist": "r.roo",
+            "title": "travel by moonlight"
+        },
+        {
+            "artist": "r.roo",
+            "title": "one question (hidden track)"
+        }
+    ]
 }

@@ -1,167 +1,167 @@
 {
-	"title": "Sierpień 2009",
-	"filename": "sierpie-2009",
-	"date": "2009-08",
-	"songs": [
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2001"
-		},
-		{
-			"artist": "girls under glass",
-			"title": "reach for the stars"
-		},
-		{
-			"artist": "fever ray",
-			"title": "dry and dusty"
-		},
-		{
-			"artist": "f.a.q.",
-			"title": "from hell (pk)"
-		},
-		{
-			"artist": "clan of xymox",
-			"title": "michelle"
-		},
-		{
-			"artist": "clan of xymox",
-			"title": "emily"
-		},
-		{
-			"artist": "opus nigrum",
-			"title": "dagda"
-		},
-		{
-			"artist": "opus nigrum",
-			"title": "dazzling"
-		},
-		{
-			"artist": "alien skin",
-			"title": "saviour"
-		},
-		{
-			"artist": "alien skin",
-			"title": "the unquiet grave"
-		},
-		{
-			"artist": "komu vnyz",
-			"title": "mazha vira"
-		},
-		{
-			"artist": "silence",
-			"title": "pitaju me, pitaju"
-		},
-		{
-			"artist": "sarah fimm",
-			"title": "afraid"
-		},
-		{
-			"artist": "sarah fimm",
-			"title": "let it run"
-		},
-		{
-			"artist": "f.a.q.",
-			"title": "from hell (pk)"
-		},
-		{
-			"artist": "recoil",
-			"title": "black box (part 1)/want"
-		},
-		{
-			"artist": "rhea tucanae",
-			"title": "recognition"
-		},
-		{
-			"artist": "rhea tucanae",
-			"title": "star-winds"
-		},
-		{
-			"artist": "chiasm & bjork",
-			"title": "someone"
-		},
-		{
-			"artist": "u2",
-			"title": "night and day"
-		},
-		{
-			"artist": "silverbeam with ann louise",
-			"title": "where the streets have no name"
-		},
-		{
-			"artist": "front line assembly with tiffany",
-			"title": "new year’s day"
-		},
-		{
-			"artist": "dead or alive",
-			"title": "even better than the real thing"
-		},
-		{
-			"artist": "wayne hussey",
-			"title": "with or without you"
-		},
-		{
-			"artist": "spahn ranch",
-			"title": "i will follow"
-		},
-		{
-			"artist": "f.a.q.",
-			"title": "from hell (pk)"
-		},
-		{
-			"artist": "girls under glass",
-			"title": "as time goes by"
-		},
-		{
-			"artist": "girls under glass",
-			"title": "some kind of stranger"
-		},
-		{
-			"artist": "girls under glass",
-			"title": "bad dream"
-		},
-		{
-			"artist": "girls under glass",
-			"title": "feeling is gone"
-		},
-		{
-			"artist": "girls under glass",
-			"title": "never go"
-		},
-		{
-			"artist": "cassandra complex",
-			"title": "tell me"
-		},
-		{
-			"artist": "girls under glass",
-			"title": "believe in yourself"
-		},
-		{
-			"artist": "girls under glass",
-			"title": "grey in grey"
-		},
-		{
-			"artist": "girls under glass",
-			"title": "down in the park"
-		},
-		{
-			"artist": "girls under glass",
-			"title": "when i think about you"
-		},
-		{
-			"artist": "love like blood",
-			"title": "look out"
-		},
-		{
-			"artist": "girls under glass",
-			"title": "roses of death"
-		},
-		{
-			"artist": "girls under glass",
-			"title": "desire lasts forever"
-		},
-		{
-			"artist": "f.a.q.",
-			"title": "from hell (pk)"
-		}
-	]
+    "title": "Sierpień 2009",
+    "filename": "sierpie-2009",
+    "date": "2009-08",
+    "songs": [
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2001"
+        },
+        {
+            "artist": "girls under glass",
+            "title": "reach for the stars"
+        },
+        {
+            "artist": "fever ray",
+            "title": "dry and dusty"
+        },
+        {
+            "artist": "f.a.q.",
+            "title": "from hell (pk)"
+        },
+        {
+            "artist": "clan of xymox",
+            "title": "michelle"
+        },
+        {
+            "artist": "clan of xymox",
+            "title": "emily"
+        },
+        {
+            "artist": "opus nigrum",
+            "title": "dagda"
+        },
+        {
+            "artist": "opus nigrum",
+            "title": "dazzling"
+        },
+        {
+            "artist": "alien skin",
+            "title": "saviour"
+        },
+        {
+            "artist": "alien skin",
+            "title": "the unquiet grave"
+        },
+        {
+            "artist": "komu vnyz",
+            "title": "mazha vira"
+        },
+        {
+            "artist": "silence",
+            "title": "pitaju me, pitaju"
+        },
+        {
+            "artist": "sarah fimm",
+            "title": "afraid"
+        },
+        {
+            "artist": "sarah fimm",
+            "title": "let it run"
+        },
+        {
+            "artist": "f.a.q.",
+            "title": "from hell (pk)"
+        },
+        {
+            "artist": "recoil",
+            "title": "black box (part 1)/want"
+        },
+        {
+            "artist": "rhea tucanae",
+            "title": "recognition"
+        },
+        {
+            "artist": "rhea tucanae",
+            "title": "star-winds"
+        },
+        {
+            "artist": "chiasm & bjork",
+            "title": "someone"
+        },
+        {
+            "artist": "u2",
+            "title": "night and day"
+        },
+        {
+            "artist": "silverbeam with ann louise",
+            "title": "where the streets have no name"
+        },
+        {
+            "artist": "front line assembly with tiffany",
+            "title": "new year’s day"
+        },
+        {
+            "artist": "dead or alive",
+            "title": "even better than the real thing"
+        },
+        {
+            "artist": "wayne hussey",
+            "title": "with or without you"
+        },
+        {
+            "artist": "spahn ranch",
+            "title": "i will follow"
+        },
+        {
+            "artist": "f.a.q.",
+            "title": "from hell (pk)"
+        },
+        {
+            "artist": "girls under glass",
+            "title": "as time goes by"
+        },
+        {
+            "artist": "girls under glass",
+            "title": "some kind of stranger"
+        },
+        {
+            "artist": "girls under glass",
+            "title": "bad dream"
+        },
+        {
+            "artist": "girls under glass",
+            "title": "feeling is gone"
+        },
+        {
+            "artist": "girls under glass",
+            "title": "never go"
+        },
+        {
+            "artist": "cassandra complex",
+            "title": "tell me"
+        },
+        {
+            "artist": "girls under glass",
+            "title": "believe in yourself"
+        },
+        {
+            "artist": "girls under glass",
+            "title": "grey in grey"
+        },
+        {
+            "artist": "girls under glass",
+            "title": "down in the park"
+        },
+        {
+            "artist": "girls under glass",
+            "title": "when i think about you"
+        },
+        {
+            "artist": "love like blood",
+            "title": "look out"
+        },
+        {
+            "artist": "girls under glass",
+            "title": "roses of death"
+        },
+        {
+            "artist": "girls under glass",
+            "title": "desire lasts forever"
+        },
+        {
+            "artist": "f.a.q.",
+            "title": "from hell (pk)"
+        }
+    ]
 }

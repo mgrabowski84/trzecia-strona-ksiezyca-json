@@ -1,175 +1,175 @@
 {
-	"title": "Maj 2007",
-	"filename": "maj-2007",
-	"date": "2007-05",
-	"songs": [
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2001"
-		},
-		{
-			"artist": "mila mar",
-			"title": "picnic on the moon"
-		},
-		{
-			"artist": "lisa gerrard",
-			"title": "space weaver"
-		},
-		{
-			"artist": "arcana",
-			"title": "lost in time (pk)"
-		},
-		{
-			"artist": "les chevaliers du ciel",
-			"title": "you are the conversation"
-		},
-		{
-			"artist": "iamx",
-			"title": "this will make you love again"
-		},
-		{
-			"artist": "lisa gerrard",
-			"title": "the human game"
-		},
-		{
-			"artist": "dead can dance",
-			"title": "hymn for the fallen"
-		},
-		{
-			"artist": "arcana",
-			"title": "lost in time (pk)"
-		},
-		{
-			"artist": "vorsprung durch technik",
-			"title": "movin'"
-		},
-		{
-			"artist": "collection d`arnell andrea",
-			"title": "into flowers"
-		},
-		{
-			"artist": "ion",
-			"title": "madre protegenos"
-		},
-		{
-			"artist": "days of fate",
-			"title": "the fateful garden"
-		},
-		{
-			"artist": "miriam",
-			"title": "if you ever"
-		},
-		{
-			"artist": "miriam",
-			"title": "illusory signs"
-		},
-		{
-			"artist": "onetwo",
-			"title": "sequential"
-		},
-		{
-			"artist": "edge of dawn",
-			"title": "beauty lies within"
-		},
-		{
-			"artist": "edge of dawn",
-			"title": "descent"
-		},
-		{
-			"artist": "vnv nation",
-			"title": "illusion"
-		},
-		{
-			"artist": "arcana",
-			"title": "lost in time (pk)"
-		},
-		{
-			"artist": "nine inch nails",
-			"title": "capital g"
-		},
-		{
-			"artist": "nine inch nails",
-			"title": "the good soldier"
-		},
-		{
-			"artist": "the mission",
-			"title": "whether man"
-		},
-		{
-			"artist": "vnv nation",
-			"title": "prelude"
-		},
-		{
-			"artist": "front line assembly",
-			"title": "electric dreams"
-		},
-		{
-			"artist": "ulrich schnauss & asad rizvi",
-			"title": "nobody`s home"
-		},
-		{
-			"artist": "billy mackenzie",
-			"title": "anacostiabay"
-		},
-		{
-			"artist": "vnv nation",
-			"title": "secluded spaces"
-		},
-		{
-			"artist": "the cruxshadows",
-			"title": "pygmalion`s dream"
-		},
-		{
-			"artist": "the cruxshadows",
-			"title": "sophia"
-		},
-		{
-			"artist": "arcana",
-			"title": "lost in time (pk)"
-		},
-		{
-			"artist": "joy division",
-			"title": "atmosphere"
-		},
-		{
-			"artist": "siderartica",
-			"title": "atmosphere"
-		},
-		{
-			"artist": "the last dance",
-			"title": "new dawn fades"
-		},
-		{
-			"artist": "ikon",
-			"title": "shadowplay"
-		},
-		{
-			"artist": "ikon",
-			"title": "without shadows"
-		},
-		{
-			"artist": "rome",
-			"title": "querkraft"
-		},
-		{
-			"artist": "anka (wolbert)",
-			"title": "temptation"
-		},
-		{
-			"artist": "anka (wolbert)",
-			"title": "elusive"
-		},
-		{
-			"artist": "pieter nooten",
-			"title": "head circles about the body"
-		},
-		{
-			"artist": "pieter nooten",
-			"title": "stop time"
-		},
-		{
-			"artist": "claire voyant",
-			"title": "love is blind"
-		}
-	]
+    "title": "Maj 2007",
+    "filename": "maj-2007",
+    "date": "2007-05",
+    "songs": [
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2001"
+        },
+        {
+            "artist": "mila mar",
+            "title": "picnic on the moon"
+        },
+        {
+            "artist": "lisa gerrard",
+            "title": "space weaver"
+        },
+        {
+            "artist": "arcana",
+            "title": "lost in time (pk)"
+        },
+        {
+            "artist": "les chevaliers du ciel",
+            "title": "you are the conversation"
+        },
+        {
+            "artist": "iamx",
+            "title": "this will make you love again"
+        },
+        {
+            "artist": "lisa gerrard",
+            "title": "the human game"
+        },
+        {
+            "artist": "dead can dance",
+            "title": "hymn for the fallen"
+        },
+        {
+            "artist": "arcana",
+            "title": "lost in time (pk)"
+        },
+        {
+            "artist": "vorsprung durch technik",
+            "title": "movin'"
+        },
+        {
+            "artist": "collection d`arnell andrea",
+            "title": "into flowers"
+        },
+        {
+            "artist": "ion",
+            "title": "madre protegenos"
+        },
+        {
+            "artist": "days of fate",
+            "title": "the fateful garden"
+        },
+        {
+            "artist": "miriam",
+            "title": "if you ever"
+        },
+        {
+            "artist": "miriam",
+            "title": "illusory signs"
+        },
+        {
+            "artist": "onetwo",
+            "title": "sequential"
+        },
+        {
+            "artist": "edge of dawn",
+            "title": "beauty lies within"
+        },
+        {
+            "artist": "edge of dawn",
+            "title": "descent"
+        },
+        {
+            "artist": "vnv nation",
+            "title": "illusion"
+        },
+        {
+            "artist": "arcana",
+            "title": "lost in time (pk)"
+        },
+        {
+            "artist": "nine inch nails",
+            "title": "capital g"
+        },
+        {
+            "artist": "nine inch nails",
+            "title": "the good soldier"
+        },
+        {
+            "artist": "the mission",
+            "title": "whether man"
+        },
+        {
+            "artist": "vnv nation",
+            "title": "prelude"
+        },
+        {
+            "artist": "front line assembly",
+            "title": "electric dreams"
+        },
+        {
+            "artist": "ulrich schnauss & asad rizvi",
+            "title": "nobody`s home"
+        },
+        {
+            "artist": "billy mackenzie",
+            "title": "anacostiabay"
+        },
+        {
+            "artist": "vnv nation",
+            "title": "secluded spaces"
+        },
+        {
+            "artist": "the cruxshadows",
+            "title": "pygmalion`s dream"
+        },
+        {
+            "artist": "the cruxshadows",
+            "title": "sophia"
+        },
+        {
+            "artist": "arcana",
+            "title": "lost in time (pk)"
+        },
+        {
+            "artist": "joy division",
+            "title": "atmosphere"
+        },
+        {
+            "artist": "siderartica",
+            "title": "atmosphere"
+        },
+        {
+            "artist": "the last dance",
+            "title": "new dawn fades"
+        },
+        {
+            "artist": "ikon",
+            "title": "shadowplay"
+        },
+        {
+            "artist": "ikon",
+            "title": "without shadows"
+        },
+        {
+            "artist": "rome",
+            "title": "querkraft"
+        },
+        {
+            "artist": "anka (wolbert)",
+            "title": "temptation"
+        },
+        {
+            "artist": "anka (wolbert)",
+            "title": "elusive"
+        },
+        {
+            "artist": "pieter nooten",
+            "title": "head circles about the body"
+        },
+        {
+            "artist": "pieter nooten",
+            "title": "stop time"
+        },
+        {
+            "artist": "claire voyant",
+            "title": "love is blind"
+        }
+    ]
 }

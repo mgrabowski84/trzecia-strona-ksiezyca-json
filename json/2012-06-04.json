@@ -1,171 +1,171 @@
 {
-	"title": "Czerwiec 2012",
-	"filename": "czerwiec-2012",
-	"date": "2012-06",
-	"songs": [
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2011"
-		},
-		{
-			"artist": "the danse society",
-			"title": "come inside"
-		},
-		{
-			"artist": "lestet",
-			"title": "midnight toll (spinal mix by adrian smith)"
-		},
-		{
-			"artist": "silver swans",
-			"title": "diary land (pk)"
-		},
-		{
-			"artist": "pink turns blue",
-			"title": "can’t be love"
-		},
-		{
-			"artist": "pink turns blue",
-			"title": "michelle"
-		},
-		{
-			"artist": "the eden house",
-			"title": "timeflows pt.1"
-		},
-		{
-			"artist": "love is colder than death",
-			"title": "wananbi"
-		},
-		{
-			"artist": "unto ashes",
-			"title": "serve me"
-		},
-		{
-			"artist": "unto ashes",
-			"title": "she binds away the night"
-		},
-		{
-			"artist": "ordo rosarius equilibrio",
-			"title": "a world not so beautiful (a song 4 theemperor)"
-		},
-		{
-			"artist": "ordo rosarius equilibrio",
-			"title": "a song 4 hate & devotion"
-		},
-		{
-			"artist": "b-movie",
-			"title": "nowhere girl"
-		},
-		{
-			"artist": "wolfsheim",
-			"title": "the sparrows and the nightingales"
-		},
-		{
-			"artist": "peter heppner",
-			"title": "god smoked"
-		},
-		{
-			"artist": "peter heppner",
-			"title": "noch nicht soweit"
-		},
-		{
-			"artist": "the danse society",
-			"title": "heaven is waiting"
-		},
-		{
-			"artist": "spiral 69",
-			"title": "beautiful lie"
-		},
-		{
-			"artist": "deathcamp project",
-			"title": "no cure"
-		},
-		{
-			"artist": "silver swans",
-			"title": "diary land (pk)"
-		},
-		{
-			"artist": "ultravox",
-			"title": "hello"
-		},
-		{
-			"artist": "ultravox",
-			"title": "satellite"
-		},
-		{
-			"artist": "saint etienne",
-			"title": "over the border"
-		},
-		{
-			"artist": "soulsavers",
-			"title": "in the morning"
-		},
-		{
-			"artist": "soulsavers",
-			"title": "presence of god"
-		},
-		{
-			"artist": "pieter nooten",
-			"title": "ode"
-		},
-		{
-			"artist": "pieter nooten",
-			"title": "blue wonder"
-		},
-		{
-			"artist": "download",
-			"title": "attalal (remixed by biosphere)"
-		},
-		{
-			"artist": "download",
-			"title": "i m 5"
-		},
-		{
-			"artist": "download",
-			"title": "base metal (re-mix)"
-		},
-		{
-			"artist": "diskonnekted",
-			"title": "yesteryears"
-		},
-		{
-			"artist": "diskonnekted",
-			"title": "to have and to hold"
-		},
-		{
-			"artist": "diskonnekted",
-			"title": "dark place (feat.gny)"
-		},
-		{
-			"artist": "alphaville",
-			"title": "summer in berlin"
-		},
-		{
-			"artist": "spiral 69",
-			"title": "berlin"
-		},
-		{
-			"artist": "little nemo",
-			"title": "berlin"
-		},
-		{
-			"artist": "the 69 eyes",
-			"title": "feel berlin"
-		},
-		{
-			"artist": "silver swans",
-			"title": "diary land (pk)"
-		},
-		{
-			"artist": "silence",
-			"title": "pioneers of nothing"
-		},
-		{
-			"artist": "silence",
-			"title": "naif"
-		},
-		{
-			"artist": "silence",
-			"title": "death is new york"
-		}
-	]
+    "title": "Czerwiec 2012",
+    "filename": "czerwiec-2012",
+    "date": "2012-06",
+    "songs": [
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2011"
+        },
+        {
+            "artist": "the danse society",
+            "title": "come inside"
+        },
+        {
+            "artist": "lestet",
+            "title": "midnight toll (spinal mix by adrian smith)"
+        },
+        {
+            "artist": "silver swans",
+            "title": "diary land (pk)"
+        },
+        {
+            "artist": "pink turns blue",
+            "title": "can’t be love"
+        },
+        {
+            "artist": "pink turns blue",
+            "title": "michelle"
+        },
+        {
+            "artist": "the eden house",
+            "title": "timeflows pt.1"
+        },
+        {
+            "artist": "love is colder than death",
+            "title": "wananbi"
+        },
+        {
+            "artist": "unto ashes",
+            "title": "serve me"
+        },
+        {
+            "artist": "unto ashes",
+            "title": "she binds away the night"
+        },
+        {
+            "artist": "ordo rosarius equilibrio",
+            "title": "a world not so beautiful (a song 4 theemperor)"
+        },
+        {
+            "artist": "ordo rosarius equilibrio",
+            "title": "a song 4 hate & devotion"
+        },
+        {
+            "artist": "b-movie",
+            "title": "nowhere girl"
+        },
+        {
+            "artist": "wolfsheim",
+            "title": "the sparrows and the nightingales"
+        },
+        {
+            "artist": "peter heppner",
+            "title": "god smoked"
+        },
+        {
+            "artist": "peter heppner",
+            "title": "noch nicht soweit"
+        },
+        {
+            "artist": "the danse society",
+            "title": "heaven is waiting"
+        },
+        {
+            "artist": "spiral 69",
+            "title": "beautiful lie"
+        },
+        {
+            "artist": "deathcamp project",
+            "title": "no cure"
+        },
+        {
+            "artist": "silver swans",
+            "title": "diary land (pk)"
+        },
+        {
+            "artist": "ultravox",
+            "title": "hello"
+        },
+        {
+            "artist": "ultravox",
+            "title": "satellite"
+        },
+        {
+            "artist": "saint etienne",
+            "title": "over the border"
+        },
+        {
+            "artist": "soulsavers",
+            "title": "in the morning"
+        },
+        {
+            "artist": "soulsavers",
+            "title": "presence of god"
+        },
+        {
+            "artist": "pieter nooten",
+            "title": "ode"
+        },
+        {
+            "artist": "pieter nooten",
+            "title": "blue wonder"
+        },
+        {
+            "artist": "download",
+            "title": "attalal (remixed by biosphere)"
+        },
+        {
+            "artist": "download",
+            "title": "i m 5"
+        },
+        {
+            "artist": "download",
+            "title": "base metal (re-mix)"
+        },
+        {
+            "artist": "diskonnekted",
+            "title": "yesteryears"
+        },
+        {
+            "artist": "diskonnekted",
+            "title": "to have and to hold"
+        },
+        {
+            "artist": "diskonnekted",
+            "title": "dark place (feat.gny)"
+        },
+        {
+            "artist": "alphaville",
+            "title": "summer in berlin"
+        },
+        {
+            "artist": "spiral 69",
+            "title": "berlin"
+        },
+        {
+            "artist": "little nemo",
+            "title": "berlin"
+        },
+        {
+            "artist": "the 69 eyes",
+            "title": "feel berlin"
+        },
+        {
+            "artist": "silver swans",
+            "title": "diary land (pk)"
+        },
+        {
+            "artist": "silence",
+            "title": "pioneers of nothing"
+        },
+        {
+            "artist": "silence",
+            "title": "naif"
+        },
+        {
+            "artist": "silence",
+            "title": "death is new york"
+        }
+    ]
 }

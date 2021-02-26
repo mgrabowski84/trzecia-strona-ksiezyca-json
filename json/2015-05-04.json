@@ -1,167 +1,167 @@
 {
-	"title": "Maj 2015",
-	"filename": "maj-2015",
-	"date": "2015-05",
-	"songs": [
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2001"
-		},
-		{
-			"artist": "mila mar",
-			"title": "nova"
-		},
-		{
-			"artist": "the soft moon",
-			"title": "wasting"
-		},
-		{
-			"artist": "the merry thoughts",
-			"title": "low violet"
-		},
-		{
-			"artist": "postscriptum",
-			"title": "paradise lost [pk]"
-		},
-		{
-			"artist": "the soft moon",
-			"title": "far"
-		},
-		{
-			"artist": "the soft moon",
-			"title": "being"
-		},
-		{
-			"artist": "born for bliss",
-			"title": "better than me"
-		},
-		{
-			"artist": "born for bliss",
-			"title": "falling back"
-		},
-		{
-			"artist": "hearts of black science",
-			"title": "protector"
-		},
-		{
-			"artist": "hearts of black science feat. heike langhans",
-			"title": "wolves at the border"
-		},
-		{
-			"artist": "seasurfer",
-			"title": "new dawn"
-		},
-		{
-			"artist": "seasurfer",
-			"title": "headlights"
-		},
-		{
-			"artist": "torul",
-			"title": "lonely night"
-		},
-		{
-			"artist": "torul",
-			"title": "hearts"
-		},
-		{
-			"artist": "torul",
-			"title": "the balance"
-		},
-		{
-			"artist": "autumn's grey solace",
-			"title": "widgilness"
-		},
-		{
-			"artist": "autumn's grey solace",
-			"title": "aelfsciene"
-		},
-		{
-			"artist": "postscriptum",
-			"title": "paradise lost [pk]"
-		},
-		{
-			"artist": "camouflage feat. peter heppner",
-			"title": "count on me"
-		},
-		{
-			"artist": "camouflage",
-			"title": "end of words"
-		},
-		{
-			"artist": "midge ure",
-			"title": "become"
-		},
-		{
-			"artist": "midge ure",
-			"title": "fragile"
-		},
-		{
-			"artist": "marc almond",
-			"title": "minotaur"
-		},
-		{
-			"artist": "marc almond",
-			"title": "the velvet trail"
-		},
-		{
-			"artist": "ostia",
-			"title": "everyday devils & angels"
-		},
-		{
-			"artist": "the beauty of gemina",
-			"title": "obscura"
-		},
-		{
-			"artist": "spiral69",
-			"title": "we'll find each other in the dark"
-		},
-		{
-			"artist": "mono inc.",
-			"title": "it never rains"
-		},
-		{
-			"artist": "the last dance",
-			"title": "cages"
-		},
-		{
-			"artist": "handful of snowdrops",
-			"title": "dead city"
-		},
-		{
-			"artist": "handful of snowdrops",
-			"title": "forever it goes"
-		},
-		{
-			"artist": "xymox",
-			"title": "hitchhiker's dance guide"
-		},
-		{
-			"artist": "xmal deutschland",
-			"title": "dreamhouse (do-the-hitch-hike mix)"
-		},
-		{
-			"artist": "postscriptum",
-			"title": "paradise lost [pk]"
-		},
-		{
-			"artist": "ivardensphere feat. mari kattman",
-			"title": "messiah"
-		},
-		{
-			"artist": "x-marks the pedwalk",
-			"title": "amplified dichotomy"
-		},
-		{
-			"artist": ":wumpscut:",
-			"title": "bucket of perceptions"
-		},
-		{
-			"artist": ":wumpscut:",
-			"title": "kamerad kaputt"
-		},
-		{
-			"artist": "ivardensphere",
-			"title": "the girl without hands"
-		}
-	]
+    "title": "Maj 2015",
+    "filename": "maj-2015",
+    "date": "2015-05",
+    "songs": [
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2001"
+        },
+        {
+            "artist": "mila mar",
+            "title": "nova"
+        },
+        {
+            "artist": "the soft moon",
+            "title": "wasting"
+        },
+        {
+            "artist": "the merry thoughts",
+            "title": "low violet"
+        },
+        {
+            "artist": "postscriptum",
+            "title": "paradise lost [pk]"
+        },
+        {
+            "artist": "the soft moon",
+            "title": "far"
+        },
+        {
+            "artist": "the soft moon",
+            "title": "being"
+        },
+        {
+            "artist": "born for bliss",
+            "title": "better than me"
+        },
+        {
+            "artist": "born for bliss",
+            "title": "falling back"
+        },
+        {
+            "artist": "hearts of black science",
+            "title": "protector"
+        },
+        {
+            "artist": "hearts of black science feat. heike langhans",
+            "title": "wolves at the border"
+        },
+        {
+            "artist": "seasurfer",
+            "title": "new dawn"
+        },
+        {
+            "artist": "seasurfer",
+            "title": "headlights"
+        },
+        {
+            "artist": "torul",
+            "title": "lonely night"
+        },
+        {
+            "artist": "torul",
+            "title": "hearts"
+        },
+        {
+            "artist": "torul",
+            "title": "the balance"
+        },
+        {
+            "artist": "autumn's grey solace",
+            "title": "widgilness"
+        },
+        {
+            "artist": "autumn's grey solace",
+            "title": "aelfsciene"
+        },
+        {
+            "artist": "postscriptum",
+            "title": "paradise lost [pk]"
+        },
+        {
+            "artist": "camouflage feat. peter heppner",
+            "title": "count on me"
+        },
+        {
+            "artist": "camouflage",
+            "title": "end of words"
+        },
+        {
+            "artist": "midge ure",
+            "title": "become"
+        },
+        {
+            "artist": "midge ure",
+            "title": "fragile"
+        },
+        {
+            "artist": "marc almond",
+            "title": "minotaur"
+        },
+        {
+            "artist": "marc almond",
+            "title": "the velvet trail"
+        },
+        {
+            "artist": "ostia",
+            "title": "everyday devils & angels"
+        },
+        {
+            "artist": "the beauty of gemina",
+            "title": "obscura"
+        },
+        {
+            "artist": "spiral69",
+            "title": "we'll find each other in the dark"
+        },
+        {
+            "artist": "mono inc.",
+            "title": "it never rains"
+        },
+        {
+            "artist": "the last dance",
+            "title": "cages"
+        },
+        {
+            "artist": "handful of snowdrops",
+            "title": "dead city"
+        },
+        {
+            "artist": "handful of snowdrops",
+            "title": "forever it goes"
+        },
+        {
+            "artist": "xymox",
+            "title": "hitchhiker's dance guide"
+        },
+        {
+            "artist": "xmal deutschland",
+            "title": "dreamhouse (do-the-hitch-hike mix)"
+        },
+        {
+            "artist": "postscriptum",
+            "title": "paradise lost [pk]"
+        },
+        {
+            "artist": "ivardensphere feat. mari kattman",
+            "title": "messiah"
+        },
+        {
+            "artist": "x-marks the pedwalk",
+            "title": "amplified dichotomy"
+        },
+        {
+            "artist": ":wumpscut:",
+            "title": "bucket of perceptions"
+        },
+        {
+            "artist": ":wumpscut:",
+            "title": "kamerad kaputt"
+        },
+        {
+            "artist": "ivardensphere",
+            "title": "the girl without hands"
+        }
+    ]
 }

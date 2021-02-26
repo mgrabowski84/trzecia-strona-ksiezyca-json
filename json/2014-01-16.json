@@ -1,155 +1,155 @@
 {
-	"title": "Styczeń 2014",
-	"filename": "styczen-2014",
-	"date": "2014-01",
-	"songs": [
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2001"
-		},
-		{
-			"artist": "fields of the nephilim",
-			"title": "moonchild"
-		},
-		{
-			"artist": "the new division",
-			"title": "opium"
-		},
-		{
-			"artist": "white lies",
-			"title": "heaven wait [pk]"
-		},
-		{
-			"artist": "gary numan",
-			"title": "i am dust"
-		},
-		{
-			"artist": "gary numan",
-			"title": "the dark in me"
-		},
-		{
-			"artist": "fields of the nephilim",
-			"title": "intro (the harmonica man)"
-		},
-		{
-			"artist": "fields of the nephilim",
-			"title": "preacher man"
-		},
-		{
-			"artist": "claire voyant",
-			"title": "twenty four years (ii pk 2007)"
-		},
-		{
-			"artist": "the mary onettes",
-			"title": "slow (ii pk 2008)"
-		},
-		{
-			"artist": "claire voyant",
-			"title": "broadcast (ii pk 2009)"
-		},
-		{
-			"artist": "front line assembly",
-			"title": "afterlife (ii pk 2010)"
-		},
-		{
-			"artist": "this mortal coil",
-			"title": "we never danced (ii pk 2011)"
-		},
-		{
-			"artist": "dead can dance",
-			"title": "opium (ii pk 2012)"
-		},
-		{
-			"artist": "white lies",
-			"title": "heaven wait [pk]"
-		},
-		{
-			"artist": "mellonta tauta",
-			"title": "travel to the end (pk 2013 10)"
-		},
-		{
-			"artist": "red sun revival",
-			"title": "last chance (pk 2013 6)"
-		},
-		{
-			"artist": "hearts of black science",
-			"title": "we saw the moon (pk 2013 4)"
-		},
-		{
-			"artist": "david lynch & lykke li",
-			"title": "i'm waiting here (pk 2013 3)"
-		},
-		{
-			"artist": "breathless",
-			"title": "please be happy (pk 2013 2)"
-		},
-		{
-			"artist": "decades",
-			"title": "move me (pieśń księżycowa 2013 roku)"
-		},
-		{
-			"artist": "fields of the nephilim",
-			"title": "(dead but dreaming)"
-		},
-		{
-			"artist": "fields of the nephilim",
-			"title": "for her light"
-		},
-		{
-			"artist": "fields of the nephilim",
-			"title": "at the gates of silent memory"
-		},
-		{
-			"artist": "fields of the nephilim",
-			"title": "(paradise regained)"
-		},
-		{
-			"artist": "fields of the nephilim",
-			"title": "the watchman"
-		},
-		{
-			"artist": "fields of the nephilim",
-			"title": "love under will"
-		},
-		{
-			"artist": "fields of the nephilim",
-			"title": "last exit for the lost"
-		},
-		{
-			"artist": "fields of the nephilim",
-			"title": "mourning sun"
-		},
-		{
-			"artist": "white lies",
-			"title": "heaven wait [pk]"
-		},
-		{
-			"artist": "aphexia",
-			"title": "affinity"
-		},
-		{
-			"artist": "aynth",
-			"title": "deceiver"
-		},
-		{
-			"artist": "mind.divided",
-			"title": "awake while dreaming"
-		},
-		{
-			"artist": "mind.divided",
-			"title": "fragments"
-		},
-		{
-			"artist": "lorenzo montana",
-			"title": "emerald"
-		},
-		{
-			"artist": "lorenzo montana",
-			"title": "hypnogreen"
-		},
-		{
-			"artist": "fields of the nephilim",
-			"title": "celebrate"
-		}
-	]
+    "title": "Styczeń 2014",
+    "filename": "styczen-2014",
+    "date": "2014-01",
+    "songs": [
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2001"
+        },
+        {
+            "artist": "fields of the nephilim",
+            "title": "moonchild"
+        },
+        {
+            "artist": "the new division",
+            "title": "opium"
+        },
+        {
+            "artist": "white lies",
+            "title": "heaven wait [pk]"
+        },
+        {
+            "artist": "gary numan",
+            "title": "i am dust"
+        },
+        {
+            "artist": "gary numan",
+            "title": "the dark in me"
+        },
+        {
+            "artist": "fields of the nephilim",
+            "title": "intro (the harmonica man)"
+        },
+        {
+            "artist": "fields of the nephilim",
+            "title": "preacher man"
+        },
+        {
+            "artist": "claire voyant",
+            "title": "twenty four years (ii pk 2007)"
+        },
+        {
+            "artist": "the mary onettes",
+            "title": "slow (ii pk 2008)"
+        },
+        {
+            "artist": "claire voyant",
+            "title": "broadcast (ii pk 2009)"
+        },
+        {
+            "artist": "front line assembly",
+            "title": "afterlife (ii pk 2010)"
+        },
+        {
+            "artist": "this mortal coil",
+            "title": "we never danced (ii pk 2011)"
+        },
+        {
+            "artist": "dead can dance",
+            "title": "opium (ii pk 2012)"
+        },
+        {
+            "artist": "white lies",
+            "title": "heaven wait [pk]"
+        },
+        {
+            "artist": "mellonta tauta",
+            "title": "travel to the end (pk 2013 10)"
+        },
+        {
+            "artist": "red sun revival",
+            "title": "last chance (pk 2013 6)"
+        },
+        {
+            "artist": "hearts of black science",
+            "title": "we saw the moon (pk 2013 4)"
+        },
+        {
+            "artist": "david lynch & lykke li",
+            "title": "i'm waiting here (pk 2013 3)"
+        },
+        {
+            "artist": "breathless",
+            "title": "please be happy (pk 2013 2)"
+        },
+        {
+            "artist": "decades",
+            "title": "move me (pieśń księżycowa 2013 roku)"
+        },
+        {
+            "artist": "fields of the nephilim",
+            "title": "(dead but dreaming)"
+        },
+        {
+            "artist": "fields of the nephilim",
+            "title": "for her light"
+        },
+        {
+            "artist": "fields of the nephilim",
+            "title": "at the gates of silent memory"
+        },
+        {
+            "artist": "fields of the nephilim",
+            "title": "(paradise regained)"
+        },
+        {
+            "artist": "fields of the nephilim",
+            "title": "the watchman"
+        },
+        {
+            "artist": "fields of the nephilim",
+            "title": "love under will"
+        },
+        {
+            "artist": "fields of the nephilim",
+            "title": "last exit for the lost"
+        },
+        {
+            "artist": "fields of the nephilim",
+            "title": "mourning sun"
+        },
+        {
+            "artist": "white lies",
+            "title": "heaven wait [pk]"
+        },
+        {
+            "artist": "aphexia",
+            "title": "affinity"
+        },
+        {
+            "artist": "aynth",
+            "title": "deceiver"
+        },
+        {
+            "artist": "mind.divided",
+            "title": "awake while dreaming"
+        },
+        {
+            "artist": "mind.divided",
+            "title": "fragments"
+        },
+        {
+            "artist": "lorenzo montana",
+            "title": "emerald"
+        },
+        {
+            "artist": "lorenzo montana",
+            "title": "hypnogreen"
+        },
+        {
+            "artist": "fields of the nephilim",
+            "title": "celebrate"
+        }
+    ]
 }

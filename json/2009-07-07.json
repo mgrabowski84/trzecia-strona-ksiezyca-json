@@ -1,183 +1,183 @@
 {
-	"title": "Lipiec 2009",
-	"filename": "lipiec-2009",
-	"date": "2009-07",
-	"songs": [
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2001"
-		},
-		{
-			"artist": "lady besery’s garden",
-			"title": "daybreak"
-		},
-		{
-			"artist": "lady besery’s garden",
-			"title": "any day"
-		},
-		{
-			"artist": "in broken english",
-			"title": "phoenixes"
-		},
-		{
-			"artist": "fever ray",
-			"title": "dry and dusty (pk)"
-		},
-		{
-			"artist": "gentle touch",
-			"title": "expections"
-		},
-		{
-			"artist": "gentle touch",
-			"title": "the finer arts"
-		},
-		{
-			"artist": "gentle touch",
-			"title": "on the verge of tears"
-		},
-		{
-			"artist": "adoration",
-			"title": "sleepwalking"
-		},
-		{
-			"artist": "adoration",
-			"title": "closure"
-		},
-		{
-			"artist": "i am x",
-			"title": "you can be happy"
-		},
-		{
-			"artist": "i am x",
-			"title": "running"
-		},
-		{
-			"artist": "jacques c",
-			"title": "what’s on a man’s mind"
-		},
-		{
-			"artist": "jacques c",
-			"title": "when you are gone"
-		},
-		{
-			"artist": "vnv nation",
-			"title": "ghost"
-		},
-		{
-			"artist": "vnv nation",
-			"title": "from my hands"
-		},
-		{
-			"artist": "f.a.q.",
-			"title": "from hell"
-		},
-		{
-			"artist": "f.a.q.",
-			"title": "ten bells"
-		},
-		{
-			"artist": "wintry",
-			"title": "true lies"
-		},
-		{
-			"artist": "fever ray",
-			"title": "keep the streets empty for me"
-		},
-		{
-			"artist": "fever ray",
-			"title": "dry and dusty (pk)"
-		},
-		{
-			"artist": "in broken english",
-			"title": "like a dancer"
-		},
-		{
-			"artist": "irfan",
-			"title": "otkrovenie"
-		},
-		{
-			"artist": "irfan",
-			"title": "peregrinatio"
-		},
-		{
-			"artist": "irfan",
-			"title": "hagia sophia"
-		},
-		{
-			"artist": "moon far away",
-			"title": "zhito zhala"
-		},
-		{
-			"artist": "moon far away",
-			"title": "zvetiki"
-		},
-		{
-			"artist": "psyche",
-			"title": "misery"
-		},
-		{
-			"artist": "psyche",
-			"title": "the influence"
-		},
-		{
-			"artist": "vic anselmo",
-			"title": "who?"
-		},
-		{
-			"artist": "vic anselmo",
-			"title": "before i could breathe"
-		},
-		{
-			"artist": "spectra paris",
-			"title": "spectra murder show"
-		},
-		{
-			"artist": "dreadful shadows",
-			"title": "dead can wait"
-		},
-		{
-			"artist": "fading colours",
-			"title": "(i had to) come"
-		},
-		{
-			"artist": "covenant",
-			"title": "brave new world"
-		},
-		{
-			"artist": "covenant",
-			"title": "atlas"
-		},
-		{
-			"artist": "fever ray",
-			"title": "dry and dusty (pk)"
-		},
-		{
-			"artist": "deathcamp project",
-			"title": "another"
-		},
-		{
-			"artist": "diary of dreams",
-			"title": "poison breed"
-		},
-		{
-			"artist": "diary of dreams",
-			"title": "kingdom of greed"
-		},
-		{
-			"artist": "front 242",
-			"title": "crushed"
-		},
-		{
-			"artist": "front 242",
-			"title": "skin"
-		},
-		{
-			"artist": "front 242",
-			"title": "stratoscape"
-		},
-		{
-			"artist": "front 242",
-			"title": "mutilate"
-		}
-	]
+    "title": "Lipiec 2009",
+    "filename": "lipiec-2009",
+    "date": "2009-07",
+    "songs": [
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2001"
+        },
+        {
+            "artist": "lady besery’s garden",
+            "title": "daybreak"
+        },
+        {
+            "artist": "lady besery’s garden",
+            "title": "any day"
+        },
+        {
+            "artist": "in broken english",
+            "title": "phoenixes"
+        },
+        {
+            "artist": "fever ray",
+            "title": "dry and dusty (pk)"
+        },
+        {
+            "artist": "gentle touch",
+            "title": "expections"
+        },
+        {
+            "artist": "gentle touch",
+            "title": "the finer arts"
+        },
+        {
+            "artist": "gentle touch",
+            "title": "on the verge of tears"
+        },
+        {
+            "artist": "adoration",
+            "title": "sleepwalking"
+        },
+        {
+            "artist": "adoration",
+            "title": "closure"
+        },
+        {
+            "artist": "i am x",
+            "title": "you can be happy"
+        },
+        {
+            "artist": "i am x",
+            "title": "running"
+        },
+        {
+            "artist": "jacques c",
+            "title": "what’s on a man’s mind"
+        },
+        {
+            "artist": "jacques c",
+            "title": "when you are gone"
+        },
+        {
+            "artist": "vnv nation",
+            "title": "ghost"
+        },
+        {
+            "artist": "vnv nation",
+            "title": "from my hands"
+        },
+        {
+            "artist": "f.a.q.",
+            "title": "from hell"
+        },
+        {
+            "artist": "f.a.q.",
+            "title": "ten bells"
+        },
+        {
+            "artist": "wintry",
+            "title": "true lies"
+        },
+        {
+            "artist": "fever ray",
+            "title": "keep the streets empty for me"
+        },
+        {
+            "artist": "fever ray",
+            "title": "dry and dusty (pk)"
+        },
+        {
+            "artist": "in broken english",
+            "title": "like a dancer"
+        },
+        {
+            "artist": "irfan",
+            "title": "otkrovenie"
+        },
+        {
+            "artist": "irfan",
+            "title": "peregrinatio"
+        },
+        {
+            "artist": "irfan",
+            "title": "hagia sophia"
+        },
+        {
+            "artist": "moon far away",
+            "title": "zhito zhala"
+        },
+        {
+            "artist": "moon far away",
+            "title": "zvetiki"
+        },
+        {
+            "artist": "psyche",
+            "title": "misery"
+        },
+        {
+            "artist": "psyche",
+            "title": "the influence"
+        },
+        {
+            "artist": "vic anselmo",
+            "title": "who?"
+        },
+        {
+            "artist": "vic anselmo",
+            "title": "before i could breathe"
+        },
+        {
+            "artist": "spectra paris",
+            "title": "spectra murder show"
+        },
+        {
+            "artist": "dreadful shadows",
+            "title": "dead can wait"
+        },
+        {
+            "artist": "fading colours",
+            "title": "(i had to) come"
+        },
+        {
+            "artist": "covenant",
+            "title": "brave new world"
+        },
+        {
+            "artist": "covenant",
+            "title": "atlas"
+        },
+        {
+            "artist": "fever ray",
+            "title": "dry and dusty (pk)"
+        },
+        {
+            "artist": "deathcamp project",
+            "title": "another"
+        },
+        {
+            "artist": "diary of dreams",
+            "title": "poison breed"
+        },
+        {
+            "artist": "diary of dreams",
+            "title": "kingdom of greed"
+        },
+        {
+            "artist": "front 242",
+            "title": "crushed"
+        },
+        {
+            "artist": "front 242",
+            "title": "skin"
+        },
+        {
+            "artist": "front 242",
+            "title": "stratoscape"
+        },
+        {
+            "artist": "front 242",
+            "title": "mutilate"
+        }
+    ]
 }

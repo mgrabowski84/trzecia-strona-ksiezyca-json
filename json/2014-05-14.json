@@ -1,147 +1,147 @@
 {
-	"title": "Maj 2014",
-	"filename": "maj-2014",
-	"date": "2014-05",
-	"songs": [
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2001"
-		},
-		{
-			"artist": "the sound",
-			"title": "silent air"
-		},
-		{
-			"artist": "syntax",
-			"title": "message"
-		},
-		{
-			"artist": "davidge",
-			"title": "riot pictures [pk]"
-		},
-		{
-			"artist": "henric de la cour",
-			"title": "grenade"
-		},
-		{
-			"artist": "the sisters of mercy",
-			"title": "lucretia my reflection"
-		},
-		{
-			"artist": "a pale moon",
-			"title": "we move as one"
-		},
-		{
-			"artist": "a pale moon",
-			"title": "mesmerized"
-		},
-		{
-			"artist": "god's own medicine",
-			"title": "clocks"
-		},
-		{
-			"artist": "god's own medicine",
-			"title": "rainbows"
-		},
-		{
-			"artist": "the foreign resort",
-			"title": "breaking apart"
-		},
-		{
-			"artist": "the foreign resort",
-			"title": "flushed"
-		},
-		{
-			"artist": "the foreign resort",
-			"title": "new frontiers"
-		},
-		{
-			"artist": "the foreign resort",
-			"title": "alone"
-		},
-		{
-			"artist": "new canyons",
-			"title": "everyone is dark"
-		},
-		{
-			"artist": "the chameleon",
-			"title": "view from a hill"
-		},
-		{
-			"artist": "the foreign resort",
-			"title": "dark white"
-		},
-		{
-			"artist": "davidge",
-			"title": "riot pictures [pk]"
-		},
-		{
-			"artist": "the sisters of mercy",
-			"title": "marian"
-		},
-		{
-			"artist": "lakobeil",
-			"title": "days in oblivion"
-		},
-		{
-			"artist": "lakobeil",
-			"title": "time stands still"
-		},
-		{
-			"artist": "lakobeil",
-			"title": "dreaming"
-		},
-		{
-			"artist": "pseudo echo",
-			"title": "amazing sound"
-		},
-		{
-			"artist": "pseudo echo",
-			"title": "things you like"
-		},
-		{
-			"artist": "davidge",
-			"title": "riot pictures [pk]"
-		},
-		{
-			"artist": "all hallows eve",
-			"title": "innocent (feat. marion küchenmeister)"
-		},
-		{
-			"artist": "all hallows eve",
-			"title": "fade away (feat. rob leydon)"
-		},
-		{
-			"artist": "goldfrapp",
-			"title": "thea"
-		},
-		{
-			"artist": "the sisters of mercy",
-			"title": "we are the same, susanne"
-		},
-		{
-			"artist": "handful of snowdrops",
-			"title": "gabrielle"
-		},
-		{
-			"artist": "soul in isolation",
-			"title": "evelyn"
-		},
-		{
-			"artist": "eternal afflict",
-			"title": "san diego (2k9 extended)"
-		},
-		{
-			"artist": "the eternal afflict",
-			"title": "human remains (18 summers remix)"
-		},
-		{
-			"artist": "front line assembly",
-			"title": "contagion"
-		},
-		{
-			"artist": "front line assembly",
-			"title": "next war"
-		}
-	]
+    "title": "Maj 2014",
+    "filename": "maj-2014",
+    "date": "2014-05",
+    "songs": [
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2001"
+        },
+        {
+            "artist": "the sound",
+            "title": "silent air"
+        },
+        {
+            "artist": "syntax",
+            "title": "message"
+        },
+        {
+            "artist": "davidge",
+            "title": "riot pictures [pk]"
+        },
+        {
+            "artist": "henric de la cour",
+            "title": "grenade"
+        },
+        {
+            "artist": "the sisters of mercy",
+            "title": "lucretia my reflection"
+        },
+        {
+            "artist": "a pale moon",
+            "title": "we move as one"
+        },
+        {
+            "artist": "a pale moon",
+            "title": "mesmerized"
+        },
+        {
+            "artist": "god's own medicine",
+            "title": "clocks"
+        },
+        {
+            "artist": "god's own medicine",
+            "title": "rainbows"
+        },
+        {
+            "artist": "the foreign resort",
+            "title": "breaking apart"
+        },
+        {
+            "artist": "the foreign resort",
+            "title": "flushed"
+        },
+        {
+            "artist": "the foreign resort",
+            "title": "new frontiers"
+        },
+        {
+            "artist": "the foreign resort",
+            "title": "alone"
+        },
+        {
+            "artist": "new canyons",
+            "title": "everyone is dark"
+        },
+        {
+            "artist": "the chameleon",
+            "title": "view from a hill"
+        },
+        {
+            "artist": "the foreign resort",
+            "title": "dark white"
+        },
+        {
+            "artist": "davidge",
+            "title": "riot pictures [pk]"
+        },
+        {
+            "artist": "the sisters of mercy",
+            "title": "marian"
+        },
+        {
+            "artist": "lakobeil",
+            "title": "days in oblivion"
+        },
+        {
+            "artist": "lakobeil",
+            "title": "time stands still"
+        },
+        {
+            "artist": "lakobeil",
+            "title": "dreaming"
+        },
+        {
+            "artist": "pseudo echo",
+            "title": "amazing sound"
+        },
+        {
+            "artist": "pseudo echo",
+            "title": "things you like"
+        },
+        {
+            "artist": "davidge",
+            "title": "riot pictures [pk]"
+        },
+        {
+            "artist": "all hallows eve",
+            "title": "innocent (feat. marion küchenmeister)"
+        },
+        {
+            "artist": "all hallows eve",
+            "title": "fade away (feat. rob leydon)"
+        },
+        {
+            "artist": "goldfrapp",
+            "title": "thea"
+        },
+        {
+            "artist": "the sisters of mercy",
+            "title": "we are the same, susanne"
+        },
+        {
+            "artist": "handful of snowdrops",
+            "title": "gabrielle"
+        },
+        {
+            "artist": "soul in isolation",
+            "title": "evelyn"
+        },
+        {
+            "artist": "eternal afflict",
+            "title": "san diego (2k9 extended)"
+        },
+        {
+            "artist": "the eternal afflict",
+            "title": "human remains (18 summers remix)"
+        },
+        {
+            "artist": "front line assembly",
+            "title": "contagion"
+        },
+        {
+            "artist": "front line assembly",
+            "title": "next war"
+        }
+    ]
 }

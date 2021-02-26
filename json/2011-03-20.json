@@ -1,171 +1,171 @@
 {
-	"title": "Marzec 2011",
-	"filename": "marzec-2011",
-	"date": "2011-03",
-	"songs": [
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2001"
-		},
-		{
-			"artist": "the sisters of mercy",
-			"title": "dominion"
-		},
-		{
-			"artist": "the merry thoughts",
-			"title": "psychocult"
-		},
-		{
-			"artist": "aurora",
-			"title": "the land of harm and appletrees"
-		},
-		{
-			"artist": "torul",
-			"title": "if you so wish"
-		},
-		{
-			"artist": "mylene farmer",
-			"title": "light me up (pk)"
-		},
-		{
-			"artist": "in the nursery",
-			"title": "artisans of civilisation"
-		},
-		{
-			"artist": "in the nursery",
-			"title": "blind sound"
-		},
-		{
-			"artist": "in the nursery",
-			"title": "crepuscule"
-		},
-		{
-			"artist": "i am x",
-			"title": "i salute you christopher"
-		},
-		{
-			"artist": "i am x",
-			"title": "volatile times"
-		},
-		{
-			"artist": "and one",
-			"title": "playing dead"
-		},
-		{
-			"artist": "and one",
-			"title": "the aim is in your head"
-		},
-		{
-			"artist": "the sisters of mercy",
-			"title": "poisondoor"
-		},
-		{
-			"artist": "the sisters of mercy",
-			"title": "on the wire"
-		},
-		{
-			"artist": "the merry thoughts",
-			"title": "second generation"
-		},
-		{
-			"artist": "the merry thoughts",
-			"title": "pale empress"
-		},
-		{
-			"artist": "the merry thoughts",
-			"title": "stars"
-		},
-		{
-			"artist": "the merry thoughts",
-			"title": "chant"
-		},
-		{
-			"artist": "the merry thoughts",
-			"title": "heat"
-		},
-		{
-			"artist": "the sisters of mercy",
-			"title": "flood i"
-		},
-		{
-			"artist": "the sisters of mercy",
-			"title": "alice"
-		},
-		{
-			"artist": "mylene farmer",
-			"title": "light me up (pk)"
-		},
-		{
-			"artist": "jerome chassagnard",
-			"title": "in search of gravity"
-		},
-		{
-			"artist": "jerome chassagnard",
-			"title": "she is behind"
-		},
-		{
-			"artist": "liquid divine",
-			"title": "sojourner"
-		},
-		{
-			"artist": "liquid divine",
-			"title": "die to meet you (parasite remix)"
-		},
-		{
-			"artist": "jerome chassagnard",
-			"title": "until heaven comes"
-		},
-		{
-			"artist": "metus",
-			"title": "at night"
-		},
-		{
-			"artist": "metus",
-			"title": "out of time"
-		},
-		{
-			"artist": "sam kills two",
-			"title": "pushing my love"
-		},
-		{
-			"artist": "sam kills two",
-			"title": "no bad no good"
-		},
-		{
-			"artist": "aurora",
-			"title": "regression"
-		},
-		{
-			"artist": "aurora",
-			"title": "in a minute"
-		},
-		{
-			"artist": "aurora",
-			"title": "the dream"
-		},
-		{
-			"artist": "aurora",
-			"title": "floating dolphins"
-		},
-		{
-			"artist": "aurora",
-			"title": "ritual"
-		},
-		{
-			"artist": "aurora",
-			"title": "crusaders"
-		},
-		{
-			"artist": "aurora",
-			"title": "the marriage of heaven and earth"
-		},
-		{
-			"artist": "aurora",
-			"title": "in search of the unity"
-		},
-		{
-			"artist": "john foxx",
-			"title": "the garden"
-		}
-	]
+    "title": "Marzec 2011",
+    "filename": "marzec-2011",
+    "date": "2011-03",
+    "songs": [
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2001"
+        },
+        {
+            "artist": "the sisters of mercy",
+            "title": "dominion"
+        },
+        {
+            "artist": "the merry thoughts",
+            "title": "psychocult"
+        },
+        {
+            "artist": "aurora",
+            "title": "the land of harm and appletrees"
+        },
+        {
+            "artist": "torul",
+            "title": "if you so wish"
+        },
+        {
+            "artist": "mylene farmer",
+            "title": "light me up (pk)"
+        },
+        {
+            "artist": "in the nursery",
+            "title": "artisans of civilisation"
+        },
+        {
+            "artist": "in the nursery",
+            "title": "blind sound"
+        },
+        {
+            "artist": "in the nursery",
+            "title": "crepuscule"
+        },
+        {
+            "artist": "i am x",
+            "title": "i salute you christopher"
+        },
+        {
+            "artist": "i am x",
+            "title": "volatile times"
+        },
+        {
+            "artist": "and one",
+            "title": "playing dead"
+        },
+        {
+            "artist": "and one",
+            "title": "the aim is in your head"
+        },
+        {
+            "artist": "the sisters of mercy",
+            "title": "poisondoor"
+        },
+        {
+            "artist": "the sisters of mercy",
+            "title": "on the wire"
+        },
+        {
+            "artist": "the merry thoughts",
+            "title": "second generation"
+        },
+        {
+            "artist": "the merry thoughts",
+            "title": "pale empress"
+        },
+        {
+            "artist": "the merry thoughts",
+            "title": "stars"
+        },
+        {
+            "artist": "the merry thoughts",
+            "title": "chant"
+        },
+        {
+            "artist": "the merry thoughts",
+            "title": "heat"
+        },
+        {
+            "artist": "the sisters of mercy",
+            "title": "flood i"
+        },
+        {
+            "artist": "the sisters of mercy",
+            "title": "alice"
+        },
+        {
+            "artist": "mylene farmer",
+            "title": "light me up (pk)"
+        },
+        {
+            "artist": "jerome chassagnard",
+            "title": "in search of gravity"
+        },
+        {
+            "artist": "jerome chassagnard",
+            "title": "she is behind"
+        },
+        {
+            "artist": "liquid divine",
+            "title": "sojourner"
+        },
+        {
+            "artist": "liquid divine",
+            "title": "die to meet you (parasite remix)"
+        },
+        {
+            "artist": "jerome chassagnard",
+            "title": "until heaven comes"
+        },
+        {
+            "artist": "metus",
+            "title": "at night"
+        },
+        {
+            "artist": "metus",
+            "title": "out of time"
+        },
+        {
+            "artist": "sam kills two",
+            "title": "pushing my love"
+        },
+        {
+            "artist": "sam kills two",
+            "title": "no bad no good"
+        },
+        {
+            "artist": "aurora",
+            "title": "regression"
+        },
+        {
+            "artist": "aurora",
+            "title": "in a minute"
+        },
+        {
+            "artist": "aurora",
+            "title": "the dream"
+        },
+        {
+            "artist": "aurora",
+            "title": "floating dolphins"
+        },
+        {
+            "artist": "aurora",
+            "title": "ritual"
+        },
+        {
+            "artist": "aurora",
+            "title": "crusaders"
+        },
+        {
+            "artist": "aurora",
+            "title": "the marriage of heaven and earth"
+        },
+        {
+            "artist": "aurora",
+            "title": "in search of the unity"
+        },
+        {
+            "artist": "john foxx",
+            "title": "the garden"
+        }
+    ]
 }

@@ -1,139 +1,139 @@
 {
-	"title": "Luty 2010",
-	"filename": "luty-2010",
-	"date": "2010-02",
-	"songs": [
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2001"
-		},
-		{
-			"artist": "dead can dance",
-			"title": "anywhere out of the world"
-		},
-		{
-			"artist": "faith and the muse",
-			"title": "kodama"
-		},
-		{
-			"artist": "born for bliss",
-			"title": "empty room"
-		},
-		{
-			"artist": "born for bliss",
-			"title": "winter tears"
-		},
-		{
-			"artist": "brendan perry",
-			"title": "wintersun (pk)"
-		},
-		{
-			"artist": "brendan perry",
-			"title": "utopia"
-		},
-		{
-			"artist": "zoar",
-			"title": "wakeworld"
-		},
-		{
-			"artist": "brendan perry",
-			"title": "voyage of bran"
-		},
-		{
-			"artist": "brendan perry",
-			"title": "the captive heart"
-		},
-		{
-			"artist": "dead can dance",
-			"title": "crescent"
-		},
-		{
-			"artist": "dead can dance",
-			"title": "the ubiquitous mr. lovegrove"
-		},
-		{
-			"artist": "elijah’s mantle",
-			"title": "quem di dilicunt (part two)"
-		},
-		{
-			"artist": "coex",
-			"title": "soul fragments"
-		},
-		{
-			"artist": "coex",
-			"title": "drance"
-		},
-		{
-			"artist": "phil western",
-			"title": "full moon"
-		},
-		{
-			"artist": "brendan perry",
-			"title": "wintersun (pk)"
-		},
-		{
-			"artist": "hector zazou & harold budd",
-			"title": "you and me against the sky"
-		},
-		{
-			"artist": "hector zazou & harold budd",
-			"title": "around the corner from everywhere"
-		},
-		{
-			"artist": "piano magic",
-			"title": "the nightmare goes on"
-		},
-		{
-			"artist": "david kuckhermann",
-			"title": "estonia solo"
-		},
-		{
-			"artist": "brendan perry",
-			"title": "dream letter"
-		},
-		{
-			"artist": "brendan perry",
-			"title": "don’t fade away"
-		},
-		{
-			"artist": "lisa gerrard",
-			"title": "the gardener"
-		},
-		{
-			"artist": "lisa gerrard",
-			"title": "desert song"
-		},
-		{
-			"artist": "brendan perry",
-			"title": "wintersun (pk)"
-		},
-		{
-			"artist": "b.f.g.",
-			"title": "paris"
-		},
-		{
-			"artist": "the convent",
-			"title": "amsterdam"
-		},
-		{
-			"artist": "din[a]tod",
-			"title": "warsaw"
-		},
-		{
-			"artist": "love like blood",
-			"title": "johannesburg"
-		},
-		{
-			"artist": "chiron",
-			"title": "night in cairo"
-		},
-		{
-			"artist": "camel",
-			"title": "west berlin"
-		},
-		{
-			"artist": "legendary pink dots",
-			"title": "paris 4am"
-		}
-	]
+    "title": "Luty 2010",
+    "filename": "luty-2010",
+    "date": "2010-02",
+    "songs": [
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2001"
+        },
+        {
+            "artist": "dead can dance",
+            "title": "anywhere out of the world"
+        },
+        {
+            "artist": "faith and the muse",
+            "title": "kodama"
+        },
+        {
+            "artist": "born for bliss",
+            "title": "empty room"
+        },
+        {
+            "artist": "born for bliss",
+            "title": "winter tears"
+        },
+        {
+            "artist": "brendan perry",
+            "title": "wintersun (pk)"
+        },
+        {
+            "artist": "brendan perry",
+            "title": "utopia"
+        },
+        {
+            "artist": "zoar",
+            "title": "wakeworld"
+        },
+        {
+            "artist": "brendan perry",
+            "title": "voyage of bran"
+        },
+        {
+            "artist": "brendan perry",
+            "title": "the captive heart"
+        },
+        {
+            "artist": "dead can dance",
+            "title": "crescent"
+        },
+        {
+            "artist": "dead can dance",
+            "title": "the ubiquitous mr. lovegrove"
+        },
+        {
+            "artist": "elijah’s mantle",
+            "title": "quem di dilicunt (part two)"
+        },
+        {
+            "artist": "coex",
+            "title": "soul fragments"
+        },
+        {
+            "artist": "coex",
+            "title": "drance"
+        },
+        {
+            "artist": "phil western",
+            "title": "full moon"
+        },
+        {
+            "artist": "brendan perry",
+            "title": "wintersun (pk)"
+        },
+        {
+            "artist": "hector zazou & harold budd",
+            "title": "you and me against the sky"
+        },
+        {
+            "artist": "hector zazou & harold budd",
+            "title": "around the corner from everywhere"
+        },
+        {
+            "artist": "piano magic",
+            "title": "the nightmare goes on"
+        },
+        {
+            "artist": "david kuckhermann",
+            "title": "estonia solo"
+        },
+        {
+            "artist": "brendan perry",
+            "title": "dream letter"
+        },
+        {
+            "artist": "brendan perry",
+            "title": "don’t fade away"
+        },
+        {
+            "artist": "lisa gerrard",
+            "title": "the gardener"
+        },
+        {
+            "artist": "lisa gerrard",
+            "title": "desert song"
+        },
+        {
+            "artist": "brendan perry",
+            "title": "wintersun (pk)"
+        },
+        {
+            "artist": "b.f.g.",
+            "title": "paris"
+        },
+        {
+            "artist": "the convent",
+            "title": "amsterdam"
+        },
+        {
+            "artist": "din[a]tod",
+            "title": "warsaw"
+        },
+        {
+            "artist": "love like blood",
+            "title": "johannesburg"
+        },
+        {
+            "artist": "chiron",
+            "title": "night in cairo"
+        },
+        {
+            "artist": "camel",
+            "title": "west berlin"
+        },
+        {
+            "artist": "legendary pink dots",
+            "title": "paris 4am"
+        }
+    ]
 }

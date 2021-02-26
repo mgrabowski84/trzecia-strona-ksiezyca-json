@@ -1,171 +1,171 @@
 {
-	"title": "Kwiecień 2012",
-	"filename": "kwiecien-2012",
-	"date": "2012-04",
-	"songs": [
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2001"
-		},
-		{
-			"artist": "avaton",
-			"title": "ouk ethelo ploutein"
-		},
-		{
-			"artist": "dead can dance",
-			"title": "the love that cannot be"
-		},
-		{
-			"artist": "stoa",
-			"title": "urthona"
-		},
-		{
-			"artist": "eden",
-			"title": "the darkness in me"
-		},
-		{
-			"artist": "cocteau twins",
-			"title": "mussette and drums"
-		},
-		{
-			"artist": "black tape for a blue girl",
-			"title": "pandora’s dream"
-		},
-		{
-			"artist": "arcanta",
-			"title": "indra’s net"
-		},
-		{
-			"artist": "arcanta",
-			"title": "the endless mirror"
-		},
-		{
-			"artist": "eden",
-			"title": "shallow mists"
-		},
-		{
-			"artist": "drown for resurrection",
-			"title": "doorway"
-		},
-		{
-			"artist": "brendan perry",
-			"title": "the devil and the deep blue see"
-		},
-		{
-			"artist": "drown for resurrection",
-			"title": "the endless shaft"
-		},
-		{
-			"artist": "elijah’s mantle",
-			"title": "misere de profundis"
-		},
-		{
-			"artist": "dead can dance",
-			"title": "windfall"
-		},
-		{
-			"artist": "zoar",
-			"title": "child of god"
-		},
-		{
-			"artist": "abaton",
-			"title": "yminaon"
-		},
-		{
-			"artist": "xymox",
-			"title": "clementina"
-		},
-		{
-			"artist": "ulf soderberg",
-			"title": "vargskymning"
-		},
-		{
-			"artist": "anchorage",
-			"title": "vivo"
-		},
-		{
-			"artist": "ulf soderberg",
-			"title": "morgonmane"
-		},
-		{
-			"artist": "anchorage",
-			"title": "tragedy"
-		},
-		{
-			"artist": "dead can dance",
-			"title": "in the wake of adversity"
-		},
-		{
-			"artist": "mila mar",
-			"title": "1,5"
-		},
-		{
-			"artist": "arcanta",
-			"title": "the flight of the alone to the alone"
-		},
-		{
-			"artist": "stoa",
-			"title": "mors"
-		},
-		{
-			"artist": "john foxx",
-			"title": "sunset rising"
-		},
-		{
-			"artist": "gavin friday",
-			"title": "rex martuus est"
-		},
-		{
-			"artist": "sleeping dogs wake",
-			"title": "point black!"
-		},
-		{
-			"artist": "download",
-			"title": "base metal"
-		},
-		{
-			"artist": "zoar",
-			"title": "the secrets of death"
-		},
-		{
-			"artist": "lisa gerrard",
-			"title": "psallit in aure dei"
-		},
-		{
-			"artist": "albion",
-			"title": "golgotha"
-		},
-		{
-			"artist": "death in june",
-			"title": "the torture garden"
-		},
-		{
-			"artist": "lycia",
-			"title": "and through the smoke and nails"
-		},
-		{
-			"artist": "lacrimosa",
-			"title": "tranen der existenzlosigkeit"
-		},
-		{
-			"artist": "sleeping dogs wake",
-			"title": "the wheel"
-		},
-		{
-			"artist": "fields of the nephilim",
-			"title": "wail of sumer"
-		},
-		{
-			"artist": "fields of the nephilim",
-			"title": "and there will your heart be also"
-		},
-		{
-			"artist": "deleyaman",
-			"title": "iken"
-		},
-		{
-			"artist": "kirlian camera",
-			"title": "epitaph"
-		}
-	]
+    "title": "Kwiecień 2012",
+    "filename": "kwiecien-2012",
+    "date": "2012-04",
+    "songs": [
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2001"
+        },
+        {
+            "artist": "avaton",
+            "title": "ouk ethelo ploutein"
+        },
+        {
+            "artist": "dead can dance",
+            "title": "the love that cannot be"
+        },
+        {
+            "artist": "stoa",
+            "title": "urthona"
+        },
+        {
+            "artist": "eden",
+            "title": "the darkness in me"
+        },
+        {
+            "artist": "cocteau twins",
+            "title": "mussette and drums"
+        },
+        {
+            "artist": "black tape for a blue girl",
+            "title": "pandora’s dream"
+        },
+        {
+            "artist": "arcanta",
+            "title": "indra’s net"
+        },
+        {
+            "artist": "arcanta",
+            "title": "the endless mirror"
+        },
+        {
+            "artist": "eden",
+            "title": "shallow mists"
+        },
+        {
+            "artist": "drown for resurrection",
+            "title": "doorway"
+        },
+        {
+            "artist": "brendan perry",
+            "title": "the devil and the deep blue see"
+        },
+        {
+            "artist": "drown for resurrection",
+            "title": "the endless shaft"
+        },
+        {
+            "artist": "elijah’s mantle",
+            "title": "misere de profundis"
+        },
+        {
+            "artist": "dead can dance",
+            "title": "windfall"
+        },
+        {
+            "artist": "zoar",
+            "title": "child of god"
+        },
+        {
+            "artist": "abaton",
+            "title": "yminaon"
+        },
+        {
+            "artist": "xymox",
+            "title": "clementina"
+        },
+        {
+            "artist": "ulf soderberg",
+            "title": "vargskymning"
+        },
+        {
+            "artist": "anchorage",
+            "title": "vivo"
+        },
+        {
+            "artist": "ulf soderberg",
+            "title": "morgonmane"
+        },
+        {
+            "artist": "anchorage",
+            "title": "tragedy"
+        },
+        {
+            "artist": "dead can dance",
+            "title": "in the wake of adversity"
+        },
+        {
+            "artist": "mila mar",
+            "title": "1,5"
+        },
+        {
+            "artist": "arcanta",
+            "title": "the flight of the alone to the alone"
+        },
+        {
+            "artist": "stoa",
+            "title": "mors"
+        },
+        {
+            "artist": "john foxx",
+            "title": "sunset rising"
+        },
+        {
+            "artist": "gavin friday",
+            "title": "rex martuus est"
+        },
+        {
+            "artist": "sleeping dogs wake",
+            "title": "point black!"
+        },
+        {
+            "artist": "download",
+            "title": "base metal"
+        },
+        {
+            "artist": "zoar",
+            "title": "the secrets of death"
+        },
+        {
+            "artist": "lisa gerrard",
+            "title": "psallit in aure dei"
+        },
+        {
+            "artist": "albion",
+            "title": "golgotha"
+        },
+        {
+            "artist": "death in june",
+            "title": "the torture garden"
+        },
+        {
+            "artist": "lycia",
+            "title": "and through the smoke and nails"
+        },
+        {
+            "artist": "lacrimosa",
+            "title": "tranen der existenzlosigkeit"
+        },
+        {
+            "artist": "sleeping dogs wake",
+            "title": "the wheel"
+        },
+        {
+            "artist": "fields of the nephilim",
+            "title": "wail of sumer"
+        },
+        {
+            "artist": "fields of the nephilim",
+            "title": "and there will your heart be also"
+        },
+        {
+            "artist": "deleyaman",
+            "title": "iken"
+        },
+        {
+            "artist": "kirlian camera",
+            "title": "epitaph"
+        }
+    ]
 }

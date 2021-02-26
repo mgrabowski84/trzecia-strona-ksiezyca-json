@@ -1,171 +1,171 @@
 {
-	"title": "Październik 2011",
-	"filename": "pazdziernik-2011",
-	"date": "2011-10",
-	"songs": [
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2001"
-		},
-		{
-			"artist": "ultravox",
-			"title": "a friend i call desire"
-		},
-		{
-			"artist": "peter murphy",
-			"title": "never fall out"
-		},
-		{
-			"artist": "ulterior",
-			"title": "catherine (pk)"
-		},
-		{
-			"artist": "vnv nation",
-			"title": "nova (shine a light on me)"
-		},
-		{
-			"artist": "vnv nation",
-			"title": "gratitude"
-		},
-		{
-			"artist": "lowe",
-			"title": "alone in the dark"
-		},
-		{
-			"artist": "lowe",
-			"title": "edt"
-		},
-		{
-			"artist": "gary numan",
-			"title": "not the love we dream of"
-		},
-		{
-			"artist": "gary numan",
-			"title": "for the rest of my life"
-		},
-		{
-			"artist": "s.c.u.m.",
-			"title": "faith unfolds"
-		},
-		{
-			"artist": "engelsstaub",
-			"title": "dreamcatcher"
-		},
-		{
-			"artist": "engelsstaub",
-			"title": "l'appel de l'ange"
-		},
-		{
-			"artist": "engelsstaub",
-			"title": "1226 a.d."
-		},
-		{
-			"artist": "engelsstaub",
-			"title": "lost purity"
-		},
-		{
-			"artist": "engelsstaub",
-			"title": "carpe noctem"
-		},
-		{
-			"artist": "engelsstaub",
-			"title": "lullaby"
-		},
-		{
-			"artist": "engelsstaub",
-			"title": "dream demon"
-		},
-		{
-			"artist": "engelsstaub",
-			"title": "the kingdom of the blindness"
-		},
-		{
-			"artist": "engelsstaub",
-			"title": "momento mori"
-		},
-		{
-			"artist": "engelsstaub",
-			"title": "winter marches on"
-		},
-		{
-			"artist": "ulterior",
-			"title": "catherine (pk)"
-		},
-		{
-			"artist": "ulterior",
-			"title": "big city black rain"
-		},
-		{
-			"artist": "birthday massacre",
-			"title": "forever"
-		},
-		{
-			"artist": "birthday massacre",
-			"title": "burn away"
-		},
-		{
-			"artist": "deathcamp project",
-			"title": "painthings"
-		},
-		{
-			"artist": "time modem",
-			"title": "wibanah (bpm 80)"
-		},
-		{
-			"artist": "skinny puppy",
-			"title": "wrong rip fixin"
-		},
-		{
-			"artist": "na",
-			"title": "hag - leave it"
-		},
-		{
-			"artist": "juno reactor",
-			"title": "angels and men"
-		},
-		{
-			"artist": "ulterior",
-			"title": "catherine (pk)"
-		},
-		{
-			"artist": "john foxx",
-			"title": "my face"
-		},
-		{
-			"artist": "john foxx",
-			"title": "underpass"
-		},
-		{
-			"artist": "john foxx",
-			"title": "no - one driving"
-		},
-		{
-			"artist": "john foxx",
-			"title": "dancing like a gun"
-		},
-		{
-			"artist": "john foxx",
-			"title": "the garden"
-		},
-		{
-			"artist": "john foxx",
-			"title": "twilight's last gleaming"
-		},
-		{
-			"artist": "john foxx",
-			"title": "stars on fire"
-		},
-		{
-			"artist": "john foxx and the maths",
-			"title": "falling star"
-		},
-		{
-			"artist": "john foxx",
-			"title": "sunset rising"
-		},
-		{
-			"artist": "ultravox",
-			"title": "all fall down"
-		}
-	]
+    "title": "Październik 2011",
+    "filename": "pazdziernik-2011",
+    "date": "2011-10",
+    "songs": [
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2001"
+        },
+        {
+            "artist": "ultravox",
+            "title": "a friend i call desire"
+        },
+        {
+            "artist": "peter murphy",
+            "title": "never fall out"
+        },
+        {
+            "artist": "ulterior",
+            "title": "catherine (pk)"
+        },
+        {
+            "artist": "vnv nation",
+            "title": "nova (shine a light on me)"
+        },
+        {
+            "artist": "vnv nation",
+            "title": "gratitude"
+        },
+        {
+            "artist": "lowe",
+            "title": "alone in the dark"
+        },
+        {
+            "artist": "lowe",
+            "title": "edt"
+        },
+        {
+            "artist": "gary numan",
+            "title": "not the love we dream of"
+        },
+        {
+            "artist": "gary numan",
+            "title": "for the rest of my life"
+        },
+        {
+            "artist": "s.c.u.m.",
+            "title": "faith unfolds"
+        },
+        {
+            "artist": "engelsstaub",
+            "title": "dreamcatcher"
+        },
+        {
+            "artist": "engelsstaub",
+            "title": "l'appel de l'ange"
+        },
+        {
+            "artist": "engelsstaub",
+            "title": "1226 a.d."
+        },
+        {
+            "artist": "engelsstaub",
+            "title": "lost purity"
+        },
+        {
+            "artist": "engelsstaub",
+            "title": "carpe noctem"
+        },
+        {
+            "artist": "engelsstaub",
+            "title": "lullaby"
+        },
+        {
+            "artist": "engelsstaub",
+            "title": "dream demon"
+        },
+        {
+            "artist": "engelsstaub",
+            "title": "the kingdom of the blindness"
+        },
+        {
+            "artist": "engelsstaub",
+            "title": "momento mori"
+        },
+        {
+            "artist": "engelsstaub",
+            "title": "winter marches on"
+        },
+        {
+            "artist": "ulterior",
+            "title": "catherine (pk)"
+        },
+        {
+            "artist": "ulterior",
+            "title": "big city black rain"
+        },
+        {
+            "artist": "birthday massacre",
+            "title": "forever"
+        },
+        {
+            "artist": "birthday massacre",
+            "title": "burn away"
+        },
+        {
+            "artist": "deathcamp project",
+            "title": "painthings"
+        },
+        {
+            "artist": "time modem",
+            "title": "wibanah (bpm 80)"
+        },
+        {
+            "artist": "skinny puppy",
+            "title": "wrong rip fixin"
+        },
+        {
+            "artist": "na",
+            "title": "hag - leave it"
+        },
+        {
+            "artist": "juno reactor",
+            "title": "angels and men"
+        },
+        {
+            "artist": "ulterior",
+            "title": "catherine (pk)"
+        },
+        {
+            "artist": "john foxx",
+            "title": "my face"
+        },
+        {
+            "artist": "john foxx",
+            "title": "underpass"
+        },
+        {
+            "artist": "john foxx",
+            "title": "no - one driving"
+        },
+        {
+            "artist": "john foxx",
+            "title": "dancing like a gun"
+        },
+        {
+            "artist": "john foxx",
+            "title": "the garden"
+        },
+        {
+            "artist": "john foxx",
+            "title": "twilight's last gleaming"
+        },
+        {
+            "artist": "john foxx",
+            "title": "stars on fire"
+        },
+        {
+            "artist": "john foxx and the maths",
+            "title": "falling star"
+        },
+        {
+            "artist": "john foxx",
+            "title": "sunset rising"
+        },
+        {
+            "artist": "ultravox",
+            "title": "all fall down"
+        }
+    ]
 }

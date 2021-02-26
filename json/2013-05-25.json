@@ -1,175 +1,175 @@
 {
-	"title": "Maj 2013",
-	"filename": "maj-2013",
-	"date": "2013-05",
-	"songs": [
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2000"
-		},
-		{
-			"artist": "eden",
-			"title": "hymns and mist"
-		},
-		{
-			"artist": "the eden house",
-			"title": "butterflies"
-		},
-		{
-			"artist": "mellonta tauta",
-			"title": "travel to the end [pk]"
-		},
-		{
-			"artist": "mellonta tauta",
-			"title": "twenty years later"
-		},
-		{
-			"artist": "kirlian camera",
-			"title": "silencing the world"
-		},
-		{
-			"artist": "kirlian camera",
-			"title": "black august"
-		},
-		{
-			"artist": "kirlian camera",
-			"title": "stranger in the abandoned station"
-		},
-		{
-			"artist": "born for bliss",
-			"title": "this narrow place"
-		},
-		{
-			"artist": "born for bliss",
-			"title": "underground"
-		},
-		{
-			"artist": "mila mar",
-			"title": "in the name of"
-		},
-		{
-			"artist": "mila mar",
-			"title": "picnic on the moon"
-		},
-		{
-			"artist": "mila mar",
-			"title": "sense of being"
-		},
-		{
-			"artist": "bel canto",
-			"title": "the suffering"
-		},
-		{
-			"artist": "bel canto",
-			"title": "picnic on the moon"
-		},
-		{
-			"artist": "mellonta tauta",
-			"title": "travel to the end [pk]"
-		},
-		{
-			"artist": "torul",
-			"title": "the sun!"
-		},
-		{
-			"artist": "torul",
-			"title": "all over again"
-		},
-		{
-			"artist": "torul",
-			"title": "end of story"
-		},
-		{
-			"artist": "the beauty of gemina",
-			"title": "last night home"
-		},
-		{
-			"artist": "the beauty of gemina",
-			"title": "obscura"
-		},
-		{
-			"artist": "the mary onettes",
-			"title": "years"
-		},
-		{
-			"artist": "the mary onettes",
-			"title": "don't forget to forget about me"
-		},
-		{
-			"artist": "ordo equitum solis",
-			"title": "tomorrow"
-		},
-		{
-			"artist": "ordo equitum solis",
-			"title": "killing time killing love"
-		},
-		{
-			"artist": "attrition",
-			"title": "the causal agent"
-		},
-		{
-			"artist": "skinny puppy",
-			"title": "paragun"
-		},
-		{
-			"artist": "phil western",
-			"title": "at the disco"
-		},
-		{
-			"artist": "phil western",
-			"title": "head"
-		},
-		{
-			"artist": ":wumpscut:",
-			"title": "du neger"
-		},
-		{
-			"artist": ":wumpscut:",
-			"title": "madman szpital (skon remix)"
-		},
-		{
-			"artist": "mellonta tauta",
-			"title": "travel to the end [pk]"
-		},
-		{
-			"artist": "maanam",
-			"title": "miłość jest cudowna"
-		},
-		{
-			"artist": "escape with romeo",
-			"title": "riders on the storm (the doors)"
-		},
-		{
-			"artist": "swans",
-			"title": "love will tear us apart"
-		},
-		{
-			"artist": "ikon",
-			"title": "shadowplay"
-		},
-		{
-			"artist": "lycia",
-			"title": "in a lonely place"
-		},
-		{
-			"artist": "kirlian camera",
-			"title": "the eternal"
-		},
-		{
-			"artist": "trance to the sun",
-			"title": "isolation"
-		},
-		{
-			"artist": "trance to the sun",
-			"title": "love will tear us apart"
-		},
-		{
-			"artist": "corpus delicti",
-			"title": "atmosphere"
-		},
-		{
-			"artist": "susanna and the magical orchestra",
-			"title": "love will tear us apart"
-		}
-	]
+    "title": "Maj 2013",
+    "filename": "maj-2013",
+    "date": "2013-05",
+    "songs": [
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2000"
+        },
+        {
+            "artist": "eden",
+            "title": "hymns and mist"
+        },
+        {
+            "artist": "the eden house",
+            "title": "butterflies"
+        },
+        {
+            "artist": "mellonta tauta",
+            "title": "travel to the end [pk]"
+        },
+        {
+            "artist": "mellonta tauta",
+            "title": "twenty years later"
+        },
+        {
+            "artist": "kirlian camera",
+            "title": "silencing the world"
+        },
+        {
+            "artist": "kirlian camera",
+            "title": "black august"
+        },
+        {
+            "artist": "kirlian camera",
+            "title": "stranger in the abandoned station"
+        },
+        {
+            "artist": "born for bliss",
+            "title": "this narrow place"
+        },
+        {
+            "artist": "born for bliss",
+            "title": "underground"
+        },
+        {
+            "artist": "mila mar",
+            "title": "in the name of"
+        },
+        {
+            "artist": "mila mar",
+            "title": "picnic on the moon"
+        },
+        {
+            "artist": "mila mar",
+            "title": "sense of being"
+        },
+        {
+            "artist": "bel canto",
+            "title": "the suffering"
+        },
+        {
+            "artist": "bel canto",
+            "title": "picnic on the moon"
+        },
+        {
+            "artist": "mellonta tauta",
+            "title": "travel to the end [pk]"
+        },
+        {
+            "artist": "torul",
+            "title": "the sun!"
+        },
+        {
+            "artist": "torul",
+            "title": "all over again"
+        },
+        {
+            "artist": "torul",
+            "title": "end of story"
+        },
+        {
+            "artist": "the beauty of gemina",
+            "title": "last night home"
+        },
+        {
+            "artist": "the beauty of gemina",
+            "title": "obscura"
+        },
+        {
+            "artist": "the mary onettes",
+            "title": "years"
+        },
+        {
+            "artist": "the mary onettes",
+            "title": "don't forget to forget about me"
+        },
+        {
+            "artist": "ordo equitum solis",
+            "title": "tomorrow"
+        },
+        {
+            "artist": "ordo equitum solis",
+            "title": "killing time killing love"
+        },
+        {
+            "artist": "attrition",
+            "title": "the causal agent"
+        },
+        {
+            "artist": "skinny puppy",
+            "title": "paragun"
+        },
+        {
+            "artist": "phil western",
+            "title": "at the disco"
+        },
+        {
+            "artist": "phil western",
+            "title": "head"
+        },
+        {
+            "artist": ":wumpscut:",
+            "title": "du neger"
+        },
+        {
+            "artist": ":wumpscut:",
+            "title": "madman szpital (skon remix)"
+        },
+        {
+            "artist": "mellonta tauta",
+            "title": "travel to the end [pk]"
+        },
+        {
+            "artist": "maanam",
+            "title": "miłość jest cudowna"
+        },
+        {
+            "artist": "escape with romeo",
+            "title": "riders on the storm (the doors)"
+        },
+        {
+            "artist": "swans",
+            "title": "love will tear us apart"
+        },
+        {
+            "artist": "ikon",
+            "title": "shadowplay"
+        },
+        {
+            "artist": "lycia",
+            "title": "in a lonely place"
+        },
+        {
+            "artist": "kirlian camera",
+            "title": "the eternal"
+        },
+        {
+            "artist": "trance to the sun",
+            "title": "isolation"
+        },
+        {
+            "artist": "trance to the sun",
+            "title": "love will tear us apart"
+        },
+        {
+            "artist": "corpus delicti",
+            "title": "atmosphere"
+        },
+        {
+            "artist": "susanna and the magical orchestra",
+            "title": "love will tear us apart"
+        }
+    ]
 }

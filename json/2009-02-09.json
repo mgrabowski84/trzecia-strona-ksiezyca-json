@@ -1,175 +1,175 @@
 {
-	"title": "Luty 2009",
-	"filename": "luty-2009",
-	"date": "2009-02",
-	"songs": [
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2001"
-		},
-		{
-			"artist": "the convent",
-			"title": "prisoners of the cold"
-		},
-		{
-			"artist": "alpinestars",
-			"title": "snow patrol"
-		},
-		{
-			"artist": "claire voyant",
-			"title": "her"
-		},
-		{
-			"artist": "mirror",
-			"title": "nostalgia"
-		},
-		{
-			"artist": "mirror",
-			"title": "from no one with love (pk)"
-		},
-		{
-			"artist": "modern cubism",
-			"title": "la beauté"
-		},
-		{
-			"artist": "mylene farmer feat. moby",
-			"title": "looking for my name"
-		},
-		{
-			"artist": "kirlian camera",
-			"title": "odyssey europa"
-		},
-		{
-			"artist": "fading colours",
-			"title": "fade away"
-		},
-		{
-			"artist": "fading colours",
-			"title": "rose"
-		},
-		{
-			"artist": "white rose transmission",
-			"title": "glittering green"
-		},
-		{
-			"artist": "white rose transmission",
-			"title": "fire flies"
-		},
-		{
-			"artist": "mirror",
-			"title": "from no one with love (pk)"
-		},
-		{
-			"artist": "cocteau twins",
-			"title": "pink orange red"
-		},
-		{
-			"artist": "rise and fall of a decade",
-			"title": "the man who wanted to catch the wind"
-		},
-		{
-			"artist": "rise and fall of a decade",
-			"title": "theme kurland"
-		},
-		{
-			"artist": "rise and fall of a decade",
-			"title": "a sort of bitter taste"
-		},
-		{
-			"artist": "rise and fall of a decade",
-			"title": "yesterday, today & tomorrow"
-		},
-		{
-			"artist": "rise and fall of a decade",
-			"title": "lost cause"
-		},
-		{
-			"artist": "rise and fall of a decade",
-			"title": "children die in silence"
-		},
-		{
-			"artist": "rise and fall of a decade",
-			"title": "grandest illusion"
-		},
-		{
-			"artist": "rise and fall of a decade",
-			"title": "cube-like-people"
-		},
-		{
-			"artist": "rise and fall of a decade",
-			"title": "you or sidney"
-		},
-		{
-			"artist": "rise and fall of a decade",
-			"title": "mistake"
-		},
-		{
-			"artist": "rise and fall of a decade",
-			"title": "dear assurance"
-		},
-		{
-			"artist": "rise and fall of a decade",
-			"title": "pure hands"
-		},
-		{
-			"artist": "cube-like-people",
-			"title": "bo man eater"
-		},
-		{
-			"artist": "rise and fall of a decade",
-			"title": "don't save the museum"
-		},
-		{
-			"artist": "rise and fall of a decade",
-			"title": "tchetcheny my love (nemo sandman version)"
-		},
-		{
-			"artist": "rise and fall of a decade",
-			"title": "the missing friend"
-		},
-		{
-			"artist": "mirror",
-			"title": "from no one with love (pk)"
-		},
-		{
-			"artist": "clock dva",
-			"title": "buried dreams"
-		},
-		{
-			"artist": "clock dva",
-			"title": "hide"
-		},
-		{
-			"artist": "clock dva",
-			"title": "sound mirror"
-		},
-		{
-			"artist": "clock dva",
-			"title": "velvet realm"
-		},
-		{
-			"artist": "clock dva",
-			"title": "the unseen"
-		},
-		{
-			"artist": "clock dva",
-			"title": "the reign"
-		},
-		{
-			"artist": "clock dva",
-			"title": "the act"
-		},
-		{
-			"artist": "clock dva",
-			"title": "the hacker"
-		},
-		{
-			"artist": "vladimir hirsch",
-			"title": "confiteor"
-		},
-		{
-			"artist": "mirror",
-			"title": "from no one with love (pk)"
-		}
-	]
+    "title": "Luty 2009",
+    "filename": "luty-2009",
+    "date": "2009-02",
+    "songs": [
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2001"
+        },
+        {
+            "artist": "the convent",
+            "title": "prisoners of the cold"
+        },
+        {
+            "artist": "alpinestars",
+            "title": "snow patrol"
+        },
+        {
+            "artist": "claire voyant",
+            "title": "her"
+        },
+        {
+            "artist": "mirror",
+            "title": "nostalgia"
+        },
+        {
+            "artist": "mirror",
+            "title": "from no one with love (pk)"
+        },
+        {
+            "artist": "modern cubism",
+            "title": "la beauté"
+        },
+        {
+            "artist": "mylene farmer feat. moby",
+            "title": "looking for my name"
+        },
+        {
+            "artist": "kirlian camera",
+            "title": "odyssey europa"
+        },
+        {
+            "artist": "fading colours",
+            "title": "fade away"
+        },
+        {
+            "artist": "fading colours",
+            "title": "rose"
+        },
+        {
+            "artist": "white rose transmission",
+            "title": "glittering green"
+        },
+        {
+            "artist": "white rose transmission",
+            "title": "fire flies"
+        },
+        {
+            "artist": "mirror",
+            "title": "from no one with love (pk)"
+        },
+        {
+            "artist": "cocteau twins",
+            "title": "pink orange red"
+        },
+        {
+            "artist": "rise and fall of a decade",
+            "title": "the man who wanted to catch the wind"
+        },
+        {
+            "artist": "rise and fall of a decade",
+            "title": "theme kurland"
+        },
+        {
+            "artist": "rise and fall of a decade",
+            "title": "a sort of bitter taste"
+        },
+        {
+            "artist": "rise and fall of a decade",
+            "title": "yesterday, today & tomorrow"
+        },
+        {
+            "artist": "rise and fall of a decade",
+            "title": "lost cause"
+        },
+        {
+            "artist": "rise and fall of a decade",
+            "title": "children die in silence"
+        },
+        {
+            "artist": "rise and fall of a decade",
+            "title": "grandest illusion"
+        },
+        {
+            "artist": "rise and fall of a decade",
+            "title": "cube-like-people"
+        },
+        {
+            "artist": "rise and fall of a decade",
+            "title": "you or sidney"
+        },
+        {
+            "artist": "rise and fall of a decade",
+            "title": "mistake"
+        },
+        {
+            "artist": "rise and fall of a decade",
+            "title": "dear assurance"
+        },
+        {
+            "artist": "rise and fall of a decade",
+            "title": "pure hands"
+        },
+        {
+            "artist": "cube-like-people",
+            "title": "bo man eater"
+        },
+        {
+            "artist": "rise and fall of a decade",
+            "title": "don't save the museum"
+        },
+        {
+            "artist": "rise and fall of a decade",
+            "title": "tchetcheny my love (nemo sandman version)"
+        },
+        {
+            "artist": "rise and fall of a decade",
+            "title": "the missing friend"
+        },
+        {
+            "artist": "mirror",
+            "title": "from no one with love (pk)"
+        },
+        {
+            "artist": "clock dva",
+            "title": "buried dreams"
+        },
+        {
+            "artist": "clock dva",
+            "title": "hide"
+        },
+        {
+            "artist": "clock dva",
+            "title": "sound mirror"
+        },
+        {
+            "artist": "clock dva",
+            "title": "velvet realm"
+        },
+        {
+            "artist": "clock dva",
+            "title": "the unseen"
+        },
+        {
+            "artist": "clock dva",
+            "title": "the reign"
+        },
+        {
+            "artist": "clock dva",
+            "title": "the act"
+        },
+        {
+            "artist": "clock dva",
+            "title": "the hacker"
+        },
+        {
+            "artist": "vladimir hirsch",
+            "title": "confiteor"
+        },
+        {
+            "artist": "mirror",
+            "title": "from no one with love (pk)"
+        }
+    ]
 }

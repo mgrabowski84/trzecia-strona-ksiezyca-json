@@ -1,155 +1,155 @@
 {
-	"title": "Grudzień 2006",
-	"filename": "grudzien-2006",
-	"date": "2006-12",
-	"songs": [
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2001"
-		},
-		{
-			"artist": "monica richards",
-			"title": "gaia"
-		},
-		{
-			"artist": "claire voyant",
-			"title": "twenty four years"
-		},
-		{
-			"artist": "in the nursery",
-			"title": "vantage (pk)"
-		},
-		{
-			"artist": "monica richards",
-			"title": "in answer"
-		},
-		{
-			"artist": "monica richards",
-			"title": "a good thing"
-		},
-		{
-			"artist": "lisa gerrard",
-			"title": "space weaver"
-		},
-		{
-			"artist": "eden",
-			"title": "the slow bells"
-		},
-		{
-			"artist": "lunaspace",
-			"title": "raven star"
-		},
-		{
-			"artist": "in the nursery",
-			"title": "vantage (pk)"
-		},
-		{
-			"artist": "in the nursery",
-			"title": "material & form"
-		},
-		{
-			"artist": "in the nursery",
-			"title": "tempered wings"
-		},
-		{
-			"artist": "in the nursery",
-			"title": "kryptka"
-		},
-		{
-			"artist": "camouflage",
-			"title": "real thing"
-		},
-		{
-			"artist": "camouflage",
-			"title": "motif sky"
-		},
-		{
-			"artist": "camouflage",
-			"title": "the pleasure remains (remix)"
-		},
-		{
-			"artist": "red emprez",
-			"title": "but not tonight"
-		},
-		{
-			"artist": "in the nursery",
-			"title": "vantage (pk)"
-		},
-		{
-			"artist": "behind the scenes",
-			"title": "rely on"
-		},
-		{
-			"artist": "behind the scenes",
-			"title": "one day"
-		},
-		{
-			"artist": "the last dance",
-			"title": "december"
-		},
-		{
-			"artist": "timo maas",
-			"title": "slip in electro kid"
-		},
-		{
-			"artist": "snog",
-			"title": "are you normal enough"
-		},
-		{
-			"artist": "cryo",
-			"title": "machine"
-		},
-		{
-			"artist": "klaus schulze",
-			"title": "same thoughts lion"
-		},
-		{
-			"artist": "seabound",
-			"title": "the promise"
-		},
-		{
-			"artist": "ego likeness",
-			"title": "you better leave the stars alone"
-		},
-		{
-			"artist": "azam ali",
-			"title": "the cold black key"
-		},
-		{
-			"artist": "in the nursery",
-			"title": "vantage (pk)"
-		},
-		{
-			"artist": "joy division",
-			"title": "love will tear us apart"
-		},
-		{
-			"artist": "trance to the sun",
-			"title": "love will tear us apart"
-		},
-		{
-			"artist": "trance to the sun",
-			"title": "isolation"
-		},
-		{
-			"artist": "god`s own medicine",
-			"title": "whispers"
-		},
-		{
-			"artist": "god`s own medicine",
-			"title": "genotype"
-		},
-		{
-			"artist": "clan of xymox",
-			"title": "a new dimension"
-		},
-		{
-			"artist": "weltenbrand",
-			"title": "gipsy magic"
-		},
-		{
-			"artist": "the new york room",
-			"title": "the thistle in the kiss"
-		}
-	]
+    "title": "Grudzień 2006",
+    "filename": "grudzien-2006",
+    "date": "2006-12",
+    "songs": [
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2001"
+        },
+        {
+            "artist": "monica richards",
+            "title": "gaia"
+        },
+        {
+            "artist": "claire voyant",
+            "title": "twenty four years"
+        },
+        {
+            "artist": "in the nursery",
+            "title": "vantage (pk)"
+        },
+        {
+            "artist": "monica richards",
+            "title": "in answer"
+        },
+        {
+            "artist": "monica richards",
+            "title": "a good thing"
+        },
+        {
+            "artist": "lisa gerrard",
+            "title": "space weaver"
+        },
+        {
+            "artist": "eden",
+            "title": "the slow bells"
+        },
+        {
+            "artist": "lunaspace",
+            "title": "raven star"
+        },
+        {
+            "artist": "in the nursery",
+            "title": "vantage (pk)"
+        },
+        {
+            "artist": "in the nursery",
+            "title": "material & form"
+        },
+        {
+            "artist": "in the nursery",
+            "title": "tempered wings"
+        },
+        {
+            "artist": "in the nursery",
+            "title": "kryptka"
+        },
+        {
+            "artist": "camouflage",
+            "title": "real thing"
+        },
+        {
+            "artist": "camouflage",
+            "title": "motif sky"
+        },
+        {
+            "artist": "camouflage",
+            "title": "the pleasure remains (remix)"
+        },
+        {
+            "artist": "red emprez",
+            "title": "but not tonight"
+        },
+        {
+            "artist": "in the nursery",
+            "title": "vantage (pk)"
+        },
+        {
+            "artist": "behind the scenes",
+            "title": "rely on"
+        },
+        {
+            "artist": "behind the scenes",
+            "title": "one day"
+        },
+        {
+            "artist": "the last dance",
+            "title": "december"
+        },
+        {
+            "artist": "timo maas",
+            "title": "slip in electro kid"
+        },
+        {
+            "artist": "snog",
+            "title": "are you normal enough"
+        },
+        {
+            "artist": "cryo",
+            "title": "machine"
+        },
+        {
+            "artist": "klaus schulze",
+            "title": "same thoughts lion"
+        },
+        {
+            "artist": "seabound",
+            "title": "the promise"
+        },
+        {
+            "artist": "ego likeness",
+            "title": "you better leave the stars alone"
+        },
+        {
+            "artist": "azam ali",
+            "title": "the cold black key"
+        },
+        {
+            "artist": "in the nursery",
+            "title": "vantage (pk)"
+        },
+        {
+            "artist": "joy division",
+            "title": "love will tear us apart"
+        },
+        {
+            "artist": "trance to the sun",
+            "title": "love will tear us apart"
+        },
+        {
+            "artist": "trance to the sun",
+            "title": "isolation"
+        },
+        {
+            "artist": "god`s own medicine",
+            "title": "whispers"
+        },
+        {
+            "artist": "god`s own medicine",
+            "title": "genotype"
+        },
+        {
+            "artist": "clan of xymox",
+            "title": "a new dimension"
+        },
+        {
+            "artist": "weltenbrand",
+            "title": "gipsy magic"
+        },
+        {
+            "artist": "the new york room",
+            "title": "the thistle in the kiss"
+        }
+    ]
 }

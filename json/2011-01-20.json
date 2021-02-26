@@ -1,151 +1,151 @@
 {
-	"title": "Styczeń 2011",
-	"filename": "styczen-2011",
-	"date": "2011-01",
-	"songs": [
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2001"
-		},
-		{
-			"artist": "klute",
-			"title": "blue monday"
-		},
-		{
-			"artist": "the last dance",
-			"title": "winter standing still"
-		},
-		{
-			"artist": "lakeside x",
-			"title": "mystic highway (pk)"
-		},
-		{
-			"artist": "lisa gerrard",
-			"title": "space weaver"
-		},
-		{
-			"artist": "chandeen",
-			"title": "welcome the still"
-		},
-		{
-			"artist": "the eden house",
-			"title": "all my love"
-		},
-		{
-			"artist": "the tear garden",
-			"title": "made in china part 2"
-		},
-		{
-			"artist": "faith and the muse",
-			"title": "kodama"
-		},
-		{
-			"artist": "the beauty of gemina",
-			"title": "obscura"
-		},
-		{
-			"artist": "front line assembly",
-			"title": "afterlife"
-		},
-		{
-			"artist": "brendan perry",
-			"title": "wintersun"
-		},
-		{
-			"artist": "lakeside x",
-			"title": "mystic highway (pk)"
-		},
-		{
-			"artist": "lakeside x",
-			"title": "rain that won't ever stop"
-		},
-		{
-			"artist": "covenant",
-			"title": "the beauty and the grace"
-		},
-		{
-			"artist": "covenant",
-			"title": "judge of my domain"
-		},
-		{
-			"artist": "leaether strip",
-			"title": "walking on volcanos"
-		},
-		{
-			"artist": "vnv nation",
-			"title": "electronaut"
-		},
-		{
-			"artist": "and one",
-			"title": "military fashion show"
-		},
-		{
-			"artist": "project pitchfork",
-			"title": "carnival"
-		},
-		{
-			"artist": "i am x",
-			"title": "nature of inviting (black light odyssey)"
-		},
-		{
-			"artist": "depeche mode",
-			"title": "john the revelator (dave is in the disco tiefschwarz remix)"
-		},
-		{
-			"artist": "concise",
-			"title": "kaleidoscope"
-		},
-		{
-			"artist": "concise",
-			"title": "u - turn"
-		},
-		{
-			"artist": "concise",
-			"title": "reflections"
-		},
-		{
-			"artist": "concise",
-			"title": "choice"
-		},
-		{
-			"artist": "lakeside x",
-			"title": "mystic highway (pk)"
-		},
-		{
-			"artist": "the merry thoughts",
-			"title": "psychocult"
-		},
-		{
-			"artist": "rosetta stone",
-			"title": "the witch (extended dub)"
-		},
-		{
-			"artist": "drown for resurrection",
-			"title": "under a spell"
-		},
-		{
-			"artist": "wolfsheim",
-			"title": "find you`re here"
-		},
-		{
-			"artist": "duran duran",
-			"title": "rio"
-		},
-		{
-			"artist": "duran duran",
-			"title": "new moon on monday"
-		},
-		{
-			"artist": "duran duran",
-			"title": "a matter of feeling"
-		},
-		{
-			"artist": "duran duran",
-			"title": "leave a light on"
-		},
-		{
-			"artist": "duran duran",
-			"title": "drive by"
-		}
-	]
+    "title": "Styczeń 2011",
+    "filename": "styczen-2011",
+    "date": "2011-01",
+    "songs": [
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2001"
+        },
+        {
+            "artist": "klute",
+            "title": "blue monday"
+        },
+        {
+            "artist": "the last dance",
+            "title": "winter standing still"
+        },
+        {
+            "artist": "lakeside x",
+            "title": "mystic highway (pk)"
+        },
+        {
+            "artist": "lisa gerrard",
+            "title": "space weaver"
+        },
+        {
+            "artist": "chandeen",
+            "title": "welcome the still"
+        },
+        {
+            "artist": "the eden house",
+            "title": "all my love"
+        },
+        {
+            "artist": "the tear garden",
+            "title": "made in china part 2"
+        },
+        {
+            "artist": "faith and the muse",
+            "title": "kodama"
+        },
+        {
+            "artist": "the beauty of gemina",
+            "title": "obscura"
+        },
+        {
+            "artist": "front line assembly",
+            "title": "afterlife"
+        },
+        {
+            "artist": "brendan perry",
+            "title": "wintersun"
+        },
+        {
+            "artist": "lakeside x",
+            "title": "mystic highway (pk)"
+        },
+        {
+            "artist": "lakeside x",
+            "title": "rain that won't ever stop"
+        },
+        {
+            "artist": "covenant",
+            "title": "the beauty and the grace"
+        },
+        {
+            "artist": "covenant",
+            "title": "judge of my domain"
+        },
+        {
+            "artist": "leaether strip",
+            "title": "walking on volcanos"
+        },
+        {
+            "artist": "vnv nation",
+            "title": "electronaut"
+        },
+        {
+            "artist": "and one",
+            "title": "military fashion show"
+        },
+        {
+            "artist": "project pitchfork",
+            "title": "carnival"
+        },
+        {
+            "artist": "i am x",
+            "title": "nature of inviting (black light odyssey)"
+        },
+        {
+            "artist": "depeche mode",
+            "title": "john the revelator (dave is in the disco tiefschwarz remix)"
+        },
+        {
+            "artist": "concise",
+            "title": "kaleidoscope"
+        },
+        {
+            "artist": "concise",
+            "title": "u - turn"
+        },
+        {
+            "artist": "concise",
+            "title": "reflections"
+        },
+        {
+            "artist": "concise",
+            "title": "choice"
+        },
+        {
+            "artist": "lakeside x",
+            "title": "mystic highway (pk)"
+        },
+        {
+            "artist": "the merry thoughts",
+            "title": "psychocult"
+        },
+        {
+            "artist": "rosetta stone",
+            "title": "the witch (extended dub)"
+        },
+        {
+            "artist": "drown for resurrection",
+            "title": "under a spell"
+        },
+        {
+            "artist": "wolfsheim",
+            "title": "find you`re here"
+        },
+        {
+            "artist": "duran duran",
+            "title": "rio"
+        },
+        {
+            "artist": "duran duran",
+            "title": "new moon on monday"
+        },
+        {
+            "artist": "duran duran",
+            "title": "a matter of feeling"
+        },
+        {
+            "artist": "duran duran",
+            "title": "leave a light on"
+        },
+        {
+            "artist": "duran duran",
+            "title": "drive by"
+        }
+    ]
 }

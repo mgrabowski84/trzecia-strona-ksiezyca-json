@@ -1,183 +1,183 @@
 {
-	"title": "Grudzień 2012",
-	"filename": "grudzien-2012",
-	"date": "2012-12",
-	"songs": [
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2001"
-		},
-		{
-			"artist": "angels of liberty",
-			"title": "dance of death part 1"
-		},
-		{
-			"artist": "angels of liberty",
-			"title": "eat the sun"
-		},
-		{
-			"artist": "continues",
-			"title": "reckless heart [pk]"
-		},
-		{
-			"artist": "the new division",
-			"title": "opium"
-		},
-		{
-			"artist": "falling you",
-			"title": "adore"
-		},
-		{
-			"artist": "monica richards",
-			"title": "the strange familiarred"
-		},
-		{
-			"artist": "sun revival",
-			"title": "last chance"
-		},
-		{
-			"artist": "red sun revival",
-			"title": "forgive us now"
-		},
-		{
-			"artist": "angels of liberty",
-			"title": "girl under the water"
-		},
-		{
-			"artist": "snakedance",
-			"title": "fall from grace"
-		},
-		{
-			"artist": "snakedance",
-			"title": "in your arms i'll die"
-		},
-		{
-			"artist": "sin cos tan",
-			"title": "sooner than now"
-		},
-		{
-			"artist": "hidden place",
-			"title": "between the devil and blue sea"
-		},
-		{
-			"artist": "hidden place",
-			"title": "legendary divers (ft.the frozen autumn)"
-		},
-		{
-			"artist": "hidden place",
-			"title": "scenari d'occidente"
-		},
-		{
-			"artist": "lestat",
-			"title": "midnight toll (spinal mix by adrian smith)"
-		},
-		{
-			"artist": "silver swans",
-			"title": "diary land"
-		},
-		{
-			"artist": "pieter nooten",
-			"title": "around us"
-		},
-		{
-			"artist": "the twilight garden",
-			"title": "falling rain"
-		},
-		{
-			"artist": "the twilight garden",
-			"title": "reconcile"
-		},
-		{
-			"artist": "i-m-r",
-			"title": "words"
-		},
-		{
-			"artist": "i-m-r",
-			"title": "more than this"
-		},
-		{
-			"artist": "lakobeil",
-			"title": "days in oblivion"
-		},
-		{
-			"artist": "peter heppner",
-			"title": "christmas comes early"
-		},
-		{
-			"artist": "baśnia",
-			"title": "an old - fashioned christmas"
-		},
-		{
-			"artist": "continues",
-			"title": "reckless heart [pk]"
-		},
-		{
-			"artist": "flaque",
-			"title": "darkness is falling"
-		},
-		{
-			"artist": "disharmony",
-			"title": "lights of us"
-		},
-		{
-			"artist": "leaether strip",
-			"title": "strong women - hardcore females"
-		},
-		{
-			"artist": "leaether strip",
-			"title": "the march of man"
-		},
-		{
-			"artist": "c.db.sn",
-			"title": "athousandmiles"
-		},
-		{
-			"artist": "beach house",
-			"title": "wishes"
-		},
-		{
-			"artist": "dead can dance",
-			"title": "opium"
-		},
-		{
-			"artist": "vaselyne",
-			"title": "earthbound"
-		},
-		{
-			"artist": "werk",
-			"title": "nero"
-		},
-		{
-			"artist": "she past away",
-			"title": "kasvetli kutlama"
-		},
-		{
-			"artist": "continues",
-			"title": "reckless heart"
-		},
-		{
-			"artist": "brotherhood",
-			"title": "photographic"
-		},
-		{
-			"artist": "dark drive clinic",
-			"title": "walking in my shoes"
-		},
-		{
-			"artist": "topazz",
-			"title": "behind the wheel"
-		},
-		{
-			"artist": "marilyn manson",
-			"title": "personal jesus"
-		},
-		{
-			"artist": "scala &amp; kolacny brothers",
-			"title": "enjoy the silence"
-		},
-		{
-			"artist": "noblesse oblige",
-			"title": "as tears go by"
-		}
-	]
+    "title": "Grudzień 2012",
+    "filename": "grudzien-2012",
+    "date": "2012-12",
+    "songs": [
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2001"
+        },
+        {
+            "artist": "angels of liberty",
+            "title": "dance of death part 1"
+        },
+        {
+            "artist": "angels of liberty",
+            "title": "eat the sun"
+        },
+        {
+            "artist": "continues",
+            "title": "reckless heart [pk]"
+        },
+        {
+            "artist": "the new division",
+            "title": "opium"
+        },
+        {
+            "artist": "falling you",
+            "title": "adore"
+        },
+        {
+            "artist": "monica richards",
+            "title": "the strange familiarred"
+        },
+        {
+            "artist": "sun revival",
+            "title": "last chance"
+        },
+        {
+            "artist": "red sun revival",
+            "title": "forgive us now"
+        },
+        {
+            "artist": "angels of liberty",
+            "title": "girl under the water"
+        },
+        {
+            "artist": "snakedance",
+            "title": "fall from grace"
+        },
+        {
+            "artist": "snakedance",
+            "title": "in your arms i'll die"
+        },
+        {
+            "artist": "sin cos tan",
+            "title": "sooner than now"
+        },
+        {
+            "artist": "hidden place",
+            "title": "between the devil and blue sea"
+        },
+        {
+            "artist": "hidden place",
+            "title": "legendary divers (ft.the frozen autumn)"
+        },
+        {
+            "artist": "hidden place",
+            "title": "scenari d'occidente"
+        },
+        {
+            "artist": "lestat",
+            "title": "midnight toll (spinal mix by adrian smith)"
+        },
+        {
+            "artist": "silver swans",
+            "title": "diary land"
+        },
+        {
+            "artist": "pieter nooten",
+            "title": "around us"
+        },
+        {
+            "artist": "the twilight garden",
+            "title": "falling rain"
+        },
+        {
+            "artist": "the twilight garden",
+            "title": "reconcile"
+        },
+        {
+            "artist": "i-m-r",
+            "title": "words"
+        },
+        {
+            "artist": "i-m-r",
+            "title": "more than this"
+        },
+        {
+            "artist": "lakobeil",
+            "title": "days in oblivion"
+        },
+        {
+            "artist": "peter heppner",
+            "title": "christmas comes early"
+        },
+        {
+            "artist": "baśnia",
+            "title": "an old - fashioned christmas"
+        },
+        {
+            "artist": "continues",
+            "title": "reckless heart [pk]"
+        },
+        {
+            "artist": "flaque",
+            "title": "darkness is falling"
+        },
+        {
+            "artist": "disharmony",
+            "title": "lights of us"
+        },
+        {
+            "artist": "leaether strip",
+            "title": "strong women - hardcore females"
+        },
+        {
+            "artist": "leaether strip",
+            "title": "the march of man"
+        },
+        {
+            "artist": "c.db.sn",
+            "title": "athousandmiles"
+        },
+        {
+            "artist": "beach house",
+            "title": "wishes"
+        },
+        {
+            "artist": "dead can dance",
+            "title": "opium"
+        },
+        {
+            "artist": "vaselyne",
+            "title": "earthbound"
+        },
+        {
+            "artist": "werk",
+            "title": "nero"
+        },
+        {
+            "artist": "she past away",
+            "title": "kasvetli kutlama"
+        },
+        {
+            "artist": "continues",
+            "title": "reckless heart"
+        },
+        {
+            "artist": "brotherhood",
+            "title": "photographic"
+        },
+        {
+            "artist": "dark drive clinic",
+            "title": "walking in my shoes"
+        },
+        {
+            "artist": "topazz",
+            "title": "behind the wheel"
+        },
+        {
+            "artist": "marilyn manson",
+            "title": "personal jesus"
+        },
+        {
+            "artist": "scala &amp; kolacny brothers",
+            "title": "enjoy the silence"
+        },
+        {
+            "artist": "noblesse oblige",
+            "title": "as tears go by"
+        }
+    ]
 }

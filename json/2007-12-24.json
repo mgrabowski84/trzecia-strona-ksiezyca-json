@@ -1,171 +1,171 @@
 {
-	"title": "Grudzień 2007",
-	"filename": "grudzien-2007",
-	"date": "2007-12",
-	"songs": [
-		{
-			"artist": "the new york room",
-			"title": "silent night"
-		},
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2001"
-		},
-		{
-			"artist": "milu",
-			"title": "tara"
-		},
-		{
-			"artist": "milu",
-			"title": "warm"
-		},
-		{
-			"artist": "milu",
-			"title": "goodbye"
-		},
-		{
-			"artist": "persephone",
-			"title": "fateful"
-		},
-		{
-			"artist": "spectra*paris",
-			"title": "frozen night (pk)"
-		},
-		{
-			"artist": "the mission",
-			"title": "wishing well"
-		},
-		{
-			"artist": "dragons",
-			"title": "here are the roses"
-		},
-		{
-			"artist": "dragons",
-			"title": "lonely tonight"
-		},
-		{
-			"artist": "claire voyant",
-			"title": "twenty four years"
-		},
-		{
-			"artist": "in the nursery",
-			"title": "vantage"
-		},
-		{
-			"artist": "persephone",
-			"title": "stained"
-		},
-		{
-			"artist": "persephone",
-			"title": "untitled"
-		},
-		{
-			"artist": "zoar",
-			"title": "winter wind"
-		},
-		{
-			"artist": "lisa gerrard",
-			"title": "space weaver"
-		},
-		{
-			"artist": "in my rosary",
-			"title": "bitter fall"
-		},
-		{
-			"artist": "in my rosary",
-			"title": "a waste of pain"
-		},
-		{
-			"artist": "in my rosary",
-			"title": "demo"
-		},
-		{
-			"artist": "diary of dreams",
-			"title": "the valley"
-		},
-		{
-			"artist": "garden of delight",
-			"title": "and the wind blows down the clouds"
-		},
-		{
-			"artist": "spectra*paris",
-			"title": "frozen night (pk)"
-		},
-		{
-			"artist": "kirlian camera",
-			"title": "ascension"
-		},
-		{
-			"artist": "kirlian camera",
-			"title": "the icy dawn"
-		},
-		{
-			"artist": "kirlian camera",
-			"title": "the desert inside (long version)"
-		},
-		{
-			"artist": "vnv nation",
-			"title": "secluded spaces"
-		},
-		{
-			"artist": "delerium",
-			"title": "extollere"
-		},
-		{
-			"artist": "miriam",
-			"title": "night porter"
-		},
-		{
-			"artist": "the sound",
-			"title": "winter"
-		},
-		{
-			"artist": "tears for fears",
-			"title": "mad world (world remix)"
-		},
-		{
-			"artist": "spectra*paris",
-			"title": "mad world"
-		},
-		{
-			"artist": "visage",
-			"title": "she's a machine"
-		},
-		{
-			"artist": "wolfsheim",
-			"title": "the sparrows and the nightingales"
-		},
-		{
-			"artist": "iamx",
-			"title": "spit it out"
-		},
-		{
-			"artist": "declasse",
-			"title": "blend into gray"
-		},
-		{
-			"artist": "arcana",
-			"title": "lost n time"
-		},
-		{
-			"artist": "lounge",
-			"title": "everyday (acoustic version)"
-		},
-		{
-			"artist": "dave gahan",
-			"title": "saw something"
-		},
-		{
-			"artist": "silence",
-			"title": "the rain"
-		},
-		{
-			"artist": "silence",
-			"title": "i love you"
-		},
-		{
-			"artist": "spectra*paris",
-			"title": "frozen night (pk)"
-		}
-	]
+    "title": "Grudzień 2007",
+    "filename": "grudzien-2007",
+    "date": "2007-12",
+    "songs": [
+        {
+            "artist": "the new york room",
+            "title": "silent night"
+        },
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2001"
+        },
+        {
+            "artist": "milu",
+            "title": "tara"
+        },
+        {
+            "artist": "milu",
+            "title": "warm"
+        },
+        {
+            "artist": "milu",
+            "title": "goodbye"
+        },
+        {
+            "artist": "persephone",
+            "title": "fateful"
+        },
+        {
+            "artist": "spectra*paris",
+            "title": "frozen night (pk)"
+        },
+        {
+            "artist": "the mission",
+            "title": "wishing well"
+        },
+        {
+            "artist": "dragons",
+            "title": "here are the roses"
+        },
+        {
+            "artist": "dragons",
+            "title": "lonely tonight"
+        },
+        {
+            "artist": "claire voyant",
+            "title": "twenty four years"
+        },
+        {
+            "artist": "in the nursery",
+            "title": "vantage"
+        },
+        {
+            "artist": "persephone",
+            "title": "stained"
+        },
+        {
+            "artist": "persephone",
+            "title": "untitled"
+        },
+        {
+            "artist": "zoar",
+            "title": "winter wind"
+        },
+        {
+            "artist": "lisa gerrard",
+            "title": "space weaver"
+        },
+        {
+            "artist": "in my rosary",
+            "title": "bitter fall"
+        },
+        {
+            "artist": "in my rosary",
+            "title": "a waste of pain"
+        },
+        {
+            "artist": "in my rosary",
+            "title": "demo"
+        },
+        {
+            "artist": "diary of dreams",
+            "title": "the valley"
+        },
+        {
+            "artist": "garden of delight",
+            "title": "and the wind blows down the clouds"
+        },
+        {
+            "artist": "spectra*paris",
+            "title": "frozen night (pk)"
+        },
+        {
+            "artist": "kirlian camera",
+            "title": "ascension"
+        },
+        {
+            "artist": "kirlian camera",
+            "title": "the icy dawn"
+        },
+        {
+            "artist": "kirlian camera",
+            "title": "the desert inside (long version)"
+        },
+        {
+            "artist": "vnv nation",
+            "title": "secluded spaces"
+        },
+        {
+            "artist": "delerium",
+            "title": "extollere"
+        },
+        {
+            "artist": "miriam",
+            "title": "night porter"
+        },
+        {
+            "artist": "the sound",
+            "title": "winter"
+        },
+        {
+            "artist": "tears for fears",
+            "title": "mad world (world remix)"
+        },
+        {
+            "artist": "spectra*paris",
+            "title": "mad world"
+        },
+        {
+            "artist": "visage",
+            "title": "she's a machine"
+        },
+        {
+            "artist": "wolfsheim",
+            "title": "the sparrows and the nightingales"
+        },
+        {
+            "artist": "iamx",
+            "title": "spit it out"
+        },
+        {
+            "artist": "declasse",
+            "title": "blend into gray"
+        },
+        {
+            "artist": "arcana",
+            "title": "lost n time"
+        },
+        {
+            "artist": "lounge",
+            "title": "everyday (acoustic version)"
+        },
+        {
+            "artist": "dave gahan",
+            "title": "saw something"
+        },
+        {
+            "artist": "silence",
+            "title": "the rain"
+        },
+        {
+            "artist": "silence",
+            "title": "i love you"
+        },
+        {
+            "artist": "spectra*paris",
+            "title": "frozen night (pk)"
+        }
+    ]
 }

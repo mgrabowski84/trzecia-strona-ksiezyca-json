@@ -1,167 +1,167 @@
 {
-	"title": "Grudzień 2010",
-	"filename": "grudzien-2010",
-	"date": "2010-12",
-	"songs": [
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2001"
-		},
-		{
-			"artist": "the cure",
-			"title": "cold"
-		},
-		{
-			"artist": "adoration",
-			"title": "cold"
-		},
-		{
-			"artist": "diary of dreams",
-			"title": "cold"
-		},
-		{
-			"artist": "the last dance",
-			"title": "winter standing still (pk)"
-		},
-		{
-			"artist": "spectra paris",
-			"title": "snowy cross tale"
-		},
-		{
-			"artist": "spectra paris",
-			"title": "king snow's garden"
-		},
-		{
-			"artist": "faith and the muse",
-			"title": "kodama"
-		},
-		{
-			"artist": "brendan perry",
-			"title": "wintersun"
-		},
-		{
-			"artist": "zoar",
-			"title": "winter wind"
-		},
-		{
-			"artist": "carol tatum",
-			"title": "am i dreaming"
-		},
-		{
-			"artist": "god’s own medicine",
-			"title": "whispers"
-		},
-		{
-			"artist": "god”s own medicine",
-			"title": "keep exploring"
-		},
-		{
-			"artist": "bella morte",
-			"title": "december dreams"
-		},
-		{
-			"artist": "the escape",
-			"title": "tears in december"
-		},
-		{
-			"artist": "dimbodius",
-			"title": "december"
-		},
-		{
-			"artist": "project pitchfork",
-			"title": "december sadness"
-		},
-		{
-			"artist": "subheim",
-			"title": "december"
-		},
-		{
-			"artist": "all about eve",
-			"title": "december"
-		},
-		{
-			"artist": "the last dance",
-			"title": "december"
-		},
-		{
-			"artist": "the last dance",
-			"title": "winter standing still (pk)"
-		},
-		{
-			"artist": "schiller",
-			"title": "let it rise"
-		},
-		{
-			"artist": "the tear garden",
-			"title": "made in china part 2"
-		},
-		{
-			"artist": "the beauty of gemina",
-			"title": "obscure"
-		},
-		{
-			"artist": "front line assembly",
-			"title": "afterlife"
-		},
-		{
-			"artist": "runes order",
-			"title": "the razorblade - winter"
-		},
-		{
-			"artist": "kirlian camera",
-			"title": "the icy dawn"
-		},
-		{
-			"artist": "velvet acid christ",
-			"title": "falling snow"
-		},
-		{
-			"artist": "manic p.",
-			"title": "womb of stone"
-		},
-		{
-			"artist": "hurts",
-			"title": "unspoken"
-		},
-		{
-			"artist": "deine lakaien",
-			"title": "one night"
-		},
-		{
-			"artist": "nena",
-			"title": "in meinem leben"
-		},
-		{
-			"artist": "the last dance",
-			"title": "winter standing still (pk)"
-		},
-		{
-			"artist": "until december",
-			"title": "heaven"
-		},
-		{
-			"artist": "until december",
-			"title": "mirrors"
-		},
-		{
-			"artist": "until december",
-			"title": "forgive and still forget"
-		},
-		{
-			"artist": "until december",
-			"title": "bela lugosi's dead"
-		},
-		{
-			"artist": "stoa",
-			"title": "a girl called harmony"
-		},
-		{
-			"artist": "my silent wake",
-			"title": "two gods"
-		},
-		{
-			"artist": "patricia wake",
-			"title": "fate is smiling"
-		}
-	]
+    "title": "Grudzień 2010",
+    "filename": "grudzien-2010",
+    "date": "2010-12",
+    "songs": [
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2001"
+        },
+        {
+            "artist": "the cure",
+            "title": "cold"
+        },
+        {
+            "artist": "adoration",
+            "title": "cold"
+        },
+        {
+            "artist": "diary of dreams",
+            "title": "cold"
+        },
+        {
+            "artist": "the last dance",
+            "title": "winter standing still (pk)"
+        },
+        {
+            "artist": "spectra paris",
+            "title": "snowy cross tale"
+        },
+        {
+            "artist": "spectra paris",
+            "title": "king snow's garden"
+        },
+        {
+            "artist": "faith and the muse",
+            "title": "kodama"
+        },
+        {
+            "artist": "brendan perry",
+            "title": "wintersun"
+        },
+        {
+            "artist": "zoar",
+            "title": "winter wind"
+        },
+        {
+            "artist": "carol tatum",
+            "title": "am i dreaming"
+        },
+        {
+            "artist": "god’s own medicine",
+            "title": "whispers"
+        },
+        {
+            "artist": "god”s own medicine",
+            "title": "keep exploring"
+        },
+        {
+            "artist": "bella morte",
+            "title": "december dreams"
+        },
+        {
+            "artist": "the escape",
+            "title": "tears in december"
+        },
+        {
+            "artist": "dimbodius",
+            "title": "december"
+        },
+        {
+            "artist": "project pitchfork",
+            "title": "december sadness"
+        },
+        {
+            "artist": "subheim",
+            "title": "december"
+        },
+        {
+            "artist": "all about eve",
+            "title": "december"
+        },
+        {
+            "artist": "the last dance",
+            "title": "december"
+        },
+        {
+            "artist": "the last dance",
+            "title": "winter standing still (pk)"
+        },
+        {
+            "artist": "schiller",
+            "title": "let it rise"
+        },
+        {
+            "artist": "the tear garden",
+            "title": "made in china part 2"
+        },
+        {
+            "artist": "the beauty of gemina",
+            "title": "obscure"
+        },
+        {
+            "artist": "front line assembly",
+            "title": "afterlife"
+        },
+        {
+            "artist": "runes order",
+            "title": "the razorblade - winter"
+        },
+        {
+            "artist": "kirlian camera",
+            "title": "the icy dawn"
+        },
+        {
+            "artist": "velvet acid christ",
+            "title": "falling snow"
+        },
+        {
+            "artist": "manic p.",
+            "title": "womb of stone"
+        },
+        {
+            "artist": "hurts",
+            "title": "unspoken"
+        },
+        {
+            "artist": "deine lakaien",
+            "title": "one night"
+        },
+        {
+            "artist": "nena",
+            "title": "in meinem leben"
+        },
+        {
+            "artist": "the last dance",
+            "title": "winter standing still (pk)"
+        },
+        {
+            "artist": "until december",
+            "title": "heaven"
+        },
+        {
+            "artist": "until december",
+            "title": "mirrors"
+        },
+        {
+            "artist": "until december",
+            "title": "forgive and still forget"
+        },
+        {
+            "artist": "until december",
+            "title": "bela lugosi's dead"
+        },
+        {
+            "artist": "stoa",
+            "title": "a girl called harmony"
+        },
+        {
+            "artist": "my silent wake",
+            "title": "two gods"
+        },
+        {
+            "artist": "patricia wake",
+            "title": "fate is smiling"
+        }
+    ]
 }

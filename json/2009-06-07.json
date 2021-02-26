@@ -1,147 +1,147 @@
 {
-	"title": "Czerwiec 2009",
-	"filename": "czerwiec-2009",
-	"date": "2009-06",
-	"songs": [
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2001"
-		},
-		{
-			"artist": "the mission",
-			"title": "love me to death"
-		},
-		{
-			"artist": "the eden house",
-			"title": "all my love"
-		},
-		{
-			"artist": "in broken english",
-			"title": "phoenixes (pk)"
-		},
-		{
-			"artist": "in broken english",
-			"title": "my head machine"
-		},
-		{
-			"artist": "john foxx & robin guthrie",
-			"title": "my life as an echo"
-		},
-		{
-			"artist": "rome",
-			"title": "to die among strangers"
-		},
-		{
-			"artist": "adoration",
-			"title": "touch the water"
-		},
-		{
-			"artist": "adoration",
-			"title": "slow motion"
-		},
-		{
-			"artist": "vic anselmo",
-			"title": "the flight"
-		},
-		{
-			"artist": "cranes",
-			"title": "wires"
-		},
-		{
-			"artist": "cranes",
-			"title": "panorama"
-		},
-		{
-			"artist": "the eden house",
-			"title": "to believe in something (redshift)"
-		},
-		{
-			"artist": "the eden house",
-			"title": "fire for you"
-		},
-		{
-			"artist": "the eden house",
-			"title": "trashed treasure"
-		},
-		{
-			"artist": "the eden house",
-			"title": "the beauty of science"
-		},
-		{
-			"artist": "the eden house",
-			"title": "reach out"
-		},
-		{
-			"artist": "the eden house",
-			"title": "the dark half"
-		},
-		{
-			"artist": "the eden house",
-			"title": "iron in the soul"
-		},
-		{
-			"artist": "the eden house",
-			"title": "sin"
-		},
-		{
-			"artist": "all about eve",
-			"title": "like emily"
-		},
-		{
-			"artist": "all about eve",
-			"title": "shelter from the rain"
-		},
-		{
-			"artist": "in broken english",
-			"title": "phoenixes (pk)"
-		},
-		{
-			"artist": "tom wax",
-			"title": "...and then it hit me"
-		},
-		{
-			"artist": "aqualite",
-			"title": "outback 2009 (string edit)"
-		},
-		{
-			"artist": "supreme court",
-			"title": "dash against myself"
-		},
-		{
-			"artist": "leather strip",
-			"title": "don't you dare die for me"
-		},
-		{
-			"artist": "this morn’ omina",
-			"title": "tellurian"
-		},
-		{
-			"artist": "in broken english",
-			"title": "phoenixes (pk)"
-		},
-		{
-			"artist": "in broken english",
-			"title": "nothing for love"
-		},
-		{
-			"artist": "peter murphy",
-			"title": "just for love"
-		},
-		{
-			"artist": "peter murphy",
-			"title": "my last two weeks"
-		},
-		{
-			"artist": "sieben",
-			"title": "as they should sound"
-		},
-		{
-			"artist": "fields of the nephilim",
-			"title": "wail of sumer"
-		},
-		{
-			"artist": "fields of the nephilim",
-			"title": "and there will your heart be also"
-		}
-	]
+    "title": "Czerwiec 2009",
+    "filename": "czerwiec-2009",
+    "date": "2009-06",
+    "songs": [
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2001"
+        },
+        {
+            "artist": "the mission",
+            "title": "love me to death"
+        },
+        {
+            "artist": "the eden house",
+            "title": "all my love"
+        },
+        {
+            "artist": "in broken english",
+            "title": "phoenixes (pk)"
+        },
+        {
+            "artist": "in broken english",
+            "title": "my head machine"
+        },
+        {
+            "artist": "john foxx & robin guthrie",
+            "title": "my life as an echo"
+        },
+        {
+            "artist": "rome",
+            "title": "to die among strangers"
+        },
+        {
+            "artist": "adoration",
+            "title": "touch the water"
+        },
+        {
+            "artist": "adoration",
+            "title": "slow motion"
+        },
+        {
+            "artist": "vic anselmo",
+            "title": "the flight"
+        },
+        {
+            "artist": "cranes",
+            "title": "wires"
+        },
+        {
+            "artist": "cranes",
+            "title": "panorama"
+        },
+        {
+            "artist": "the eden house",
+            "title": "to believe in something (redshift)"
+        },
+        {
+            "artist": "the eden house",
+            "title": "fire for you"
+        },
+        {
+            "artist": "the eden house",
+            "title": "trashed treasure"
+        },
+        {
+            "artist": "the eden house",
+            "title": "the beauty of science"
+        },
+        {
+            "artist": "the eden house",
+            "title": "reach out"
+        },
+        {
+            "artist": "the eden house",
+            "title": "the dark half"
+        },
+        {
+            "artist": "the eden house",
+            "title": "iron in the soul"
+        },
+        {
+            "artist": "the eden house",
+            "title": "sin"
+        },
+        {
+            "artist": "all about eve",
+            "title": "like emily"
+        },
+        {
+            "artist": "all about eve",
+            "title": "shelter from the rain"
+        },
+        {
+            "artist": "in broken english",
+            "title": "phoenixes (pk)"
+        },
+        {
+            "artist": "tom wax",
+            "title": "...and then it hit me"
+        },
+        {
+            "artist": "aqualite",
+            "title": "outback 2009 (string edit)"
+        },
+        {
+            "artist": "supreme court",
+            "title": "dash against myself"
+        },
+        {
+            "artist": "leather strip",
+            "title": "don't you dare die for me"
+        },
+        {
+            "artist": "this morn’ omina",
+            "title": "tellurian"
+        },
+        {
+            "artist": "in broken english",
+            "title": "phoenixes (pk)"
+        },
+        {
+            "artist": "in broken english",
+            "title": "nothing for love"
+        },
+        {
+            "artist": "peter murphy",
+            "title": "just for love"
+        },
+        {
+            "artist": "peter murphy",
+            "title": "my last two weeks"
+        },
+        {
+            "artist": "sieben",
+            "title": "as they should sound"
+        },
+        {
+            "artist": "fields of the nephilim",
+            "title": "wail of sumer"
+        },
+        {
+            "artist": "fields of the nephilim",
+            "title": "and there will your heart be also"
+        }
+    ]
 }

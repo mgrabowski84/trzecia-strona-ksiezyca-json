@@ -1,163 +1,163 @@
 {
-	"title": "Maj 2017",
-	"filename": "maj-2017",
-	"date": "2017-05",
-	"songs": [
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2001"
-		},
-		{
-			"artist": "fields of the nephilim",
-			"title": "intro (the harmonica man)"
-		},
-		{
-			"artist": "the cure",
-			"title": "one hundred years"
-		},
-		{
-			"artist": "das moon",
-			"title": "gone"
-		},
-		{
-			"artist": "trance to the sun",
-			"title": "purple mushroom house (pk)"
-		},
-		{
-			"artist": "the eden house",
-			"title": "let me in"
-		},
-		{
-			"artist": "the eden house",
-			"title": "kiss kiss bang bang"
-		},
-		{
-			"artist": "the eden house",
-			"title": "the ardent tide"
-		},
-		{
-			"artist": "eden",
-			"title": "death of a diamond"
-		},
-		{
-			"artist": "eden",
-			"title": "perfume garden"
-		},
-		{
-			"artist": "eden",
-			"title": "all the time in the world"
-		},
-		{
-			"artist": "friends of alice ivy",
-			"title": "fenwyck"
-		},
-		{
-			"artist": "friends of alice ivy",
-			"title": "wycca"
-		},
-		{
-			"artist": "devoured by flowers",
-			"title": "only a dream"
-		},
-		{
-			"artist": "devoured by flowers",
-			"title": "the observer"
-		},
-		{
-			"artist": "trance to the sun",
-			"title": "aviatrix"
-		},
-		{
-			"artist": "trance to the sun",
-			"title": "purple mushroom house (pk)"
-		},
-		{
-			"artist": "traitrs",
-			"title": "burnt offerings"
-		},
-		{
-			"artist": "undertheskin",
-			"title": "burn"
-		},
-		{
-			"artist": "second still",
-			"title": "recover"
-		},
-		{
-			"artist": "second still",
-			"title": "walls"
-		},
-		{
-			"artist": "the foreign resort",
-			"title": "she is lost"
-		},
-		{
-			"artist": "slowdive",
-			"title": "everyone knows"
-		},
-		{
-			"artist": "slowdive",
-			"title": "no longer making time"
-		},
-		{
-			"artist": "seasurfer",
-			"title": "too late for goodbyes"
-		},
-		{
-			"artist": "seasurfer",
-			"title": "daydream"
-		},
-		{
-			"artist": "atiq",
-			"title": "from dusk till dawn feat. daddy freddy"
-		},
-		{
-			"artist": "controlled colapse",
-			"title": "unhappy"
-		},
-		{
-			"artist": "controlled colapse",
-			"title": "lie!"
-		},
-		{
-			"artist": "controlled colapse",
-			"title": "adios"
-		},
-		{
-			"artist": ":wumpscut:",
-			"title": "black death"
-		},
-		{
-			"artist": "r.roo",
-			"title": "lost insight"
-		},
-		{
-			"artist": "this morn' omina",
-			"title": "yugan feat. catastrophe noise"
-		},
-		{
-			"artist": "trance to the sun",
-			"title": "purple mushroom house (pk)"
-		},
-		{
-			"artist": "dead can dance",
-			"title": "the wind that shakes the barley"
-		},
-		{
-			"artist": "finvarra",
-			"title": "the wind that shakes the barley"
-		},
-		{
-			"artist": "eden",
-			"title": "i am stretched on your grave"
-		},
-		{
-			"artist": "abney park",
-			"title": "i am stretched on your grave"
-		},
-		{
-			"artist": "louise crane",
-			"title": "the wind that shakes the barley"
-		}
-	]
+    "title": "Maj 2017",
+    "filename": "maj-2017",
+    "date": "2017-05",
+    "songs": [
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2001"
+        },
+        {
+            "artist": "fields of the nephilim",
+            "title": "intro (the harmonica man)"
+        },
+        {
+            "artist": "the cure",
+            "title": "one hundred years"
+        },
+        {
+            "artist": "das moon",
+            "title": "gone"
+        },
+        {
+            "artist": "trance to the sun",
+            "title": "purple mushroom house (pk)"
+        },
+        {
+            "artist": "the eden house",
+            "title": "let me in"
+        },
+        {
+            "artist": "the eden house",
+            "title": "kiss kiss bang bang"
+        },
+        {
+            "artist": "the eden house",
+            "title": "the ardent tide"
+        },
+        {
+            "artist": "eden",
+            "title": "death of a diamond"
+        },
+        {
+            "artist": "eden",
+            "title": "perfume garden"
+        },
+        {
+            "artist": "eden",
+            "title": "all the time in the world"
+        },
+        {
+            "artist": "friends of alice ivy",
+            "title": "fenwyck"
+        },
+        {
+            "artist": "friends of alice ivy",
+            "title": "wycca"
+        },
+        {
+            "artist": "devoured by flowers",
+            "title": "only a dream"
+        },
+        {
+            "artist": "devoured by flowers",
+            "title": "the observer"
+        },
+        {
+            "artist": "trance to the sun",
+            "title": "aviatrix"
+        },
+        {
+            "artist": "trance to the sun",
+            "title": "purple mushroom house (pk)"
+        },
+        {
+            "artist": "traitrs",
+            "title": "burnt offerings"
+        },
+        {
+            "artist": "undertheskin",
+            "title": "burn"
+        },
+        {
+            "artist": "second still",
+            "title": "recover"
+        },
+        {
+            "artist": "second still",
+            "title": "walls"
+        },
+        {
+            "artist": "the foreign resort",
+            "title": "she is lost"
+        },
+        {
+            "artist": "slowdive",
+            "title": "everyone knows"
+        },
+        {
+            "artist": "slowdive",
+            "title": "no longer making time"
+        },
+        {
+            "artist": "seasurfer",
+            "title": "too late for goodbyes"
+        },
+        {
+            "artist": "seasurfer",
+            "title": "daydream"
+        },
+        {
+            "artist": "atiq",
+            "title": "from dusk till dawn feat. daddy freddy"
+        },
+        {
+            "artist": "controlled colapse",
+            "title": "unhappy"
+        },
+        {
+            "artist": "controlled colapse",
+            "title": "lie!"
+        },
+        {
+            "artist": "controlled colapse",
+            "title": "adios"
+        },
+        {
+            "artist": ":wumpscut:",
+            "title": "black death"
+        },
+        {
+            "artist": "r.roo",
+            "title": "lost insight"
+        },
+        {
+            "artist": "this morn' omina",
+            "title": "yugan feat. catastrophe noise"
+        },
+        {
+            "artist": "trance to the sun",
+            "title": "purple mushroom house (pk)"
+        },
+        {
+            "artist": "dead can dance",
+            "title": "the wind that shakes the barley"
+        },
+        {
+            "artist": "finvarra",
+            "title": "the wind that shakes the barley"
+        },
+        {
+            "artist": "eden",
+            "title": "i am stretched on your grave"
+        },
+        {
+            "artist": "abney park",
+            "title": "i am stretched on your grave"
+        },
+        {
+            "artist": "louise crane",
+            "title": "the wind that shakes the barley"
+        }
+    ]
 }

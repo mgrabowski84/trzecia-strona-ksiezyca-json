@@ -1,191 +1,191 @@
 {
-	"title": "Kwiecień 2014",
-	"filename": "kwiecien-2014",
-	"date": "2014-04",
-	"songs": [
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2001"
-		},
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2001"
-		},
-		{
-			"artist": "wumpscut",
-			"title": "wreath of barbs"
-		},
-		{
-			"artist": "dark side cowboys",
-			"title": "bloodred moon"
-		},
-		{
-			"artist": "syntax",
-			"title": "message [pk]"
-		},
-		{
-			"artist": "laibach",
-			"title": "the whistleblowers"
-		},
-		{
-			"artist": "laibach",
-			"title": "eat liver!"
-		},
-		{
-			"artist": "laibach",
-			"title": "americana"
-		},
-		{
-			"artist": "combichrist",
-			"title": "the evil in me"
-		},
-		{
-			"artist": "joachim witt",
-			"title": "frohlingskind"
-		},
-		{
-			"artist": "the foreign resort",
-			"title": "dead end road"
-		},
-		{
-			"artist": "the foreign resort",
-			"title": "alone"
-		},
-		{
-			"artist": "soul in isolation",
-			"title": "heaven"
-		},
-		{
-			"artist": "the pale moon",
-			"title": "baikal"
-		},
-		{
-			"artist": "the pale moon",
-			"title": "mistaken"
-		},
-		{
-			"artist": "berliner philharmoniker - lieutenant kijé, symphonic suite, op.60",
-			"title": "romance (prokofiev)"
-		},
-		{
-			"artist": "all my faith lost russia",
-			"title": "(black tape for a blue girl)"
-		},
-		{
-			"artist": "sting",
-			"title": "russians (romance / sergei prokofiev)"
-		},
-		{
-			"artist": "syntax",
-			"title": "message [pk]"
-		},
-		{
-			"artist": "the new division",
-			"title": "smile"
-		},
-		{
-			"artist": "clan of xymox",
-			"title": "months ago"
-		},
-		{
-			"artist": "clan of xymox",
-			"title": "chinese whispers"
-		},
-		{
-			"artist": "azam ali and loga ramin torkian",
-			"title": "towards silence"
-		},
-		{
-			"artist": "azam ali and loga ramin torkian",
-			"title": "reverence"
-		},
-		{
-			"artist": "the mary onettes",
-			"title": "silence is a gun"
-		},
-		{
-			"artist": "the mary onettes",
-			"title": "naive dream"
-		},
-		{
-			"artist": "the mary onettes",
-			"title": "everything everything"
-		},
-		{
-			"artist": "seeming",
-			"title": "the burial"
-		},
-		{
-			"artist": "seeming",
-			"title": "welcome to the sun"
-		},
-		{
-			"artist": "seeming",
-			"title": "celestial"
-		},
-		{
-			"artist": "davidge",
-			"title": "they won't know"
-		},
-		{
-			"artist": "davidge",
-			"title": "riot pictures"
-		},
-		{
-			"artist": "syntax",
-			"title": "message [pk]"
-		},
-		{
-			"artist": "wire fences",
-			"title": "theme from below (r.roo remix)"
-		},
-		{
-			"artist": "e:o:nity",
-			"title": "never (remix by dj dustdevil)"
-		},
-		{
-			"artist": "e:o:nity",
-			"title": "my broken heart (davantage remix)"
-		},
-		{
-			"artist": "leather strip",
-			"title": "the hired man"
-		},
-		{
-			"artist": "leather strip",
-			"title": "i'm not the one"
-		},
-		{
-			"artist": "field rotation",
-			"title": "zeitreise (r.roo remix)"
-		},
-		{
-			"artist": "wumpscut",
-			"title": "furunkel lolita"
-		},
-		{
-			"artist": "wumpscut",
-			"title": "rtl hariti"
-		},
-		{
-			"artist": "james rays gangwar",
-			"title": "rev rev lowrider"
-		},
-		{
-			"artist": "james rays gangwar",
-			"title": "heart surgery"
-		},
-		{
-			"artist": "james rays gangwar",
-			"title": "hardwar"
-		},
-		{
-			"artist": "the sisters of mercy",
-			"title": "walk away"
-		},
-		{
-			"artist": "the sisters of mercy",
-			"title": "some kind of stranger"
-		}
-	]
+    "title": "Kwiecień 2014",
+    "filename": "kwiecien-2014",
+    "date": "2014-04",
+    "songs": [
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2001"
+        },
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2001"
+        },
+        {
+            "artist": "wumpscut",
+            "title": "wreath of barbs"
+        },
+        {
+            "artist": "dark side cowboys",
+            "title": "bloodred moon"
+        },
+        {
+            "artist": "syntax",
+            "title": "message [pk]"
+        },
+        {
+            "artist": "laibach",
+            "title": "the whistleblowers"
+        },
+        {
+            "artist": "laibach",
+            "title": "eat liver!"
+        },
+        {
+            "artist": "laibach",
+            "title": "americana"
+        },
+        {
+            "artist": "combichrist",
+            "title": "the evil in me"
+        },
+        {
+            "artist": "joachim witt",
+            "title": "frohlingskind"
+        },
+        {
+            "artist": "the foreign resort",
+            "title": "dead end road"
+        },
+        {
+            "artist": "the foreign resort",
+            "title": "alone"
+        },
+        {
+            "artist": "soul in isolation",
+            "title": "heaven"
+        },
+        {
+            "artist": "the pale moon",
+            "title": "baikal"
+        },
+        {
+            "artist": "the pale moon",
+            "title": "mistaken"
+        },
+        {
+            "artist": "berliner philharmoniker - lieutenant kijé, symphonic suite, op.60",
+            "title": "romance (prokofiev)"
+        },
+        {
+            "artist": "all my faith lost russia",
+            "title": "(black tape for a blue girl)"
+        },
+        {
+            "artist": "sting",
+            "title": "russians (romance / sergei prokofiev)"
+        },
+        {
+            "artist": "syntax",
+            "title": "message [pk]"
+        },
+        {
+            "artist": "the new division",
+            "title": "smile"
+        },
+        {
+            "artist": "clan of xymox",
+            "title": "months ago"
+        },
+        {
+            "artist": "clan of xymox",
+            "title": "chinese whispers"
+        },
+        {
+            "artist": "azam ali and loga ramin torkian",
+            "title": "towards silence"
+        },
+        {
+            "artist": "azam ali and loga ramin torkian",
+            "title": "reverence"
+        },
+        {
+            "artist": "the mary onettes",
+            "title": "silence is a gun"
+        },
+        {
+            "artist": "the mary onettes",
+            "title": "naive dream"
+        },
+        {
+            "artist": "the mary onettes",
+            "title": "everything everything"
+        },
+        {
+            "artist": "seeming",
+            "title": "the burial"
+        },
+        {
+            "artist": "seeming",
+            "title": "welcome to the sun"
+        },
+        {
+            "artist": "seeming",
+            "title": "celestial"
+        },
+        {
+            "artist": "davidge",
+            "title": "they won't know"
+        },
+        {
+            "artist": "davidge",
+            "title": "riot pictures"
+        },
+        {
+            "artist": "syntax",
+            "title": "message [pk]"
+        },
+        {
+            "artist": "wire fences",
+            "title": "theme from below (r.roo remix)"
+        },
+        {
+            "artist": "e:o:nity",
+            "title": "never (remix by dj dustdevil)"
+        },
+        {
+            "artist": "e:o:nity",
+            "title": "my broken heart (davantage remix)"
+        },
+        {
+            "artist": "leather strip",
+            "title": "the hired man"
+        },
+        {
+            "artist": "leather strip",
+            "title": "i'm not the one"
+        },
+        {
+            "artist": "field rotation",
+            "title": "zeitreise (r.roo remix)"
+        },
+        {
+            "artist": "wumpscut",
+            "title": "furunkel lolita"
+        },
+        {
+            "artist": "wumpscut",
+            "title": "rtl hariti"
+        },
+        {
+            "artist": "james rays gangwar",
+            "title": "rev rev lowrider"
+        },
+        {
+            "artist": "james rays gangwar",
+            "title": "heart surgery"
+        },
+        {
+            "artist": "james rays gangwar",
+            "title": "hardwar"
+        },
+        {
+            "artist": "the sisters of mercy",
+            "title": "walk away"
+        },
+        {
+            "artist": "the sisters of mercy",
+            "title": "some kind of stranger"
+        }
+    ]
 }

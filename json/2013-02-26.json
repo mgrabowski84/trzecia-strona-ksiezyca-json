@@ -1,175 +1,175 @@
 {
-	"title": "Luty 2013",
-	"filename": "luty-2013",
-	"date": "2013-02",
-	"songs": [
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2001"
-		},
-		{
-			"artist": "chandeen",
-			"title": "welcome the still"
-		},
-		{
-			"artist": "red sun revival",
-			"title": "last chance"
-		},
-		{
-			"artist": "red sun revival",
-			"title": "wide awake"
-		},
-		{
-			"artist": "breathless",
-			"title": "please be happy [pk]"
-		},
-		{
-			"artist": "breathless",
-			"title": "next time you fall"
-		},
-		{
-			"artist": "contre jour",
-			"title": "old age"
-		},
-		{
-			"artist": "contre jour",
-			"title": "85"
-		},
-		{
-			"artist": "born for bliss",
-			"title": "innocent"
-		},
-		{
-			"artist": "born for bliss",
-			"title": "forever"
-		},
-		{
-			"artist": "skelton hands",
-			"title": "robot hands"
-		},
-		{
-			"artist": "skelton hands",
-			"title": "ravage"
-		},
-		{
-			"artist": "project pitchfork",
-			"title": "midnigcht moon misery"
-		},
-		{
-			"artist": "project pitchfork",
-			"title": "acid ocean"
-		},
-		{
-			"artist": "diorama",
-			"title": "maison du tigre"
-		},
-		{
-			"artist": "diorama",
-			"title": "summit"
-		},
-		{
-			"artist": "breathless",
-			"title": "please be happy [pk]"
-		},
-		{
-			"artist": "blonde redhead",
-			"title": "oslo"
-		},
-		{
-			"artist": "iliketrains",
-			"title": "reykiavik"
-		},
-		{
-			"artist": "ordo rosarius equilibrio",
-			"title": "from copenhagen with love"
-		},
-		{
-			"artist": "depeche mode",
-			"title": "heaven (owlle remix)"
-		},
-		{
-			"artist": "leaether strip",
-			"title": "heaven (depeche mode)"
-		},
-		{
-			"artist": "leaether strip",
-			"title": "the carnival is over (dcd)"
-		},
-		{
-			"artist": "leaether strip",
-			"title": "in my room (yazoo)"
-		},
-		{
-			"artist": "leaether strip",
-			"title": "cold (the cure)"
-		},
-		{
-			"artist": "the cure",
-			"title": "cold"
-		},
-		{
-			"artist": "dark orange",
-			"title": "unter dem schnee (mellonta tauta remix)"
-		},
-		{
-			"artist": "all my faith lost",
-			"title": "rain has fallen all the day"
-		},
-		{
-			"artist": "antimatter",
-			"title": "here come the men"
-		},
-		{
-			"artist": "louise rutkowski",
-			"title": "remember"
-		},
-		{
-			"artist": "leaether strip",
-			"title": "paranoia nr.13"
-		},
-		{
-			"artist": "coex",
-			"title": "sirens"
-		},
-		{
-			"artist": "coex",
-			"title": "karmix"
-		},
-		{
-			"artist": "erik wollo",
-			"title": "airborne 2"
-		},
-		{
-			"artist": "byron metcalf",
-			"title": "the shaman's heart"
-		},
-		{
-			"artist": "kattoo",
-			"title": "wave - particle duality"
-		},
-		{
-			"artist": "breathless",
-			"title": "please be happy [pk]"
-		},
-		{
-			"artist": "digital angel",
-			"title": "immanoleo"
-		},
-		{
-			"artist": "ice machine",
-			"title": "ostatnia nadzieja"
-		},
-		{
-			"artist": "ice machine",
-			"title": "ostatni krok"
-		},
-		{
-			"artist": "patrick the pan",
-			"title": "exiles always come back (act i, ii and iii)"
-		},
-		{
-			"artist": "patrick the pan",
-			"title": "finally we're one"
-		}
-	]
+    "title": "Luty 2013",
+    "filename": "luty-2013",
+    "date": "2013-02",
+    "songs": [
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2001"
+        },
+        {
+            "artist": "chandeen",
+            "title": "welcome the still"
+        },
+        {
+            "artist": "red sun revival",
+            "title": "last chance"
+        },
+        {
+            "artist": "red sun revival",
+            "title": "wide awake"
+        },
+        {
+            "artist": "breathless",
+            "title": "please be happy [pk]"
+        },
+        {
+            "artist": "breathless",
+            "title": "next time you fall"
+        },
+        {
+            "artist": "contre jour",
+            "title": "old age"
+        },
+        {
+            "artist": "contre jour",
+            "title": "85"
+        },
+        {
+            "artist": "born for bliss",
+            "title": "innocent"
+        },
+        {
+            "artist": "born for bliss",
+            "title": "forever"
+        },
+        {
+            "artist": "skelton hands",
+            "title": "robot hands"
+        },
+        {
+            "artist": "skelton hands",
+            "title": "ravage"
+        },
+        {
+            "artist": "project pitchfork",
+            "title": "midnigcht moon misery"
+        },
+        {
+            "artist": "project pitchfork",
+            "title": "acid ocean"
+        },
+        {
+            "artist": "diorama",
+            "title": "maison du tigre"
+        },
+        {
+            "artist": "diorama",
+            "title": "summit"
+        },
+        {
+            "artist": "breathless",
+            "title": "please be happy [pk]"
+        },
+        {
+            "artist": "blonde redhead",
+            "title": "oslo"
+        },
+        {
+            "artist": "iliketrains",
+            "title": "reykiavik"
+        },
+        {
+            "artist": "ordo rosarius equilibrio",
+            "title": "from copenhagen with love"
+        },
+        {
+            "artist": "depeche mode",
+            "title": "heaven (owlle remix)"
+        },
+        {
+            "artist": "leaether strip",
+            "title": "heaven (depeche mode)"
+        },
+        {
+            "artist": "leaether strip",
+            "title": "the carnival is over (dcd)"
+        },
+        {
+            "artist": "leaether strip",
+            "title": "in my room (yazoo)"
+        },
+        {
+            "artist": "leaether strip",
+            "title": "cold (the cure)"
+        },
+        {
+            "artist": "the cure",
+            "title": "cold"
+        },
+        {
+            "artist": "dark orange",
+            "title": "unter dem schnee (mellonta tauta remix)"
+        },
+        {
+            "artist": "all my faith lost",
+            "title": "rain has fallen all the day"
+        },
+        {
+            "artist": "antimatter",
+            "title": "here come the men"
+        },
+        {
+            "artist": "louise rutkowski",
+            "title": "remember"
+        },
+        {
+            "artist": "leaether strip",
+            "title": "paranoia nr.13"
+        },
+        {
+            "artist": "coex",
+            "title": "sirens"
+        },
+        {
+            "artist": "coex",
+            "title": "karmix"
+        },
+        {
+            "artist": "erik wollo",
+            "title": "airborne 2"
+        },
+        {
+            "artist": "byron metcalf",
+            "title": "the shaman's heart"
+        },
+        {
+            "artist": "kattoo",
+            "title": "wave - particle duality"
+        },
+        {
+            "artist": "breathless",
+            "title": "please be happy [pk]"
+        },
+        {
+            "artist": "digital angel",
+            "title": "immanoleo"
+        },
+        {
+            "artist": "ice machine",
+            "title": "ostatnia nadzieja"
+        },
+        {
+            "artist": "ice machine",
+            "title": "ostatni krok"
+        },
+        {
+            "artist": "patrick the pan",
+            "title": "exiles always come back (act i, ii and iii)"
+        },
+        {
+            "artist": "patrick the pan",
+            "title": "finally we're one"
+        }
+    ]
 }

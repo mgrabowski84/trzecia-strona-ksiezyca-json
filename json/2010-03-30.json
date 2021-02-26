@@ -1,175 +1,175 @@
 {
-	"title": "Marzec 2010",
-	"filename": "marzec-2010",
-	"date": "2010-03",
-	"songs": [
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2001"
-		},
-		{
-			"artist": "whispering colours",
-			"title": "hold me"
-		},
-		{
-			"artist": "brendan perry",
-			"title": "wintersun"
-		},
-		{
-			"artist": "carol tatum",
-			"title": "am i dreaming (pk)"
-		},
-		{
-			"artist": "rajna",
-			"title": "offering"
-		},
-		{
-			"artist": "olenk",
-			"title": "japan garden"
-		},
-		{
-			"artist": "illumine",
-			"title": "japanese"
-		},
-		{
-			"artist": "schiller",
-			"title": "lost"
-		},
-		{
-			"artist": "schiller",
-			"title": "let it rise"
-		},
-		{
-			"artist": "patenbrigade:wolff",
-			"title": "sun after the rain"
-		},
-		{
-			"artist": "patenbrigade:wolff",
-			"title": "voyage"
-		},
-		{
-			"artist": "brendan perry",
-			"title": "medusa"
-		},
-		{
-			"artist": "carol tatum",
-			"title": "am i dreaming (pk)"
-		},
-		{
-			"artist": "de/vision",
-			"title": "mandroids"
-		},
-		{
-			"artist": "de/vision",
-			"title": "rage"
-		},
-		{
-			"artist": "de/vision",
-			"title": "until the end of time"
-		},
-		{
-			"artist": "diorama",
-			"title": "acid trip"
-		},
-		{
-			"artist": "in strict confidence",
-			"title": "my despair"
-		},
-		{
-			"artist": "the synthetic dream foundation",
-			"title": "glittered ripples from the depths"
-		},
-		{
-			"artist": "the synthetic dream foundation",
-			"title": "the one eyed maiden"
-		},
-		{
-			"artist": "snog",
-			"title": "sing your troubles away"
-		},
-		{
-			"artist": "snog",
-			"title": "the end of the world"
-		},
-		{
-			"artist": "rome",
-			"title": "l'assassin"
-		},
-		{
-			"artist": "rome",
-			"title": "der brandtaucher"
-		},
-		{
-			"artist": "unheilig",
-			"title": "grosse freiheit"
-		},
-		{
-			"artist": "unheilig",
-			"title": "heimatstern"
-		},
-		{
-			"artist": "unheilig",
-			"title": "sternbild"
-		},
-		{
-			"artist": "carol tatum",
-			"title": "am i dreaming (pk)"
-		},
-		{
-			"artist": "whispering colours",
-			"title": "nomadic life"
-		},
-		{
-			"artist": "whispering colours",
-			"title": "city of light"
-		},
-		{
-			"artist": "whispering colours",
-			"title": "ashes to ashes"
-		},
-		{
-			"artist": "revenge of nephthys",
-			"title": "the factory (industrial mix)"
-		},
-		{
-			"artist": "revenge of nephthys",
-			"title": "inside me"
-		},
-		{
-			"artist": "revenge of nephthys",
-			"title": "flames"
-		},
-		{
-			"artist": "aurora",
-			"title": "the land of harm and appletrees"
-		},
-		{
-			"artist": "aurora",
-			"title": "floating dolphins"
-		},
-		{
-			"artist": "aurora",
-			"title": "posen 1793"
-		},
-		{
-			"artist": "two witches",
-			"title": "mircalla"
-		},
-		{
-			"artist": "two witches",
-			"title": "sunset"
-		},
-		{
-			"artist": "usherhouse",
-			"title": "the line"
-		},
-		{
-			"artist": "canticum funebris",
-			"title": "endless"
-		},
-		{
-			"artist": "snog",
-			"title": "sleepwalk"
-		}
-	]
+    "title": "Marzec 2010",
+    "filename": "marzec-2010",
+    "date": "2010-03",
+    "songs": [
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2001"
+        },
+        {
+            "artist": "whispering colours",
+            "title": "hold me"
+        },
+        {
+            "artist": "brendan perry",
+            "title": "wintersun"
+        },
+        {
+            "artist": "carol tatum",
+            "title": "am i dreaming (pk)"
+        },
+        {
+            "artist": "rajna",
+            "title": "offering"
+        },
+        {
+            "artist": "olenk",
+            "title": "japan garden"
+        },
+        {
+            "artist": "illumine",
+            "title": "japanese"
+        },
+        {
+            "artist": "schiller",
+            "title": "lost"
+        },
+        {
+            "artist": "schiller",
+            "title": "let it rise"
+        },
+        {
+            "artist": "patenbrigade:wolff",
+            "title": "sun after the rain"
+        },
+        {
+            "artist": "patenbrigade:wolff",
+            "title": "voyage"
+        },
+        {
+            "artist": "brendan perry",
+            "title": "medusa"
+        },
+        {
+            "artist": "carol tatum",
+            "title": "am i dreaming (pk)"
+        },
+        {
+            "artist": "de/vision",
+            "title": "mandroids"
+        },
+        {
+            "artist": "de/vision",
+            "title": "rage"
+        },
+        {
+            "artist": "de/vision",
+            "title": "until the end of time"
+        },
+        {
+            "artist": "diorama",
+            "title": "acid trip"
+        },
+        {
+            "artist": "in strict confidence",
+            "title": "my despair"
+        },
+        {
+            "artist": "the synthetic dream foundation",
+            "title": "glittered ripples from the depths"
+        },
+        {
+            "artist": "the synthetic dream foundation",
+            "title": "the one eyed maiden"
+        },
+        {
+            "artist": "snog",
+            "title": "sing your troubles away"
+        },
+        {
+            "artist": "snog",
+            "title": "the end of the world"
+        },
+        {
+            "artist": "rome",
+            "title": "l'assassin"
+        },
+        {
+            "artist": "rome",
+            "title": "der brandtaucher"
+        },
+        {
+            "artist": "unheilig",
+            "title": "grosse freiheit"
+        },
+        {
+            "artist": "unheilig",
+            "title": "heimatstern"
+        },
+        {
+            "artist": "unheilig",
+            "title": "sternbild"
+        },
+        {
+            "artist": "carol tatum",
+            "title": "am i dreaming (pk)"
+        },
+        {
+            "artist": "whispering colours",
+            "title": "nomadic life"
+        },
+        {
+            "artist": "whispering colours",
+            "title": "city of light"
+        },
+        {
+            "artist": "whispering colours",
+            "title": "ashes to ashes"
+        },
+        {
+            "artist": "revenge of nephthys",
+            "title": "the factory (industrial mix)"
+        },
+        {
+            "artist": "revenge of nephthys",
+            "title": "inside me"
+        },
+        {
+            "artist": "revenge of nephthys",
+            "title": "flames"
+        },
+        {
+            "artist": "aurora",
+            "title": "the land of harm and appletrees"
+        },
+        {
+            "artist": "aurora",
+            "title": "floating dolphins"
+        },
+        {
+            "artist": "aurora",
+            "title": "posen 1793"
+        },
+        {
+            "artist": "two witches",
+            "title": "mircalla"
+        },
+        {
+            "artist": "two witches",
+            "title": "sunset"
+        },
+        {
+            "artist": "usherhouse",
+            "title": "the line"
+        },
+        {
+            "artist": "canticum funebris",
+            "title": "endless"
+        },
+        {
+            "artist": "snog",
+            "title": "sleepwalk"
+        }
+    ]
 }

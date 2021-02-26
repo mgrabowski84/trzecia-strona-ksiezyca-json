@@ -1,171 +1,171 @@
 {
-	"title": "Lipiec 2013",
-	"filename": "lipiec-2013",
-	"date": "2013-07",
-	"songs": [
-		{
-			"artist": "diary of dreams",
-			"title": "bladerunner 2000"
-		},
-		{
-			"artist": "depeche mode",
-			"title": "welcome to my world"
-		},
-		{
-			"artist": "depeche mode",
-			"title": "angel"
-		},
-		{
-			"artist": "esben and the witch",
-			"title": "deathwaltz"
-		},
-		{
-			"artist": "weareoff",
-			"title": "as long as we remember [pk]"
-		},
-		{
-			"artist": "chvrches",
-			"title": "recover (cid rim remix)"
-		},
-		{
-			"artist": "the eden house",
-			"title": "bad men"
-		},
-		{
-			"artist": "the eden house",
-			"title": "city of goodbyes"
-		},
-		{
-			"artist": "spiral69",
-			"title": "waves"
-		},
-		{
-			"artist": "spiral69",
-			"title": "new life"
-		},
-		{
-			"artist": "spiral69",
-			"title": "ghosts in my eye"
-		},
-		{
-			"artist": "the legendary pink dots",
-			"title": "a star is born"
-		},
-		{
-			"artist": "the legendary pink dots",
-			"title": "the garden of ealing"
-		},
-		{
-			"artist": "kirlian camera",
-			"title": "my kids kill"
-		},
-		{
-			"artist": "covenant",
-			"title": "last dance"
-		},
-		{
-			"artist": "bel canto",
-			"title": "summer"
-		},
-		{
-			"artist": "cocteau twins - frou",
-			"title": "frou foxes in midsummer fires"
-		},
-		{
-			"artist": "cocteau twins - summer",
-			"title": "blink"
-		},
-		{
-			"artist": "snow in mexico",
-			"title": "prodigal summer"
-		},
-		{
-			"artist": "the cure",
-			"title": "snow in summer"
-		},
-		{
-			"artist": "b - movie",
-			"title": "arctic summer"
-		},
-		{
-			"artist": "forthcoming fire",
-			"title": "siberian summer (different version)"
-		},
-		{
-			"artist": "weareoff",
-			"title": "as long as we remember [pk]"
-		},
-		{
-			"artist": "depeche mode",
-			"title": "dirt (the stooges)"
-		},
-		{
-			"artist": "recoil",
-			"title": "faith healer (the sensational alex harvey band)"
-		},
-		{
-			"artist": "depeche mode",
-			"title": "route 66 (beatmasters mix) (nat king cole)"
-		},
-		{
-			"artist": "depeche mode",
-			"title": "so cruel (u2)"
-		},
-		{
-			"artist": "totakeke",
-			"title": "digital exorcism i (it all seemed harmless)"
-		},
-		{
-			"artist": "totakeke",
-			"title": "virtual intelligence"
-		},
-		{
-			"artist": "front line assembly",
-			"title": "blood"
-		},
-		{
-			"artist": "front line assembly",
-			"title": "ghosts"
-		},
-		{
-			"artist": "front line assembly",
-			"title": "exo"
-		},
-		{
-			"artist": "dismantled",
-			"title": "survivor"
-		},
-		{
-			"artist": "technoir",
-			"title": "sea of sin (dm)"
-		},
-		{
-			"artist": "psy'aviah",
-			"title": "dream on (dm)"
-		},
-		{
-			"artist": "komor kommando feat. jonas groth",
-			"title": "fly on the windscreen (dm)"
-		},
-		{
-			"artist": "weareoff",
-			"title": "as long as we remember [pk]"
-		},
-		{
-			"artist": "kate bush",
-			"title": "delius (song of summer)"
-		},
-		{
-			"artist": "cranes",
-			"title": "leaves of summer"
-		},
-		{
-			"artist": "emiliana torrini",
-			"title": "summerbreeze"
-		},
-		{
-			"artist": "alexander veljanov",
-			"title": "summer nights (kiss the rain goodbye)"
-		}
-	]
+    "title": "Lipiec 2013",
+    "filename": "lipiec-2013",
+    "date": "2013-07",
+    "songs": [
+        {
+            "artist": "diary of dreams",
+            "title": "bladerunner 2000"
+        },
+        {
+            "artist": "depeche mode",
+            "title": "welcome to my world"
+        },
+        {
+            "artist": "depeche mode",
+            "title": "angel"
+        },
+        {
+            "artist": "esben and the witch",
+            "title": "deathwaltz"
+        },
+        {
+            "artist": "weareoff",
+            "title": "as long as we remember [pk]"
+        },
+        {
+            "artist": "chvrches",
+            "title": "recover (cid rim remix)"
+        },
+        {
+            "artist": "the eden house",
+            "title": "bad men"
+        },
+        {
+            "artist": "the eden house",
+            "title": "city of goodbyes"
+        },
+        {
+            "artist": "spiral69",
+            "title": "waves"
+        },
+        {
+            "artist": "spiral69",
+            "title": "new life"
+        },
+        {
+            "artist": "spiral69",
+            "title": "ghosts in my eye"
+        },
+        {
+            "artist": "the legendary pink dots",
+            "title": "a star is born"
+        },
+        {
+            "artist": "the legendary pink dots",
+            "title": "the garden of ealing"
+        },
+        {
+            "artist": "kirlian camera",
+            "title": "my kids kill"
+        },
+        {
+            "artist": "covenant",
+            "title": "last dance"
+        },
+        {
+            "artist": "bel canto",
+            "title": "summer"
+        },
+        {
+            "artist": "cocteau twins - frou",
+            "title": "frou foxes in midsummer fires"
+        },
+        {
+            "artist": "cocteau twins - summer",
+            "title": "blink"
+        },
+        {
+            "artist": "snow in mexico",
+            "title": "prodigal summer"
+        },
+        {
+            "artist": "the cure",
+            "title": "snow in summer"
+        },
+        {
+            "artist": "b - movie",
+            "title": "arctic summer"
+        },
+        {
+            "artist": "forthcoming fire",
+            "title": "siberian summer (different version)"
+        },
+        {
+            "artist": "weareoff",
+            "title": "as long as we remember [pk]"
+        },
+        {
+            "artist": "depeche mode",
+            "title": "dirt (the stooges)"
+        },
+        {
+            "artist": "recoil",
+            "title": "faith healer (the sensational alex harvey band)"
+        },
+        {
+            "artist": "depeche mode",
+            "title": "route 66 (beatmasters mix) (nat king cole)"
+        },
+        {
+            "artist": "depeche mode",
+            "title": "so cruel (u2)"
+        },
+        {
+            "artist": "totakeke",
+            "title": "digital exorcism i (it all seemed harmless)"
+        },
+        {
+            "artist": "totakeke",
+            "title": "virtual intelligence"
+        },
+        {
+            "artist": "front line assembly",
+            "title": "blood"
+        },
+        {
+            "artist": "front line assembly",
+            "title": "ghosts"
+        },
+        {
+            "artist": "front line assembly",
+            "title": "exo"
+        },
+        {
+            "artist": "dismantled",
+            "title": "survivor"
+        },
+        {
+            "artist": "technoir",
+            "title": "sea of sin (dm)"
+        },
+        {
+            "artist": "psy'aviah",
+            "title": "dream on (dm)"
+        },
+        {
+            "artist": "komor kommando feat. jonas groth",
+            "title": "fly on the windscreen (dm)"
+        },
+        {
+            "artist": "weareoff",
+            "title": "as long as we remember [pk]"
+        },
+        {
+            "artist": "kate bush",
+            "title": "delius (song of summer)"
+        },
+        {
+            "artist": "cranes",
+            "title": "leaves of summer"
+        },
+        {
+            "artist": "emiliana torrini",
+            "title": "summerbreeze"
+        },
+        {
+            "artist": "alexander veljanov",
+            "title": "summer nights (kiss the rain goodbye)"
+        }
+    ]
 }
