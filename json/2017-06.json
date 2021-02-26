@@ -1,1 +1,183 @@
-{"title":"Czerwiec 2017","filename":"czerwiec-2017","date":"2017-06","songs":[{"artist":"diary of dreams","title":"bladerunner 2001"},{"artist":"julee cruise","title":"falling"},{"artist":"trance to the sun","title":"purple mushroom house"},{"artist":"eden","title":"all the time in the world (pk)"},{"artist":"the eden house","title":"misery"},{"artist":"the eden house","title":"the ghost of you"},{"artist":"cigarettes after sex","title":"apocalypse"},{"artist":"cigarettes after sex","title":"opera house"},{"artist":"eden","title":"hymns and mist"},{"artist":"eden","title":"returning"},{"artist":"eden","title":"fryerstown"},{"artist":"eden","title":"december"},{"artist":"eden","title":"girl with the violin"},{"artist":"eden","title":"death of a diamond"},{"artist":"eden","title":"sky above"},{"artist":"the birthday massacre","title":"all of nothing"},{"artist":"skinny puppy","title":"jahya"},{"artist":"skinny puppy","title":"killing game"},{"artist":"skinny puppy","title":"worlock"},{"artist":"skinny puppy","title":"candle"},{"artist":"controlled collapse","title":"loop"},{"artist":"r.roo","title":"night traveler with clear eyes"},{"artist":"r.roo","title":"on the other side of the glass"},{"artist":"eden","title":"all the time in the world (pk)"},{"artist":"johnny jewel","title":"television snow"},{"artist":"angelo badalamenti, david lynch","title":"love theme"},{"artist":"julee cruise","title":"rockin' back inside my heart"},{"artist":"david lynch","title":"pinky's dream (trentemoller remix)"},{"artist":"johnny jewel","title":"strobe lights"},{"artist":"xiu xiu","title":"packard's"},{"artist":"vibration chromatics","title":"saturday"},{"artist":"au revoir simone","title":"lark"},{"artist":"roy orbison","title":"she's a mystery to me"},{"artist":"angelo badalamenti, david lynch","title":"laura palmer's theme (ghost version)"},{"artist":"johnny jewel","title":"shell game"},{"artist":"chromatics","title":"blue moon"},{"artist":"the cactus blossoms","title":"mississippi"},{"artist":"david lynch, lykke li","title":"i'm waiting here"},{"artist":"johnny jewel","title":"windswept"},{"artist":"julee cruise","title":"into the night"},{"artist":"twisted wires","title":"0000"},{"artist":"link wray","title":"the shadow knows"},{"artist":"chromatics","title":"shadow (michael's runway edit)"},{"artist":"angelo badalamenti, david lynch","title":"mysterioso #2"}]}
+{
+	"title": "Czerwiec 2017",
+	"filename": "czerwiec-2017",
+	"date": "2017-06",
+	"songs": [
+		{
+			"artist": "diary of dreams",
+			"title": "bladerunner 2001"
+		},
+		{
+			"artist": "julee cruise",
+			"title": "falling"
+		},
+		{
+			"artist": "trance to the sun",
+			"title": "purple mushroom house"
+		},
+		{
+			"artist": "eden",
+			"title": "all the time in the world (pk)"
+		},
+		{
+			"artist": "the eden house",
+			"title": "misery"
+		},
+		{
+			"artist": "the eden house",
+			"title": "the ghost of you"
+		},
+		{
+			"artist": "cigarettes after sex",
+			"title": "apocalypse"
+		},
+		{
+			"artist": "cigarettes after sex",
+			"title": "opera house"
+		},
+		{
+			"artist": "eden",
+			"title": "hymns and mist"
+		},
+		{
+			"artist": "eden",
+			"title": "returning"
+		},
+		{
+			"artist": "eden",
+			"title": "fryerstown"
+		},
+		{
+			"artist": "eden",
+			"title": "december"
+		},
+		{
+			"artist": "eden",
+			"title": "girl with the violin"
+		},
+		{
+			"artist": "eden",
+			"title": "death of a diamond"
+		},
+		{
+			"artist": "eden",
+			"title": "sky above"
+		},
+		{
+			"artist": "the birthday massacre",
+			"title": "all of nothing"
+		},
+		{
+			"artist": "skinny puppy",
+			"title": "jahya"
+		},
+		{
+			"artist": "skinny puppy",
+			"title": "killing game"
+		},
+		{
+			"artist": "skinny puppy",
+			"title": "worlock"
+		},
+		{
+			"artist": "skinny puppy",
+			"title": "candle"
+		},
+		{
+			"artist": "controlled collapse",
+			"title": "loop"
+		},
+		{
+			"artist": "r.roo",
+			"title": "night traveler with clear eyes"
+		},
+		{
+			"artist": "r.roo",
+			"title": "on the other side of the glass"
+		},
+		{
+			"artist": "eden",
+			"title": "all the time in the world (pk)"
+		},
+		{
+			"artist": "johnny jewel",
+			"title": "television snow"
+		},
+		{
+			"artist": "angelo badalamenti, david lynch",
+			"title": "love theme"
+		},
+		{
+			"artist": "julee cruise",
+			"title": "rockin' back inside my heart"
+		},
+		{
+			"artist": "david lynch",
+			"title": "pinky's dream (trentemoller remix)"
+		},
+		{
+			"artist": "johnny jewel",
+			"title": "strobe lights"
+		},
+		{
+			"artist": "xiu xiu",
+			"title": "packard's"
+		},
+		{
+			"artist": "vibration chromatics",
+			"title": "saturday"
+		},
+		{
+			"artist": "au revoir simone",
+			"title": "lark"
+		},
+		{
+			"artist": "roy orbison",
+			"title": "she's a mystery to me"
+		},
+		{
+			"artist": "angelo badalamenti, david lynch",
+			"title": "laura palmer's theme (ghost version)"
+		},
+		{
+			"artist": "johnny jewel",
+			"title": "shell game"
+		},
+		{
+			"artist": "chromatics",
+			"title": "blue moon"
+		},
+		{
+			"artist": "the cactus blossoms",
+			"title": "mississippi"
+		},
+		{
+			"artist": "david lynch, lykke li",
+			"title": "i'm waiting here"
+		},
+		{
+			"artist": "johnny jewel",
+			"title": "windswept"
+		},
+		{
+			"artist": "julee cruise",
+			"title": "into the night"
+		},
+		{
+			"artist": "twisted wires",
+			"title": "0000"
+		},
+		{
+			"artist": "link wray",
+			"title": "the shadow knows"
+		},
+		{
+			"artist": "chromatics",
+			"title": "shadow (michael's runway edit)"
+		},
+		{
+			"artist": "angelo badalamenti, david lynch",
+			"title": "mysterioso #2"
+		}
+	]
+}

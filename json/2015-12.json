@@ -1,1 +1,179 @@
-{"title":"Grudzień 2015","filename":"grudzien-2015","date":"2015-12","songs":[{"artist":"diary of dreams","title":"bladerunner 2001"},{"artist":"spectra paris","title":"silent night"},{"artist":"wolfsheim","title":"upstairs"},{"artist":"editors","title":"salvation"},{"artist":"chandeen","title":"welcome christmas"},{"artist":"vic anselmo","title":"say you [pk]"},{"artist":"angelzoom, roedernalle","title":"into my arms"},{"artist":"eden","title":"the slow bells"},{"artist":"spectra paris","title":"time behind the clock"},{"artist":"kirlian camera","title":"the fountain of clouds"},{"artist":"chandeen","title":"i wonder as i wander"},{"artist":"angelzoom, letzte instanz","title":"dream in a church"},{"artist":"conjure one","title":"brave for me"},{"artist":"peter heppner","title":"christmas mix"},{"artist":"deacon blue","title":"let your hearts be troubled"},{"artist":"handful of snowdrops","title":"back door"},{"artist":"schonwald","title":"a night like this"},{"artist":"factice factory","title":"cold"},{"artist":"black nail cabaret","title":"such a shame"},{"artist":"all about eve","title":"last christmas"},{"artist":"vic anselmo","title":"say you [pk]"},{"artist":"subheim","title":"berlin"},{"artist":"conjure one","title":"miscreant"},{"artist":"subheim","title":"red ridge"},{"artist":"dead when i found","title":"her blood lesson"},{"artist":"dead when i found","title":"her downpour"},{"artist":"conjure one","title":"the garden"},{"artist":"new canyons","title":"everyone is dark"},{"artist":"midge ure","title":"are we connected"},{"artist":"the merry thoughts","title":"low violet"},{"artist":"the soft moon","title":"wasting"},{"artist":"spiral69","title":"the art of losing ground"},{"artist":"spiral69","title":"nothing"},{"artist":"factice factory","title":"ignite"},{"artist":"factice factory","title":"disaray"},{"artist":"postscriptum","title":"paradise lost"},{"artist":"ikon","title":"blood of love"},{"artist":"muricidae","title":"away"},{"artist":"long night","title":"arkham"},{"artist":"nicole sabouné","title":"lifetime"},{"artist":"killing joke","title":"euphoria"},{"artist":"vic anselmo","title":"say you [pk]"},{"artist":"chandeen","title":"carol of the bells"}]}
+{
+	"title": "Grudzień 2015",
+	"filename": "grudzien-2015",
+	"date": "2015-12",
+	"songs": [
+		{
+			"artist": "diary of dreams",
+			"title": "bladerunner 2001"
+		},
+		{
+			"artist": "spectra paris",
+			"title": "silent night"
+		},
+		{
+			"artist": "wolfsheim",
+			"title": "upstairs"
+		},
+		{
+			"artist": "editors",
+			"title": "salvation"
+		},
+		{
+			"artist": "chandeen",
+			"title": "welcome christmas"
+		},
+		{
+			"artist": "vic anselmo",
+			"title": "say you [pk]"
+		},
+		{
+			"artist": "angelzoom, roedernalle",
+			"title": "into my arms"
+		},
+		{
+			"artist": "eden",
+			"title": "the slow bells"
+		},
+		{
+			"artist": "spectra paris",
+			"title": "time behind the clock"
+		},
+		{
+			"artist": "kirlian camera",
+			"title": "the fountain of clouds"
+		},
+		{
+			"artist": "chandeen",
+			"title": "i wonder as i wander"
+		},
+		{
+			"artist": "angelzoom, letzte instanz",
+			"title": "dream in a church"
+		},
+		{
+			"artist": "conjure one",
+			"title": "brave for me"
+		},
+		{
+			"artist": "peter heppner",
+			"title": "christmas mix"
+		},
+		{
+			"artist": "deacon blue",
+			"title": "let your hearts be troubled"
+		},
+		{
+			"artist": "handful of snowdrops",
+			"title": "back door"
+		},
+		{
+			"artist": "schonwald",
+			"title": "a night like this"
+		},
+		{
+			"artist": "factice factory",
+			"title": "cold"
+		},
+		{
+			"artist": "black nail cabaret",
+			"title": "such a shame"
+		},
+		{
+			"artist": "all about eve",
+			"title": "last christmas"
+		},
+		{
+			"artist": "vic anselmo",
+			"title": "say you [pk]"
+		},
+		{
+			"artist": "subheim",
+			"title": "berlin"
+		},
+		{
+			"artist": "conjure one",
+			"title": "miscreant"
+		},
+		{
+			"artist": "subheim",
+			"title": "red ridge"
+		},
+		{
+			"artist": "dead when i found",
+			"title": "her blood lesson"
+		},
+		{
+			"artist": "dead when i found",
+			"title": "her downpour"
+		},
+		{
+			"artist": "conjure one",
+			"title": "the garden"
+		},
+		{
+			"artist": "new canyons",
+			"title": "everyone is dark"
+		},
+		{
+			"artist": "midge ure",
+			"title": "are we connected"
+		},
+		{
+			"artist": "the merry thoughts",
+			"title": "low violet"
+		},
+		{
+			"artist": "the soft moon",
+			"title": "wasting"
+		},
+		{
+			"artist": "spiral69",
+			"title": "the art of losing ground"
+		},
+		{
+			"artist": "spiral69",
+			"title": "nothing"
+		},
+		{
+			"artist": "factice factory",
+			"title": "ignite"
+		},
+		{
+			"artist": "factice factory",
+			"title": "disaray"
+		},
+		{
+			"artist": "postscriptum",
+			"title": "paradise lost"
+		},
+		{
+			"artist": "ikon",
+			"title": "blood of love"
+		},
+		{
+			"artist": "muricidae",
+			"title": "away"
+		},
+		{
+			"artist": "long night",
+			"title": "arkham"
+		},
+		{
+			"artist": "nicole sabouné",
+			"title": "lifetime"
+		},
+		{
+			"artist": "killing joke",
+			"title": "euphoria"
+		},
+		{
+			"artist": "vic anselmo",
+			"title": "say you [pk]"
+		},
+		{
+			"artist": "chandeen",
+			"title": "carol of the bells"
+		}
+	]
+}

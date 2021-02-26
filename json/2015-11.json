@@ -1,1 +1,183 @@
-{"title":"Listopad 2015","filename":"listopad-2015","date":"2015-11","songs":[{"artist":"diary of dreams","title":"bladerunner 2001"},{"artist":"the cure","title":"prayers for rain"},{"artist":"killing joke","title":"euphoria"},{"artist":"editors","title":"salvation [pk]"},{"artist":"editors","title":"no harm"},{"artist":"editors","title":"ocean of night"},{"artist":"love amongst ruin","title":"modern war song"},{"artist":"love amongst ruin","title":"lose your way"},{"artist":"spiral69","title":"ritual"},{"artist":"spiral69","title":"your halo"},{"artist":"spiral69","title":"colors and grey"},{"artist":"still patient?","title":"red river"},{"artist":"still patient?","title":"believe in angels"},{"artist":"the foreign resort","title":"skyline decay"},{"artist":"the foreign resort","title":"suburban depression"},{"artist":"the foreign resort","title":"under bright neon stars"},{"artist":"twice a man","title":"a world is gone"},{"artist":"twice a man","title":"high in the clouds"},{"artist":"nicole sabouné","title":"the body"},{"artist":"nicole sabouné","title":"right track"},{"artist":"editors","title":"salvation [pk]"},{"artist":"siglo xx","title":"answer"},{"artist":"siglo xx","title":"the room"},{"artist":"siglo xx","title":"it's all over now"},{"artist":"siglo xx","title":"fear"},{"artist":"siglo xx","title":"fear and desire"},{"artist":"martin gore","title":"pinking"},{"artist":"martin gore","title":"brink"},{"artist":"martin gore","title":"europa hymn"},{"artist":"architect vs sonic area vs hologram","title":"find the light"},{"artist":"architect vs sonic area vs hologram","title":"solaris splendor"},{"artist":"god's own medicine","title":"genotype - implant remix"},{"artist":"iżol (ice machine)","title":"covert lies"},{"artist":"dogs in trees","title":"teraz i jutro"},{"artist":"dogs in trees","title":"usf"},{"artist":"editors","title":"salvation [pk]"},{"artist":"rajna","title":"a prayer for rain"},{"artist":"all my faith lost","title":"rain has fallen all the day"},{"artist":"twice a man","title":"here comes the rain"},{"artist":"the birthday massacre","title":"rain"},{"artist":"the exploding boy","title":"here comes the rain"},{"artist":"noir","title":"when the rains came"},{"artist":"the sisterhood","title":"rain from heaven"},{"artist":"the cure","title":"the same deep water as you"}]}
+{
+	"title": "Listopad 2015",
+	"filename": "listopad-2015",
+	"date": "2015-11",
+	"songs": [
+		{
+			"artist": "diary of dreams",
+			"title": "bladerunner 2001"
+		},
+		{
+			"artist": "the cure",
+			"title": "prayers for rain"
+		},
+		{
+			"artist": "killing joke",
+			"title": "euphoria"
+		},
+		{
+			"artist": "editors",
+			"title": "salvation [pk]"
+		},
+		{
+			"artist": "editors",
+			"title": "no harm"
+		},
+		{
+			"artist": "editors",
+			"title": "ocean of night"
+		},
+		{
+			"artist": "love amongst ruin",
+			"title": "modern war song"
+		},
+		{
+			"artist": "love amongst ruin",
+			"title": "lose your way"
+		},
+		{
+			"artist": "spiral69",
+			"title": "ritual"
+		},
+		{
+			"artist": "spiral69",
+			"title": "your halo"
+		},
+		{
+			"artist": "spiral69",
+			"title": "colors and grey"
+		},
+		{
+			"artist": "still patient?",
+			"title": "red river"
+		},
+		{
+			"artist": "still patient?",
+			"title": "believe in angels"
+		},
+		{
+			"artist": "the foreign resort",
+			"title": "skyline decay"
+		},
+		{
+			"artist": "the foreign resort",
+			"title": "suburban depression"
+		},
+		{
+			"artist": "the foreign resort",
+			"title": "under bright neon stars"
+		},
+		{
+			"artist": "twice a man",
+			"title": "a world is gone"
+		},
+		{
+			"artist": "twice a man",
+			"title": "high in the clouds"
+		},
+		{
+			"artist": "nicole sabouné",
+			"title": "the body"
+		},
+		{
+			"artist": "nicole sabouné",
+			"title": "right track"
+		},
+		{
+			"artist": "editors",
+			"title": "salvation [pk]"
+		},
+		{
+			"artist": "siglo xx",
+			"title": "answer"
+		},
+		{
+			"artist": "siglo xx",
+			"title": "the room"
+		},
+		{
+			"artist": "siglo xx",
+			"title": "it's all over now"
+		},
+		{
+			"artist": "siglo xx",
+			"title": "fear"
+		},
+		{
+			"artist": "siglo xx",
+			"title": "fear and desire"
+		},
+		{
+			"artist": "martin gore",
+			"title": "pinking"
+		},
+		{
+			"artist": "martin gore",
+			"title": "brink"
+		},
+		{
+			"artist": "martin gore",
+			"title": "europa hymn"
+		},
+		{
+			"artist": "architect vs sonic area vs hologram",
+			"title": "find the light"
+		},
+		{
+			"artist": "architect vs sonic area vs hologram",
+			"title": "solaris splendor"
+		},
+		{
+			"artist": "god's own medicine",
+			"title": "genotype - implant remix"
+		},
+		{
+			"artist": "iżol (ice machine)",
+			"title": "covert lies"
+		},
+		{
+			"artist": "dogs in trees",
+			"title": "teraz i jutro"
+		},
+		{
+			"artist": "dogs in trees",
+			"title": "usf"
+		},
+		{
+			"artist": "editors",
+			"title": "salvation [pk]"
+		},
+		{
+			"artist": "rajna",
+			"title": "a prayer for rain"
+		},
+		{
+			"artist": "all my faith lost",
+			"title": "rain has fallen all the day"
+		},
+		{
+			"artist": "twice a man",
+			"title": "here comes the rain"
+		},
+		{
+			"artist": "the birthday massacre",
+			"title": "rain"
+		},
+		{
+			"artist": "the exploding boy",
+			"title": "here comes the rain"
+		},
+		{
+			"artist": "noir",
+			"title": "when the rains came"
+		},
+		{
+			"artist": "the sisterhood",
+			"title": "rain from heaven"
+		},
+		{
+			"artist": "the cure",
+			"title": "the same deep water as you"
+		}
+	]
+}

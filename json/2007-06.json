@@ -1,1 +1,131 @@
-{"title":"Czerwiec 2007","filename":"czerwiec-2007","date":"2007-06","songs":[{"artist":"diary of dreams","title":"bladerunner 2001"},{"artist":"pink turns blue","title":"your master is calling"},{"artist":"arcana","title":"lost in time"},{"artist":"miriam","title":"nightporter (pk)"},{"artist":"the mission","title":"father"},{"artist":"the mission","title":"hdshrinkerea"},{"artist":"pink turns blue","title":"can`t be love"},{"artist":"pink turns blue","title":"true love (after all)"},{"artist":"elusive","title":"a thin line"},{"artist":"miriam","title":"nightporter (pk)"},{"artist":"peter ulrich","title":"journey of discovery"},{"artist":"peter ulrich","title":"evocation"},{"artist":"peter ulrich","title":"the springs of hope"},{"artist":"peter ulrich","title":"nothing but the way"},{"artist":"peter ulrich","title":"another day"},{"artist":"coex","title":"na clocha solasta"},{"artist":"coex","title":"chant of amergin"},{"artist":"dead can dance","title":"sambatiki"},{"artist":"elijah`s mantle","title":"breath of lazurs: part 2"},{"artist":"miriam","title":"nightporter (pk)"},{"artist":"modern english","title":"someone`s calling"},{"artist":"this mortal coil","title":"at first, and then"},{"artist":"this mortal coil","title":"strength of strings"},{"artist":"das zeichen","title":"douh-sah-ra"},{"artist":"x-mal deutschland","title":"matador"},{"artist":"dead can dance","title":"labour of love"},{"artist":"dead can dance","title":"black sun"},{"artist":"peter ulrich","title":"nocturne"},{"artist":"clan of xymox","title":"heroes"},{"artist":"love like blood","title":"heroes"},{"artist":"andrzej dudek-durer & lucyan","title":"meta... mind"}]}
+{
+	"title": "Czerwiec 2007",
+	"filename": "czerwiec-2007",
+	"date": "2007-06",
+	"songs": [
+		{
+			"artist": "diary of dreams",
+			"title": "bladerunner 2001"
+		},
+		{
+			"artist": "pink turns blue",
+			"title": "your master is calling"
+		},
+		{
+			"artist": "arcana",
+			"title": "lost in time"
+		},
+		{
+			"artist": "miriam",
+			"title": "nightporter (pk)"
+		},
+		{
+			"artist": "the mission",
+			"title": "father"
+		},
+		{
+			"artist": "the mission",
+			"title": "hdshrinkerea"
+		},
+		{
+			"artist": "pink turns blue",
+			"title": "can`t be love"
+		},
+		{
+			"artist": "pink turns blue",
+			"title": "true love (after all)"
+		},
+		{
+			"artist": "elusive",
+			"title": "a thin line"
+		},
+		{
+			"artist": "miriam",
+			"title": "nightporter (pk)"
+		},
+		{
+			"artist": "peter ulrich",
+			"title": "journey of discovery"
+		},
+		{
+			"artist": "peter ulrich",
+			"title": "evocation"
+		},
+		{
+			"artist": "peter ulrich",
+			"title": "the springs of hope"
+		},
+		{
+			"artist": "peter ulrich",
+			"title": "nothing but the way"
+		},
+		{
+			"artist": "peter ulrich",
+			"title": "another day"
+		},
+		{
+			"artist": "coex",
+			"title": "na clocha solasta"
+		},
+		{
+			"artist": "coex",
+			"title": "chant of amergin"
+		},
+		{
+			"artist": "dead can dance",
+			"title": "sambatiki"
+		},
+		{
+			"artist": "elijah`s mantle",
+			"title": "breath of lazurs: part 2"
+		},
+		{
+			"artist": "miriam",
+			"title": "nightporter (pk)"
+		},
+		{
+			"artist": "modern english",
+			"title": "someone`s calling"
+		},
+		{
+			"artist": "this mortal coil",
+			"title": "at first, and then"
+		},
+		{
+			"artist": "this mortal coil",
+			"title": "strength of strings"
+		},
+		{
+			"artist": "das zeichen",
+			"title": "douh-sah-ra"
+		},
+		{
+			"artist": "x-mal deutschland",
+			"title": "matador"
+		},
+		{
+			"artist": "dead can dance",
+			"title": "labour of love"
+		},
+		{
+			"artist": "dead can dance",
+			"title": "black sun"
+		},
+		{
+			"artist": "peter ulrich",
+			"title": "nocturne"
+		},
+		{
+			"artist": "clan of xymox",
+			"title": "heroes"
+		},
+		{
+			"artist": "love like blood",
+			"title": "heroes"
+		},
+		{
+			"artist": "andrzej dudek-durer & lucyan",
+			"title": "meta... mind"
+		}
+	]
+}

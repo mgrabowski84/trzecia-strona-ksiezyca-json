@@ -1,1 +1,163 @@
-{"title":"Grudzień 2008","filename":"grudzien-2008","date":"2008-12","songs":[{"artist":"diary of dreams","title":"bladerunner 2001"},{"artist":"for greater good","title":"le jugement du roi en jaune"},{"artist":"outofsight","title":"bonfires die out"},{"artist":"rajna","title":"we are the echoes (pk)"},{"artist":"scarlet leaves","title":"the last romance"},{"artist":"scarlet leaves","title":"images of memories"},{"artist":"collide","title":"utopia"},{"artist":"anne clark","title":"nothing going on"},{"artist":"alexander veljanov","title":"we can't turn back"},{"artist":"the cruxshadows","title":"sinking"},{"artist":"dragons","title":"where is the love"},{"artist":"i am x","title":"missile"},{"artist":"i am x","title":"spit it out"},{"artist":"made in poland","title":"to tylko kobieta"},{"artist":"made in poland","title":"obraz we mgle"},{"artist":"metus","title":"our sinful realm"},{"artist":"metus","title":"simplicity"},{"artist":"rajna","title":"we are the echoes (pk)"},{"artist":"chandeen","title":"welcome the still"},{"artist":"the mary onettes","title":"slow"},{"artist":"irfan","title":"peregrinatio"},{"artist":"peter murphy","title":"emergency unit"},{"artist":"rome","title":"wir gotter der stadt"},{"artist":"rome","title":"der erscheinungen flucht"},{"artist":"descendance of cain","title":"between you and oblivion"},{"artist":"descendance of cain","title":"hymn of the shades"},{"artist":"spiritual maze","title":"no destination"},{"artist":"spiritual maze","title":"shelter"},{"artist":"andreas gross","title":"lovely asteroid"},{"artist":"rajna","title":"we are the echoes (pk)"},{"artist":"deine lakaien","title":"where you are"},{"artist":"m83","title":"skin of the night"},{"artist":"psyche","title":"september moon"},{"artist":"peter heppner","title":"easy"},{"artist":"for greater good","title":"love your terrorist"},{"artist":"for greater good","title":"dawn over dachau"},{"artist":"elhaz","title":"bloodthrone"},{"artist":"runes order","title":"misoginy"},{"artist":"michael montes","title":"a molten rose (for jane)"}]}
+{
+	"title": "Grudzień 2008",
+	"filename": "grudzien-2008",
+	"date": "2008-12",
+	"songs": [
+		{
+			"artist": "diary of dreams",
+			"title": "bladerunner 2001"
+		},
+		{
+			"artist": "for greater good",
+			"title": "le jugement du roi en jaune"
+		},
+		{
+			"artist": "outofsight",
+			"title": "bonfires die out"
+		},
+		{
+			"artist": "rajna",
+			"title": "we are the echoes (pk)"
+		},
+		{
+			"artist": "scarlet leaves",
+			"title": "the last romance"
+		},
+		{
+			"artist": "scarlet leaves",
+			"title": "images of memories"
+		},
+		{
+			"artist": "collide",
+			"title": "utopia"
+		},
+		{
+			"artist": "anne clark",
+			"title": "nothing going on"
+		},
+		{
+			"artist": "alexander veljanov",
+			"title": "we can't turn back"
+		},
+		{
+			"artist": "the cruxshadows",
+			"title": "sinking"
+		},
+		{
+			"artist": "dragons",
+			"title": "where is the love"
+		},
+		{
+			"artist": "i am x",
+			"title": "missile"
+		},
+		{
+			"artist": "i am x",
+			"title": "spit it out"
+		},
+		{
+			"artist": "made in poland",
+			"title": "to tylko kobieta"
+		},
+		{
+			"artist": "made in poland",
+			"title": "obraz we mgle"
+		},
+		{
+			"artist": "metus",
+			"title": "our sinful realm"
+		},
+		{
+			"artist": "metus",
+			"title": "simplicity"
+		},
+		{
+			"artist": "rajna",
+			"title": "we are the echoes (pk)"
+		},
+		{
+			"artist": "chandeen",
+			"title": "welcome the still"
+		},
+		{
+			"artist": "the mary onettes",
+			"title": "slow"
+		},
+		{
+			"artist": "irfan",
+			"title": "peregrinatio"
+		},
+		{
+			"artist": "peter murphy",
+			"title": "emergency unit"
+		},
+		{
+			"artist": "rome",
+			"title": "wir gotter der stadt"
+		},
+		{
+			"artist": "rome",
+			"title": "der erscheinungen flucht"
+		},
+		{
+			"artist": "descendance of cain",
+			"title": "between you and oblivion"
+		},
+		{
+			"artist": "descendance of cain",
+			"title": "hymn of the shades"
+		},
+		{
+			"artist": "spiritual maze",
+			"title": "no destination"
+		},
+		{
+			"artist": "spiritual maze",
+			"title": "shelter"
+		},
+		{
+			"artist": "andreas gross",
+			"title": "lovely asteroid"
+		},
+		{
+			"artist": "rajna",
+			"title": "we are the echoes (pk)"
+		},
+		{
+			"artist": "deine lakaien",
+			"title": "where you are"
+		},
+		{
+			"artist": "m83",
+			"title": "skin of the night"
+		},
+		{
+			"artist": "psyche",
+			"title": "september moon"
+		},
+		{
+			"artist": "peter heppner",
+			"title": "easy"
+		},
+		{
+			"artist": "for greater good",
+			"title": "love your terrorist"
+		},
+		{
+			"artist": "for greater good",
+			"title": "dawn over dachau"
+		},
+		{
+			"artist": "elhaz",
+			"title": "bloodthrone"
+		},
+		{
+			"artist": "runes order",
+			"title": "misoginy"
+		},
+		{
+			"artist": "michael montes",
+			"title": "a molten rose (for jane)"
+		}
+	]
+}

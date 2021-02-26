@@ -1,1 +1,155 @@
-{"title":"Lipiec 2007 I","filename":"lipiec-2007-i","date":"2007-07","songs":[{"artist":"diary of dreams","title":"bladerunner 2001"},{"artist":"morthem vlade art","title":"almadiva"},{"artist":"miriam","title":"nightporter"},{"artist":"lounge","title":"everyday (acoustic version) (pk)"},{"artist":"sneaker pimps","title":"small town witch"},{"artist":"diary of dreams","title":"but the wind was stronger"},{"artist":"diorama","title":"burning out"},{"artist":"morthem vlade art","title":"e-clipse"},{"artist":"the legendary pink dots","title":"home"},{"artist":"lounge","title":"everyday (acoustic version) (pk)"},{"artist":"miriam","title":"eclipse"},{"artist":"miriam","title":"scents"},{"artist":"miriam","title":"evidence"},{"artist":"miriam","title":"if you ever"},{"artist":"miriam","title":"space white stones"},{"artist":"miriam","title":"when beauty is invisible"},{"artist":"miriam","title":"underwater"},{"artist":"lounge","title":"everyday (acoustic version) (pk)"},{"artist":"edge of dawn","title":"beauty lies within"},{"artist":"front line assembly","title":"synthetic forms"},{"artist":"front line assembly","title":"falling"},{"artist":"front line assembly","title":"retribution"},{"artist":"front line assembly","title":"testimony"},{"artist":"front line assembly","title":"conscience"},{"artist":"front line assembly","title":"everything must perish"},{"artist":"front line assembly","title":"bio-mechanic"},{"artist":"front line assembly","title":"fragmented"},{"artist":"front line assembly","title":"vanished"},{"artist":"front line assembly","title":"civilization"},{"artist":"diary of dreams","title":"rumours about angels"},{"artist":"nfd","title":"light my way"},{"artist":"catastrophe ballet","title":"call of  the dawn (fragile scream)"},{"artist":"the legendary pink dots","title":"pennies for heaven"},{"artist":"the legendary pink dots","title":"cheraderama"},{"artist":"pride and fall","title":"essence of angels"},{"artist":"diorama","title":"drowned"},{"artist":"diorama","title":"colder"}]}
+{
+	"title": "Lipiec 2007 I",
+	"filename": "lipiec-2007-i",
+	"date": "2007-07",
+	"songs": [
+		{
+			"artist": "diary of dreams",
+			"title": "bladerunner 2001"
+		},
+		{
+			"artist": "morthem vlade art",
+			"title": "almadiva"
+		},
+		{
+			"artist": "miriam",
+			"title": "nightporter"
+		},
+		{
+			"artist": "lounge",
+			"title": "everyday (acoustic version) (pk)"
+		},
+		{
+			"artist": "sneaker pimps",
+			"title": "small town witch"
+		},
+		{
+			"artist": "diary of dreams",
+			"title": "but the wind was stronger"
+		},
+		{
+			"artist": "diorama",
+			"title": "burning out"
+		},
+		{
+			"artist": "morthem vlade art",
+			"title": "e-clipse"
+		},
+		{
+			"artist": "the legendary pink dots",
+			"title": "home"
+		},
+		{
+			"artist": "lounge",
+			"title": "everyday (acoustic version) (pk)"
+		},
+		{
+			"artist": "miriam",
+			"title": "eclipse"
+		},
+		{
+			"artist": "miriam",
+			"title": "scents"
+		},
+		{
+			"artist": "miriam",
+			"title": "evidence"
+		},
+		{
+			"artist": "miriam",
+			"title": "if you ever"
+		},
+		{
+			"artist": "miriam",
+			"title": "space white stones"
+		},
+		{
+			"artist": "miriam",
+			"title": "when beauty is invisible"
+		},
+		{
+			"artist": "miriam",
+			"title": "underwater"
+		},
+		{
+			"artist": "lounge",
+			"title": "everyday (acoustic version) (pk)"
+		},
+		{
+			"artist": "edge of dawn",
+			"title": "beauty lies within"
+		},
+		{
+			"artist": "front line assembly",
+			"title": "synthetic forms"
+		},
+		{
+			"artist": "front line assembly",
+			"title": "falling"
+		},
+		{
+			"artist": "front line assembly",
+			"title": "retribution"
+		},
+		{
+			"artist": "front line assembly",
+			"title": "testimony"
+		},
+		{
+			"artist": "front line assembly",
+			"title": "conscience"
+		},
+		{
+			"artist": "front line assembly",
+			"title": "everything must perish"
+		},
+		{
+			"artist": "front line assembly",
+			"title": "bio-mechanic"
+		},
+		{
+			"artist": "front line assembly",
+			"title": "fragmented"
+		},
+		{
+			"artist": "front line assembly",
+			"title": "vanished"
+		},
+		{
+			"artist": "front line assembly",
+			"title": "civilization"
+		},
+		{
+			"artist": "diary of dreams",
+			"title": "rumours about angels"
+		},
+		{
+			"artist": "nfd",
+			"title": "light my way"
+		},
+		{
+			"artist": "catastrophe ballet",
+			"title": "call of  the dawn (fragile scream)"
+		},
+		{
+			"artist": "the legendary pink dots",
+			"title": "pennies for heaven"
+		},
+		{
+			"artist": "the legendary pink dots",
+			"title": "cheraderama"
+		},
+		{
+			"artist": "pride and fall",
+			"title": "essence of angels"
+		},
+		{
+			"artist": "diorama",
+			"title": "drowned"
+		},
+		{
+			"artist": "diorama",
+			"title": "colder"
+		}
+	]
+}

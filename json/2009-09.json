@@ -1,1 +1,139 @@
-{"title":"Wrzesień 2009","filename":"wrzesie-2009","date":"2009-09","songs":[{"artist":"diary of dreams","title":"bladerunner 2001"},{"artist":"chandeen","title":"a dream within a dream"},{"artist":"clan of xymox","title":"a day"},{"artist":"f.a.q.","title":"from hell"},{"artist":"rome","title":"reversion (pk)"},{"artist":"mesh","title":"only better"},{"artist":"perfidious words","title":"my body’s needs"},{"artist":"perfidious words","title":"another day"},{"artist":"clan of xymox","title":"louise"},{"artist":"clan of xymox","title":"emily"},{"artist":"clan of xymox","title":"in love we trust"},{"artist":"clan of xymox","title":"home sweet home"},{"artist":"clan of xymox","title":"this world"},{"artist":"clan of xymox","title":"something wrong"},{"artist":"clan of xymox","title":"morning glow"},{"artist":"clan of xymox","title":"sea of doubt"},{"artist":"clan of xymox","title":"there's no tomorrow"},{"artist":"clan of xymox","title":"back door"},{"artist":"rome","title":"reversion (pk)"},{"artist":"kirlian camera","title":"may"},{"artist":"kirlian camera","title":"ascension"},{"artist":"kirlian camera","title":"eclipse"},{"artist":"kirlian camera","title":"aura"},{"artist":"kirlian camera","title":"drifting"},{"artist":"kirlian camera","title":"the letter to my killer"},{"artist":"kirlian camera","title":"tor zwei"},{"artist":"rome","title":"reversion (pk)"},{"artist":"rome","title":"flowers from exile"},{"artist":"in auroram","title":"turva aurora"},{"artist":"jo gabriel","title":"fire fly"},{"artist":"jo gabriel","title":"the habits of shadows"},{"artist":"the awakening","title":"nothing like the rain"},{"artist":"the awakening","title":"ivory"}]}
+{
+	"title": "Wrzesień 2009",
+	"filename": "wrzesie-2009",
+	"date": "2009-09",
+	"songs": [
+		{
+			"artist": "diary of dreams",
+			"title": "bladerunner 2001"
+		},
+		{
+			"artist": "chandeen",
+			"title": "a dream within a dream"
+		},
+		{
+			"artist": "clan of xymox",
+			"title": "a day"
+		},
+		{
+			"artist": "f.a.q.",
+			"title": "from hell"
+		},
+		{
+			"artist": "rome",
+			"title": "reversion (pk)"
+		},
+		{
+			"artist": "mesh",
+			"title": "only better"
+		},
+		{
+			"artist": "perfidious words",
+			"title": "my body’s needs"
+		},
+		{
+			"artist": "perfidious words",
+			"title": "another day"
+		},
+		{
+			"artist": "clan of xymox",
+			"title": "louise"
+		},
+		{
+			"artist": "clan of xymox",
+			"title": "emily"
+		},
+		{
+			"artist": "clan of xymox",
+			"title": "in love we trust"
+		},
+		{
+			"artist": "clan of xymox",
+			"title": "home sweet home"
+		},
+		{
+			"artist": "clan of xymox",
+			"title": "this world"
+		},
+		{
+			"artist": "clan of xymox",
+			"title": "something wrong"
+		},
+		{
+			"artist": "clan of xymox",
+			"title": "morning glow"
+		},
+		{
+			"artist": "clan of xymox",
+			"title": "sea of doubt"
+		},
+		{
+			"artist": "clan of xymox",
+			"title": "there's no tomorrow"
+		},
+		{
+			"artist": "clan of xymox",
+			"title": "back door"
+		},
+		{
+			"artist": "rome",
+			"title": "reversion (pk)"
+		},
+		{
+			"artist": "kirlian camera",
+			"title": "may"
+		},
+		{
+			"artist": "kirlian camera",
+			"title": "ascension"
+		},
+		{
+			"artist": "kirlian camera",
+			"title": "eclipse"
+		},
+		{
+			"artist": "kirlian camera",
+			"title": "aura"
+		},
+		{
+			"artist": "kirlian camera",
+			"title": "drifting"
+		},
+		{
+			"artist": "kirlian camera",
+			"title": "the letter to my killer"
+		},
+		{
+			"artist": "kirlian camera",
+			"title": "tor zwei"
+		},
+		{
+			"artist": "rome",
+			"title": "reversion (pk)"
+		},
+		{
+			"artist": "rome",
+			"title": "flowers from exile"
+		},
+		{
+			"artist": "in auroram",
+			"title": "turva aurora"
+		},
+		{
+			"artist": "jo gabriel",
+			"title": "fire fly"
+		},
+		{
+			"artist": "jo gabriel",
+			"title": "the habits of shadows"
+		},
+		{
+			"artist": "the awakening",
+			"title": "nothing like the rain"
+		},
+		{
+			"artist": "the awakening",
+			"title": "ivory"
+		}
+	]
+}

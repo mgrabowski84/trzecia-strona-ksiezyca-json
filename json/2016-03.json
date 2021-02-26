@@ -1,1 +1,151 @@
-{"title":"Marzec 2016","filename":"marzec-2016","date":"2016-03","songs":[{"artist":"diary of dreams","title":"bladerunner 2001"},{"artist":"tuxedomoon","title":"in a manner of speaking"},{"artist":"massive attack feat. azekel","title":"ritual spirit"},{"artist":"the jezabels","title":"come alive (pk)"},{"artist":"wayne hussey","title":"marian"},{"artist":"wayne hussey","title":"my love will protect you"},{"artist":"handley guthrie, wayne hussey","title":"where was"},{"artist":"pink turns blue","title":"something deep inside"},{"artist":"pink turns blue","title":"dirt"},{"artist":"pink turns blue","title":"tomorrow never comes"},{"artist":"ash code","title":"it's time to face the abyss"},{"artist":"ash code","title":"posthuman"},{"artist":"ash code","title":"a new dawn"},{"artist":"aeon sable","title":"white snow"},{"artist":"and also the trees","title":"winter sea"},{"artist":"and also the trees","title":"your guess"},{"artist":"and also the trees","title":"seasons & the storms"},{"artist":"and also the trees","title":"naito - shinjuku"},{"artist":"and also the trees","title":"bridges"},{"artist":"and also the trees","title":"the skeins of love"},{"artist":"and also the trees","title":"the sleepers"},{"artist":"the jezabels","title":"come alive (pk)"},{"artist":"zentriert ins antlitz","title":"regression"},{"artist":"wumpscut","title":"tunichtgut"},{"artist":"innovation reality","title":"a space contact opera"},{"artist":"the sisters of mercy","title":"marian"},{"artist":"nouvelle vague","title":"marian"},{"artist":"marin gore","title":"in a manner of speaking"},{"artist":"nouvelle vague","title":"in a manner of speaking"},{"artist":"esben and the witch","title":"planet caravan"},{"artist":"the jezabels","title":"come alive (pk)"},{"artist":"john foxx","title":"cathedral oceans"},{"artist":"in the nursery","title":"cathedral of thoughts"},{"artist":"robert fripp","title":"the cathedral of tears"},{"artist":"ultravox","title":"all in one day"},{"artist":"albion","title":"golgotha"}]}
+{
+	"title": "Marzec 2016",
+	"filename": "marzec-2016",
+	"date": "2016-03",
+	"songs": [
+		{
+			"artist": "diary of dreams",
+			"title": "bladerunner 2001"
+		},
+		{
+			"artist": "tuxedomoon",
+			"title": "in a manner of speaking"
+		},
+		{
+			"artist": "massive attack feat. azekel",
+			"title": "ritual spirit"
+		},
+		{
+			"artist": "the jezabels",
+			"title": "come alive (pk)"
+		},
+		{
+			"artist": "wayne hussey",
+			"title": "marian"
+		},
+		{
+			"artist": "wayne hussey",
+			"title": "my love will protect you"
+		},
+		{
+			"artist": "handley guthrie, wayne hussey",
+			"title": "where was"
+		},
+		{
+			"artist": "pink turns blue",
+			"title": "something deep inside"
+		},
+		{
+			"artist": "pink turns blue",
+			"title": "dirt"
+		},
+		{
+			"artist": "pink turns blue",
+			"title": "tomorrow never comes"
+		},
+		{
+			"artist": "ash code",
+			"title": "it's time to face the abyss"
+		},
+		{
+			"artist": "ash code",
+			"title": "posthuman"
+		},
+		{
+			"artist": "ash code",
+			"title": "a new dawn"
+		},
+		{
+			"artist": "aeon sable",
+			"title": "white snow"
+		},
+		{
+			"artist": "and also the trees",
+			"title": "winter sea"
+		},
+		{
+			"artist": "and also the trees",
+			"title": "your guess"
+		},
+		{
+			"artist": "and also the trees",
+			"title": "seasons & the storms"
+		},
+		{
+			"artist": "and also the trees",
+			"title": "naito - shinjuku"
+		},
+		{
+			"artist": "and also the trees",
+			"title": "bridges"
+		},
+		{
+			"artist": "and also the trees",
+			"title": "the skeins of love"
+		},
+		{
+			"artist": "and also the trees",
+			"title": "the sleepers"
+		},
+		{
+			"artist": "the jezabels",
+			"title": "come alive (pk)"
+		},
+		{
+			"artist": "zentriert ins antlitz",
+			"title": "regression"
+		},
+		{
+			"artist": "wumpscut",
+			"title": "tunichtgut"
+		},
+		{
+			"artist": "innovation reality",
+			"title": "a space contact opera"
+		},
+		{
+			"artist": "the sisters of mercy",
+			"title": "marian"
+		},
+		{
+			"artist": "nouvelle vague",
+			"title": "marian"
+		},
+		{
+			"artist": "marin gore",
+			"title": "in a manner of speaking"
+		},
+		{
+			"artist": "nouvelle vague",
+			"title": "in a manner of speaking"
+		},
+		{
+			"artist": "esben and the witch",
+			"title": "planet caravan"
+		},
+		{
+			"artist": "the jezabels",
+			"title": "come alive (pk)"
+		},
+		{
+			"artist": "john foxx",
+			"title": "cathedral oceans"
+		},
+		{
+			"artist": "in the nursery",
+			"title": "cathedral of thoughts"
+		},
+		{
+			"artist": "robert fripp",
+			"title": "the cathedral of tears"
+		},
+		{
+			"artist": "ultravox",
+			"title": "all in one day"
+		},
+		{
+			"artist": "albion",
+			"title": "golgotha"
+		}
+	]
+}

@@ -1,1 +1,163 @@
-{"title":"Kwiecień 2007","filename":"kwiecien-2007","date":"2007-04","songs":[{"artist":"diary of dreams","title":"bladerunner 2001"},{"artist":"clan of xymox","title":"medusa"},{"artist":"sophya","title":"pale blue moon"},{"artist":"declasse","title":"blend into grey"},{"artist":"lisa gerrard","title":"space weaver (pk)"},{"artist":"diorama","title":"no tears"},{"artist":"diorama","title":"blessed"},{"artist":"the mission","title":"keep it in the family"},{"artist":"dead can dance","title":"the love that cannot be"},{"artist":"lisa gerrard","title":"space weaver (pk)"},{"artist":"arcana","title":"lost in time"},{"artist":"sophya","title":"another day"},{"artist":"sophya","title":"farewell"},{"artist":"clan of xymox","title":"into her web (remix by sophya)"},{"artist":"clan of xymox","title":"the same dream"},{"artist":"sophya","title":"more"},{"artist":"sophya","title":"fifty four"},{"artist":"sophya","title":"blossom"},{"artist":"lisa gerrard","title":"space weaver (pk)"},{"artist":"time modem","title":"giediprim"},{"artist":"runes order","title":"2022: now!"},{"artist":"liquide divine","title":"sleepwalk"},{"artist":"wumpscut","title":"the fall"},{"artist":"patti smith","title":"dancing barefoot"},{"artist":"the mission","title":"dancing barefoot"},{"artist":"xymox","title":"dancing barefoot"},{"artist":"anka","title":"moonchild"},{"artist":"clan of xymox","title":"after the call (j.pell session1985)"},{"artist":"pieter nooten","title":"lo down valley"},{"artist":"pieter nooten","title":"london requiem"},{"artist":"lisa gerrard","title":"space weaver (pk)"},{"artist":"sophya","title":"captive beauty"},{"artist":"ultravox","title":"visions in blue"},{"artist":"minimal compact","title":"inner station"},{"artist":"mecano","title":"saint of sorrow"},{"artist":"the legendary pink dots","title":"belladonna"},{"artist":"and also the trees","title":"dialogue"},{"artist":"tuxedomoon","title":"in a manner of speaking"},{"artist":"sophya","title":"to tears and flowers"}]}
+{
+	"title": "Kwiecień 2007",
+	"filename": "kwiecien-2007",
+	"date": "2007-04",
+	"songs": [
+		{
+			"artist": "diary of dreams",
+			"title": "bladerunner 2001"
+		},
+		{
+			"artist": "clan of xymox",
+			"title": "medusa"
+		},
+		{
+			"artist": "sophya",
+			"title": "pale blue moon"
+		},
+		{
+			"artist": "declasse",
+			"title": "blend into grey"
+		},
+		{
+			"artist": "lisa gerrard",
+			"title": "space weaver (pk)"
+		},
+		{
+			"artist": "diorama",
+			"title": "no tears"
+		},
+		{
+			"artist": "diorama",
+			"title": "blessed"
+		},
+		{
+			"artist": "the mission",
+			"title": "keep it in the family"
+		},
+		{
+			"artist": "dead can dance",
+			"title": "the love that cannot be"
+		},
+		{
+			"artist": "lisa gerrard",
+			"title": "space weaver (pk)"
+		},
+		{
+			"artist": "arcana",
+			"title": "lost in time"
+		},
+		{
+			"artist": "sophya",
+			"title": "another day"
+		},
+		{
+			"artist": "sophya",
+			"title": "farewell"
+		},
+		{
+			"artist": "clan of xymox",
+			"title": "into her web (remix by sophya)"
+		},
+		{
+			"artist": "clan of xymox",
+			"title": "the same dream"
+		},
+		{
+			"artist": "sophya",
+			"title": "more"
+		},
+		{
+			"artist": "sophya",
+			"title": "fifty four"
+		},
+		{
+			"artist": "sophya",
+			"title": "blossom"
+		},
+		{
+			"artist": "lisa gerrard",
+			"title": "space weaver (pk)"
+		},
+		{
+			"artist": "time modem",
+			"title": "giediprim"
+		},
+		{
+			"artist": "runes order",
+			"title": "2022: now!"
+		},
+		{
+			"artist": "liquide divine",
+			"title": "sleepwalk"
+		},
+		{
+			"artist": "wumpscut",
+			"title": "the fall"
+		},
+		{
+			"artist": "patti smith",
+			"title": "dancing barefoot"
+		},
+		{
+			"artist": "the mission",
+			"title": "dancing barefoot"
+		},
+		{
+			"artist": "xymox",
+			"title": "dancing barefoot"
+		},
+		{
+			"artist": "anka",
+			"title": "moonchild"
+		},
+		{
+			"artist": "clan of xymox",
+			"title": "after the call (j.pell session1985)"
+		},
+		{
+			"artist": "pieter nooten",
+			"title": "lo down valley"
+		},
+		{
+			"artist": "pieter nooten",
+			"title": "london requiem"
+		},
+		{
+			"artist": "lisa gerrard",
+			"title": "space weaver (pk)"
+		},
+		{
+			"artist": "sophya",
+			"title": "captive beauty"
+		},
+		{
+			"artist": "ultravox",
+			"title": "visions in blue"
+		},
+		{
+			"artist": "minimal compact",
+			"title": "inner station"
+		},
+		{
+			"artist": "mecano",
+			"title": "saint of sorrow"
+		},
+		{
+			"artist": "the legendary pink dots",
+			"title": "belladonna"
+		},
+		{
+			"artist": "and also the trees",
+			"title": "dialogue"
+		},
+		{
+			"artist": "tuxedomoon",
+			"title": "in a manner of speaking"
+		},
+		{
+			"artist": "sophya",
+			"title": "to tears and flowers"
+		}
+	]
+}

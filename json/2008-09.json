@@ -1,1 +1,167 @@
-{"title":"Wrzesień 2008","filename":"wrzesien-2008","date":"2008-09","songs":[{"artist":"diary of dreams","title":"bladerunner 2001"},{"artist":"born for bliss","title":"if only"},{"artist":"m83","title":"skin of the night"},{"artist":"psyche","title":"semptember moon (pk)"},{"artist":"kraftwerk","title":"hall of mirrors"},{"artist":"kraftwerk","title":"radioactivity"},{"artist":"stoa","title":"sakrileg"},{"artist":"stoa","title":"broken glass"},{"artist":"autumn's grey solace","title":"eternal light"},{"artist":"autumn's grey solace","title":"tusk"},{"artist":"resplandor","title":"downfall"},{"artist":"resplandor","title":"raindrops"},{"artist":"stoa","title":"a drinking song"},{"artist":"pieter nooten","title":"london requiem"},{"artist":"born for bliss","title":"arabia"},{"artist":"clan of xymox","title":"cry in the wind"},{"artist":"xymox","title":"abysmal thoughts"},{"artist":"xymox","title":"no words (demo version)"},{"artist":"the floating tree","title":"the floating tree"},{"artist":"the floating tree","title":"the dragon"},{"artist":"xymox","title":"shame"},{"artist":"clan of xymox","title":"agonised by love (bbc session)"},{"artist":"born for bliss","title":"killing time"},{"artist":"the dreamside","title":"godesses"},{"artist":"born for bliss","title":"empty room"},{"artist":"psyche","title":"semptember moon (pk)"},{"artist":"kraftwerk","title":"the model"},{"artist":"kraftwerk","title":"computer world"},{"artist":"kraftwerk","title":"trans-europe express"},{"artist":"silence feat. anne clark","title":"hall of mirrors"},{"artist":"klimt","title":"heaven"},{"artist":"klimt","title":"ennui"},{"artist":"metus","title":"fallen"},{"artist":"metus","title":"endless life"},{"artist":"in the nursery","title":"to tell the truth"},{"artist":"in the nursery","title":"dove of fire"},{"artist":"psyche","title":"semptember moon (pk)"},{"artist":"twice a man","title":"when september shined"},{"artist":"the essence","title":"september"},{"artist":"passion flower","title":"so blue"}]}
+{
+	"title": "Wrzesień 2008",
+	"filename": "wrzesien-2008",
+	"date": "2008-09",
+	"songs": [
+		{
+			"artist": "diary of dreams",
+			"title": "bladerunner 2001"
+		},
+		{
+			"artist": "born for bliss",
+			"title": "if only"
+		},
+		{
+			"artist": "m83",
+			"title": "skin of the night"
+		},
+		{
+			"artist": "psyche",
+			"title": "semptember moon (pk)"
+		},
+		{
+			"artist": "kraftwerk",
+			"title": "hall of mirrors"
+		},
+		{
+			"artist": "kraftwerk",
+			"title": "radioactivity"
+		},
+		{
+			"artist": "stoa",
+			"title": "sakrileg"
+		},
+		{
+			"artist": "stoa",
+			"title": "broken glass"
+		},
+		{
+			"artist": "autumn's grey solace",
+			"title": "eternal light"
+		},
+		{
+			"artist": "autumn's grey solace",
+			"title": "tusk"
+		},
+		{
+			"artist": "resplandor",
+			"title": "downfall"
+		},
+		{
+			"artist": "resplandor",
+			"title": "raindrops"
+		},
+		{
+			"artist": "stoa",
+			"title": "a drinking song"
+		},
+		{
+			"artist": "pieter nooten",
+			"title": "london requiem"
+		},
+		{
+			"artist": "born for bliss",
+			"title": "arabia"
+		},
+		{
+			"artist": "clan of xymox",
+			"title": "cry in the wind"
+		},
+		{
+			"artist": "xymox",
+			"title": "abysmal thoughts"
+		},
+		{
+			"artist": "xymox",
+			"title": "no words (demo version)"
+		},
+		{
+			"artist": "the floating tree",
+			"title": "the floating tree"
+		},
+		{
+			"artist": "the floating tree",
+			"title": "the dragon"
+		},
+		{
+			"artist": "xymox",
+			"title": "shame"
+		},
+		{
+			"artist": "clan of xymox",
+			"title": "agonised by love (bbc session)"
+		},
+		{
+			"artist": "born for bliss",
+			"title": "killing time"
+		},
+		{
+			"artist": "the dreamside",
+			"title": "godesses"
+		},
+		{
+			"artist": "born for bliss",
+			"title": "empty room"
+		},
+		{
+			"artist": "psyche",
+			"title": "semptember moon (pk)"
+		},
+		{
+			"artist": "kraftwerk",
+			"title": "the model"
+		},
+		{
+			"artist": "kraftwerk",
+			"title": "computer world"
+		},
+		{
+			"artist": "kraftwerk",
+			"title": "trans-europe express"
+		},
+		{
+			"artist": "silence feat. anne clark",
+			"title": "hall of mirrors"
+		},
+		{
+			"artist": "klimt",
+			"title": "heaven"
+		},
+		{
+			"artist": "klimt",
+			"title": "ennui"
+		},
+		{
+			"artist": "metus",
+			"title": "fallen"
+		},
+		{
+			"artist": "metus",
+			"title": "endless life"
+		},
+		{
+			"artist": "in the nursery",
+			"title": "to tell the truth"
+		},
+		{
+			"artist": "in the nursery",
+			"title": "dove of fire"
+		},
+		{
+			"artist": "psyche",
+			"title": "semptember moon (pk)"
+		},
+		{
+			"artist": "twice a man",
+			"title": "when september shined"
+		},
+		{
+			"artist": "the essence",
+			"title": "september"
+		},
+		{
+			"artist": "passion flower",
+			"title": "so blue"
+		}
+	]
+}

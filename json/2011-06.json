@@ -1,1 +1,159 @@
-{"title":"Czerwiec 2011","filename":"czerwiec-2011","date":"2011-06","songs":[{"artist":"diary of dreams","title":"bladerunner 2001"},{"artist":"painbastard","title":"torn"},{"artist":"the frozen autumn","title":"the last train"},{"artist":"the eden house","title":"city of goodbyes (pk)"},{"artist":"monica richards","title":"the mighty"},{"artist":"monica richards","title":"armistice"},{"artist":"monica richards","title":"the strange familiar"},{"artist":"peter murphy","title":"the prince & old lady shade"},{"artist":"peter murphy","title":"never fall out"},{"artist":"peter murphy","title":"creme de la creme"},{"artist":"clan of xymox","title":"deep down i died"},{"artist":"clan of xymox","title":"deam of fools"},{"artist":"clan of xymox","title":"tears ago"},{"artist":"the eden house","title":"city of goodbyes (pk)"},{"artist":"diary of dreams","title":"but the wind was stronger"},{"artist":"project pitchfork","title":"mirror part i"},{"artist":"project pitchfork","title":"song of the winds"},{"artist":"hetane","title":"ken - ke - lai"},{"artist":"she wants revenge","title":"take the world"},{"artist":"she wants revenge","title":"must be the one"},{"artist":"this morn' omina","title":"naphal"},{"artist":"this morn' omina","title":"shiin"},{"artist":"arbre noir","title":"madurai"},{"artist":"arbre noir","title":"talking"},{"artist":"this morn' omina","title":"nevi'im (god's zoo)"},{"artist":"the eden house","title":"city of goodbyes (pk)"},{"artist":"project pitchfork","title":"daimonion (you hear me in your dreams)"},{"artist":"project pitchfork","title":"timekiller"},{"artist":"other day","title":"augenblick schlaflos (clan of xymox remix)"},{"artist":"nosferatu","title":"alone"},{"artist":"umbra et imago","title":"never"},{"artist":"zeraphine","title":"light your stars"},{"artist":"bratrstvo luny","title":"bile karpaty"},{"artist":"controlled collapse","title":"things come to pass"},{"artist":"diorama","title":"synthetize me"},{"artist":"diary of dreams","title":"o' brother sleep (sleepwalker mix)"},{"artist":"diary of dreams","title":"cold deceit"},{"artist":"diary of dreams","title":"flood of tears"}]}
+{
+	"title": "Czerwiec 2011",
+	"filename": "czerwiec-2011",
+	"date": "2011-06",
+	"songs": [
+		{
+			"artist": "diary of dreams",
+			"title": "bladerunner 2001"
+		},
+		{
+			"artist": "painbastard",
+			"title": "torn"
+		},
+		{
+			"artist": "the frozen autumn",
+			"title": "the last train"
+		},
+		{
+			"artist": "the eden house",
+			"title": "city of goodbyes (pk)"
+		},
+		{
+			"artist": "monica richards",
+			"title": "the mighty"
+		},
+		{
+			"artist": "monica richards",
+			"title": "armistice"
+		},
+		{
+			"artist": "monica richards",
+			"title": "the strange familiar"
+		},
+		{
+			"artist": "peter murphy",
+			"title": "the prince & old lady shade"
+		},
+		{
+			"artist": "peter murphy",
+			"title": "never fall out"
+		},
+		{
+			"artist": "peter murphy",
+			"title": "creme de la creme"
+		},
+		{
+			"artist": "clan of xymox",
+			"title": "deep down i died"
+		},
+		{
+			"artist": "clan of xymox",
+			"title": "deam of fools"
+		},
+		{
+			"artist": "clan of xymox",
+			"title": "tears ago"
+		},
+		{
+			"artist": "the eden house",
+			"title": "city of goodbyes (pk)"
+		},
+		{
+			"artist": "diary of dreams",
+			"title": "but the wind was stronger"
+		},
+		{
+			"artist": "project pitchfork",
+			"title": "mirror part i"
+		},
+		{
+			"artist": "project pitchfork",
+			"title": "song of the winds"
+		},
+		{
+			"artist": "hetane",
+			"title": "ken - ke - lai"
+		},
+		{
+			"artist": "she wants revenge",
+			"title": "take the world"
+		},
+		{
+			"artist": "she wants revenge",
+			"title": "must be the one"
+		},
+		{
+			"artist": "this morn' omina",
+			"title": "naphal"
+		},
+		{
+			"artist": "this morn' omina",
+			"title": "shiin"
+		},
+		{
+			"artist": "arbre noir",
+			"title": "madurai"
+		},
+		{
+			"artist": "arbre noir",
+			"title": "talking"
+		},
+		{
+			"artist": "this morn' omina",
+			"title": "nevi'im (god's zoo)"
+		},
+		{
+			"artist": "the eden house",
+			"title": "city of goodbyes (pk)"
+		},
+		{
+			"artist": "project pitchfork",
+			"title": "daimonion (you hear me in your dreams)"
+		},
+		{
+			"artist": "project pitchfork",
+			"title": "timekiller"
+		},
+		{
+			"artist": "other day",
+			"title": "augenblick schlaflos (clan of xymox remix)"
+		},
+		{
+			"artist": "nosferatu",
+			"title": "alone"
+		},
+		{
+			"artist": "umbra et imago",
+			"title": "never"
+		},
+		{
+			"artist": "zeraphine",
+			"title": "light your stars"
+		},
+		{
+			"artist": "bratrstvo luny",
+			"title": "bile karpaty"
+		},
+		{
+			"artist": "controlled collapse",
+			"title": "things come to pass"
+		},
+		{
+			"artist": "diorama",
+			"title": "synthetize me"
+		},
+		{
+			"artist": "diary of dreams",
+			"title": "o' brother sleep (sleepwalker mix)"
+		},
+		{
+			"artist": "diary of dreams",
+			"title": "cold deceit"
+		},
+		{
+			"artist": "diary of dreams",
+			"title": "flood of tears"
+		}
+	]
+}

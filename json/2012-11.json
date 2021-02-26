@@ -1,1 +1,175 @@
-{"title":"Listopad 2012","filename":"listopad-2012","date":"2012-11","songs":[{"artist":"diary of dreams","title":"bladerunner 2001"},{"artist":"corect spelling feat. michelle mcadorey","title":"love me today"},{"artist":"werk","title":"nero"},{"artist":"she past away","title":"kasvetli kutlama [pk]"},{"artist":"she past away","title":"monoton"},{"artist":"the soft moon","title":"zeros"},{"artist":"the new division","title":"pride"},{"artist":"the new division","title":"kids"},{"artist":"the new division feat. keep shelly in athens","title":"night escape"},{"artist":"lakeside x","title":"wonder (unfinished mix)"},{"artist":"lakeside x","title":"numb"},{"artist":"andreas gross","title":"planets in peril"},{"artist":"andreas gross","title":"breathing my words"},{"artist":"front line assembly","title":"death level"},{"artist":"front line assembly","title":"prep for combat"},{"artist":"front line assembly","title":"stealth mech"},{"artist":"front line assembly","title":"system anomaly"},{"artist":"front line assembly","title":"everything that was before"},{"artist":"she past away","title":"kasvetli kutlama [pk]"},{"artist":"silence","title":"pitaju me, pitaju"},{"artist":"silence","title":"both feet in hell"},{"artist":"silence","title":"skin"},{"artist":"silence","title":"the rain"},{"artist":"silence","title":"baby"},{"artist":"silence","title":"son of sin"},{"artist":"silence","title":"silver bloom"},{"artist":"silence","title":"scream, greeneyes"},{"artist":"silence","title":"la troia"},{"artist":"silence","title":"drive"},{"artist":"silence","title":"barbara"},{"artist":"silence","title":"murder"},{"artist":"silence feat. anne clark","title":"hall of mirrors"},{"artist":"silence","title":"present, unexistent"},{"artist":"silence","title":"the 5th elephant"},{"artist":"she past away","title":"kasvetli kutlama [pk]"},{"artist":"album: another tale","title":"nightmare voices (1992)"},{"artist":"another tale","title":"amok"},{"artist":"another tale","title":"say goodbye"},{"artist":"another tale","title":"the light"},{"artist":"another tale","title":"the princess"},{"artist":"another tale","title":"the book"},{"artist":"another tale","title":"the blue"}]}
+{
+	"title": "Listopad 2012",
+	"filename": "listopad-2012",
+	"date": "2012-11",
+	"songs": [
+		{
+			"artist": "diary of dreams",
+			"title": "bladerunner 2001"
+		},
+		{
+			"artist": "corect spelling feat. michelle mcadorey",
+			"title": "love me today"
+		},
+		{
+			"artist": "werk",
+			"title": "nero"
+		},
+		{
+			"artist": "she past away",
+			"title": "kasvetli kutlama [pk]"
+		},
+		{
+			"artist": "she past away",
+			"title": "monoton"
+		},
+		{
+			"artist": "the soft moon",
+			"title": "zeros"
+		},
+		{
+			"artist": "the new division",
+			"title": "pride"
+		},
+		{
+			"artist": "the new division",
+			"title": "kids"
+		},
+		{
+			"artist": "the new division feat. keep shelly in athens",
+			"title": "night escape"
+		},
+		{
+			"artist": "lakeside x",
+			"title": "wonder (unfinished mix)"
+		},
+		{
+			"artist": "lakeside x",
+			"title": "numb"
+		},
+		{
+			"artist": "andreas gross",
+			"title": "planets in peril"
+		},
+		{
+			"artist": "andreas gross",
+			"title": "breathing my words"
+		},
+		{
+			"artist": "front line assembly",
+			"title": "death level"
+		},
+		{
+			"artist": "front line assembly",
+			"title": "prep for combat"
+		},
+		{
+			"artist": "front line assembly",
+			"title": "stealth mech"
+		},
+		{
+			"artist": "front line assembly",
+			"title": "system anomaly"
+		},
+		{
+			"artist": "front line assembly",
+			"title": "everything that was before"
+		},
+		{
+			"artist": "she past away",
+			"title": "kasvetli kutlama [pk]"
+		},
+		{
+			"artist": "silence",
+			"title": "pitaju me, pitaju"
+		},
+		{
+			"artist": "silence",
+			"title": "both feet in hell"
+		},
+		{
+			"artist": "silence",
+			"title": "skin"
+		},
+		{
+			"artist": "silence",
+			"title": "the rain"
+		},
+		{
+			"artist": "silence",
+			"title": "baby"
+		},
+		{
+			"artist": "silence",
+			"title": "son of sin"
+		},
+		{
+			"artist": "silence",
+			"title": "silver bloom"
+		},
+		{
+			"artist": "silence",
+			"title": "scream, greeneyes"
+		},
+		{
+			"artist": "silence",
+			"title": "la troia"
+		},
+		{
+			"artist": "silence",
+			"title": "drive"
+		},
+		{
+			"artist": "silence",
+			"title": "barbara"
+		},
+		{
+			"artist": "silence",
+			"title": "murder"
+		},
+		{
+			"artist": "silence feat. anne clark",
+			"title": "hall of mirrors"
+		},
+		{
+			"artist": "silence",
+			"title": "present, unexistent"
+		},
+		{
+			"artist": "silence",
+			"title": "the 5th elephant"
+		},
+		{
+			"artist": "she past away",
+			"title": "kasvetli kutlama [pk]"
+		},
+		{
+			"artist": "album: another tale",
+			"title": "nightmare voices (1992)"
+		},
+		{
+			"artist": "another tale",
+			"title": "amok"
+		},
+		{
+			"artist": "another tale",
+			"title": "say goodbye"
+		},
+		{
+			"artist": "another tale",
+			"title": "the light"
+		},
+		{
+			"artist": "another tale",
+			"title": "the princess"
+		},
+		{
+			"artist": "another tale",
+			"title": "the book"
+		},
+		{
+			"artist": "another tale",
+			"title": "the blue"
+		}
+	]
+}

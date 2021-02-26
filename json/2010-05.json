@@ -1,1 +1,159 @@
-{"title":"Maj 2010","filename":"maj-2010","date":"2010-05","songs":[{"artist":"diary of dreams","title":"bladerunner 2001"},{"artist":"joy division","title":"atmosphere"},{"artist":"god’s own medicine","title":"whispers"},{"artist":"shiller (feat. midge ure)","title":"let it rise (pk)"},{"artist":"brendan perry","title":"this boy"},{"artist":"brendan perry","title":"babylon"},{"artist":"brendan perry","title":"chasing butterflies"},{"artist":"astrid williamson","title":"amarylis"},{"artist":"schiller","title":"playing with madness"},{"artist":"schiller","title":"the fire"},{"artist":"hidden place","title":"alexander strasse"},{"artist":"shiller (feat. midge ure)","title":"let it rise (pk)"},{"artist":"the beauty of gemina","title":"obscure"},{"artist":"the beauty of gemina","title":"end of all"},{"artist":"born for bliss","title":"any more"},{"artist":"born for bliss","title":"dragon"},{"artist":"in strict confidence","title":"one drop"},{"artist":"in strict confidence","title":"golden gate"},{"artist":"twice a man","title":"follow a simple path"},{"artist":"twice a man","title":"tranquil moonlit lake"},{"artist":"shiller (feat. midge ure)","title":"let it rise (pk)"},{"artist":"joy division","title":"love will tear us apart"},{"artist":"trance to the sun","title":"love will tear us apart"},{"artist":"therapy?","title":"isolation"},{"artist":"project x","title":"she's lost control"},{"artist":"sophya","title":"transmission"},{"artist":"siderartica","title":"atmosphere"},{"artist":"lycia","title":"in a lonely place"},{"artist":"claire obscure","title":"decades"},{"artist":"in the nursery","title":"love will tear us apart (again)"},{"artist":"leaether strip","title":"walking on volcanos"},{"artist":"shiller (feat. midge ure)","title":"let it rise (pk)"},{"artist":"type o negative","title":"black no.1 (little miss scare all)"},{"artist":"type o negative","title":"summer breeze"},{"artist":"type o negative","title":"set me on fire"},{"artist":"type o negative","title":"bloody kisses(a death in the family)"},{"artist":"type o negative","title":"too late : frozen"},{"artist":"type o negative","title":"blood & fire"}]}
+{
+	"title": "Maj 2010",
+	"filename": "maj-2010",
+	"date": "2010-05",
+	"songs": [
+		{
+			"artist": "diary of dreams",
+			"title": "bladerunner 2001"
+		},
+		{
+			"artist": "joy division",
+			"title": "atmosphere"
+		},
+		{
+			"artist": "god’s own medicine",
+			"title": "whispers"
+		},
+		{
+			"artist": "shiller (feat. midge ure)",
+			"title": "let it rise (pk)"
+		},
+		{
+			"artist": "brendan perry",
+			"title": "this boy"
+		},
+		{
+			"artist": "brendan perry",
+			"title": "babylon"
+		},
+		{
+			"artist": "brendan perry",
+			"title": "chasing butterflies"
+		},
+		{
+			"artist": "astrid williamson",
+			"title": "amarylis"
+		},
+		{
+			"artist": "schiller",
+			"title": "playing with madness"
+		},
+		{
+			"artist": "schiller",
+			"title": "the fire"
+		},
+		{
+			"artist": "hidden place",
+			"title": "alexander strasse"
+		},
+		{
+			"artist": "shiller (feat. midge ure)",
+			"title": "let it rise (pk)"
+		},
+		{
+			"artist": "the beauty of gemina",
+			"title": "obscure"
+		},
+		{
+			"artist": "the beauty of gemina",
+			"title": "end of all"
+		},
+		{
+			"artist": "born for bliss",
+			"title": "any more"
+		},
+		{
+			"artist": "born for bliss",
+			"title": "dragon"
+		},
+		{
+			"artist": "in strict confidence",
+			"title": "one drop"
+		},
+		{
+			"artist": "in strict confidence",
+			"title": "golden gate"
+		},
+		{
+			"artist": "twice a man",
+			"title": "follow a simple path"
+		},
+		{
+			"artist": "twice a man",
+			"title": "tranquil moonlit lake"
+		},
+		{
+			"artist": "shiller (feat. midge ure)",
+			"title": "let it rise (pk)"
+		},
+		{
+			"artist": "joy division",
+			"title": "love will tear us apart"
+		},
+		{
+			"artist": "trance to the sun",
+			"title": "love will tear us apart"
+		},
+		{
+			"artist": "therapy?",
+			"title": "isolation"
+		},
+		{
+			"artist": "project x",
+			"title": "she's lost control"
+		},
+		{
+			"artist": "sophya",
+			"title": "transmission"
+		},
+		{
+			"artist": "siderartica",
+			"title": "atmosphere"
+		},
+		{
+			"artist": "lycia",
+			"title": "in a lonely place"
+		},
+		{
+			"artist": "claire obscure",
+			"title": "decades"
+		},
+		{
+			"artist": "in the nursery",
+			"title": "love will tear us apart (again)"
+		},
+		{
+			"artist": "leaether strip",
+			"title": "walking on volcanos"
+		},
+		{
+			"artist": "shiller (feat. midge ure)",
+			"title": "let it rise (pk)"
+		},
+		{
+			"artist": "type o negative",
+			"title": "black no.1 (little miss scare all)"
+		},
+		{
+			"artist": "type o negative",
+			"title": "summer breeze"
+		},
+		{
+			"artist": "type o negative",
+			"title": "set me on fire"
+		},
+		{
+			"artist": "type o negative",
+			"title": "bloody kisses(a death in the family)"
+		},
+		{
+			"artist": "type o negative",
+			"title": "too late : frozen"
+		},
+		{
+			"artist": "type o negative",
+			"title": "blood & fire"
+		}
+	]
+}

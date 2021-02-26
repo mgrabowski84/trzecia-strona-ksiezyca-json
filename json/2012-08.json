@@ -1,1 +1,171 @@
-{"title":"Sierpień 2012","filename":"sierpien-2012","date":"2012-08","songs":[{"artist":"diary of dreams","title":"bladerunner 2001"},{"artist":"lost memories","title":"on a dark summer night"},{"artist":"pieter nooten","title":"around us"},{"artist":"beach house","title":"wishes (pk)"},{"artist":"beach house","title":"wild"},{"artist":"ordo rosarius equilibrio","title":"imbecile, my idiot lover"},{"artist":"ordo rosarius equilibrio","title":"three is an orgy, four is forever"},{"artist":"pink turns blue","title":"moon"},{"artist":"pink turns blue","title":"your master is calling"},{"artist":"pink turns blue","title":"if two worlds kiss"},{"artist":"alien sex fiend","title":"hurricane fighter plane"},{"artist":"alien sex fiend","title":"now i'm feeling zombified (extended version)"},{"artist":"beach house","title":"wishes (pk)"},{"artist":"ikon","title":"dreaming"},{"artist":"eden","title":"dramwheel"},{"artist":"brendan perry","title":"dream letter"},{"artist":"the dreamside","title":"the dreamside"},{"artist":"and one","title":"shouts of joy (club mix)"},{"artist":"and one","title":"perfect white"},{"artist":"theodor bastard","title":"anubis"},{"artist":"theodor bastard","title":"oikoumene"},{"artist":"waves on canvas","title":"voix dans une voix"},{"artist":"waves on canvas","title":"starfish"},{"artist":"waves on canvas","title":"angel"},{"artist":"waves on canvas","title":"frozen"},{"artist":"beach house","title":"wishes (pk)"},{"artist":"yello","title":"beyond mirrors"},{"artist":"yello","title":"ciel ouvert"},{"artist":"yello","title":"monolith"},{"artist":"yello","title":"star breath"},{"artist":"yello","title":"liquid mountain"},{"artist":"girls under glass","title":"frozen"},{"artist":"die my darling","title":"just defy my love"},{"artist":"frontline assembly","title":"justify my love"},{"artist":"rosetta stone","title":"rain"},{"artist":"beach house","title":"wishes (pk)"},{"artist":"ikon","title":"azkadelia"},{"artist":"present moment","title":"emily"},{"artist":"a.r. kane","title":"lollita"},{"artist":"clan of xymox","title":"louise"},{"artist":"beach house","title":"irene"}]}
+{
+	"title": "Sierpień 2012",
+	"filename": "sierpien-2012",
+	"date": "2012-08",
+	"songs": [
+		{
+			"artist": "diary of dreams",
+			"title": "bladerunner 2001"
+		},
+		{
+			"artist": "lost memories",
+			"title": "on a dark summer night"
+		},
+		{
+			"artist": "pieter nooten",
+			"title": "around us"
+		},
+		{
+			"artist": "beach house",
+			"title": "wishes (pk)"
+		},
+		{
+			"artist": "beach house",
+			"title": "wild"
+		},
+		{
+			"artist": "ordo rosarius equilibrio",
+			"title": "imbecile, my idiot lover"
+		},
+		{
+			"artist": "ordo rosarius equilibrio",
+			"title": "three is an orgy, four is forever"
+		},
+		{
+			"artist": "pink turns blue",
+			"title": "moon"
+		},
+		{
+			"artist": "pink turns blue",
+			"title": "your master is calling"
+		},
+		{
+			"artist": "pink turns blue",
+			"title": "if two worlds kiss"
+		},
+		{
+			"artist": "alien sex fiend",
+			"title": "hurricane fighter plane"
+		},
+		{
+			"artist": "alien sex fiend",
+			"title": "now i'm feeling zombified (extended version)"
+		},
+		{
+			"artist": "beach house",
+			"title": "wishes (pk)"
+		},
+		{
+			"artist": "ikon",
+			"title": "dreaming"
+		},
+		{
+			"artist": "eden",
+			"title": "dramwheel"
+		},
+		{
+			"artist": "brendan perry",
+			"title": "dream letter"
+		},
+		{
+			"artist": "the dreamside",
+			"title": "the dreamside"
+		},
+		{
+			"artist": "and one",
+			"title": "shouts of joy (club mix)"
+		},
+		{
+			"artist": "and one",
+			"title": "perfect white"
+		},
+		{
+			"artist": "theodor bastard",
+			"title": "anubis"
+		},
+		{
+			"artist": "theodor bastard",
+			"title": "oikoumene"
+		},
+		{
+			"artist": "waves on canvas",
+			"title": "voix dans une voix"
+		},
+		{
+			"artist": "waves on canvas",
+			"title": "starfish"
+		},
+		{
+			"artist": "waves on canvas",
+			"title": "angel"
+		},
+		{
+			"artist": "waves on canvas",
+			"title": "frozen"
+		},
+		{
+			"artist": "beach house",
+			"title": "wishes (pk)"
+		},
+		{
+			"artist": "yello",
+			"title": "beyond mirrors"
+		},
+		{
+			"artist": "yello",
+			"title": "ciel ouvert"
+		},
+		{
+			"artist": "yello",
+			"title": "monolith"
+		},
+		{
+			"artist": "yello",
+			"title": "star breath"
+		},
+		{
+			"artist": "yello",
+			"title": "liquid mountain"
+		},
+		{
+			"artist": "girls under glass",
+			"title": "frozen"
+		},
+		{
+			"artist": "die my darling",
+			"title": "just defy my love"
+		},
+		{
+			"artist": "frontline assembly",
+			"title": "justify my love"
+		},
+		{
+			"artist": "rosetta stone",
+			"title": "rain"
+		},
+		{
+			"artist": "beach house",
+			"title": "wishes (pk)"
+		},
+		{
+			"artist": "ikon",
+			"title": "azkadelia"
+		},
+		{
+			"artist": "present moment",
+			"title": "emily"
+		},
+		{
+			"artist": "a.r. kane",
+			"title": "lollita"
+		},
+		{
+			"artist": "clan of xymox",
+			"title": "louise"
+		},
+		{
+			"artist": "beach house",
+			"title": "irene"
+		}
+	]
+}

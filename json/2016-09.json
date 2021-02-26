@@ -1,1 +1,175 @@
-{"title":"Wrzesień 2016","filename":"wrzesien-2016","date":"2016-09","songs":[{"artist":"diary of dreams","title":"bladerunner 2001"},{"artist":"mirror feat. dave gahan","title":"nostalgia"},{"artist":"minor victories","title":"breaking my light"},{"artist":"the beauty of gemina","title":"another death (pk)"},{"artist":"the mission","title":"another fall from grace"},{"artist":"the mission","title":"tyranny of secrets"},{"artist":"the mission","title":"valaam"},{"artist":"the mission","title":"jade"},{"artist":"the mission","title":"within the deepes darkness (fearful)"},{"artist":"the beauty of gemina","title":"waiting in the forest"},{"artist":"the beauty of gemina","title":"wonders"},{"artist":"new model army","title":"beginning"},{"artist":"new model army","title":"born feral"},{"artist":"torul","title":"an answer"},{"artist":"torul","title":"like a sound"},{"artist":"torul","title":"count me in"},{"artist":"torul","title":"further skies"},{"artist":"the black queen","title":"secret scream"},{"artist":"hante.","title":"une nuit avec mon ennemi"},{"artist":"hante.","title":"living in a french movie"},{"artist":"black tape for a blue girl","title":"affinity"},{"artist":"black tape for a blue girl","title":"desert rat - kangaroo"},{"artist":"black tape for a blue girl","title":"she ran so far away that she no longer can be found"},{"artist":"the beauty of gemina","title":"another death (pk)"},{"artist":"liquid divine","title":"fireflies"},{"artist":"liquid divine","title":"die to meet you"},{"artist":"liquid divine","title":"regolith"},{"artist":"liquid divine","title":"not your life"},{"artist":"dismantled","title":"the hero (psyclon nine remix)"},{"artist":"dismantled","title":"the underneath"},{"artist":"delerium feat. phildel","title":"ritual (matt lange remix)"},{"artist":"sono","title":"twist in my sobriety"},{"artist":"leather strip","title":"waterfront"},{"artist":"powerman","title":"5000 should i stay or should i go"},{"artist":"the beauty of gemina","title":"another death (pk)"},{"artist":"nick cave & the bad seeds","title":"the mercy seat"},{"artist":"nick cave & the bad seeds","title":"jesus alone"},{"artist":"nick cave & the bad seeds","title":"girl in amber"},{"artist":"nick cave & the bad seeds","title":"anthrocene"},{"artist":"nick cave & the bad seeds","title":"i need you"},{"artist":"nick cave & the bad seeds","title":"distant sky"},{"artist":"the beauty of gemina","title":"silent land"}]}
+{
+	"title": "Wrzesień 2016",
+	"filename": "wrzesien-2016",
+	"date": "2016-09",
+	"songs": [
+		{
+			"artist": "diary of dreams",
+			"title": "bladerunner 2001"
+		},
+		{
+			"artist": "mirror feat. dave gahan",
+			"title": "nostalgia"
+		},
+		{
+			"artist": "minor victories",
+			"title": "breaking my light"
+		},
+		{
+			"artist": "the beauty of gemina",
+			"title": "another death (pk)"
+		},
+		{
+			"artist": "the mission",
+			"title": "another fall from grace"
+		},
+		{
+			"artist": "the mission",
+			"title": "tyranny of secrets"
+		},
+		{
+			"artist": "the mission",
+			"title": "valaam"
+		},
+		{
+			"artist": "the mission",
+			"title": "jade"
+		},
+		{
+			"artist": "the mission",
+			"title": "within the deepes darkness (fearful)"
+		},
+		{
+			"artist": "the beauty of gemina",
+			"title": "waiting in the forest"
+		},
+		{
+			"artist": "the beauty of gemina",
+			"title": "wonders"
+		},
+		{
+			"artist": "new model army",
+			"title": "beginning"
+		},
+		{
+			"artist": "new model army",
+			"title": "born feral"
+		},
+		{
+			"artist": "torul",
+			"title": "an answer"
+		},
+		{
+			"artist": "torul",
+			"title": "like a sound"
+		},
+		{
+			"artist": "torul",
+			"title": "count me in"
+		},
+		{
+			"artist": "torul",
+			"title": "further skies"
+		},
+		{
+			"artist": "the black queen",
+			"title": "secret scream"
+		},
+		{
+			"artist": "hante.",
+			"title": "une nuit avec mon ennemi"
+		},
+		{
+			"artist": "hante.",
+			"title": "living in a french movie"
+		},
+		{
+			"artist": "black tape for a blue girl",
+			"title": "affinity"
+		},
+		{
+			"artist": "black tape for a blue girl",
+			"title": "desert rat - kangaroo"
+		},
+		{
+			"artist": "black tape for a blue girl",
+			"title": "she ran so far away that she no longer can be found"
+		},
+		{
+			"artist": "the beauty of gemina",
+			"title": "another death (pk)"
+		},
+		{
+			"artist": "liquid divine",
+			"title": "fireflies"
+		},
+		{
+			"artist": "liquid divine",
+			"title": "die to meet you"
+		},
+		{
+			"artist": "liquid divine",
+			"title": "regolith"
+		},
+		{
+			"artist": "liquid divine",
+			"title": "not your life"
+		},
+		{
+			"artist": "dismantled",
+			"title": "the hero (psyclon nine remix)"
+		},
+		{
+			"artist": "dismantled",
+			"title": "the underneath"
+		},
+		{
+			"artist": "delerium feat. phildel",
+			"title": "ritual (matt lange remix)"
+		},
+		{
+			"artist": "sono",
+			"title": "twist in my sobriety"
+		},
+		{
+			"artist": "leather strip",
+			"title": "waterfront"
+		},
+		{
+			"artist": "powerman",
+			"title": "5000 should i stay or should i go"
+		},
+		{
+			"artist": "the beauty of gemina",
+			"title": "another death (pk)"
+		},
+		{
+			"artist": "nick cave & the bad seeds",
+			"title": "the mercy seat"
+		},
+		{
+			"artist": "nick cave & the bad seeds",
+			"title": "jesus alone"
+		},
+		{
+			"artist": "nick cave & the bad seeds",
+			"title": "girl in amber"
+		},
+		{
+			"artist": "nick cave & the bad seeds",
+			"title": "anthrocene"
+		},
+		{
+			"artist": "nick cave & the bad seeds",
+			"title": "i need you"
+		},
+		{
+			"artist": "nick cave & the bad seeds",
+			"title": "distant sky"
+		},
+		{
+			"artist": "the beauty of gemina",
+			"title": "silent land"
+		}
+	]
+}

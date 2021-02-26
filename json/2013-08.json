@@ -1,1 +1,179 @@
-{"title":"Sierpień 2013","filename":"sierpien-2013","date":"2013-08","songs":[{"artist":"diary of dreams","title":"bladerunner 2001"},{"artist":"the mission","title":"kingdom come (heavenly mix)"},{"artist":"kirlian camera","title":"comfortably numb"},{"artist":"weareoff","title":"as long as we remember"},{"artist":"alison moyet","title":"apple kisses [pk]"},{"artist":"boudoir","title":"empty world"},{"artist":"boudoir","title":"come back"},{"artist":"boudoir","title":"dreams fade away"},{"artist":"white lies","title":"tricky to love"},{"artist":"white lies","title":"heaven wait"},{"artist":"hearts of black science","title":"we saw the moon"},{"artist":"hearts of black science","title":"walking with the sun (dreamy version)"},{"artist":"god is an astronaut","title":"spiral code"},{"artist":"spiral69","title":"no hear"},{"artist":"icehouse","title":"great southern land"},{"artist":"alphaville","title":"summer in berlin"},{"artist":"chandeen","title":"the loss of summer"},{"artist":"forthcoming fire","title":"summergold"},{"artist":"x - marks the pedwalk","title":"electric summer"},{"artist":"werk & misia furtak","title":"summer of love"},{"artist":"pulp","title":"david's last summer"},{"artist":"alison moyet","title":"apple kisses [pk]"},{"artist":"alien sex fiend","title":"echoes"},{"artist":"furnace","title":"hey you"},{"artist":"leather strip","title":"learning to fly"},{"artist":"kirlian camera","title":"julia dream"},{"artist":"the changelings","title":"see emily play"},{"artist":"collide","title":"comfortably numb"},{"artist":"love and rockets","title":"lucifer sam"},{"artist":"nena","title":"us and them"},{"artist":"human drama","title":"wish you were here"},{"artist":"eden","title":"jugband blues"},{"artist":"alison moyet","title":"apple kisses[pk]"},{"artist":"zinovia","title":"emerge to breathe"},{"artist":"zinovia","title":"beneath a stellar sky"},{"artist":"front line assembly","title":"killing grounds"},{"artist":"front line assembly","title":"deadened"},{"artist":"autoclav 1.1","title":"zoff elemental"},{"artist":"autoclav 1.1","title":"wafer skin"},{"artist":"type o negative","title":"summer girl"},{"artist":"rosetta stone","title":"summer"},{"artist":"mogwai","title":"summer (priority version)"},{"artist":"julee cruise","title":"summer kisses, winter tears"}]}
+{
+	"title": "Sierpień 2013",
+	"filename": "sierpien-2013",
+	"date": "2013-08",
+	"songs": [
+		{
+			"artist": "diary of dreams",
+			"title": "bladerunner 2001"
+		},
+		{
+			"artist": "the mission",
+			"title": "kingdom come (heavenly mix)"
+		},
+		{
+			"artist": "kirlian camera",
+			"title": "comfortably numb"
+		},
+		{
+			"artist": "weareoff",
+			"title": "as long as we remember"
+		},
+		{
+			"artist": "alison moyet",
+			"title": "apple kisses [pk]"
+		},
+		{
+			"artist": "boudoir",
+			"title": "empty world"
+		},
+		{
+			"artist": "boudoir",
+			"title": "come back"
+		},
+		{
+			"artist": "boudoir",
+			"title": "dreams fade away"
+		},
+		{
+			"artist": "white lies",
+			"title": "tricky to love"
+		},
+		{
+			"artist": "white lies",
+			"title": "heaven wait"
+		},
+		{
+			"artist": "hearts of black science",
+			"title": "we saw the moon"
+		},
+		{
+			"artist": "hearts of black science",
+			"title": "walking with the sun (dreamy version)"
+		},
+		{
+			"artist": "god is an astronaut",
+			"title": "spiral code"
+		},
+		{
+			"artist": "spiral69",
+			"title": "no hear"
+		},
+		{
+			"artist": "icehouse",
+			"title": "great southern land"
+		},
+		{
+			"artist": "alphaville",
+			"title": "summer in berlin"
+		},
+		{
+			"artist": "chandeen",
+			"title": "the loss of summer"
+		},
+		{
+			"artist": "forthcoming fire",
+			"title": "summergold"
+		},
+		{
+			"artist": "x - marks the pedwalk",
+			"title": "electric summer"
+		},
+		{
+			"artist": "werk & misia furtak",
+			"title": "summer of love"
+		},
+		{
+			"artist": "pulp",
+			"title": "david's last summer"
+		},
+		{
+			"artist": "alison moyet",
+			"title": "apple kisses [pk]"
+		},
+		{
+			"artist": "alien sex fiend",
+			"title": "echoes"
+		},
+		{
+			"artist": "furnace",
+			"title": "hey you"
+		},
+		{
+			"artist": "leather strip",
+			"title": "learning to fly"
+		},
+		{
+			"artist": "kirlian camera",
+			"title": "julia dream"
+		},
+		{
+			"artist": "the changelings",
+			"title": "see emily play"
+		},
+		{
+			"artist": "collide",
+			"title": "comfortably numb"
+		},
+		{
+			"artist": "love and rockets",
+			"title": "lucifer sam"
+		},
+		{
+			"artist": "nena",
+			"title": "us and them"
+		},
+		{
+			"artist": "human drama",
+			"title": "wish you were here"
+		},
+		{
+			"artist": "eden",
+			"title": "jugband blues"
+		},
+		{
+			"artist": "alison moyet",
+			"title": "apple kisses[pk]"
+		},
+		{
+			"artist": "zinovia",
+			"title": "emerge to breathe"
+		},
+		{
+			"artist": "zinovia",
+			"title": "beneath a stellar sky"
+		},
+		{
+			"artist": "front line assembly",
+			"title": "killing grounds"
+		},
+		{
+			"artist": "front line assembly",
+			"title": "deadened"
+		},
+		{
+			"artist": "autoclav 1.1",
+			"title": "zoff elemental"
+		},
+		{
+			"artist": "autoclav 1.1",
+			"title": "wafer skin"
+		},
+		{
+			"artist": "type o negative",
+			"title": "summer girl"
+		},
+		{
+			"artist": "rosetta stone",
+			"title": "summer"
+		},
+		{
+			"artist": "mogwai",
+			"title": "summer (priority version)"
+		},
+		{
+			"artist": "julee cruise",
+			"title": "summer kisses, winter tears"
+		}
+	]
+}

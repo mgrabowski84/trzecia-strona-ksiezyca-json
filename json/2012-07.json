@@ -1,1 +1,171 @@
-{"title":"Lipiec 2012","filename":"lipiec-2012","date":"2012-07","songs":[{"artist":"diary of dreams","title":"bladerunner 2001"},{"artist":"greenwood","title":"balor`s song"},{"artist":"silver swans","title":"diary land"},{"artist":"pieter nooten","title":"around us (pk)"},{"artist":"dead can dance","title":"amnesia"},{"artist":"dead can dance","title":"yulunga"},{"artist":"blonde redhead","title":"spain"},{"artist":"trobar de morte","title":"morgana"},{"artist":"ordo rosarius equilibrio","title":"singing for the angel of the east"},{"artist":"arcana","title":"as the end draws near"},{"artist":"peter bjargo","title":"the hidden compass"},{"artist":"beach house","title":"wishes"},{"artist":"beach house","title":"myth"},{"artist":"piano magic","title":"a secret never told"},{"artist":"piano magic","title":"(the way we treat) the animals"},{"artist":"all will be quiet","title":"dark dreamsall"},{"artist":"will be quiet","title":"washed away"},{"artist":"pieter nooten","title":"around us (pk)"},{"artist":"merciful nuns","title":"ceremonial passage"},{"artist":"alien sex fiend","title":"e.s.t. (trip to the moon)"},{"artist":"pink turns blue","title":"i coldly stare out"},{"artist":"deathcamp project","title":"kłamać"},{"artist":"the cuts","title":"czarny świat"},{"artist":"closterkeller","title":"jak łzy w deszczu"},{"artist":"forthcoming fire","title":"godmachines"},{"artist":"forthcoming fire","title":"feuer"},{"artist":"forthcoming fire","title":"je suis"},{"artist":"leaether strip","title":"walking on volcanos"},{"artist":"leaether strip","title":"song for pia"},{"artist":"leaether strip","title":"lullaby"},{"artist":"psyche","title":"charlotte sometimes"},{"artist":"psyche","title":"faith"},{"artist":"psyche","title":"riders on the storm (easy mix)"},{"artist":"forthcoming fire","title":"nights in white satin"},{"artist":"pieter nooten","title":"around us (pk)"},{"artist":"liv kristine","title":"streets of philadelphia"},{"artist":"the eternal afflict","title":"san diego (2k9 extended)"},{"artist":"cocteau twins","title":"heaven or las vegas"},{"artist":"frank black","title":"los angeles"},{"artist":"she wants revenge","title":"...and a song for los angeles"},{"artist":"craig armstrong","title":"wake up in new york"}]}
+{
+	"title": "Lipiec 2012",
+	"filename": "lipiec-2012",
+	"date": "2012-07",
+	"songs": [
+		{
+			"artist": "diary of dreams",
+			"title": "bladerunner 2001"
+		},
+		{
+			"artist": "greenwood",
+			"title": "balor`s song"
+		},
+		{
+			"artist": "silver swans",
+			"title": "diary land"
+		},
+		{
+			"artist": "pieter nooten",
+			"title": "around us (pk)"
+		},
+		{
+			"artist": "dead can dance",
+			"title": "amnesia"
+		},
+		{
+			"artist": "dead can dance",
+			"title": "yulunga"
+		},
+		{
+			"artist": "blonde redhead",
+			"title": "spain"
+		},
+		{
+			"artist": "trobar de morte",
+			"title": "morgana"
+		},
+		{
+			"artist": "ordo rosarius equilibrio",
+			"title": "singing for the angel of the east"
+		},
+		{
+			"artist": "arcana",
+			"title": "as the end draws near"
+		},
+		{
+			"artist": "peter bjargo",
+			"title": "the hidden compass"
+		},
+		{
+			"artist": "beach house",
+			"title": "wishes"
+		},
+		{
+			"artist": "beach house",
+			"title": "myth"
+		},
+		{
+			"artist": "piano magic",
+			"title": "a secret never told"
+		},
+		{
+			"artist": "piano magic",
+			"title": "(the way we treat) the animals"
+		},
+		{
+			"artist": "all will be quiet",
+			"title": "dark dreamsall"
+		},
+		{
+			"artist": "will be quiet",
+			"title": "washed away"
+		},
+		{
+			"artist": "pieter nooten",
+			"title": "around us (pk)"
+		},
+		{
+			"artist": "merciful nuns",
+			"title": "ceremonial passage"
+		},
+		{
+			"artist": "alien sex fiend",
+			"title": "e.s.t. (trip to the moon)"
+		},
+		{
+			"artist": "pink turns blue",
+			"title": "i coldly stare out"
+		},
+		{
+			"artist": "deathcamp project",
+			"title": "kłamać"
+		},
+		{
+			"artist": "the cuts",
+			"title": "czarny świat"
+		},
+		{
+			"artist": "closterkeller",
+			"title": "jak łzy w deszczu"
+		},
+		{
+			"artist": "forthcoming fire",
+			"title": "godmachines"
+		},
+		{
+			"artist": "forthcoming fire",
+			"title": "feuer"
+		},
+		{
+			"artist": "forthcoming fire",
+			"title": "je suis"
+		},
+		{
+			"artist": "leaether strip",
+			"title": "walking on volcanos"
+		},
+		{
+			"artist": "leaether strip",
+			"title": "song for pia"
+		},
+		{
+			"artist": "leaether strip",
+			"title": "lullaby"
+		},
+		{
+			"artist": "psyche",
+			"title": "charlotte sometimes"
+		},
+		{
+			"artist": "psyche",
+			"title": "faith"
+		},
+		{
+			"artist": "psyche",
+			"title": "riders on the storm (easy mix)"
+		},
+		{
+			"artist": "forthcoming fire",
+			"title": "nights in white satin"
+		},
+		{
+			"artist": "pieter nooten",
+			"title": "around us (pk)"
+		},
+		{
+			"artist": "liv kristine",
+			"title": "streets of philadelphia"
+		},
+		{
+			"artist": "the eternal afflict",
+			"title": "san diego (2k9 extended)"
+		},
+		{
+			"artist": "cocteau twins",
+			"title": "heaven or las vegas"
+		},
+		{
+			"artist": "frank black",
+			"title": "los angeles"
+		},
+		{
+			"artist": "she wants revenge",
+			"title": "...and a song for los angeles"
+		},
+		{
+			"artist": "craig armstrong",
+			"title": "wake up in new york"
+		}
+	]
+}

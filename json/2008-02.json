@@ -1,1 +1,147 @@
-{"title":"Luty 2008","filename":"luty-2008","date":"2008-02","songs":[{"artist":"diary of dreams","title":"bladerunner 2001"},{"artist":"qntal","title":"ich minne einen ritter"},{"artist":"the cruxshadows","title":"sinking"},{"artist":"dragons","title":"where is the love (pk)"},{"artist":"the mission","title":"wasteland (anniversary mix)"},{"artist":"the mission","title":"tower of strength"},{"artist":"the mission","title":"garden of delight (hereafter)"},{"artist":"the mission","title":"dance on glass"},{"artist":"dragons","title":"forever"},{"artist":"dead guitars","title":"name of the sea"},{"artist":"the mission","title":"love me to death"},{"artist":"the mission","title":"serpents kiss"},{"artist":"the mission","title":"shelter from the storm (live astoria' 88)"},{"artist":"the mission","title":"amelia"},{"artist":"b.f.g","title":"amelia"},{"artist":"b.f.g","title":"fall"},{"artist":"the mission","title":"butterfly on a whell (the bbc radio one session)"},{"artist":"the cure","title":"inbetween days"},{"artist":"the cure","title":"100 years"},{"artist":"the sisters of mercy","title":"marian"},{"artist":"the sisters of mercy","title":"black planet"},{"artist":"the sisters of mercy","title":"ribbons"},{"artist":"dragons","title":"where is the love (pk)"},{"artist":"leandra","title":"lie to me"},{"artist":"the mission","title":"beyond the pale"},{"artist":"the mission","title":"that tears shall drown the wind"},{"artist":"all about eve","title":"lady moonlight"},{"artist":"gossamer","title":"sin again"},{"artist":"the mission","title":"kingdom come (forever and again)"},{"artist":"the mission","title":"bird of passage"},{"artist":"the mission","title":"swim with the dolphins"},{"artist":"the mission","title":"mesmerised (reprise)"},{"artist":"the mission","title":"wasting away"},{"artist":"the mission","title":"neverland"},{"artist":"the mission","title":"daddy`s going to heaven now"}]}
+{
+	"title": "Luty 2008",
+	"filename": "luty-2008",
+	"date": "2008-02",
+	"songs": [
+		{
+			"artist": "diary of dreams",
+			"title": "bladerunner 2001"
+		},
+		{
+			"artist": "qntal",
+			"title": "ich minne einen ritter"
+		},
+		{
+			"artist": "the cruxshadows",
+			"title": "sinking"
+		},
+		{
+			"artist": "dragons",
+			"title": "where is the love (pk)"
+		},
+		{
+			"artist": "the mission",
+			"title": "wasteland (anniversary mix)"
+		},
+		{
+			"artist": "the mission",
+			"title": "tower of strength"
+		},
+		{
+			"artist": "the mission",
+			"title": "garden of delight (hereafter)"
+		},
+		{
+			"artist": "the mission",
+			"title": "dance on glass"
+		},
+		{
+			"artist": "dragons",
+			"title": "forever"
+		},
+		{
+			"artist": "dead guitars",
+			"title": "name of the sea"
+		},
+		{
+			"artist": "the mission",
+			"title": "love me to death"
+		},
+		{
+			"artist": "the mission",
+			"title": "serpents kiss"
+		},
+		{
+			"artist": "the mission",
+			"title": "shelter from the storm (live astoria' 88)"
+		},
+		{
+			"artist": "the mission",
+			"title": "amelia"
+		},
+		{
+			"artist": "b.f.g",
+			"title": "amelia"
+		},
+		{
+			"artist": "b.f.g",
+			"title": "fall"
+		},
+		{
+			"artist": "the mission",
+			"title": "butterfly on a whell (the bbc radio one session)"
+		},
+		{
+			"artist": "the cure",
+			"title": "inbetween days"
+		},
+		{
+			"artist": "the cure",
+			"title": "100 years"
+		},
+		{
+			"artist": "the sisters of mercy",
+			"title": "marian"
+		},
+		{
+			"artist": "the sisters of mercy",
+			"title": "black planet"
+		},
+		{
+			"artist": "the sisters of mercy",
+			"title": "ribbons"
+		},
+		{
+			"artist": "dragons",
+			"title": "where is the love (pk)"
+		},
+		{
+			"artist": "leandra",
+			"title": "lie to me"
+		},
+		{
+			"artist": "the mission",
+			"title": "beyond the pale"
+		},
+		{
+			"artist": "the mission",
+			"title": "that tears shall drown the wind"
+		},
+		{
+			"artist": "all about eve",
+			"title": "lady moonlight"
+		},
+		{
+			"artist": "gossamer",
+			"title": "sin again"
+		},
+		{
+			"artist": "the mission",
+			"title": "kingdom come (forever and again)"
+		},
+		{
+			"artist": "the mission",
+			"title": "bird of passage"
+		},
+		{
+			"artist": "the mission",
+			"title": "swim with the dolphins"
+		},
+		{
+			"artist": "the mission",
+			"title": "mesmerised (reprise)"
+		},
+		{
+			"artist": "the mission",
+			"title": "wasting away"
+		},
+		{
+			"artist": "the mission",
+			"title": "neverland"
+		},
+		{
+			"artist": "the mission",
+			"title": "daddy`s going to heaven now"
+		}
+	]
+}

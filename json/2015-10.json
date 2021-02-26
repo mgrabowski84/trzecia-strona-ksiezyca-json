@@ -1,1 +1,167 @@
-{"title":"Październik 2015","filename":"pazdziernik-2015","date":"2015-10","songs":[{"artist":"diary of dreams","title":"bladerunner 2001"},{"artist":"lush","title":"light from a dead star"},{"artist":"nicole sabouné","title":"lifetime"},{"artist":"killing joke","title":"euphoria [pk]"},{"artist":"killing joke","title":"war on freedom"},{"artist":"hearts of black science","title":"icon"},{"artist":"hearts of black science","title":"waiting"},{"artist":"sans parade","title":"hyperborea"},{"artist":"dave gahan & soulsavers","title":"all of this and nothing"},{"artist":"iamx","title":"north star"},{"artist":"fiction 8","title":"i remember"},{"artist":"escape with romeo","title":"after the party"},{"artist":"minuit machine","title":"battles"},{"artist":"bel canto","title":"the suffering"},{"artist":"bel canto","title":"picnic on the moon"},{"artist":"bel canto","title":"summer"},{"artist":"bel canto","title":"spiderdust"},{"artist":"bel canto","title":"here, in shadow"},{"artist":"bel canto","title":"mornixuur"},{"artist":"bel canto","title":"verena"},{"artist":"bel canto","title":"disappear club 5"},{"artist":"killing joke","title":"euphoria [pk]"},{"artist":"röyksopp","title":"sparks"},{"artist":"bel canto","title":"dorothy's victory"},{"artist":"anneli drecker","title":"all i know"},{"artist":"anneli drecker","title":"rainstorm"},{"artist":"anneli drecker","title":"ocean's organ"},{"artist":"anneli drecker","title":"seagull's melody"},{"artist":"anneli drecker, bill laswell, hector zazou & gérard depardieu","title":"i'll strangle you"},{"artist":"a - ha","title":"turn the lights down"},{"artist":"a - ha","title":"stay on these roads"},{"artist":"killing joke","title":"euphoria [pk]"},{"artist":"handful of snowdrops","title":"better later than never"},{"artist":"lush","title":"i have the moon"},{"artist":"the invincible spirit","title":"atmosphere"},{"artist":"ari mason","title":"out of the rain"},{"artist":"lush","title":"fallin' in love"},{"artist":"black nail cabaret","title":"such a shame"},{"artist":"evi vine","title":"dead souls"},{"artist":"der blaue reiter","title":"decades"}]}
+{
+	"title": "Październik 2015",
+	"filename": "pazdziernik-2015",
+	"date": "2015-10",
+	"songs": [
+		{
+			"artist": "diary of dreams",
+			"title": "bladerunner 2001"
+		},
+		{
+			"artist": "lush",
+			"title": "light from a dead star"
+		},
+		{
+			"artist": "nicole sabouné",
+			"title": "lifetime"
+		},
+		{
+			"artist": "killing joke",
+			"title": "euphoria [pk]"
+		},
+		{
+			"artist": "killing joke",
+			"title": "war on freedom"
+		},
+		{
+			"artist": "hearts of black science",
+			"title": "icon"
+		},
+		{
+			"artist": "hearts of black science",
+			"title": "waiting"
+		},
+		{
+			"artist": "sans parade",
+			"title": "hyperborea"
+		},
+		{
+			"artist": "dave gahan & soulsavers",
+			"title": "all of this and nothing"
+		},
+		{
+			"artist": "iamx",
+			"title": "north star"
+		},
+		{
+			"artist": "fiction 8",
+			"title": "i remember"
+		},
+		{
+			"artist": "escape with romeo",
+			"title": "after the party"
+		},
+		{
+			"artist": "minuit machine",
+			"title": "battles"
+		},
+		{
+			"artist": "bel canto",
+			"title": "the suffering"
+		},
+		{
+			"artist": "bel canto",
+			"title": "picnic on the moon"
+		},
+		{
+			"artist": "bel canto",
+			"title": "summer"
+		},
+		{
+			"artist": "bel canto",
+			"title": "spiderdust"
+		},
+		{
+			"artist": "bel canto",
+			"title": "here, in shadow"
+		},
+		{
+			"artist": "bel canto",
+			"title": "mornixuur"
+		},
+		{
+			"artist": "bel canto",
+			"title": "verena"
+		},
+		{
+			"artist": "bel canto",
+			"title": "disappear club 5"
+		},
+		{
+			"artist": "killing joke",
+			"title": "euphoria [pk]"
+		},
+		{
+			"artist": "röyksopp",
+			"title": "sparks"
+		},
+		{
+			"artist": "bel canto",
+			"title": "dorothy's victory"
+		},
+		{
+			"artist": "anneli drecker",
+			"title": "all i know"
+		},
+		{
+			"artist": "anneli drecker",
+			"title": "rainstorm"
+		},
+		{
+			"artist": "anneli drecker",
+			"title": "ocean's organ"
+		},
+		{
+			"artist": "anneli drecker",
+			"title": "seagull's melody"
+		},
+		{
+			"artist": "anneli drecker, bill laswell, hector zazou & gérard depardieu",
+			"title": "i'll strangle you"
+		},
+		{
+			"artist": "a - ha",
+			"title": "turn the lights down"
+		},
+		{
+			"artist": "a - ha",
+			"title": "stay on these roads"
+		},
+		{
+			"artist": "killing joke",
+			"title": "euphoria [pk]"
+		},
+		{
+			"artist": "handful of snowdrops",
+			"title": "better later than never"
+		},
+		{
+			"artist": "lush",
+			"title": "i have the moon"
+		},
+		{
+			"artist": "the invincible spirit",
+			"title": "atmosphere"
+		},
+		{
+			"artist": "ari mason",
+			"title": "out of the rain"
+		},
+		{
+			"artist": "lush",
+			"title": "fallin' in love"
+		},
+		{
+			"artist": "black nail cabaret",
+			"title": "such a shame"
+		},
+		{
+			"artist": "evi vine",
+			"title": "dead souls"
+		},
+		{
+			"artist": "der blaue reiter",
+			"title": "decades"
+		}
+	]
+}

@@ -1,1 +1,175 @@
-{"title":"Styczeń 2007","filename":"styczen-2007","date":"2007-01","songs":[{"artist":"diary of dreams","title":"bladerunner 2001"},{"artist":"in strict confidence","title":"miss your voice"},{"artist":"in the nursery","title":"vantage"},{"artist":"iamx","title":"spit it out (pk)"},{"artist":"in strict confidence","title":"promised land (extended)"},{"artist":"de vision","title":"the end"},{"artist":"covenant","title":"ritual noise"},{"artist":"velvet acid christ","title":"crushed"},{"artist":"depech mode","title":"john the revelator"},{"artist":"iamx","title":"night live"},{"artist":"iamx","title":"spit it out (pk)"},{"artist":"the mission","title":"serpent`s kiss"},{"artist":"the mission","title":"forever more"},{"artist":"agressiva 69","title":"in your eyes"},{"artist":"agressiva 69","title":"ostry jak nóż"},{"artist":"velvet acid christ","title":"ghost in the circuit"},{"artist":"frontline assembly","title":"social enemy"},{"artist":"frontline assembly","title":"the storm"},{"artist":"in strict confidence","title":"diamond"},{"artist":"nerve filter","title":"sunrise"},{"artist":"iamx","title":"spit it out (pk)"},{"artist":"in the nursery","title":"imperfect design"},{"artist":"in the nursery","title":"silent in time"},{"artist":"sophya","title":"more"},{"artist":"sophya","title":"fifty four"},{"artist":"sumerland","title":"happily ever after"},{"artist":"sumerland","title":"butterfly wings"},{"artist":"silence","title":"the 5th elephant"},{"artist":"qntal","title":"levis (half light mix)"},{"artist":"lisa gerrard","title":"valley of the moon"},{"artist":"iamx","title":"spit it out (pk)"},{"artist":"soundgarden","title":"black hole sun"},{"artist":"cinderella effect","title":"black hole sun"},{"artist":"oberon","title":"enjoy the silence"},{"artist":"john foxx & louis gordon","title":"another you"},{"artist":"john foxx & louis gordon","title":"a million cars"},{"artist":"mediavolo","title":"how does it end"},{"artist":"mediavolo","title":"secret sound"},{"artist":"priscilla hernandez","title":"away"},{"artist":"priscilla hernandez","title":"i steal the leaves"},{"artist":"rose berlin (feat curve)","title":"coraline"},{"artist":"autumn`s grey solace","title":"still"}]}
+{
+	"title": "Styczeń 2007",
+	"filename": "styczen-2007",
+	"date": "2007-01",
+	"songs": [
+		{
+			"artist": "diary of dreams",
+			"title": "bladerunner 2001"
+		},
+		{
+			"artist": "in strict confidence",
+			"title": "miss your voice"
+		},
+		{
+			"artist": "in the nursery",
+			"title": "vantage"
+		},
+		{
+			"artist": "iamx",
+			"title": "spit it out (pk)"
+		},
+		{
+			"artist": "in strict confidence",
+			"title": "promised land (extended)"
+		},
+		{
+			"artist": "de vision",
+			"title": "the end"
+		},
+		{
+			"artist": "covenant",
+			"title": "ritual noise"
+		},
+		{
+			"artist": "velvet acid christ",
+			"title": "crushed"
+		},
+		{
+			"artist": "depech mode",
+			"title": "john the revelator"
+		},
+		{
+			"artist": "iamx",
+			"title": "night live"
+		},
+		{
+			"artist": "iamx",
+			"title": "spit it out (pk)"
+		},
+		{
+			"artist": "the mission",
+			"title": "serpent`s kiss"
+		},
+		{
+			"artist": "the mission",
+			"title": "forever more"
+		},
+		{
+			"artist": "agressiva 69",
+			"title": "in your eyes"
+		},
+		{
+			"artist": "agressiva 69",
+			"title": "ostry jak nóż"
+		},
+		{
+			"artist": "velvet acid christ",
+			"title": "ghost in the circuit"
+		},
+		{
+			"artist": "frontline assembly",
+			"title": "social enemy"
+		},
+		{
+			"artist": "frontline assembly",
+			"title": "the storm"
+		},
+		{
+			"artist": "in strict confidence",
+			"title": "diamond"
+		},
+		{
+			"artist": "nerve filter",
+			"title": "sunrise"
+		},
+		{
+			"artist": "iamx",
+			"title": "spit it out (pk)"
+		},
+		{
+			"artist": "in the nursery",
+			"title": "imperfect design"
+		},
+		{
+			"artist": "in the nursery",
+			"title": "silent in time"
+		},
+		{
+			"artist": "sophya",
+			"title": "more"
+		},
+		{
+			"artist": "sophya",
+			"title": "fifty four"
+		},
+		{
+			"artist": "sumerland",
+			"title": "happily ever after"
+		},
+		{
+			"artist": "sumerland",
+			"title": "butterfly wings"
+		},
+		{
+			"artist": "silence",
+			"title": "the 5th elephant"
+		},
+		{
+			"artist": "qntal",
+			"title": "levis (half light mix)"
+		},
+		{
+			"artist": "lisa gerrard",
+			"title": "valley of the moon"
+		},
+		{
+			"artist": "iamx",
+			"title": "spit it out (pk)"
+		},
+		{
+			"artist": "soundgarden",
+			"title": "black hole sun"
+		},
+		{
+			"artist": "cinderella effect",
+			"title": "black hole sun"
+		},
+		{
+			"artist": "oberon",
+			"title": "enjoy the silence"
+		},
+		{
+			"artist": "john foxx & louis gordon",
+			"title": "another you"
+		},
+		{
+			"artist": "john foxx & louis gordon",
+			"title": "a million cars"
+		},
+		{
+			"artist": "mediavolo",
+			"title": "how does it end"
+		},
+		{
+			"artist": "mediavolo",
+			"title": "secret sound"
+		},
+		{
+			"artist": "priscilla hernandez",
+			"title": "away"
+		},
+		{
+			"artist": "priscilla hernandez",
+			"title": "i steal the leaves"
+		},
+		{
+			"artist": "rose berlin (feat curve)",
+			"title": "coraline"
+		},
+		{
+			"artist": "autumn`s grey solace",
+			"title": "still"
+		}
+	]
+}

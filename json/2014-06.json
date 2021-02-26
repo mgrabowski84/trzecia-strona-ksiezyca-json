@@ -1,1 +1,207 @@
-{"title":"Czerwiec 2014","filename":"czerwiec-2014","date":"2014-06","songs":[{"artist":"diary of dreams","title":"bladerunner 2001"},{"artist":"ikon","title":"the end shall come"},{"artist":"ikon","title":"rise and fall"},{"artist":"davidge feat. sandi shaw","title":"riot pictures"},{"artist":"all hallows eve","title":"all hallows eve [pk]"},{"artist":"all hallows eve","title":"the hourglass"},{"artist":"peter murphy","title":"i am not my own name"},{"artist":"peter murphy","title":"compression"},{"artist":"peter murphy","title":"lion"},{"artist":"ikon","title":"i burn for you"},{"artist":"cold cave","title":"people are poison"},{"artist":"seasurfer","title":"cloud jumping"},{"artist":"jordan reyne","title":"servitude"},{"artist":"the pale moon","title":"the essence"},{"artist":"all hallows eve","title":"all hallows eve [pk]"},{"artist":"the fair sex","title":"cyberbite (original)"},{"artist":"the fair sex","title":"not now, not here"},{"artist":"the fair sex","title":"shelter"},{"artist":"apoptygma berzerk","title":"love never dies"},{"artist":"white lies","title":"to lose my life"},{"artist":"white lies","title":"farewell to the fairground"},{"artist":"white lies","title":"big tv"},{"artist":"i - m -r","title":"poisoned eyes"},{"artist":"in my rosary","title":"believe/because"},{"artist":"in my rosary","title":"satin sheets"},{"artist":"in my rosary","title":"the rose of the world"},{"artist":"front line assembly","title":"killing grounds"},{"artist":"the devil & the universe","title":"nod"},{"artist":"the devil & the universe","title":"iblis"},{"artist":"the devil & the universe","title":"it is our will"},{"artist":"ulterior","title":"the locus of control"},{"artist":"ulterior","title":"catherine"},{"artist":"the soft moon","title":"it ends"},{"artist":"the soft moon","title":"breathe the fire"},{"artist":"the soft moon","title":"tiny spiders"},{"artist":"the soft moon","title":"alive"},{"artist":"slowdive","title":"souvlaki space station"},{"artist":"slowdive","title":"alison"},{"artist":"the foreign resort","title":"dave"},{"artist":"peter murphy","title":"eliza"},{"artist":"all hallows eve","title":"all hallows eve [pk]"},{"artist":"eyescream","title":"succubus"},{"artist":"eyescream","title":"1r"},{"artist":"eyescream","title":"clockwork elephant"},{"artist":"numb","title":"suspiria"},{"artist":"alkaline trio","title":"lucretia my reflection (som)"},{"artist":"babylon will fall","title":"dominion/mother russia (som)"},{"artist":"the sisters of mercy","title":"alice"},{"artist":"shroud","title":"alice (som)"},{"artist":"soul in isolation","title":"marian (som)"}]}
+{
+	"title": "Czerwiec 2014",
+	"filename": "czerwiec-2014",
+	"date": "2014-06",
+	"songs": [
+		{
+			"artist": "diary of dreams",
+			"title": "bladerunner 2001"
+		},
+		{
+			"artist": "ikon",
+			"title": "the end shall come"
+		},
+		{
+			"artist": "ikon",
+			"title": "rise and fall"
+		},
+		{
+			"artist": "davidge feat. sandi shaw",
+			"title": "riot pictures"
+		},
+		{
+			"artist": "all hallows eve",
+			"title": "all hallows eve [pk]"
+		},
+		{
+			"artist": "all hallows eve",
+			"title": "the hourglass"
+		},
+		{
+			"artist": "peter murphy",
+			"title": "i am not my own name"
+		},
+		{
+			"artist": "peter murphy",
+			"title": "compression"
+		},
+		{
+			"artist": "peter murphy",
+			"title": "lion"
+		},
+		{
+			"artist": "ikon",
+			"title": "i burn for you"
+		},
+		{
+			"artist": "cold cave",
+			"title": "people are poison"
+		},
+		{
+			"artist": "seasurfer",
+			"title": "cloud jumping"
+		},
+		{
+			"artist": "jordan reyne",
+			"title": "servitude"
+		},
+		{
+			"artist": "the pale moon",
+			"title": "the essence"
+		},
+		{
+			"artist": "all hallows eve",
+			"title": "all hallows eve [pk]"
+		},
+		{
+			"artist": "the fair sex",
+			"title": "cyberbite (original)"
+		},
+		{
+			"artist": "the fair sex",
+			"title": "not now, not here"
+		},
+		{
+			"artist": "the fair sex",
+			"title": "shelter"
+		},
+		{
+			"artist": "apoptygma berzerk",
+			"title": "love never dies"
+		},
+		{
+			"artist": "white lies",
+			"title": "to lose my life"
+		},
+		{
+			"artist": "white lies",
+			"title": "farewell to the fairground"
+		},
+		{
+			"artist": "white lies",
+			"title": "big tv"
+		},
+		{
+			"artist": "i - m -r",
+			"title": "poisoned eyes"
+		},
+		{
+			"artist": "in my rosary",
+			"title": "believe/because"
+		},
+		{
+			"artist": "in my rosary",
+			"title": "satin sheets"
+		},
+		{
+			"artist": "in my rosary",
+			"title": "the rose of the world"
+		},
+		{
+			"artist": "front line assembly",
+			"title": "killing grounds"
+		},
+		{
+			"artist": "the devil & the universe",
+			"title": "nod"
+		},
+		{
+			"artist": "the devil & the universe",
+			"title": "iblis"
+		},
+		{
+			"artist": "the devil & the universe",
+			"title": "it is our will"
+		},
+		{
+			"artist": "ulterior",
+			"title": "the locus of control"
+		},
+		{
+			"artist": "ulterior",
+			"title": "catherine"
+		},
+		{
+			"artist": "the soft moon",
+			"title": "it ends"
+		},
+		{
+			"artist": "the soft moon",
+			"title": "breathe the fire"
+		},
+		{
+			"artist": "the soft moon",
+			"title": "tiny spiders"
+		},
+		{
+			"artist": "the soft moon",
+			"title": "alive"
+		},
+		{
+			"artist": "slowdive",
+			"title": "souvlaki space station"
+		},
+		{
+			"artist": "slowdive",
+			"title": "alison"
+		},
+		{
+			"artist": "the foreign resort",
+			"title": "dave"
+		},
+		{
+			"artist": "peter murphy",
+			"title": "eliza"
+		},
+		{
+			"artist": "all hallows eve",
+			"title": "all hallows eve [pk]"
+		},
+		{
+			"artist": "eyescream",
+			"title": "succubus"
+		},
+		{
+			"artist": "eyescream",
+			"title": "1r"
+		},
+		{
+			"artist": "eyescream",
+			"title": "clockwork elephant"
+		},
+		{
+			"artist": "numb",
+			"title": "suspiria"
+		},
+		{
+			"artist": "alkaline trio",
+			"title": "lucretia my reflection (som)"
+		},
+		{
+			"artist": "babylon will fall",
+			"title": "dominion/mother russia (som)"
+		},
+		{
+			"artist": "the sisters of mercy",
+			"title": "alice"
+		},
+		{
+			"artist": "shroud",
+			"title": "alice (som)"
+		},
+		{
+			"artist": "soul in isolation",
+			"title": "marian (som)"
+		}
+	]
+}

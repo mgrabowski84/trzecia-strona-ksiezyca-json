@@ -1,1 +1,167 @@
-{"title":"Styczeń 2016","filename":"styczen-2016","date":"2016-01","songs":[{"artist":"diary of dreams","title":"bladerunner 2001"},{"artist":"david bowie","title":"space oddity"},{"artist":"hearts of black science","title":"falling away [pk]"},{"artist":"white lies","title":"heaven wait"},{"artist":"vic anselmo","title":"say you"},{"artist":"postscriptum","title":"paradise lost"},{"artist":"muricidae","title":"away"},{"artist":"nicole sabouné","title":"lifetime"},{"artist":"decades","title":"move me"},{"artist":"killing joke","title":"euphoria"},{"artist":"new canyons","title":"everyone is dark (pk 2015 iii)"},{"artist":"midge ure","title":"are we connected (pk 2015 ii)"},{"artist":"the soft moon","title":"wasting (pieśń księżycowa 2015)"},{"artist":"dave gahan","title":"saw something"},{"artist":"clan of xymox","title":"morning glow"},{"artist":"the beauty of gemina","title":"obscure"},{"artist":"the eden house","title":"city of goodbyes"},{"artist":"hearts of black science","title":"falling away [pk]"},{"artist":"undertheskin","title":"fade"},{"artist":"undertheskin","title":"wrong"},{"artist":"undertheskin","title":"trrain"},{"artist":"hante. feat. box von düe","title":"burning"},{"artist":"hante.","title":"infinite particles of us"},{"artist":"sans parade","title":"letter fragments found on the halinen bridge"},{"artist":"conjure one feat. kristy thirsk","title":"ghost"},{"artist":"conjure one feat. jeza","title":"brave for me"},{"artist":"subheim","title":"arktos"},{"artist":"her blood in my veins","title":"they said we once were, but we are no longer"},{"artist":"her blood in my veins","title":"disassemble"},{"artist":"haujobb","title":"input error"},{"artist":"dead when i found her","title":"expiring time"},{"artist":"dead when i found her","title":"at rest"},{"artist":"dawid bowie","title":"heroes"},{"artist":"the mission","title":"after all"},{"artist":"gene loves jezebel","title":"all the young dudes"},{"artist":"bauhaus","title":"ziggy stardust"},{"artist":"love like blood","title":"heroes"},{"artist":"icehouse","title":"heroes"},{"artist":"dreadful shadows","title":"outside"},{"artist":"wayne hussey","title":"ashes to ashes"}]}
+{
+	"title": "Styczeń 2016",
+	"filename": "styczen-2016",
+	"date": "2016-01",
+	"songs": [
+		{
+			"artist": "diary of dreams",
+			"title": "bladerunner 2001"
+		},
+		{
+			"artist": "david bowie",
+			"title": "space oddity"
+		},
+		{
+			"artist": "hearts of black science",
+			"title": "falling away [pk]"
+		},
+		{
+			"artist": "white lies",
+			"title": "heaven wait"
+		},
+		{
+			"artist": "vic anselmo",
+			"title": "say you"
+		},
+		{
+			"artist": "postscriptum",
+			"title": "paradise lost"
+		},
+		{
+			"artist": "muricidae",
+			"title": "away"
+		},
+		{
+			"artist": "nicole sabouné",
+			"title": "lifetime"
+		},
+		{
+			"artist": "decades",
+			"title": "move me"
+		},
+		{
+			"artist": "killing joke",
+			"title": "euphoria"
+		},
+		{
+			"artist": "new canyons",
+			"title": "everyone is dark (pk 2015 iii)"
+		},
+		{
+			"artist": "midge ure",
+			"title": "are we connected (pk 2015 ii)"
+		},
+		{
+			"artist": "the soft moon",
+			"title": "wasting (pieśń księżycowa 2015)"
+		},
+		{
+			"artist": "dave gahan",
+			"title": "saw something"
+		},
+		{
+			"artist": "clan of xymox",
+			"title": "morning glow"
+		},
+		{
+			"artist": "the beauty of gemina",
+			"title": "obscure"
+		},
+		{
+			"artist": "the eden house",
+			"title": "city of goodbyes"
+		},
+		{
+			"artist": "hearts of black science",
+			"title": "falling away [pk]"
+		},
+		{
+			"artist": "undertheskin",
+			"title": "fade"
+		},
+		{
+			"artist": "undertheskin",
+			"title": "wrong"
+		},
+		{
+			"artist": "undertheskin",
+			"title": "trrain"
+		},
+		{
+			"artist": "hante. feat. box von düe",
+			"title": "burning"
+		},
+		{
+			"artist": "hante.",
+			"title": "infinite particles of us"
+		},
+		{
+			"artist": "sans parade",
+			"title": "letter fragments found on the halinen bridge"
+		},
+		{
+			"artist": "conjure one feat. kristy thirsk",
+			"title": "ghost"
+		},
+		{
+			"artist": "conjure one feat. jeza",
+			"title": "brave for me"
+		},
+		{
+			"artist": "subheim",
+			"title": "arktos"
+		},
+		{
+			"artist": "her blood in my veins",
+			"title": "they said we once were, but we are no longer"
+		},
+		{
+			"artist": "her blood in my veins",
+			"title": "disassemble"
+		},
+		{
+			"artist": "haujobb",
+			"title": "input error"
+		},
+		{
+			"artist": "dead when i found her",
+			"title": "expiring time"
+		},
+		{
+			"artist": "dead when i found her",
+			"title": "at rest"
+		},
+		{
+			"artist": "dawid bowie",
+			"title": "heroes"
+		},
+		{
+			"artist": "the mission",
+			"title": "after all"
+		},
+		{
+			"artist": "gene loves jezebel",
+			"title": "all the young dudes"
+		},
+		{
+			"artist": "bauhaus",
+			"title": "ziggy stardust"
+		},
+		{
+			"artist": "love like blood",
+			"title": "heroes"
+		},
+		{
+			"artist": "icehouse",
+			"title": "heroes"
+		},
+		{
+			"artist": "dreadful shadows",
+			"title": "outside"
+		},
+		{
+			"artist": "wayne hussey",
+			"title": "ashes to ashes"
+		}
+	]
+}
