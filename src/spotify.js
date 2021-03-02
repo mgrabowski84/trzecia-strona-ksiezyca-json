@@ -55,7 +55,7 @@ const getAllPlaylistTracks = async (playlistId, offset = 0, limit = 100) => {
   const songs = files.reduce((previous, file) => {
     const data = fs.readFileSync(file, 'utf8')
     const songs = JSON.parse(data)
-    return [...previous, ...songs.map(song => `artist:${song.artist} track:${song.title}`.replace("'", '').replace('pt', ' ').replace('part', ' '))]
+    return [...previous, ...songs.map(song => `artist:${song.artist} track:${song.title}`.replace("'", ''))]
   }, [])
 
   for (const search of songs) {
@@ -67,9 +67,9 @@ const getAllPlaylistTracks = async (playlistId, offset = 0, limit = 100) => {
     }
     if (!existingIds.includes(song.id)) {
       await spotifyApi.addTracksToPlaylist(process.env.PLAYLIST_ID, [`spotify:track:${song.id}`])
-      console.log(`Search "${search}" found "${song.name}" - added!`)
+      // console.log(`Search "${search}" found "${song.name}" - added!`)
     } else {
-      console.log(`Search "${search}" found "${song.name}" - already exists!`)
+      // console.log(`Search "${search}" found "${song.name}" - already exists!`)
     }
   }
 })()
