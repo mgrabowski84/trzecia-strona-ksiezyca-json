@@ -1,0 +1,18 @@
+{
+  "name": "trzecia-strona-ksiezyca-json",
+  "version": "1.0.0",
+  "description": "Repozytorium zawiera wszystkie playlisty z audycji \"Trzecia Strona Księżyca\" nadawanej w Programie 3 Polskiego Radia.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgrabowski84/trzecia-strona-ksiezyca-json.git"
+  },
+  "author": "mgrabowski84",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgrabowski84/trzecia-strona-ksiezyca-json/issues"
+  },
+  "homepage": "https://github.com/mgrabowski84/trzecia-strona-ksiezyca-json#readme",
+  "dependencies": {
+    "spotify-web-api-node": "^5.0.2"
+  }
+}
