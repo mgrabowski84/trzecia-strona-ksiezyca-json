@@ -13,6 +13,16 @@
   },
   "homepage": "https://github.com/mgrabowski84/trzecia-strona-ksiezyca-json#readme",
   "dependencies": {
-    "spotify-web-api-node": "^5.0.2"
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1",
+    "spotify-web-api-node": "^5.0.2",
+    "url-parse": "^1.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.3.1"
   }
 }
