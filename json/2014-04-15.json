@@ -17,7 +17,7 @@
     },
     {
         "artist": "syntax",
-        "title": "message [pk]"
+        "title": "message"
     },
     {
         "artist": "laibach",
@@ -64,16 +64,16 @@
         "title": "romance (prokofiev)"
     },
     {
-        "artist": "all my faith lost russia",
-        "title": "(black tape for a blue girl)"
+        "artist": "russia",
+        "title": "all my faith lost"
     },
     {
         "artist": "sting",
-        "title": "russians (romance / sergei prokofiev)"
+        "title": "russians"
     },
     {
         "artist": "syntax",
-        "title": "message [pk]"
+        "title": "message"
     },
     {
         "artist": "the new division",
@@ -129,7 +129,7 @@
     },
     {
         "artist": "syntax",
-        "title": "message [pk]"
+        "title": "message"
     },
     {
         "artist": "wire fences",
@@ -176,11 +176,11 @@
         "title": "hardwar"
     },
     {
-        "artist": "the sisters of mercy",
+        "artist": "sisters of mercy",
         "title": "walk away"
     },
     {
-        "artist": "the sisters of mercy",
+        "artist": "sisters of mercy",
         "title": "some kind of stranger"
     }
 ]

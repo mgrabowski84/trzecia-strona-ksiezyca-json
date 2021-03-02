@@ -1,7 +1,7 @@
 [
     {
         "artist": "vangelis",
-        "title": "main titles (bladerunner)"
+        "title": "main titles"
     },
     {
         "artist": "zoar",
@@ -9,7 +9,7 @@
     },
     {
         "artist": "claire voyant",
-        "title": "broadcast (pk)"
+        "title": "broadcast"
     },
     {
         "artist": "dead can dance",
@@ -41,7 +41,7 @@
     },
     {
         "artist": "claire voyant",
-        "title": "broadcast (pk)"
+        "title": "broadcast"
     },
     {
         "artist": "lisa gerrard",
@@ -81,7 +81,7 @@
     },
     {
         "artist": "claire voyant",
-        "title": "broadcast (pk)"
+        "title": "broadcast"
     },
     {
         "artist": "zoar",
@@ -129,7 +129,7 @@
     },
     {
         "artist": "claire voyant",
-        "title": "broadcast (pk)"
+        "title": "broadcast"
     },
     {
         "artist": "amygdala",
@@ -137,7 +137,7 @@
     },
     {
         "artist": "order of the dying knights",
-        "title": "labyrinth\nof prayers"
+        "title": "labyrinth of prayers"
     },
     {
         "artist": "vespertina",
@@ -149,6 +149,6 @@
     },
     {
         "artist": "ultravox",
-        "title": "vienna (orchestral version"
+        "title": "vienna"
     }
 ]
